@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, PAWNEE, LARNED, 915 TOPEKA</description><Point><coordinates>-99.097033, 38.182850</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, PAWNEE, LARNED, 511 MAIN N 3</description><Point><coordinates>-99.104334, 38.176345</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/24/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, PAWNEE, LARNED, 711 1ST STREET E</description><Point><coordinates>-99.089749, 38.174380</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/27/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, PAWNEE, LARNED, 201 JOHNSON ST</description><Point><coordinates>-99.094319, 38.175601</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/11/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, PAWNEE, LARNED, 105 STATE STREET</description><Point><coordinates>-99.103944, 38.174494</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/2/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, PAWNEE, LARNED, 823 JOHNSON STREET</description><Point><coordinates>-99.094354, 38.182357</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/21/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, PAWNEE, LARNED, 1728  110TH AVENUE</description><Point><coordinates>-99.087559, 38.261345</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/30/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, PAWNEE, ROZEL, 202 NORTH SMITH STREET</description><Point><coordinates>-99.401957, 38.195361</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/18/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, POLK, ARAGON, 2 ARAGON ROAD</description><Point><coordinates>-85.058387, 34.045433</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/2/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, POLK, CEDARTOWN, 1319  MCKIBBEN STREET 13</description><Point><coordinates>-85.251076, 33.996067</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/14/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, POLK, CEDARTOWN, 2802  CAVE SPRING ROAD</description><Point><coordinates>-85.289819, 34.053698</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/17/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, POLK, CEDARTOWN, 230  PARK STREET</description><Point><coordinates>-85.249530, 34.012297</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/26/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, POLK, CEDARTOWN, 526  SUBSTATION ROAD</description><Point><coordinates>-85.189111, 34.024771</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, POLK, ROCKMART, 187 BLUE HOLE RD</description><Point><coordinates>-85.047130, 33.987743</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/12/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, POLK, ROCKMART, 1866 OLD COLLARD VALLEY ROAD</description><Point><coordinates>-85.127555, 34.047170</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

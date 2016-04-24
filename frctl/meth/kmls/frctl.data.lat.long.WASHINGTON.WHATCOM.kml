@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, WHATCOM, BELLINGHAM, 7 LOST FORK LN</description><Point><coordinates>-122.345110, 48.722186</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/1/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, WHATCOM, BELLINGHAM, 1101 ALABAMA ST</description><Point><coordinates>-122.460269, 48.763243</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/23/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, WHATCOM, BELLINGHAM, 2808 PLYMOUTH DR</description><Point><coordinates>-122.477878, 48.768936</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/17/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, WHATCOM, BELLINGHAM, 8968 PORTAL</description><Point><coordinates>-122.424123, 48.748118</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/13/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, WHATCOM, BLAINE, 8233 CEDAR AVE</description><Point><coordinates>-122.759533, 48.941075</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, WHATCOM, BLAINE, 1319 E NORTH ST</description><Point><coordinates>-122.731916, 48.997048</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, WHATCOM, BLAINE, 388 CHERRY ST</description><Point><coordinates>-122.748391, 48.989814</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, WHATCOM, BLAINE, 8870 BLAINE RD 80</description><Point><coordinates>-122.727573, 48.963676</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/23/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, WHATCOM, BLAINE, 1640 PEACE PORTAL AVE 18</description><Point><coordinates>-122.739986, 48.983485</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/3/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, WHATCOM, BLAINE, 4284 SWEET ROAD</description><Point><coordinates>-122.713285, 48.979735</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, WHATCOM, CUSTER, 3029 BIRCHBAY LYNDEN RD</description><Point><coordinates>-122.644628, 48.933584</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/13/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, WHATCOM, CUSTER, 7996 VALLEY VIEW RD</description><Point><coordinates>-122.659168, 48.931905</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, WHATCOM, FERNDALE, 6170 PORTAL WAY</description><Point><coordinates>-122.583051, 48.865194</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/5/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, WHATCOM, MAPLE FALLS, 6365 DARDU ROAD</description><Point><coordinates>-122.141056, 48.924700</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/12/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, WHATCOM, MAPLE FALLS, 6364 DARDU ROAD</description><Point><coordinates>-122.141367, 48.925228</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, WHATCOM, , 2008 LOPEZ E CT</description><Point><coordinates>-122.448459, 48.738237</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

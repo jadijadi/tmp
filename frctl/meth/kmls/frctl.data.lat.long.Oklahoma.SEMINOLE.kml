@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/18/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, SEMINOLE, EARLSBORO, 12310 NORTH 152ND AVENUE</description><Point><coordinates>-96.670573, 35.224520</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/23/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, SEMINOLE, KONAWA, 12310  N 152ND E AVE</description><Point><coordinates>-96.752796, 34.959526</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/26/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, SEMINOLE, KONAWA, 19024 TRACY E RD</description><Point><coordinates>-96.752796, 34.959526</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/8/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, SEMINOLE, SASAKWA, 18644 95TH E</description><Point><coordinates>-96.525289, 34.948695</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/20/2000</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, SEMINOLE, SEMINOLE, 3045 ALLEN POINT   20</description><Point><coordinates>-96.670573, 35.224520</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

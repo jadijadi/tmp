@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/20/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: LUISIANA, OUACHITA, CALHOUN, 459 ASHLEY GRIGGS RD</description><Point><coordinates>-92.401936, 32.491290</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/27/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: LUISIANA, OUACHITA, CALHOUN, 161  COWBOY LANE 57</description><Point><coordinates>-92.325293, 32.519232</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: LUISIANA, OUACHITA, MONROE, 1805 ST. JOSEPH'S PL</description><Point><coordinates>-92.081227, 32.541063</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: LUISIANA, OUACHITA, MONROE, 214 SONNY RD</description><Point><coordinates>-92.021961, 32.421097</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: LUISIANA, OUACHITA, MONROE, 525 CANAAN RD</description><Point><coordinates>-92.080379, 32.407511</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/8/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: LUISIANA, OUACHITA, MONROE, 214 SUNNY RD</description><Point><coordinates>-92.021961, 32.421097</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/27/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: LUISIANA, OUACHITA, MONROE, 188 SMITH RD</description><Point><coordinates>-92.083261, 32.579048</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/8/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: LUISIANA, OUACHITA, MONROE, 3208 139 HWY</description><Point><coordinates>-91.962372, 32.598038</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/5/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: LUISIANA, OUACHITA, MONROE, 309  JACKSON STREET</description><Point><coordinates>-92.113586, 32.499967</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/20/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: LUISIANA, OUACHITA, MONROE, 141  JENNIFER LANE 24</description><Point><coordinates>-92.056925, 32.561980</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/20/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: LUISIANA, OUACHITA, MONROE, 805  LAKESIDE DRIVE</description><Point><coordinates>-92.017418, 32.561555</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/31/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: LUISIANA, OUACHITA, MONROE, 115  SEVILLE CIRCLE</description><Point><coordinates>-91.989777, 32.548491</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/28/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: LUISIANA, OUACHITA, MONROE, 2560  STUBBS RITCHIE ROAD</description><Point><coordinates>-91.976276, 32.570805</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/5/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: LUISIANA, OUACHITA, MONROE, 1389  HWY 139  224</description><Point><coordinates>-92.003410, 32.566937</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/6/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: LUISIANA, OUACHITA, MONROE, 1606  PRARIE ROAD</description><Point><coordinates>-92.052086, 32.411821</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/1/2016</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: LUISIANA, OUACHITA, RICHWOOD, 5221  Highland STREET</description><Point><coordinates>-92.081211, 32.442705</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: LUISIANA, OUACHITA, WEST MONROE, 709 CAPLES RD</description><Point><coordinates>-92.240373, 32.436161</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/27/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: LUISIANA, OUACHITA, WEST MONROE, 522 KING ST</description><Point><coordinates>-92.170559, 32.466089</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: LUISIANA, OUACHITA, WEST MONROE, 1024 CHENIERE DREW RD LOT 5</description><Point><coordinates>-92.244353, 32.543525</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: LUISIANA, OUACHITA, WEST MONROE, 709 CAPLES RD</description><Point><coordinates>-92.240373, 32.436161</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/4/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: LUISIANA, OUACHITA, WEST MONROE, 5534 WHITE'S FERRY RD LOT # 5</description><Point><coordinates>-92.159802, 32.565538</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/11/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: LUISIANA, OUACHITA, WEST MONROE, 2317 HIGHWAY 557</description><Point><coordinates>-92.198735, 32.370662</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/5/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: LUISIANA, OUACHITA, WEST MONROE, 505 PACE RD</description><Point><coordinates>-92.267934, 32.498894</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/12/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: LUISIANA, OUACHITA, WEST MONROE, 700 EVERGREEN</description><Point><coordinates>-92.167625, 32.479690</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/18/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: LUISIANA, OUACHITA, WEST MONROE, 101  RIDGE GROVE  4</description><Point><coordinates>-92.173788, 32.479416</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/1/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: LUISIANA, OUACHITA, WEST MONROE, 532  TEDETON ROAD</description><Point><coordinates>-92.360617, 32.577255</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/2/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: LUISIANA, OUACHITA, WEST MONROE, 105  RIDGE GROVE</description><Point><coordinates>-92.173880, 32.478950</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/29/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: LUISIANA, OUACHITA, WEST MONROE, 109  LYNETTE DRIVE</description><Point><coordinates>-92.179769, 32.473352</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/13/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: LUISIANA, OUACHITA, WEST MONROE, 113  SANDAL STREET</description><Point><coordinates>-92.159050, 32.473227</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/3/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: LUISIANA, OUACHITA, WEST MONROE, 1207  EVERGREEN STREET</description><Point><coordinates>-92.166805, 32.469613</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/5/2016</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: LUISIANA, OUACHITA, WEST MONROE, 405  N. 5th STREET</description><Point><coordinates>-92.130505, 32.499864</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

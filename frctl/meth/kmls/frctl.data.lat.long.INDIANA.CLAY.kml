@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 7/13/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, CLAY, BRAZIL, 601 CENTRAL W</description><Point><coordinates>-87.135168, 39.526123</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/19/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, CLAY, BRAZIL, 7940 CR 650 W N</description><Point><coordinates>-87.229888, 39.504965</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/16/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, CLAY, BRAZIL, 6578 WEST U.S. HWY 40</description><Point><coordinates>-86.134902, 40.267194</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/9/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, CLAY, BRAZIL, LOT 48 LAKE BRAZILIAN EST</description><Point><coordinates>-87.137283, 39.517003</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/19/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, CLAY, BRAZIL, 1002 NORTH MCGUIRE STREET</description><Point><coordinates>-87.139518, 39.529983</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, CLAY, CARBON, 10814 WEST ST</description><Point><coordinates>-87.169046, 39.609285</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/6/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, CLAY, CLAY CITY, 911 MAIN S ST</description><Point><coordinates>-87.112439, 39.274440</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/29/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, CLAY, CLAY CITY, 8703 SOUTH CR 50 W</description><Point><coordinates>-87.119120, 39.258933</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/9/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, CLAY, COALMONT, 13273 RAILROAD STREET</description><Point><coordinates>-87.229887, 39.196504</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/15/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, CLAY, COALMONT, 6422 EAST COULSON</description><Point><coordinates>-87.229431, 39.194533</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/23/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, CLAY, CORY, 3045 EAST COUNTY ROAD 300 S</description><Point><coordinates>-87.165373, 39.344084</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, CLAY, JASONVILLE, 4248 CR 1275 S. W</description><Point><coordinates>-87.191597, 39.204830</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

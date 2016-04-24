@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 12/20/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, RANDOLPH, LOSANTVILLE, 7523 NORTH 1100 WEST</description><Point><coordinates>-85.183200, 40.054878</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/3/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, RANDOLPH, SARATOGA, 307 MAIN E ST</description><Point><coordinates>-84.913781, 40.236916</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/19/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, RANDOLPH, UNION CITY, 1916 EAST CR 260 N</description><Point><coordinates>-84.809129, 40.201991</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/5/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, RANDOLPH, WINCHESTER, 2719 300 E S</description><Point><coordinates>-84.919490, 40.124787</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

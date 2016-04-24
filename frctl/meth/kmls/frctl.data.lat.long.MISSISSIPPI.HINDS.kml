@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/25/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, HINDS, BYRAM, 2061 SOUTH RIDGE ROAD</description><Point><coordinates>-90.302095, 32.174039</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/15/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, HINDS, BYRAM, 6895 SOUTH I-55 FREEWAY</description><Point><coordinates>-90.231931, 32.239296</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/25/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, HINDS, BYRAM, 1833  TURTLE ROAD</description><Point><coordinates>-90.293221, 32.175332</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/22/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, HINDS, BYRAM, 1839  TURTLE ROAD</description><Point><coordinates>-90.293443, 32.175278</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/13/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, HINDS, BYRAM, 117  RIVERBEND DRIVE</description><Point><coordinates>-90.247942, 32.194612</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/25/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, HINDS, BYRAM, 671  BOB WHITE STREET</description><Point><coordinates>-90.291749, 32.174640</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/7/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, HINDS, BYRAM, 281  TURTLE CREEK ROAD</description><Point><coordinates>-90.267811, 32.195308</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/27/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, HINDS, CLINTON, 345 WOODSTONE ROAD O-2</description><Point><coordinates>-90.322108, 32.331275</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/13/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, HINDS, JACKSON, 4940 RIDGEWOOD ROAD J10</description><Point><coordinates>-90.141810, 32.363026</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, HINDS, JACKSON, 229 SYKES ROAD</description><Point><coordinates>-90.230052, 32.249055</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/29/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, HINDS, JACKSON, 219 ONE PARK PLACE</description><Point><coordinates>-90.162938, 32.345178</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/13/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, HINDS, JACKSON, 3162 WOODSIDE DR</description><Point><coordinates>-90.245627, 32.258328</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/7/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, HINDS, JACKSON, 1156 MARBLE ST</description><Point><coordinates>-90.263228, 32.263288</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/3/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, HINDS, JACKSON, 2128 GERTRUDE DRIVE</description><Point><coordinates>-90.269635, 32.280326</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/22/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, HINDS, JACKSON, 4768 OLD LAKE ROAD</description><Point><coordinates>-90.246773, 32.218269</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/18/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, HINDS, JACKSON, 3042 FLEETWOOD DRIVE</description><Point><coordinates>-90.261473, 32.263098</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/23/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, HINDS, JACKSON, 3256 SUNCREST DRIVE</description><Point><coordinates>-90.260106, 32.256386</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/5/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, HINDS, JACKSON, 220 STOKES ROBERTSON DRIVE</description><Point><coordinates>-90.226184, 32.238555</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/29/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, HINDS, JACKSON, 1217 WINTERVIEW DRIVE</description><Point><coordinates>-90.135590, 32.387730</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/1/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, HINDS, JACKSON, 1908 CHRISTINE DRIVE</description><Point><coordinates>-90.295673, 32.184441</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/9/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, HINDS, JACKSON, 229  SYKES ROAD</description><Point><coordinates>-90.230052, 32.249055</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/3/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, HINDS, JACKSON, 247  MASON BOULEVARD</description><Point><coordinates>-90.223441, 32.246077</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/26/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, HINDS, JACKSON, 1145  DRUID HILL DRIVE</description><Point><coordinates>-90.156689, 32.351390</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/27/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, HINDS, JACKSON, 4753 SOUTH HIGHWAY DRIVE</description><Point><coordinates>-90.231931, 32.239296</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/30/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, HINDS, JACKSON, 2655 SOUTH   UNIT 127</description><Point><coordinates>-90.252796, 32.319837</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/1/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, HINDS, JACKSON, 830  FLAG CHAPEL ROAD</description><Point><coordinates>-90.265585, 32.354149</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/9/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, HINDS, JACKSON, 1217  WINTERVIEW DRIVE</description><Point><coordinates>-90.135590, 32.387730</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/13/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, HINDS, JACKSON, 140  ELTON ROAD</description><Point><coordinates>-90.237225, 32.223482</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/25/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, HINDS, JACKSON, 1775  GALLATIN STREET</description><Point><coordinates>-90.193069, 32.279667</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/23/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, HINDS, JACKSON, 130  RICHARDSON STREET</description><Point><coordinates>-90.253912, 32.353758</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/3/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, HINDS, JACKSON, 145  SWAN LAKE DRIVE</description><Point><coordinates>-90.248848, 32.228132</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/1/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, HINDS, JACKSON, 834  FLAG CHAPEL ROAD</description><Point><coordinates>-90.264691, 32.355055</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/5/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, HINDS, JACKSON, 836 NORTH FLAG CHAPEL ROAD</description><Point><coordinates>-90.265585, 32.354239</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/2/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, HINDS, LAKE RIDGELEA, 2215 WEST RIDGE</description><Point><coordinates>-89.398528, 32.354668</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/5/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, HINDS, RAYMOND, 820  MENDY DRIVE</description><Point><coordinates>-90.379576, 32.256999</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/20/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, HINDS, RAYMOND, 123  CEDAR RIDGE DRIVE</description><Point><coordinates>-90.441949, 32.223319</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, HINDS, TERRY, 1900 GEORGE ROAD</description><Point><coordinates>-90.327699, 32.202915</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/10/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, HINDS, TERRY, 128 DENISE DR</description><Point><coordinates>-90.289083, 32.100286</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/27/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, HINDS, TERRY, 3168 MONCURE RD</description><Point><coordinates>-90.250527, 32.051903</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/6/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, HINDS, TERRY, 634 NORTH UTICA STREET</description><Point><coordinates>-90.286794, 32.102654</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/3/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, HINDS, TERRY, 4000  MONCURE MARBLE ROAD</description><Point><coordinates>-90.283205, 32.066367</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/25/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, HINDS, UTICA, 2610  CLUBHOUSE ROAD</description><Point><coordinates>-90.544747, 32.111371</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

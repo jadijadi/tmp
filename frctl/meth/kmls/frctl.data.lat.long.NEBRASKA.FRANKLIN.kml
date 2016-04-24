@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/1/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEBRASKA, FRANKLIN, CAMPBELL, 313 TAYLOR STREET</description><Point><coordinates>-98.730550, 40.294126</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/29/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEBRASKA, FRANKLIN, RIVERTON, 153 GOLD ST</description><Point><coordinates>-98.759000, 40.091846</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

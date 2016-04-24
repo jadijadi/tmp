@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, JACKSON, JEFFERSON, 287 MAHAFFEY ST</description><Point><coordinates>-83.579778, 34.118167</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/23/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, JACKSON, NICHOLSON, 1096 ED BENNETT RD</description><Point><coordinates>-83.408141, 34.068347</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

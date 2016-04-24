@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 12/6/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, DAVIDSON, DENTON, 3055 FLAT SWAMP ROAD</description><Point><coordinates>-80.164556, 35.641111</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/14/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, DAVIDSON, DENTON, 301 LOOKABILL ROAD</description><Point><coordinates>-80.156292, 35.568017</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/8/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, DAVIDSON, DENTON, 587 FARMER ROAD</description><Point><coordinates>-80.098403, 35.637338</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/10/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, DAVIDSON, DENTON, 964  LOOKABILL ROAD</description><Point><coordinates>-80.166240, 35.566103</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/4/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, DAVIDSON, DENTON, 314  VANHOY DRIVE</description><Point><coordinates>-80.145799, 35.652340</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/24/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, DAVIDSON, DENTON, 150  FINCH AVENUE BOX A</description><Point><coordinates>-80.115598, 35.629469</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/23/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, DAVIDSON, LEXINGTON, 126 J NETTIE DR</description><Point><coordinates>-80.099884, 35.746321</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, DAVIDSON, LEXINGTON, 256 WEAVER RD</description><Point><coordinates>-80.268146, 35.905892</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/13/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, DAVIDSON, LEXINGTON, 38 ROBBINS CIR</description><Point><coordinates>-80.266701, 35.816696</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, DAVIDSON, LEXINGTON, 667 LANDS END RD</description><Point><coordinates>-80.342815, 35.828423</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/8/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, DAVIDSON, LEXINGTON, 14 ROGERS RD</description><Point><coordinates>-80.258034, 35.768686</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/12/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, DAVIDSON, LEXINGTON, 1025 SMITH FARM ROAD</description><Point><coordinates>-80.146440, 35.807548</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/12/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, DAVIDSON, LEXINGTON, 255 JERUSALEM RD</description><Point><coordinates>-80.203069, 35.734001</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/24/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, DAVIDSON, LEXINGTON, 253 EDGEWOOD DR</description><Point><coordinates>-80.231979, 35.826726</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/24/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, DAVIDSON, LEXINGTON, 270 EDGEWOOD DR</description><Point><coordinates>-80.231302, 35.827236</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/11/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, DAVIDSON, LEXINGTON, 155 COUNTRY WOODS ROAD LOT #3</description><Point><coordinates>-80.206713, 35.842066</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/18/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, DAVIDSON, LEXINGTON, 3269 OLD 109 HIGHWAY</description><Point><coordinates>-80.106820, 35.720693</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/7/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, DAVIDSON, LEXINGTON, 104  HICKORY STREET</description><Point><coordinates>-80.265748, 35.807018</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/16/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, DAVIDSON, LEXINGTON, 1158  OWEN ROAD</description><Point><coordinates>-80.267418, 35.655242</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/25/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, DAVIDSON, LEXINGTON, 197  GALLIMORE ROAD</description><Point><coordinates>-80.090508, 35.730005</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/24/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, DAVIDSON, LEXINGTON, 1229  SUNNYSIDE DRIVE</description><Point><coordinates>-80.230671, 35.818455</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/10/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, DAVIDSON, LEXINGTON, 102  TRALI LANE BOX B</description><Point><coordinates>-80.253384, 35.824027</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/30/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, DAVIDSON, LEXINGTON, 106  FOWLER AVENUE</description><Point><coordinates>-80.272675, 35.810780</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/7/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, DAVIDSON, THOMASVILLE, 216 LAKEVIEW E DR</description><Point><coordinates>-80.051663, 35.903707</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/31/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, DAVIDSON, THOMASVILLE, 1348 LIGHT ROAD</description><Point><coordinates>-80.109575, 35.806791</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/6/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, DAVIDSON, THOMASVILLE, 539 CARTER ROAD</description><Point><coordinates>-80.131860, 35.816711</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/8/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, DAVIDSON, THOMASVILLE, 1109 HARVEST DRIVE</description><Point><coordinates>-80.086324, 35.835372</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/20/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, DAVIDSON, THOMASVILLE, 203  SPRING STREET</description><Point><coordinates>-80.085848, 35.879632</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/1/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, DAVIDSON, THOMASVILLE, 1116  LACY HEPLER ROAD 24</description><Point><coordinates>-80.101673, 35.786424</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

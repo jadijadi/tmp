@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/21/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, MONTGOMERY, CHERRYVALE, 889 SOUTH LIBERTY STREET</description><Point><coordinates>-95.555516, 37.263587</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, MONTGOMERY, COFFEYVILLE, 106 WARWICK</description><Point><coordinates>-95.653975, 37.043283</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, MONTGOMERY, COFFEYVILLE, 1316 STARK</description><Point><coordinates>-95.637701, 37.054421</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/10/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, MONTGOMERY, COFFEYVILLE, 2207 4TH W ST</description><Point><coordinates>-95.651548, 37.040562</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/25/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, MONTGOMERY, COFFEYVILLE, 3736  COUNTY ROAD 1675  A</description><Point><coordinates>-95.720877, 37.032662</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/18/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, MONTGOMERY, COFFEYVILLE, 206 WEST 2ND STREET</description><Point><coordinates>-95.617396, 37.042373</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/15/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, MONTGOMERY, COFFEYVILLE, 1413  1ST</description><Point><coordinates>-95.639745, 37.043504</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/15/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, MONTGOMERY, COFFEYVILLE, 1413  1ST</description><Point><coordinates>-95.639745, 37.043504</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/17/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, MONTGOMERY, COFFEYVILLE, 303 WEST 15TH STREET</description><Point><coordinates>-95.619465, 37.027260</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/25/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, MONTGOMERY, COFFEYVILLE, 505  WILLOW</description><Point><coordinates>-95.620582, 37.038982</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/1/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, MONTGOMERY, COFFEYVILLE, 2420  COUNTY ROAD 5400</description><Point><coordinates>-95.656451, 37.297525</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/10/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, MONTGOMERY, DEARING, 208  HILL STREET</description><Point><coordinates>-95.707991, 37.057387</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, MONTGOMERY, INDEPENDENCE, 317 10TH N ST</description><Point><coordinates>-95.711067, 37.226267</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/29/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, MONTGOMERY, INDEPENDENCE, CO. RD 4200</description><Point><coordinates>-95.708313, 37.224236</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/23/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, MONTGOMERY, INDEPENDENCE, 404 SOUTH 10TH</description><Point><coordinates>-95.710826, 37.219780</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/11/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, MONTGOMERY, INDEPENDENCE, 1039 NORTH 13TH STREET</description><Point><coordinates>-95.715295, 37.234288</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/14/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, MONTGOMERY, INDEPENDENCE, 2521 SOUTH BROOKSIDE DRIVE</description><Point><coordinates>-95.723185, 37.196269</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/15/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, MONTGOMERY, INDEPENDENCE, 1017 EAST WALNUT STREET</description><Point><coordinates>-95.693321, 37.219657</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/19/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, MONTGOMERY, INDEPENDENCE, 716 NORTH 16</description><Point><coordinates>-95.718436, 37.230221</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/20/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, MONTGOMERY, LIBERTY, 7172 KY & HWY 40 N</description><Point><coordinates>-95.594701, 37.155628</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/28/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, MONTGOMERY, TYRO, 303  FIRST STREET</description><Point><coordinates>-95.818526, 37.038255</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

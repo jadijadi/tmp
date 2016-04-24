@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, CUMBERLAND, GREENUP, 1073 ILLINOIS ROUTE 130 N</description><Point><coordinates>-88.135300, 39.328162</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/29/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, CUMBERLAND, GREENUP, 1540 IL. STATE HWY 121</description><Point><coordinates>-88.186851, 39.256776</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/25/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, CUMBERLAND, JEWETT, 1101 CUMBERLAND ST</description><Point><coordinates>-88.245453, 39.207857</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, CUMBERLAND, TOLEDO, 304 OHIO S</description><Point><coordinates>-88.241981, 39.270507</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, CUMBERLAND, TOLEDO, 766 500 E</description><Point><coordinates>-88.378254, 39.283960</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/3/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, CUMBERLAND, TOLEDO, 209A EAST WASHINGTON STREET</description><Point><coordinates>-88.243154, 39.373928</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/9/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, CUMBERLAND, TOLEDO, 760 NORTH COUNTY ROAD 500 E</description><Point><coordinates>-88.378246, 39.282211</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/20/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, CUMBERLAND, TOLEDO, 764 EAST COUNTY ROAD 500 ROAD</description><Point><coordinates>-88.378255, 39.283584</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

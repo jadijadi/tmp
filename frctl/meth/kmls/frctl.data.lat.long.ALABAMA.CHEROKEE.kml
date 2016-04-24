@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/8/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, CHEROKEE, CEDAR BLUFF, 215 CO RD 610</description><Point><coordinates>-85.514914, 34.217990</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/11/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, CHEROKEE, CEDAR BLUFF, 3925 BOUNDARY AVENUE</description><Point><coordinates>-85.599401, 34.225160</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/13/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, CHEROKEE, CEDAR BLUFF, 610  COUNTY 104 ROAD</description><Point><coordinates>-85.652054, 34.255506</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, CHEROKEE, CENTRE, 412 RIVER S</description><Point><coordinates>-85.680469, 34.149112</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, CHEROKEE, CENTRE, 303 WILLIAMS ST</description><Point><coordinates>-85.656612, 34.149420</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/8/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, CHEROKEE, CENTRE, 107 AUBURN ST</description><Point><coordinates>-85.694911, 34.156019</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/24/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, CHEROKEE, CENTRE, 327 RAY STREET</description><Point><coordinates>-85.671590, 34.162400</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/11/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, CHEROKEE, CENTRE, 1017 1ST AVENUE</description><Point><coordinates>-85.692312, 34.154295</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/15/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, CHEROKEE, CENTRE, 130 COUNTY ROAD 557</description><Point><coordinates>-85.587886, 34.142215</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/6/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, CHEROKEE, CENTRE, 2010 CO RD 65</description><Point><coordinates>-85.651067, 34.174460</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/26/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, CHEROKEE, CENTRE, 14495 CO RD 22</description><Point><coordinates>-85.481664, 34.165699</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/17/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, CHEROKEE, CENTRE, 450 CO RD 470</description><Point><coordinates>-85.561644, 34.146953</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/10/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, CHEROKEE, COLLINSVILLE, 441 US HWY 68 B</description><Point><coordinates>-85.865399, 34.258513</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/1/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, CHEROKEE, GAYLESVILLE, 400 COUNTY ROAD 114</description><Point><coordinates>-85.623255, 34.318610</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/30/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, CHEROKEE, GAYLESVILLE, 265 C/R 563</description><Point><coordinates>-85.586756, 34.304264</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/19/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, CHEROKEE, GAYLESVILLE, 2603 CO RD 41</description><Point><coordinates>-85.593868, 34.301862</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/11/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, CHEROKEE, LEESBURG, 2135 COUNTY ROAD 166</description><Point><coordinates>-85.744274, 34.225201</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/7/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, CHEROKEE, LEESBURG, 145 CO RD 452</description><Point><coordinates>-85.813774, 34.154131</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/9/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, CHEROKEE, LEESBURG, 145 CO RD 594</description><Point><coordinates>-85.716533, 34.221412</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/18/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, CHEROKEE, LEESBURG, 775 C.R. 17</description><Point><coordinates>-85.792557, 34.220461</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/6/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, CHEROKEE, LEESBURG, 400  COUNTY ROAD 915</description><Point><coordinates>-85.710568, 34.208974</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/28/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, CHEROKEE, LEESBURG, 140  AGAN CIRCLE</description><Point><coordinates>-85.758198, 34.196343</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/4/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, CHEROKEE, PIEDMONT, 77 C/R 27</description><Point><coordinates>-85.553241, 33.972786</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/11/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, CHEROKEE, PIEDMONT, 2060  COUNTY ROAD 111</description><Point><coordinates>-85.520813, 33.982924</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/1/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, CHEROKEE, PIEDMONT, 1331  COUNTY ROAD 19</description><Point><coordinates>-85.711878, 33.971151</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

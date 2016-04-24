@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/7/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, WARREN, BERWICK, 1298  150TH</description><Point><coordinates>-90.499601, 40.816253</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/1/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, WARREN, CAMERON, 412 CHURCH</description><Point><coordinates>-90.517893, 40.888109</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/2/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, WARREN, CAMERON, 1523 140TH AVENUE</description><Point><coordinates>-90.495282, 40.831159</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/5/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, WARREN, MONMOUTH, 30 MCEWEN CT</description><Point><coordinates>-90.633001, 40.902865</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/28/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, WARREN, MONMOUTH, 411 FIFTH S ST</description><Point><coordinates>-90.642244, 40.907945</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/20/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, WARREN, MONMOUTH, 11TH ST @ LANDFILL ROAD</description><Point><coordinates>-90.630888, 40.922735</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/7/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, WARREN, MONMOUTH, 523 SOUTH 10 TH</description><Point><coordinates>-90.633154, 40.906242</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/20/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, WARREN, MONMOUTH, 1420 NORTH MAIN</description><Point><coordinates>-90.649293, 40.931804</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/23/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, WARREN, MONMOUTH, 923 WEST 4 TH</description><Point><coordinates>-90.658743, 40.907736</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/1/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, WARREN, , 1553 WEST 150TH</description><Point><coordinates>-87.289479, 40.338012</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/26/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, WARREN, , 1687 WEST 255TH</description><Point><coordinates>-90.462122, 40.998417</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

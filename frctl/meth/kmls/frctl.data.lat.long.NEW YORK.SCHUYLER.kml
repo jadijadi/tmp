@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/23/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, SCHUYLER, CAYUTA, 6259 SWARTWOOD ROAD</description><Point><coordinates>-76.700696, 42.292225</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/21/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, SCHUYLER, DIX, 1741 GANO ROAD</description><Point><coordinates>-76.864759, 42.317882</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/18/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, SCHUYLER, DIX, 1334 ROLLISON HOLLOW ROAD</description><Point><coordinates>-76.895155, 42.324240</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/3/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, SCHUYLER, MONTOUR FALLS, 148  CLAWSON BOULEVARD</description><Point><coordinates>-76.844585, 42.348420</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/7/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, SCHUYLER, WATKINS GLEN, 117  SECOND STREET</description><Point><coordinates>-76.873214, 42.381990</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

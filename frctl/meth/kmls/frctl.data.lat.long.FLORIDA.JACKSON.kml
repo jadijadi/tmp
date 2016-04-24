@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/5/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, JACKSON, ALFORD, 2453 THIRD AVE</description><Point><coordinates>-85.395061, 30.693979</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/2/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, JACKSON, ALFORD, 828 MILL ROAD</description><Point><coordinates>-85.424473, 30.668619</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/24/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, JACKSON, COTTONDALE, 4247 WOODREST ROAD</description><Point><coordinates>-85.428884, 30.874382</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, JACKSON, GRAND RIDGE, 7028 HAMILTON RD</description><Point><coordinates>-85.008054, 30.759917</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/21/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, JACKSON, MARIANNA, 4363 KELSON AVE</description><Point><coordinates>-85.232190, 30.783048</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/11/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, JACKSON, MARIANNA, 973 71 S HWY A</description><Point><coordinates>-85.159292, 30.635213</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/15/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, JACKSON, MARIANNA, 3070 CARTERS MILL ROAD C-12</description><Point><coordinates>-85.242660, 30.788378</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/2/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, JACKSON, SNEADS, 7221 BUTLER ROAD</description><Point><coordinates>-84.990912, 30.804184</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/1/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, JACKSON, SNEADS, 4500 RIVER ROAD</description><Point><coordinates>-84.963216, 30.890331</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/8/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, JACKSON, SNEADS, 7812 LEATHERNECK TRAIL</description><Point><coordinates>-84.924366, 30.707692</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/25/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, JACKSON, SNEADS, 8252 SHADY GROVE ROAD</description><Point><coordinates>-84.940413, 30.666925</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CHEROKEE, ANDREWS, 133 JOE HOLLOWAY RD</description><Point><coordinates>-83.724344, 35.223894</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/9/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CHEROKEE, ANDREWS, 75  WATAUGA LANE</description><Point><coordinates>-83.839284, 35.192828</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/8/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CHEROKEE, BRASSTOWN, 277  MAPLE RIDGE ROAD</description><Point><coordinates>-83.991926, 35.015477</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/3/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CHEROKEE, MARBLE, 7502  HIGHWAY 141 HIGHWAY</description><Point><coordinates>-83.920014, 35.166742</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/25/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CHEROKEE, MURPHY, 2545 SHOAL CREEK RD</description><Point><coordinates>-84.269469, 35.061953</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/6/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CHEROKEE, MURPHY, 417 LANCE RD</description><Point><coordinates>-84.077793, 35.011159</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/13/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CHEROKEE, MURPHY, 35 CLUB HOUSE ROAD 103</description><Point><coordinates>-83.994742, 35.056777</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/1/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CHEROKEE, MURPHY, 2650  SHOAL CREEK ROAD</description><Point><coordinates>-84.267382, 35.064189</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/12/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CHEROKEE, MURPHY, 100  BLAIRSVILLE HIGHWAY</description><Point><coordinates>-84.100317, 35.031567</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/25/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CHEROKEE, MURPHY, 2725  HIWASSEE DAM ACCESS ROAD</description><Point><coordinates>-84.196381, 35.130157</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/2/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CHEROKEE, MURPHY, 54  WINDMILL LANE</description><Point><coordinates>-84.163584, 35.026020</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/10/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CHEROKEE, MURPHY, 158  SILVER LANE</description><Point><coordinates>-84.213519, 35.032646</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/17/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CHEROKEE, MURPHY, 154  DINKINS ROAD</description><Point><coordinates>-84.010704, 35.174170</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CHEROKEE, TOPTON, 132 JOE HALLOWAY RD</description><Point><coordinates>-83.725441, 35.222549</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CHEROKEE, TOPTON, 7 CAMPBELL TER</description><Point><coordinates>-83.705160, 35.247635</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/3/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CHEROKEE, TOPTON, 7  CAMPBELL TERRACE</description><Point><coordinates>-83.705160, 35.247635</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/11/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, POINSETT, HARRISBURG, 7831 HILL LN</description><Point><coordinates>-90.712870, 35.552893</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/17/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, POINSETT, HARRISBURG, 989 SHAVER LN</description><Point><coordinates>-90.646341, 35.462587</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/4/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, POINSETT, HARRISBURG, 19369 EUGENE ROAD</description><Point><coordinates>-76.859306, 40.265521</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/26/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, POINSETT, HARRISBURG, 7602 ROSE LN</description><Point><coordinates>-90.708940, 35.556571</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/5/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, POINSETT, HARRISBURG, 7602 ROSE LANE</description><Point><coordinates>-90.708940, 35.556571</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/28/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, POINSETT, HARRISBURG, 9830 CROMWELL CUT-OFF LN.</description><Point><coordinates>-90.663857, 35.588361</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/23/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, POINSETT, LEPANTO, 113  WOODLAND</description><Point><coordinates>-90.334101, 35.613100</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/4/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, POINSETT, LEPANTO, 440  POWELL STREET</description><Point><coordinates>-90.335568, 35.603565</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/15/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, POINSETT, LEPANTO, 530  KENWOOD</description><Point><coordinates>-90.333381, 35.608244</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/2/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, POINSETT, MARKED TREE, 34568 CAPPS RD</description><Point><coordinates>-90.421464, 35.556496</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/15/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, POINSETT, MARKED TREE, 106  SYCAMORE</description><Point><coordinates>-90.419241, 35.533941</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/11/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, POINSETT, MARKED TREE, 105  11TH</description><Point><coordinates>-90.409116, 35.523359</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/7/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, POINSETT, MARKED TREE, 30936  SOUTH ROAD</description><Point><coordinates>-90.485267, 35.485049</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/18/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, POINSETT, TRUMANN, 169 SOUTH MAGNOLIA STREET</description><Point><coordinates>-90.520530, 35.668587</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/17/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, POINSETT, TRUMANN, 314 EASTSIDE GARDENS</description><Point><coordinates>-90.504152, 35.672406</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/11/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, POINSETT, TRUMANN, 3450 COLLIER LN</description><Point><coordinates>-90.573903, 35.492094</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/17/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, POINSETT, TRUMANN, 24998 HATCHIECOON RD</description><Point><coordinates>-90.558200, 35.634786</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/10/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, POINSETT, TRUMANN, 513 PLAZA COURT</description><Point><coordinates>-90.512912, 35.668753</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/22/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, POINSETT, TRUMANN, 504 HARRISON STREET</description><Point><coordinates>-90.513105, 35.671098</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/29/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, POINSETT, TRUMANN, 29095 CASH ROAD</description><Point><coordinates>-90.517072, 35.693237</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/11/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, POINSETT, TRUMANN, 408 HARRISON STREET</description><Point><coordinates>-90.511293, 35.671049</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/13/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, POINSETT, TRUMANN, 25898 RODEN ROAD</description><Point><coordinates>-90.571442, 35.649154</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/23/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, POINSETT, TRUMANN, 11958 COMBS LANE</description><Point><coordinates>-90.507328, 35.673690</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/14/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, POINSETT, TRUMANN, 404 MILDRED AVENUE</description><Point><coordinates>-90.518259, 35.677448</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/17/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, POINSETT, TRUMANN, 504 HARRISON STREET</description><Point><coordinates>-90.513105, 35.671098</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/2/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, POINSETT, TRUMANN, 15341 COLLINS LOOP</description><Point><coordinates>-90.543666, 35.668391</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/9/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, POINSETT, TYRONZA, 150 OAK STREET</description><Point><coordinates>-90.356897, 35.488497</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/30/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, POINSETT, WEINER, 611 ALEXANDER</description><Point><coordinates>-90.899604, 35.624022</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

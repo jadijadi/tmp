@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 7/17/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, MASON, FOREST CITY, 66  EDGEWOOD</description><Point><coordinates>-89.811960, 40.390411</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/7/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, MASON, HAVANA, 16023 E MANITO</description><Point><coordinates>-89.995081, 40.348374</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/15/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, MASON, MANITO, 85  MAPLE</description><Point><coordinates>-89.845361, 40.433382</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/5/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, MASON, MASON CITY, 505 MASON S ST</description><Point><coordinates>-89.694853, 40.197802</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/23/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, MASON, TOPEKA, 21926 HICKORY STREET</description><Point><coordinates>-89.941009, 40.394930</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

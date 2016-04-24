@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CAMDEN, BRANCH, 1411 STATE HIGHWAY 73</description><Point><coordinates>-93.005195, 37.911168</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CAMDEN, LINN CREEK, 144 DUSTY TRL</description><Point><coordinates>-92.687777, 38.056327</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/1/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CAMDEN, MACKS CREEK, 1411 STATE 73 HWY</description><Point><coordinates>-93.005195, 37.911168</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/10/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CAMDEN, MACKS CREEK, 167 ARAPAHOE RD</description><Point><coordinates>-92.969356, 37.966423</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/11/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CAMDEN, OSAGE BEACH, 5042 HIGHWAY 54 E</description><Point><coordinates>-92.646166, 38.133267</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/1/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CAMDEN, OSAGE BEACH, 4503 BEACH DRIVE</description><Point><coordinates>-92.623886, 38.153771</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/4/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CAMDEN, ROACH, 1073 ROBINHOOD</description><Point><coordinates>-92.892319, 38.159750</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

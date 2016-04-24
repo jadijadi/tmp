@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 11/17/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, SWITZERLAND, BENNINGTON, 61 SHILOH N RD</description><Point><coordinates>-85.044588, 38.877620</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/14/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, SWITZERLAND, FLORENCE, 130 SEARCY RIDGE</description><Point><coordinates>-84.924585, 38.784350</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/15/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, SWITZERLAND, VEVAY, 101 VAN OSDOL RD</description><Point><coordinates>-85.170561, 38.848233</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/11/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, SWITZERLAND, VEVAY, 504 PEARL ST</description><Point><coordinates>-85.065430, 38.751925</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

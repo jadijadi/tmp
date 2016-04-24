@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/2/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, CLARK, MEDWAY, 1417 PARK N DR</description><Point><coordinates>-84.023330, 39.894465</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/2/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, CLARK, NEW CARLISLE, 11200 STAFFORD ROAD</description><Point><coordinates>-84.017327, 39.966088</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/1/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, CLARK, SPRINGFIELD, 3327 OVERLOOK DR</description><Point><coordinates>-83.840902, 39.931779</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, CLARK, SPRINGFIELD, 703 CASSILLY ST</description><Point><coordinates>-83.798358, 39.934767</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/14/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, CLARK, SPRINGFIELD, 49 LAVERNE LN</description><Point><coordinates>-83.808817, 39.924227</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/1/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, CLARK, SPRINGFIELD, 4630 OLD SPRINGFIELD ROAD</description><Point><coordinates>-83.727576, 39.846888</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/12/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, CLARK, SPRINGFIELD, 736 WEST HIGH STREET</description><Point><coordinates>-83.824214, 39.924369</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

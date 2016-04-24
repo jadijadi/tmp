@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 8/1/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, PERRY, CANNELTON, 6425 OLD US 237</description><Point><coordinates>-86.738852, 37.932084</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/28/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, PERRY, CANNELTON, 128 NORTH 5TH STREET</description><Point><coordinates>-86.743742, 37.912283</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/6/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, PERRY, CANNELTON, 6370 SHEENA ROAD</description><Point><coordinates>-86.690187, 37.934834</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/14/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, PERRY, CANNELTON, 4330 BELL HOLLOW ROAD</description><Point><coordinates>-86.727792, 37.906829</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/14/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, PERRY, CANNELTON, 5430 GIRL SCOUT ROAD</description><Point><coordinates>-86.711676, 37.918967</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/12/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, PERRY, CANNELTON, 1010 POLK STREET</description><Point><coordinates>-86.729854, 37.901174</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/29/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, PERRY, CANNELTON, 619  WASHINGTON</description><Point><coordinates>-86.741912, 37.912519</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/21/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, PERRY, CANNELTON, 8  CLIFTON HEIGHTS</description><Point><coordinates>-86.736686, 37.909898</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/15/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, PERRY, DERBY, 12478 STATE RD 70</description><Point><coordinates>-86.576606, 38.040037</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/15/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, PERRY, DERBY, 12528 SR 70</description><Point><coordinates>-86.577486, 38.039318</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/5/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, PERRY, ROME, 6886 SR 66 N</description><Point><coordinates>-86.528162, 37.939471</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/7/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, PERRY, TELL CITY, 644 13TH ST</description><Point><coordinates>-86.763197, 37.950448</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/17/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, PERRY, TELL CITY, 1843 MAIN ST</description><Point><coordinates>-86.798856, 37.998131</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/1/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, PERRY, TELL CITY, 9104 SUMMER DR</description><Point><coordinates>-86.678970, 37.970991</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/22/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, PERRY, TELL CITY, 1810 9TH STREET</description><Point><coordinates>-86.768345, 37.967435</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/22/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, PERRY, TELL CITY, 1810 9TH STREET</description><Point><coordinates>-86.768345, 37.967435</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/20/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, PERRY, TELL CITY, 84 PARK AVENUE</description><Point><coordinates>-86.757659, 37.931261</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/1/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, PERRY, TELL CITY, 1931  BRADFORD DRIVE</description><Point><coordinates>-86.767911, 37.969663</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/19/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, PERRY, TELL CITY, 1630  TELL</description><Point><coordinates>-86.758308, 37.955287</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/2/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, PERRY, TELL CITY, 52  WILLIAM TELL BOULEVARD</description><Point><coordinates>-86.751661, 37.939596</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/1/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, PERRY, TROY, 11035 STATE HWY 545</description><Point><coordinates>-86.808252, 38.046101</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

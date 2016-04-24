@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/21/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, CRAWFORD, ARION, 202 BURTON AVENUE</description><Point><coordinates>-95.460948, 41.952233</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, CRAWFORD, DENISON, 1403 3RD AVE 3</description><Point><coordinates>-95.353538, 42.013275</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/25/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, CRAWFORD, DENISON, 309 9TH S ST</description><Point><coordinates>-95.361248, 42.013371</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/6/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, CRAWFORD, DENISON, 2910  30 HIGHWAY</description><Point><coordinates>-95.329461, 42.013948</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/27/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, CRAWFORD, DOW CITY, 3116 230TH ST</description><Point><coordinates>-95.421805, 41.904896</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

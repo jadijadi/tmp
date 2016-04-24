@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/8/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, LAMAR, BEAVERTON, 12901  HIGHWAY 278</description><Point><coordinates>-88.019151, 33.932146</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/22/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, LAMAR, DETROIT, 111 ROBERTSON AVENUE</description><Point><coordinates>-88.170704, 34.027749</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/29/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, LAMAR, MILLPORT, 367 BURGESS ROAD</description><Point><coordinates>-88.037205, 33.633732</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/5/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, LAMAR, MILLPORT, 196 FERNBANK ROAD</description><Point><coordinates>-88.087437, 33.582147</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/6/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, LAMAR, MILLPORT, 11373 FENBANK ROAD</description><Point><coordinates>-88.254783, 33.578668</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/14/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, LAMAR, MILLPORT, 555 FENBANK ROAD</description><Point><coordinates>-88.088229, 33.582223</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/14/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, LAMAR, MILLPORT, 1727  MOUNT PLEASANT CHURCH ROAD</description><Point><coordinates>-88.048767, 33.600395</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/14/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, LAMAR, MILLPORT, 1727  MOUNT PLEASANT CHURCH ROAD</description><Point><coordinates>-88.048767, 33.600395</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/31/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, LAMAR, SULLIGENT, 2904 WEST 18 HIGHWAY</description><Point><coordinates>-88.122421, 33.751514</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/16/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, LAMAR, SULLIGENT, 3765 DINKY LINE ROAD</description><Point><coordinates>-88.111047, 34.011066</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/29/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, LAMAR, SULLIGENT, 746 MILITARY GROVE ROAD</description><Point><coordinates>-88.138058, 33.842230</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/31/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, LAMAR, VERNON, 345 HARRISON CT 189</description><Point><coordinates>-88.108045, 33.749001</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/10/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, LAMAR, VERNON, 1381 NORTHWEST 11TH STREET</description><Point><coordinates>-88.127512, 33.768752</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/6/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, LAMAR, VERNON, 2448 BEAVER CREEK ROAD</description><Point><coordinates>-88.102452, 33.782412</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MARSHALL, ALBERTVILLE, 4316 HWY 75 N</description><Point><coordinates>-86.268049, 34.221484</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/13/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MARSHALL, ALBERTVILLE, 508 HAMBRICK RD</description><Point><coordinates>-86.212390, 34.262487</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MARSHALL, ALBERTVILLE, 138 HAM RD</description><Point><coordinates>-86.225860, 34.305315</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MARSHALL, ALBERTVILLE, 71 DENISE RD</description><Point><coordinates>-86.228428, 34.354279</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MARSHALL, ALBERTVILLE, 3165 HUSTLEVILLE RD</description><Point><coordinates>-86.193416, 34.319837</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MARSHALL, ALBERTVILLE, 911 HIGHLAND</description><Point><coordinates>-86.208039, 34.279185</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/6/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MARSHALL, ALBERTVILLE, 451 ROSS NEELY</description><Point><coordinates>-86.132044, 34.294131</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/11/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MARSHALL, ALBERTVILLE, 911 HIGHLAND ST</description><Point><coordinates>-86.159628, 34.210744</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/22/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MARSHALL, ALBERTVILLE, 860  DOWMAN ROAD</description><Point><coordinates>-86.208867, 34.267594</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/16/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MARSHALL, ALBERTVILLE, 1763  OLD MCVILLE ROAD LOT 1</description><Point><coordinates>-86.110054, 34.333875</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/16/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MARSHALL, ALBERTVILLE, 1763  OLD MCVILLE ROAD LOT 1</description><Point><coordinates>-86.110054, 34.333875</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MARSHALL, ARAB, 631 MAIN N ST</description><Point><coordinates>-86.497630, 34.325423</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/29/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MARSHALL, ARAB, 1812 FRYGAP RD</description><Point><coordinates>-86.469031, 34.306275</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MARSHALL, ARAB, 134 FOOTHILL CIR</description><Point><coordinates>-86.516380, 34.378161</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MARSHALL, ARAB, 1891 FRIENDSHIP RD</description><Point><coordinates>-86.472426, 34.354180</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MARSHALL, ARAB, 432 BOULDER RD</description><Point><coordinates>-86.417516, 34.335899</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/13/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MARSHALL, ARAB, 785 MAIN S ST LOT. 20</description><Point><coordinates>-86.565740, 34.362651</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/9/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MARSHALL, ARAB, 3251  MT OAK ROAD</description><Point><coordinates>-86.549797, 34.344803</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/9/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MARSHALL, ARAB, 3251  MT OAK ROAD</description><Point><coordinates>-86.549797, 34.344803</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/12/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MARSHALL, ARAB, 254  MATT MORROW DRIVE</description><Point><coordinates>-86.570454, 34.304366</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MARSHALL, BOAZ, 3041 MNT HEBRON N RD</description><Point><coordinates>-86.283007, 34.144089</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MARSHALL, BOAZ, 1140 BETHSADIA RD</description><Point><coordinates>-86.147672, 34.197690</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/11/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MARSHALL, BOAZ, 2190 OLD JORDAN RD</description><Point><coordinates>-86.280394, 34.130516</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/1/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MARSHALL, GRANT, 233 WHITAKEN DR</description><Point><coordinates>-86.277821, 34.466349</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/30/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MARSHALL, GRANT, 85 LEE MASTER LN</description><Point><coordinates>-86.253316, 34.528698</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/13/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MARSHALL, GRANT, 3430 OLD NEW HOPE HIGHWAY</description><Point><coordinates>-86.253316, 34.528698</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/25/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MARSHALL, GRANT, 154 WALKER ROAD</description><Point><coordinates>-86.391558, 34.478708</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/9/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MARSHALL, GRANT, 2614 MERRELL MT ROAD</description><Point><coordinates>-86.253316, 34.528698</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/6/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MARSHALL, GUNTERSVILLE, 1 CEDAR RIDGE DR B-8</description><Point><coordinates>-86.280185, 34.302517</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MARSHALL, GUNTERSVILLE, 214 WHITE CIR</description><Point><coordinates>-86.307835, 34.273825</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MARSHALL, GUNTERSVILLE, 5277 ALABAMA HWY 79 NORTH HWY</description><Point><coordinates>-86.353025, 34.294942</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/21/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MARSHALL, GUNTERSVILLE, 3440 CREEK CIRCLE</description><Point><coordinates>-86.335498, 34.317998</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/5/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MARSHALL, GUNTERSVILLE, 1101  GROSS ROAD</description><Point><coordinates>-86.395770, 34.408599</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/3/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MARSHALL, GUNTERSVILLE, 588  WILLOW LAKE</description><Point><coordinates>-86.272492, 34.418470</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MARSHALL, HORTON, 178 COVEY LN</description><Point><coordinates>-86.295476, 34.239139</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/11/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MARSHALL, HORTON, 83882 US HWY 278</description><Point><coordinates>-87.918688, 33.958152</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/3/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MARSHALL, HORTON, 1916  BEARDEN ROAD</description><Point><coordinates>-86.345633, 34.217377</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/27/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MARSHALL, UNION GROVE, 783 GREEN BRIAN GOVE S RD</description><Point><coordinates>-86.449154, 34.401759</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/7/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MARSHALL, UNION GROVE, 14621 US HWY 231 HWY</description><Point><coordinates>-86.400144, 35.789208</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/3/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MARSHALL, UNION GROVE, 1330 ALLEN CROSS ROAD</description><Point><coordinates>-86.530082, 34.441551</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

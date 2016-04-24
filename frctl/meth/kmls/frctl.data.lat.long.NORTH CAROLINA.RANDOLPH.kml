@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/30/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, RANDOLPH, ARCHDALE, 5501 OLD THOMASVILLE ROAD</description><Point><coordinates>-80.046105, 35.905317</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/16/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, RANDOLPH, ASHEBORO, 1404  WINSLOW AVENUE</description><Point><coordinates>-79.835465, 35.708564</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/29/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, RANDOLPH, ASHEBORO, 908  CENTER STREET  BOX E</description><Point><coordinates>-79.812965, 35.695461</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/22/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, RANDOLPH, ASHEBORO, 1545  INDIAN WELLS LOOP</description><Point><coordinates>-79.800570, 35.649821</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/10/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, RANDOLPH, RAMSEUR, 4727  LOG CABIN ROAD</description><Point><coordinates>-79.596719, 35.619789</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/15/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, RANDOLPH, RANDLEMAN, 6039 FRED LINE BERRY ROAD</description><Point><coordinates>-79.761892, 35.873087</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/9/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, RANDOLPH, RANDLEMAN, 1224 SOUTH MAIN STREET</description><Point><coordinates>-79.813742, 35.794440</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/12/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, RANDOLPH, SEAGROVE, 194  BOONE STREET</description><Point><coordinates>-79.771190, 35.534201</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/22/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, RANDOLPH, THOMASVILLE, 201 MISTY DRIVE</description><Point><coordinates>-80.050482, 35.754196</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, RANDOLPH, TRINITY, 5350 COLLETTE ST</description><Point><coordinates>-79.985008, 35.891358</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/2/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, RANDOLPH, TRINITY, 132 GRAY ROCK N RD</description><Point><coordinates>-80.029043, 35.753621</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/31/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, RANDOLPH, TRINITY, 5350 COLLETTE STREET</description><Point><coordinates>-79.985008, 35.891358</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/17/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, RANDOLPH, TRINITY, 5432  TOM HILL ROAD</description><Point><coordinates>-79.932600, 35.878695</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/9/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, RANDOLPH, TRINITY, 4028  CHET DRIVE</description><Point><coordinates>-79.939095, 35.882344</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/1/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, RANDOLPH, TRINITY, 6346  EAGLE LANDING DRIVE</description><Point><coordinates>-80.022902, 35.822849</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/2/2016</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, RANDOLPH, TRINITY, 6132  Meadowbrook DRIVE</description><Point><coordinates>-79.990179, 35.889770</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

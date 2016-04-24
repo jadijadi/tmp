@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/7/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, CHELAN, MANSON, 500 LAKESHORE DR</description><Point><coordinates>-120.166814, 47.891162</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/21/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, CHELAN, WENATCHEE, 361 TERMINAL ST</description><Point><coordinates>-120.307369, 47.397934</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/28/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, CHELAN, WENATCHEE, 3202 HEDDING ST</description><Point><coordinates>-120.240542, 47.666236</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/11/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, CHELAN, WENATCHEE, 914 WASHINGTON ST UPSTAIRS</description><Point><coordinates>-120.322811, 47.422834</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

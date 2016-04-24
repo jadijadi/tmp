@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/5/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH DAKOTA, CASS, BUFFALO, 14257 SOUTHEAST 33RD</description><Point><coordinates>-97.480897, 46.933645</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH DAKOTA, CASS, FARGO, 529 20TH N</description><Point><coordinates>-96.811794, 46.882753</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH DAKOTA, CASS, FARGO, 1133 11 N ST</description><Point><coordinates>-96.794904, 46.889816</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/6/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH DAKOTA, CASS, FARGO, 2803 35 S AVE</description><Point><coordinates>-96.825260, 46.827539</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/16/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH DAKOTA, CASS, WEST FARGO, 120 WEST MAIN AVENUE</description><Point><coordinates>-96.901020, 46.877078</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

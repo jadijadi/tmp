@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/21/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, CLEVELAND, NEW EDINBURG, 2350 THOMPSON RD</description><Point><coordinates>-92.113954, 33.732644</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/27/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, CLEVELAND, RISON, 550 GOGGANS LN</description><Point><coordinates>-92.048762, 33.800591</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, CLEVELAND, RISON, 2820 RODGERS W RD</description><Point><coordinates>-92.065300, 34.033786</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/12/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, CLEVELAND, SALINE, 1122  CHERRY</description><Point><coordinates>-92.267092, 33.873436</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

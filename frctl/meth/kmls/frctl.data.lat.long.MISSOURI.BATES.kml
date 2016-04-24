@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/15/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BATES, ADRIAN, 245 1 RR</description><Point><coordinates>-94.427811, 38.414586</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/20/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BATES, ADRIAN, 411 VIRGINIA</description><Point><coordinates>-94.351748, 38.397788</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/31/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BATES, BUTLER, 617 PINE</description><Point><coordinates>-94.341722, 38.260181</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/25/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BATES, BUTLER, 400 EAST FORT SCOTT</description><Point><coordinates>-94.328425, 38.256485</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/28/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BATES, BUTLER, 308  WEST HARRISON</description><Point><coordinates>-94.335623, 38.261116</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/25/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BATES, RICH HILL, 704 OLIVE E</description><Point><coordinates>-94.360490, 38.098457</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

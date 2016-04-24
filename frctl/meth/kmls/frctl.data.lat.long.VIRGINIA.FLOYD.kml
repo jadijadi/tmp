@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/14/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, FLOYD, FLOYD, 2201 SOUTH FLOYD HIGHWAY</description><Point><coordinates>-80.376823, 36.874632</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/16/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, FLOYD, FLOYD, 8701  RAMSEY BOULEVARD</description><Point><coordinates>-80.120484, 37.080092</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/5/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, FLOYD, FLOYD, 213 PINE CREEK WAY</description><Point><coordinates>-80.276787, 36.919234</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/16/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, FLOYD, FLOYD, 300  172 SUNNY RIDGE ROAD</description><Point><coordinates>-80.245982, 36.973544</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/16/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, FLOYD, RINER, 1100  WHITE OAK GROVE</description><Point><coordinates>-80.401423, 37.006603</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

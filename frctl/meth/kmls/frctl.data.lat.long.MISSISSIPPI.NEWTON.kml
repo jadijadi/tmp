@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/28/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, NEWTON, CHUNKY, 1451 PINE FOREST RD</description><Point><coordinates>-88.915565, 32.306446</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/3/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, NEWTON, CHUNKY, 370  ADAMS STREET LOT 11</description><Point><coordinates>-88.931078, 32.331499</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/7/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, NEWTON, CONEHATTA, 338 CHITCHNER RD</description><Point><coordinates>-89.285341, 32.451252</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/15/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, NEWTON, HICKORY, 822  16 TH  CHURCH ROAD</description><Point><coordinates>-88.963635, 32.353629</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/17/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, NEWTON, NEWTON, 115 CARR AVENUE</description><Point><coordinates>-89.162732, 32.307192</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/24/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, NEWTON, NEWTON, 205  LILLIAN AVENUE</description><Point><coordinates>-89.161450, 32.311644</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/3/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, NEWTON, NEWTON, 345  HIGHWAY 489</description><Point><coordinates>-89.319585, 32.349112</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/2/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, NEWTON, UNION, 22214 SOUTH 15 HIGHWAY</description><Point><coordinates>-89.113403, 32.523128</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/5/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, NEWTON, UNION, 22214 NORTH 15 HIGHWAY</description><Point><coordinates>-89.113403, 32.523128</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

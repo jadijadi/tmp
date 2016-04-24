@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/10/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WAYNE, CAMBRIDGE CITY, 501 SOUTH STATE ROAD 1</description><Point><coordinates>-85.149616, 39.820611</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WAYNE, CENTERVILLE, 1527 MEMORIAL DR</description><Point><coordinates>-84.996352, 39.817825</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/20/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WAYNE, HAGERSTOWN, 138 EAST MAIN STREET</description><Point><coordinates>-85.159492, 39.910792</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/26/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WAYNE, RICHMOND, 602 NORTH WEST L N ST</description><Point><coordinates>-84.905091, 39.847606</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/14/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WAYNE, RICHMOND, 1400 NEW PARIS PIKE</description><Point><coordinates>-84.882092, 39.843854</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/24/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WAYNE, RICHMOND, 119 NORTH 11TH STREET</description><Point><coordinates>-84.887612, 39.831378</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

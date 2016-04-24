@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/4/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, ROCKCASTLE, BEREA, 212  MILL STREET</description><Point><coordinates>-84.295807, 37.573652</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/17/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, ROCKCASTLE, BRODHEAD, 27 MAIN STREET</description><Point><coordinates>-84.415339, 37.402973</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/1/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, ROCKCASTLE, BRODHEAD, 256  BRYANT RIDGE ROAD</description><Point><coordinates>-84.467503, 37.392971</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/3/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, ROCKCASTLE, LIVINGSTON, 14  GEORGIA STREET</description><Point><coordinates>-84.214934, 37.297863</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/28/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, ROCKCASTLE, MOUNT VERNON, 66 DAVIS LANE</description><Point><coordinates>-84.343268, 37.352435</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/20/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, ROCKCASTLE, MOUNT VERNON, 573  GOSHEN CUTOFF  2</description><Point><coordinates>-84.340492, 37.352862</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/8/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, ROCKCASTLE, MOUNT VERNON, 1812  SWEETWATER ROAD</description><Point><coordinates>-84.335468, 37.471510</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/20/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, ROCKCASTLE, MT VERNON, 756  CALLOWAY BRANCH ROAD</description><Point><coordinates>-84.255229, 37.303337</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

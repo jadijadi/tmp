@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, MADERA, CHOWCHILLA, 18899 ROAD 16</description><Point><coordinates>-120.256797, 37.024101</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/25/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, MADERA, CHOWCHILLA, 1304 COLUSA AVE A</description><Point><coordinates>-120.265598, 37.111718</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/10/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, MADERA, MADERA, 21442 AVENUE 19 AVE</description><Point><coordinates>-120.158000, 37.024572</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/29/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, MADERA, MADERA, 815 EAST CLINTON AVENUE</description><Point><coordinates>-120.046651, 36.964960</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/21/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, MADERA, MADERA, 18697 AVENUE PASS</description><Point><coordinates>-120.060718, 36.961336</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/25/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, MADERA, MADERA, 512 FEIN STREET</description><Point><coordinates>-120.060718, 36.961336</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/1/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, MADERA, MADERA, 35626 14 1/2 AVENUE</description><Point><coordinates>-119.900115, 36.957378</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/4/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, MADERA, MADERA, 13577 20TH AVENUE</description><Point><coordinates>-120.183749, 36.946548</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/15/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, MADERA, MADERA, 19184  AVE 18</description><Point><coordinates>-120.198965, 37.011091</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

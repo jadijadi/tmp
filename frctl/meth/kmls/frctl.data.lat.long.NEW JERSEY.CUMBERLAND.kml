@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/24/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW JERSEY, CUMBERLAND, BRIDGETON, 747 GARTON ROAD</description><Point><coordinates>-75.170516, 39.477494</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/17/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW JERSEY, CUMBERLAND, MILLVILLE, 324  LEBANON ROAD</description><Point><coordinates>-75.150177, 39.447474</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

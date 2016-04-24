@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/4/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, LIMESTONE, ARDMORE, 29458  LAKEVIEW DRIVE</description><Point><coordinates>-86.836945, 34.983890</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/19/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, LIMESTONE, ELKMONT, 21215 SANDLIN RD</description><Point><coordinates>-86.942936, 34.920634</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/23/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, LIMESTONE, ELKMONT, 30800 VETO ROAD</description><Point><coordinates>-86.987771, 34.993755</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/8/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, LIMESTONE, ELKMONT, 25042  ELKTON ROAD</description><Point><coordinates>-86.910025, 34.912570</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

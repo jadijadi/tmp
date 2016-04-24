@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/1/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, JACKSON, CENTRAL POINT, 1325 SANDY LANE</description><Point><coordinates>-122.916443, 42.366935</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, JACKSON, GOLD HILL, 137 GARDEN ROW</description><Point><coordinates>-123.043249, 42.429197</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/13/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, JACKSON, MEDFORD, 2715 S PACIFIC HWY 7</description><Point><coordinates>-122.845770, 42.298637</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, JACKSON, MEDFORD, 617 NORTH RIVERSIDE AVENUE</description><Point><coordinates>-122.873587, 42.333242</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/1/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, JACKSON, MEDFORD, 132 TRIPP STREET</description><Point><coordinates>-122.866731, 42.325627</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/14/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, JACKSON, WHITE CITY, 3777 FALCON STREET</description><Point><coordinates>-122.820565, 42.435276</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, JACKSON, WHITE CITY, 3995 H AVENUE</description><Point><coordinates>-122.816285, 42.432803</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, JACKSON, WHITE CITY, 3265 ANTELOPE RD 22</description><Point><coordinates>-122.830801, 42.428324</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

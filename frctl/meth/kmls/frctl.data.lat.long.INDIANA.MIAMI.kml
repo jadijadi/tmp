@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/3/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MIAMI, BUNKER HILL, 2794 1150 SOUTH W</description><Point><coordinates>-86.123572, 40.599391</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MIAMI, BUNKER HILL, 125 BROADWAY E</description><Point><coordinates>-86.102036, 40.659987</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/23/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MIAMI, BUNKER HILL, 171 EAST 3RD STREET LOT 24</description><Point><coordinates>-86.100294, 40.666145</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/21/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MIAMI, MACY, 305 COMMERCE W</description><Point><coordinates>-86.131813, 40.958847</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/17/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MIAMI, MIAMI, 1955 EAST 1050 STREET</description><Point><coordinates>-86.108247, 40.613706</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MIAMI, PERU, 829 MAIN W ST 101</description><Point><coordinates>-86.091691, 40.745053</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/6/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MIAMI, PERU, 1603 STATE ROAD 19 N 17</description><Point><coordinates>-86.050472, 40.787166</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MIAMI, PERU, 2843 HILLTOP DR</description><Point><coordinates>-86.099731, 40.724293</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/27/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MIAMI, PERU, 407 ADAMS ST</description><Point><coordinates>-86.058400, 40.764693</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/3/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MIAMI, PERU, 347 HARRISON AVE</description><Point><coordinates>-86.060382, 40.770003</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/16/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MIAMI, PERU, 325 COLUMBIA ST</description><Point><coordinates>-86.061222, 40.762633</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/22/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MIAMI, PERU, 410 2ND W ST</description><Point><coordinates>-86.080290, 40.746612</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/1/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MIAMI, PERU, 233 3RD E ST</description><Point><coordinates>-86.061401, 40.755952</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/16/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MIAMI, PERU, 701 EGYPT HILL W</description><Point><coordinates>-86.086725, 40.734824</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/21/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MIAMI, PERU, 1081 CANAL W ST</description><Point><coordinates>-86.100531, 40.743955</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/19/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MIAMI, PERU, 85 EAST WARREN STREET</description><Point><coordinates>-86.062279, 40.749163</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/14/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MIAMI, PERU, 778 NORTH WAYNE STREET</description><Point><coordinates>-86.063098, 40.770831</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/27/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MIAMI, PERU, 82 EAST FRANKLIN STREET</description><Point><coordinates>-86.062893, 40.750031</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/20/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MIAMI, PERU, 18 EAST FRANKLIN STREET</description><Point><coordinates>-86.064794, 40.749198</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/26/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MIAMI, PERU, 330 JACKSON AVENUE</description><Point><coordinates>-86.061454, 40.768248</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/16/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MIAMI, PERU, 2943 WEST 300 S LOT 8</description><Point><coordinates>-86.125525, 40.721060</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/15/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MIAMI, PERU, 2880 WEST 560 S</description><Point><coordinates>-86.125301, 40.684755</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/9/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MIAMI, PERU, 213 EAST 3RD STREET</description><Point><coordinates>-86.061992, 40.755688</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/19/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MIAMI, PERU, 4650 WEST OLD STOONE ROAD</description><Point><coordinates>-86.159753, 40.750148</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/18/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MIAMI, PERU, 235 PEARCY LANE</description><Point><coordinates>-86.072284, 40.737533</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/21/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MIAMI, PERU, 109 GRAHAM STREET</description><Point><coordinates>-86.055363, 40.747880</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/26/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MIAMI, PERU, 27 JEFFERSON AVENUE</description><Point><coordinates>-86.075368, 40.765782</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/25/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MIAMI, PERU, 159  E 2ND STREET</description><Point><coordinates>-86.062976, 40.754133</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/15/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MIAMI, PERU, 420  MONROE AVENUE</description><Point><coordinates>-86.058029, 40.767424</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/10/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MIAMI, PERU, 3013  MARCH</description><Point><coordinates>-86.161302, 40.675838</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/6/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MIAMI, PERU, 2934 WEST N.  300</description><Point><coordinates>-86.129309, 40.803815</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/29/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MIAMI, PERU, 458 E 6TH STREET</description><Point><coordinates>-86.056491, 40.761581</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/1/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MIAMI, PERU, 1195 NORTH EEL RIVER CEMETERY ROAD</description><Point><coordinates>-86.125149, 40.781338</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/5/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MIAMI, PERU, 213 NORTH WABASH</description><Point><coordinates>-86.069595, 40.757663</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/29/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MIAMI, PERU, 382 EAST 5TH</description><Point><coordinates>-86.058277, 40.759668</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/18/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MIAMI, PERU, 383  E 12TH STREET 5</description><Point><coordinates>-86.085802, 40.755051</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/15/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MIAMI, PERU, 359  7TH STREET</description><Point><coordinates>-86.081938, 40.751386</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/18/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MIAMI, PERU, 171  E 2DN</description><Point><coordinates>-86.062618, 40.754292</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/27/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MIAMI, PERU, 906 EAST MAIN STREET LOT #4</description><Point><coordinates>-86.047150, 40.762164</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

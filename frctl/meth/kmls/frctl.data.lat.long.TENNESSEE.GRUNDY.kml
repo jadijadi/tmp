@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/17/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, GRUNDY, ALTAMONT, 100 HWY 108</description><Point><coordinates>-85.723446, 35.428938</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/12/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, GRUNDY, ALTAMONT, 0  11015 VIOLA ROAD</description><Point><coordinates>-85.749782, 35.444724</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/22/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, GRUNDY, GRUETLI LAAGER, 99 FLETCHER RD</description><Point><coordinates>-85.651379, 35.356861</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/22/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, GRUNDY, GRUETLI-LAAGER, 3906  CALHOUN AVE</description><Point><coordinates>-85.618028, 35.372295</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, GRUNDY, MONTEAGLE, 64 RAULSTON AVE 64</description><Point><coordinates>-85.805346, 35.249771</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/1/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, GRUNDY, MONTEAGLE, 508 HARDBARGER ROAD W</description><Point><coordinates>-85.821181, 35.252547</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/14/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, GRUNDY, MONTEAGLE, 513  HWY 41</description><Point><coordinates>-85.824427, 35.243925</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/27/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, GRUNDY, PALMER, 111 PALMER FIRE HALL ROAD</description><Point><coordinates>-85.567748, 35.351183</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/6/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, GRUNDY, PALMER, 1235 TATESVILLE RD.</description><Point><coordinates>-85.557353, 35.377118</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/19/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, GRUNDY, TRACY CITY, 301  ALEX SANDERS ROAD</description><Point><coordinates>-85.717521, 35.302758</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

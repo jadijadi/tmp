@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/25/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, KAUFMAN, KAUFMAN, 6717 MCKINNON LANE</description><Point><coordinates>-96.400828, 32.552240</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/16/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, KAUFMAN, ROSSER, 222 PARROT DRIVE</description><Point><coordinates>-96.456721, 32.465171</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/25/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: LUISIANA, JEFFERSON, GRETNA, 1902  HANCOCK STREET</description><Point><coordinates>-90.047749, 29.919463</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/10/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: LUISIANA, JEFFERSON, HARAHAN, 140  CRIS LAUR AVENUE</description><Point><coordinates>-90.193786, 29.937268</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/15/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: LUISIANA, JEFFERSON, JEFFERSON, 261  JULES STREET 36</description><Point><coordinates>-90.140750, 29.961270</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/8/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: LUISIANA, JEFFERSON, LAFITTE, 198  5128 GEORGE STREET</description><Point><coordinates>-90.098602, 29.686718</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/15/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: LUISIANA, JEFFERSON, MARRERO, 5201  SAVANNAH LN LANE</description><Point><coordinates>-90.108364, 29.812051</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/3/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: LUISIANA, JEFFERSON, METAIRIE, 4701 TABONY ST</description><Point><coordinates>-90.190609, 30.020496</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/7/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: LUISIANA, JEFFERSON, METAIRIE, 122  HELIOS AVENUE A3</description><Point><coordinates>-90.144834, 29.986536</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/11/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: LUISIANA, JEFFERSON, METAIRIE, 3101  MICHIGAN AVENUE</description><Point><coordinates>-90.226416, 30.011573</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/30/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: LUISIANA, JEFFERSON, METAIRIE, 4529  Newlands STREET</description><Point><coordinates>-90.185182, 30.007235</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/3/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: LUISIANA, JEFFERSON, WAGGAMAN, 750  AZALEA DRIVE</description><Point><coordinates>-90.244860, 29.943580</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/4/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: LUISIANA, JEFFERSON, WESTWEGO, 704  KELLER STREET</description><Point><coordinates>-90.135959, 29.900957</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/27/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JACKSON, BROWNSTOWN, 1110 OAK W ST</description><Point><coordinates>-86.054389, 38.885597</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/1/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JACKSON, BROWNSTOWN, 521 EAST WALNUT STREET</description><Point><coordinates>-86.036344, 38.878328</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/15/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JACKSON, BROWNSTOWN, 1502 EAST 300 NORTH</description><Point><coordinates>-86.064913, 38.924529</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JACKSON, CROTHERSVILLE, 100 DIXON E ST</description><Point><coordinates>-85.841506, 38.796444</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/23/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JACKSON, CROTHERSVILLE, 12142 CR 525 S E</description><Point><coordinates>-85.811429, 38.806380</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/22/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JACKSON, CROTHERSVILLE, 405 MAIN STREET</description><Point><coordinates>-85.844306, 38.793753</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/27/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JACKSON, CROTHERSVILLE, 5139 SOUTH C.R. 1010 EAST</description><Point><coordinates>-85.848521, 38.805757</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/25/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JACKSON, FREETOWN, 4645 COLUMBUS PIKE</description><Point><coordinates>-86.128701, 38.975976</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/5/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JACKSON, FREETOWN, 650 11496 E W</description><Point><coordinates>-86.167700, 39.039930</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/15/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JACKSON, FREETOWN, 9736 HOUSTON RD</description><Point><coordinates>-86.173581, 39.011247</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/17/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JACKSON, FREETOWN, 4645 COLUMBUS PIKE</description><Point><coordinates>-86.128701, 38.975976</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/21/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JACKSON, NORMAN, 1964 NORTH C.R. 825 W</description><Point><coordinates>-86.192932, 38.970983</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/8/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JACKSON, NORMAN, 10058 WEST C.R. 1000 NORTH</description><Point><coordinates>-86.228744, 39.019317</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JACKSON, SEYMOUR, 940 ELM N ST</description><Point><coordinates>-85.896910, 38.968788</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/27/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JACKSON, SEYMOUR, 401 CHESTNUT N ST 34</description><Point><coordinates>-85.891639, 38.961218</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JACKSON, SEYMOUR, 749 US 31 N</description><Point><coordinates>-85.818586, 38.893938</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/3/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JACKSON, SEYMOUR, 611 JACKSON PARK S DR B</description><Point><coordinates>-85.870175, 38.954916</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/11/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JACKSON, SEYMOUR, 3757 CR 1125 N W</description><Point><coordinates>-86.114628, 39.035318</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/22/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JACKSON, SEYMOUR, 849 ELM N ST</description><Point><coordinates>-85.897308, 38.966547</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/4/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JACKSON, SEYMOUR, 424 JACKSON PARK N DR</description><Point><coordinates>-85.875750, 38.965293</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/20/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JACKSON, SEYMOUR, 1225 SEYMORE ST H</description><Point><coordinates>-86.000050, 39.031980</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/21/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JACKSON, SEYMOUR, 1225 SYCAMORE ROAD</description><Point><coordinates>-85.870175, 38.954916</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/21/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JACKSON, SEYMOUR, 10418 EAST CR 250 N</description><Point><coordinates>-85.991668, 38.957732</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/24/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JACKSON, SEYMOUR, 515 3RD STREET 2</description><Point><coordinates>-85.883564, 38.961962</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/12/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JACKSON, SEYMOUR, 601 SOUTH BROADWAY STREET</description><Point><coordinates>-85.883552, 38.952528</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/24/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JACKSON, SEYMOUR, 313 EAST 5TH STREET</description><Point><coordinates>-85.887926, 38.963034</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/1/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JACKSON, SEYMOUR, 8191 NORTH REDDING ROAD</description><Point><coordinates>-85.864763, 39.000704</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/18/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JACKSON, SEYMOUR, 1046  DUTCHMAN LANE</description><Point><coordinates>-85.873786, 38.966102</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/6/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JACKSON, SEYMOUR, 1408 NORTH VINE</description><Point><coordinates>-85.886555, 38.973602</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/9/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JACKSON, VALLONIA, 984 COATS W RD</description><Point><coordinates>-86.097315, 38.845928</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/15/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JACKSON, VALLONIA, 4270 WHEELER HOLLOW RD</description><Point><coordinates>-86.164282, 38.772530</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/25/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JACKSON, VALLONIA, 3289 WEST WHEELER HOLLOW ROAD</description><Point><coordinates>-86.150419, 38.767483</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/15/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JACKSON, VALLONIA, 3806 WEST WHEELER HOLLOW ROAD</description><Point><coordinates>-86.161660, 38.772696</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

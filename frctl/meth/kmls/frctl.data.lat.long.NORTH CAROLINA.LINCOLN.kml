@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 9/25/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, LINCOLN, CHARLOTTE, 5600  AMERICAS WAY</description><Point><coordinates>-80.827587, 35.229254</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, LINCOLN, IRON STATION, 3371 JAH LN</description><Point><coordinates>-81.168137, 35.461094</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/26/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, LINCOLN, LINCOLNTON, 3345 HARMON ROAD</description><Point><coordinates>-81.331915, 35.468390</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/1/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, LINCOLN, LINCOLNTON, 2120 UNDERWOOD LANE</description><Point><coordinates>-81.307164, 35.474305</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/13/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, LINCOLN, LINCOLNTON, 2905  STARTOWN ROAD</description><Point><coordinates>-81.264463, 35.534803</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/12/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, LINCOLN, LINCOLNTON, 320  ASPEN STREET</description><Point><coordinates>-81.257505, 35.473518</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/24/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, LINCOLN, LINCOLNTON, 578  CALVARY CHURCH ROAD</description><Point><coordinates>-81.273638, 35.455336</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/8/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, LINCOLN, LINCOLNTON, 4527  HUNTER RHYNE ROAD</description><Point><coordinates>-81.123596, 35.505336</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/8/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, LINCOLN, LINCOLNTON, 702  MAUNEY DRIVE</description><Point><coordinates>-81.258952, 35.485482</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/17/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, LINCOLN, LINCOLNTON, 3183  LOOMIS STREET</description><Point><coordinates>-81.193987, 35.418164</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

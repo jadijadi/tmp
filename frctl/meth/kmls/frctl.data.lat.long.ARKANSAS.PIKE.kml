@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 10/11/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, PIKE, GLENWOOD, 440 SOUTH FIRST STREET</description><Point><coordinates>-93.548320, 34.323983</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/25/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, PIKE, LANGLEY, 81 STRAWN RD</description><Point><coordinates>-93.841859, 34.312884</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/26/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CLEVELAND, CASAR, 1570 CASAR-LAWNDALE RD</description><Point><coordinates>-81.614079, 35.511370</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/1/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CLEVELAND, CASAR, 117 COUGAR ROAD</description><Point><coordinates>-81.689854, 35.485051</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/24/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CLEVELAND, CASAR, 326  TURNER ROAD</description><Point><coordinates>-81.636918, 35.502265</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/26/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CLEVELAND, GROVER, 223  WATTERSON ROAD</description><Point><coordinates>-81.463574, 35.176880</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CLEVELAND, KINGS MOUNTAIN, 111-1 PEAK DR</description><Point><coordinates>-81.401722, 35.179754</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/23/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CLEVELAND, KINGS MOUNTAIN, 6227 ADELE LANE</description><Point><coordinates>-81.381993, 35.216844</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/25/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CLEVELAND, KINGS MOUNTAIN, 1047  BETHLEHEM CHURCH ROAD</description><Point><coordinates>-81.441397, 35.197692</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/14/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CLEVELAND, KINGS MOUNTAIN, 423  MOUNTAIN SPRING COURT 203</description><Point><coordinates>-81.365274, 35.239449</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/18/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CLEVELAND, KINGS MOUNTAIN, 146  PARKGRACE ROAD</description><Point><coordinates>-81.361375, 35.216703</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/3/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CLEVELAND, LAWNDALE, 334 CARPENTERS GROVE CHURCH RD</description><Point><coordinates>-81.533448, 35.482674</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/26/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CLEVELAND, LAWNDALE, 140  GATEWOOD DRIVE</description><Point><coordinates>-81.505804, 35.439955</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/12/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CLEVELAND, SHELBY, 1619 RED RD</description><Point><coordinates>-81.594685, 35.233923</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/12/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CLEVELAND, SHELBY, 27 LE NICK DR</description><Point><coordinates>-81.594215, 35.232443</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/26/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CLEVELAND, SHELBY, 1810 LAFAYETTE S ST 4</description><Point><coordinates>-81.564697, 35.256040</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/30/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CLEVELAND, SHELBY, 353 GRICE ST</description><Point><coordinates>-81.532227, 35.284218</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/16/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CLEVELAND, SHELBY, 1619 RED ROAD</description><Point><coordinates>-81.594685, 35.233923</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/9/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CLEVELAND, SHELBY, 1810 SOUTH LAFAYETTE STREET</description><Point><coordinates>-81.564697, 35.256040</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/20/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CLEVELAND, SHELBY, 111  ANTHONY LAKE DRIVE</description><Point><coordinates>-81.658128, 35.206803</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/30/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CLEVELAND, SHELBY, 102  SERRO COURT</description><Point><coordinates>-81.640415, 35.287610</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/2/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CLEVELAND, SHELBY, 809  HOWARD STREET</description><Point><coordinates>-81.552960, 35.280471</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/19/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, BOONE, AMES, 6100 WEST LINCOLN WAY 3</description><Point><coordinates>-93.698805, 42.022737</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, BOONE, BOONE, 1804 3RD W</description><Point><coordinates>-93.917587, 42.059249</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/8/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, BOONE, BOONE, 308  JACKSON STREET</description><Point><coordinates>-93.867571, 42.059247</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/7/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, BOONE, MADRID, 9TH STREET 111</description><Point><coordinates>-93.820255, 41.869728</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, BOONE, ODGEN, 965 22ND DR 1</description><Point><coordinates>-93.880227, 42.059705</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

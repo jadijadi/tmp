@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/1/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, PUTNAM, BAINBRIDGE, 6052 COUNTY ROAD 600 NORTH E</description><Point><coordinates>-86.740488, 39.747177</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/31/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, PUTNAM, GREENCASTLE, 3191 VANBIBBER LAKE ESTATE</description><Point><coordinates>-86.929069, 39.729245</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/9/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, PUTNAM, GREENCASTLE, 404 NORTH COLLEGE</description><Point><coordinates>-86.862743, 39.647908</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, PUTNAM, REELSVILLE, 7968 COUNTY ROAD 1000 SOUTH W</description><Point><coordinates>-86.994902, 39.516969</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/13/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, PUTNAM, REELSVILLE, 6421 WEST CR 1025 SOUTH</description><Point><coordinates>-86.965778, 39.512115</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

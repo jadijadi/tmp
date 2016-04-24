@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/28/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, CARROLL, ALPENA, 733  COUNTY ROAD 811</description><Point><coordinates>-93.319973, 36.311011</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/29/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, CARROLL, ALPENA, 5595  COUNTY RD 905</description><Point><coordinates>-93.405719, 36.258163</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/5/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, CARROLL, BERRYVILLE, 2300 CR 504</description><Point><coordinates>-93.572115, 36.294819</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/5/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, CARROLL, BERRYVILLE, 285 COUNTY ROAD 405</description><Point><coordinates>-93.539089, 36.431315</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/29/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, CARROLL, BERRYVILLE, 1224 JESSICA AVENUE</description><Point><coordinates>-93.550467, 36.364708</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/31/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, CARROLL, BERRYVILLE, 705  EUREKA AVENUE</description><Point><coordinates>-93.575453, 36.367104</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/14/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, CARROLL, BERRYVILLE, 511  MAIN</description><Point><coordinates>-93.569699, 36.369616</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/27/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, CARROLL, EUREKA SPRINGS, 19418 HIGHWAY 62 WEST W</description><Point><coordinates>-93.831101, 36.467324</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, CARROLL, GREEN FOREST, 13507 HWY 62 E 3</description><Point><coordinates>-93.436019, 36.335347</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, CARROLL, GREEN FOREST, 2693 U.S. HWY 62 E HWY</description><Point><coordinates>-93.515070, 36.352392</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/13/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, CARROLL, GREEN FOREST, 1450  !03 SOUTH</description><Point><coordinates>-93.429513, 36.342569</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/22/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, CARROLL, GREEN FOREST, 6  SANFORD</description><Point><coordinates>-93.446560, 36.337912</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/10/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, CARROLL, GREEN FOREST, 607 SOUTH SPRINGFIELD SHOAL</description><Point><coordinates>-93.436019, 36.335347</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/11/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, CARROLL, GREEN FOREST, 82  COUNTY ROAD 614</description><Point><coordinates>-93.435803, 36.456196</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/13/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, CARROLL, HUNTSVILLE, 661 CR 723</description><Point><coordinates>-93.507534, 36.192808</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, CARROLL, HUNTSVILLE, 2181 CR 516</description><Point><coordinates>-93.575002, 36.212986</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, CARROLL, OAK GROVE, 9507 HWY 103 N</description><Point><coordinates>-93.431252, 36.437931</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/9/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, LAKE, ALTOONA, 47443 HIBISCUS ROAD</description><Point><coordinates>-81.629168, 29.040369</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/6/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, LAKE, CLERMONT, 18720 TRIPLE E RD</description><Point><coordinates>-81.715888, 28.619182</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, LAKE, CLERMONT, 1204 LAKE DR</description><Point><coordinates>-81.775580, 28.543811</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/2/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, LAKE, CLERMONT, 785 HOOK ST</description><Point><coordinates>-81.743995, 28.542805</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/29/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, LAKE, CLERMONT, 14611 GREEN VALLEY BOULEVARD</description><Point><coordinates>-81.812317, 28.558245</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/24/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, LAKE, CLERMONT, 828 CENTER LANE</description><Point><coordinates>-81.743402, 28.541471</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/28/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, LAKE, CLERMONT, 460 NORTH STREET</description><Point><coordinates>-81.749605, 28.567088</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/16/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, LAKE, CLERMONT, 21501  COUNTY ROAD 455</description><Point><coordinates>-81.747190, 28.665013</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/27/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, LAKE, DE LAND, 42901 JEWELL DRIVE</description><Point><coordinates>-81.438017, 28.972758</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/16/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, LAKE, DE LAND, 31706  LAKESIDE DRIVE</description><Point><coordinates>-81.429636, 28.999333</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/21/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, LAKE, DE LAND, 42901  JEWEL DRIVE</description><Point><coordinates>-81.438017, 28.972758</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/2/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, LAKE, DE LAND, 31706  COUNTY ROAD 42</description><Point><coordinates>-81.430083, 29.003777</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/17/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, LAKE, DE LAND, 31114  LAKE HOLLY ROAD</description><Point><coordinates>-81.439458, 28.994904</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/15/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, LAKE, EUSTIS, 8 LAUREL LN</description><Point><coordinates>-81.662567, 28.853883</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/4/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, LAKE, EUSTIS, 316 CAROLINE ST</description><Point><coordinates>-81.725596, 28.805030</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/28/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, LAKE, FERNDALE, 18739 THIER AVENUE</description><Point><coordinates>-81.703409, 28.621942</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/11/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, LAKE, FERNDALE, 18926 THIRA AVENUE</description><Point><coordinates>-81.703409, 28.621942</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/4/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, LAKE, FERNDALE, 18739  3RD AVENUE</description><Point><coordinates>-81.697208, 28.618484</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/27/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, LAKE, FERNDALE, 18730  COUNTY ROAD 455</description><Point><coordinates>-81.702715, 28.619565</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/30/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, LAKE, FRUITLAND PARK, 213 EAST MIRROR LAKE DRIVE D</description><Point><coordinates>-81.909704, 28.856659</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/9/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, LAKE, LADY LAKE, 2948  TEMPLE HILL ROAD</description><Point><coordinates>-81.903755, 28.890422</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/3/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, LAKE, LAKE MACK PARK, 43027  JEWEL DRIVE</description><Point><coordinates>-81.515754, 27.664827</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/5/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, LAKE, LEESBURG, 29 CROSSEN LN</description><Point><coordinates>-81.771370, 28.819641</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/27/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, LAKE, LEESBURG, 21726 27 HIGHWAY</description><Point><coordinates>-81.851145, 28.663524</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/2/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, LAKE, LEESBURG, 899  SANDI DRIVE 303</description><Point><coordinates>-81.785088, 28.869080</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/19/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, LAKE, LEESBURG, 615 NORTH 14TH STREET</description><Point><coordinates>-81.887501, 28.818038</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/1/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, LAKE, LEESBURG, 718  MARIETTA STREET</description><Point><coordinates>-81.882097, 28.804816</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/17/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, LAKE, LEESBURG, 34525  LARALACK AVENUE</description><Point><coordinates>-81.773064, 28.852326</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/4/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, LAKE, MONTVERDE, 16739  HEATHERWOOD LANE</description><Point><coordinates>-81.677571, 28.585174</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/21/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, LAKE, MONTVERDE, 16739  HEATHERWOOD LANE</description><Point><coordinates>-81.677571, 28.585174</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/30/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, LAKE, MOUNT PLYMOUTH, 112 HILLSBROUGH DRIVE</description><Point><coordinates>-81.529813, 28.788927</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/8/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, LAKE, PAISLEY, 25130  RANCHO LANE</description><Point><coordinates>-81.540411, 28.997243</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/28/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, LAKE, TAVARES, 300  COUNTY ROAD 448</description><Point><coordinates>-81.730962, 28.765300</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/2/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, LAKE, TAVARES, 14229  LAKE EUSTIS DRIVE</description><Point><coordinates>-81.764211, 28.828379</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/5/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, LAKE, UMATILLA, 37225 WILEY LN</description><Point><coordinates>-81.681856, 28.889874</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/30/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, LAKE, UMATILLA, 933 NORTH CENTAL AVENUE</description><Point><coordinates>-81.666126, 28.939443</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

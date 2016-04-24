@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/17/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, DARLINGTON, DARLINGTON, 213 LAMAR HIGHWAY</description><Point><coordinates>-79.887818, 34.293448</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, DARLINGTON, HARTSVILLE, 1216 EAST BOBO NEWSOM HIGHWAY</description><Point><coordinates>-80.034829, 34.320584</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/1/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, DARLINGTON, HARTSVILLE, 1363  ANTIOCH ROAD</description><Point><coordinates>-80.050546, 34.408084</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/7/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, DARLINGTON, HARTSVILLE, 2393  PATRICK HIGHWAY</description><Point><coordinates>-80.036288, 34.451433</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 9/27/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, PAULDING, DALLAS, 163 COTTONWOOD LP</description><Point><coordinates>-84.816950, 33.924410</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/19/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, PAULDING, DALLAS, 1345 TOWNE LAKE HILLS S 107</description><Point><coordinates>-84.841306, 33.924453</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/27/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, PAULDING, HIRAM, 1257 PACE RD 208</description><Point><coordinates>-84.757725, 33.895382</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/15/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, PAULDING, HIRAM, 106 HIRAM TERRACE ROAD</description><Point><coordinates>-84.756790, 33.894726</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

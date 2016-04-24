@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/13/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, CHATHAM, BLOOMINGDALE, 85 GODLEY ROAD</description><Point><coordinates>-81.294654, 32.165275</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/7/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, CHATHAM, GARDEN CITY, 59 LEISURE DRIVE</description><Point><coordinates>-81.153914, 32.098483</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/7/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, CHATHAM, GARDEN CITY, 4833  OLD LOUISVILLE ROAD</description><Point><coordinates>-81.186059, 32.095216</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/13/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, CHATHAM, PORT WENTWORTH, 6556 HIGHWAY 21</description><Point><coordinates>-81.181635, 32.168058</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/25/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, CHATHAM, SAVANNAH, 5103  GARRARDO AVENUE</description><Point><coordinates>-81.099834, 32.083541</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/19/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, CHATHAM, SAVANNAH, 4800  BUTLER AVENUE</description><Point><coordinates>-81.055513, 32.025666</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/22/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, CHATHAM, SAVANNAH, 1814 EAST 39TH STREET</description><Point><coordinates>-81.070482, 32.047818</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

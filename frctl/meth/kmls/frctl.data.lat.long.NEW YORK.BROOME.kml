@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/10/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, BROOME, BARKER, 470 CONKLIN HILL RD</description><Point><coordinates>-75.860868, 42.278844</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/21/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, BROOME, BARKER, 265 JOYNER ROAD</description><Point><coordinates>-75.929181, 42.286565</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/24/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, BROOME, BARKER, 6480 STATE ROUTE 79</description><Point><coordinates>-75.838718, 42.243363</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/14/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, BROOME, BINGHAMTON, 426 CONKLIN AVE</description><Point><coordinates>-75.876441, 42.100578</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/23/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, BROOME, BINGHAMTON, 21  GREEN MEADOW LANE</description><Point><coordinates>-75.837455, 42.184143</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/26/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, BROOME, BINGHAMTON, 23  BLANCHARD AVENUE</description><Point><coordinates>-75.896415, 42.122638</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/14/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, BROOME, BINGHAMTON, 33  EVANS STREET</description><Point><coordinates>-75.896916, 42.093020</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/4/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, BROOME, CAMDEN, 9007  MILL STREET</description><Point><coordinates>-75.763413, 43.337713</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/11/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, BROOME, DEWITTVILLE, 304  WASHBURN DRIVE</description><Point><coordinates>-74.005941, 40.712784</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/10/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, BROOME, ENDICOTT, 87 SKY ISLAND DR</description><Point><coordinates>-76.057598, 42.105246</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/20/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, BROOME, ENDICOTT, 422  FIRTH STREET</description><Point><coordinates>-76.071683, 42.095136</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/1/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, BROOME, HASTINGS, 284  HUNT HILL</description><Point><coordinates>-74.005941, 40.712784</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/24/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, BROOME, JOHNSON CITY, 22 CAMDEN STREET</description><Point><coordinates>-75.977670, 42.114561</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/25/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, BROOME, JOHNSON CITY, 0403  ENDICOTT AVENUE</description><Point><coordinates>-75.952230, 42.111576</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/18/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, BROOME, LISLE, 631 MT. HUNGER ROAD</description><Point><coordinates>-76.051450, 42.333213</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/21/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, BROOME, MAINE, 38 HOSKINS RD</description><Point><coordinates>-76.087645, 42.250869</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/9/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, BROOME, MAINE, 38 HOSKIN RD</description><Point><coordinates>-76.087645, 42.250869</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/9/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, BROOME, MAINE, 47 TOWN ROAD</description><Point><coordinates>-76.061012, 42.250828</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/14/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, BROOME, RICHFORD, 453 PAYNE MARSH ROAD</description><Point><coordinates>-76.177413, 42.351686</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/20/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, BROOME, UNION, 223  WILSON AVENUE</description><Point><coordinates>-76.036368, 42.112937</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/17/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, BROOME, WHITNEY POINT, 5176 SR 26 ST</description><Point><coordinates>-75.967700, 42.328963</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/16/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, BROOME, WHITNEY POINT, 2621  LIBERTY STREET APT. 2</description><Point><coordinates>-75.968524, 42.327821</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

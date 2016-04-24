@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, MASON, BELFAIR, 17052 E 106 HWY</description><Point><coordinates>-122.886541, 47.405523</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/14/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, MASON, BELFAIR, 291 NE MCKNIGHT RD</description><Point><coordinates>-122.820837, 47.463818</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/2/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, MASON, BELFAIR, 1000 SANDHILL RD</description><Point><coordinates>-122.845075, 47.461432</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/29/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, MASON, BELFAIR, 102 NORTHEAST RAINBOW LANE</description><Point><coordinates>-122.863738, 47.452695</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, MASON, SHELTON, 951 CRESCENT SE DR</description><Point><coordinates>-123.062447, 47.161247</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

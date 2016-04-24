@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 12/11/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, ALLEGANY, ALMA, 4823  BYRNE ROAD</description><Point><coordinates>-78.005644, 42.084480</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/12/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, ALLEGANY, INDEPENDENCE, 729 SNOW ROAD</description><Point><coordinates>-77.776180, 42.014919</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/22/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, ALLEGANY, NEW HUDSON, 7290 RAWSON ROAD</description><Point><coordinates>-78.300973, 42.268871</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/26/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, ALLEGANY, WELLSVILLE, 23 SOUTH MAIN STREET,  APT. 6</description><Point><coordinates>-77.943437, 42.119552</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/26/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, ALLEGANY, WELLSVILLE, 23 SOUTH MAIN STREET,  APT.6</description><Point><coordinates>-77.943437, 42.119552</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/26/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, ALLEGANY, WELLSVILLE, 25 MADISON STREET,  APT. 7</description><Point><coordinates>-77.947426, 42.122428</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/26/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, ALLEGANY, WELLSVILLE, 22  ELM STREET</description><Point><coordinates>-77.951862, 42.124840</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/21/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, ALLEGANY, BOLIVAR, 1440 KANSAS HOLLOW ROAD</description><Point><coordinates>-78.144533, 42.062920</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

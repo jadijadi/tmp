@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 10/3/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, MARION, BELLEVIEW, 11400 SOUTHEAST 76 AVENUE</description><Point><coordinates>-82.027593, 29.056409</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, MARION, DUNNELLON, 9115 156 SE PL</description><Point><coordinates>-82.271258, 28.995602</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/28/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, MARION, DUNNELLON, 11153 SOUTHWEST 151ST PLACE</description><Point><coordinates>-82.304471, 29.002746</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/29/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, MARION, FORT MCCOY, 24970 NORTHEAST 132ND STREET</description><Point><coordinates>-81.742520, 29.344708</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/22/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, MARION, FORT MCCOY, 14235 NORTHEAST NE 223RD LN LANE</description><Point><coordinates>-81.921901, 29.476446</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/9/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, MARION, FORT MCCOY, 0  12530 EAST HWY 318</description><Point><coordinates>-81.951576, 29.498608</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/5/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, MARION, OCALA, 5950 100 NW ST</description><Point><coordinates>-82.217312, 29.295876</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/23/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, MARION, OCALA, 9410 SOUTHEAST 192 COURT</description><Point><coordinates>-81.833832, 29.085661</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/3/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, MARION, OCALA, 1800 NORTHEAST 14TH STREET</description><Point><coordinates>-82.113622, 29.200594</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/9/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, MARION, OCALA, 1601 SOUTHWEST 27TH AVENUE 605</description><Point><coordinates>-82.166698, 29.172687</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/2/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, MARION, OCALA, 18951 NORTHEAST 96 PLACE</description><Point><coordinates>-82.279605, 29.074211</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/10/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, MARION, OCALA, 2511 SOUTHEAST 177 AVENUE</description><Point><coordinates>-81.858324, 29.163474</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/25/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, MARION, OCALA, 5311 SE 29TH COURT</description><Point><coordinates>-82.096055, 29.133575</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/2/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, MARION, OCALA RIDGE, 5055 SW 154TH LOOP</description><Point><coordinates>-82.140092, 29.187199</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/18/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, MARION, OCKLAWAHA, 9815 SOUTHEAST 191 TERRACE</description><Point><coordinates>-81.835109, 29.090593</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/8/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, MARION, OCKLAWAHA, 19091 SOUTHEAST 95TH STREET</description><Point><coordinates>-81.836227, 29.084509</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/15/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, MARION, OCKLAWAHA, 10655 SOUTHEAST 130TH PLACE</description><Point><coordinates>-81.976090, 29.032862</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, MARION, SILVER SPRINGS, 1025 163RD SE AVE</description><Point><coordinates>-81.882449, 29.177544</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/3/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, MARION, SILVER SPRINGS, 14020 46TH ST LACOTA NE RD</description><Point><coordinates>-81.922393, 29.232887</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/19/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, MARION, SILVER SPRINGS, 18170 18TH SE ST</description><Point><coordinates>-81.850665, 29.169394</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/12/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, MARION, SILVER SPRINGS, 16795 SOUTHEAST 9TH STREET</description><Point><coordinates>-81.874799, 29.178348</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/26/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, MARION, SUMMERFIELD, 8250 SOUTHEAST 159TH PLACE</description><Point><coordinates>-82.017078, 28.990550</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/25/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, MARION, SUMMERFIELD, 16801 SOUTHEAST HWY 301  25</description><Point><coordinates>-82.034809, 29.008592</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/8/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, MARION, SUMMERFIELD, 10110 SE 169TH LANE</description><Point><coordinates>-81.985247, 28.974899</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/10/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, MARION, UMATILLA, 14425 SOUTHEAST 209TH TERRACE</description><Point><coordinates>-81.808058, 29.012620</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/4/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, MARION, UMATILLA, 14126 SOUTHEAST 209TH TERRACE</description><Point><coordinates>-81.808226, 29.016985</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/21/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, MARION, UMATILLA, 15345 SOUTHEAST 182ND AVENUE</description><Point><coordinates>-81.801431, 28.997562</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/9/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, MARION, UMATILLA, 14200 SOUTHEAST 105TH COURT</description><Point><coordinates>-81.515754, 27.664827</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/15/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, MARION, UMATILLA, 17040 SOUTHEAST 272 COURT</description><Point><coordinates>-81.703359, 28.979566</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/12/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, MARION, UMATILLA, 21597 SOUTHEAST 148 PLACE</description><Point><coordinates>-81.797837, 29.007059</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/17/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, MARION, UMATILLA, 28449  172ND  SE STREET</description><Point><coordinates>-81.683496, 28.972203</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/9/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, MARION, UMATILLA, 14950  218 TERRACE</description><Point><coordinates>-81.793212, 29.005086</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/18/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, MARION, , 4270 150TH STREET</description><Point><coordinates>-82.197299, 29.366879</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

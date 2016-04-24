@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/4/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CLINTON, CAMERON, 625 KELSEY</description><Point><coordinates>-94.242481, 39.733954</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/27/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CLINTON, CAMERON, 108 SOUTH ORANGE</description><Point><coordinates>-94.233282, 39.739988</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/19/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CLINTON, GOWER, 9198  268TH</description><Point><coordinates>-94.582252, 39.580006</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

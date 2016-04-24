@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/19/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, JOHNSON, DE SOTO, 34055 WEST 86 TRAIL</description><Point><coordinates>-94.980555, 38.971837</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/14/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, JOHNSON, GARDNER, 130 MADISON E 7</description><Point><coordinates>-94.926948, 38.816653</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/24/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, JOHNSON, LEAWOOD, 13700  SAGAMORE STREET 12</description><Point><coordinates>-94.611144, 38.879454</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, JOHNSON, LENEXA, 12500 87TH W ST</description><Point><coordinates>-94.730740, 38.971103</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, JOHNSON, LENEXA, 8120 SWARNER</description><Point><coordinates>-94.764634, 38.968953</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/31/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, JOHNSON, MERRIAM, 9622 55TH W ST</description><Point><coordinates>-94.698010, 39.029844</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/8/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, JOHNSON, OLATHE, 16518 132RD W</description><Point><coordinates>-94.777056, 38.889133</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/9/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, JOHNSON, OLATHE, 1369 RIDGE N PKWY</description><Point><coordinates>-94.789919, 38.904502</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/7/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, JOHNSON, OLATHE, 11675  STRANG LINE ROAD</description><Point><coordinates>-94.759068, 38.917104</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/19/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, JOHNSON, OLATHE, 501 S SUNSET DRIVE</description><Point><coordinates>-94.801729, 38.877383</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, JOHNSON, OVERLAND PARK, 9001 HADLEY</description><Point><coordinates>-94.681874, 38.965331</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/15/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, JOHNSON, OVERLAND PARK, 9432 HARDY</description><Point><coordinates>-94.681302, 38.957272</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/7/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, JOHNSON, PRAIRIE VILLAGE, 7526 NORWOOD</description><Point><coordinates>-94.617834, 38.992300</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/31/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, JOHNSON, SHAWNEE, 12408 52 W TER</description><Point><coordinates>-94.730322, 39.033629</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/26/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, JOHNSON, SHAWNEE, 7612 KING W E</description><Point><coordinates>-94.718030, 38.991041</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/17/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, JOHNSON, SHAWNEE, 11137 76TH W TER 34</description><Point><coordinates>-94.717034, 38.990192</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/15/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, JOHNSON, SHAWNEE, 6323 SOUTH HALLET STREET</description><Point><coordinates>-94.749492, 39.013816</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 7/10/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, NEW YORK, CORTLAND, 143  MADISON AVENUE</description><Point><coordinates>-76.194705, 42.603284</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/2/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, NEW YORK, MANHATTAN, 330 WEST 45TH STREET APT 8</description><Point><coordinates>-73.989969, 40.759609</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/29/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, NEW YORK, NEW YORK, 330 EAST 39TH STREET</description><Point><coordinates>-73.972450, 40.747184</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/4/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, NEW YORK, NEW YORK, 386 MANHATTAN AVENUE</description><Point><coordinates>-73.956403, 40.805155</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

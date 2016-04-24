@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/12/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, JACKSON, BRADFORD, 1290 JACKSON 197 S RD</description><Point><coordinates>-91.566034, 35.478789</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/6/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, JACKSON, BRADFORD, 5831 JACKSON 6 ROAD</description><Point><coordinates>-91.508234, 35.480614</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/6/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, JACKSON, BRADFORD, 5833 JACKSON 6 ROAD</description><Point><coordinates>-91.508234, 35.480614</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/15/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, JACKSON, BRADFORD, 168 JACKSON COUNTY ROAD #4</description><Point><coordinates>-91.494381, 35.484836</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/9/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, JACKSON, BRADFORD, 1568  167</description><Point><coordinates>-91.576958, 35.448595</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/23/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, JACKSON, GRUBBS, 345 ELM N ST</description><Point><coordinates>-91.076614, 35.651218</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/23/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, JACKSON, GRUBBS, GRUBBS,  AR JACKSON 72431</description><Point><coordinates>-91.070287, 35.650258</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/3/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, JACKSON, GRUBBS, 175 NORTH ELM STREET</description><Point><coordinates>-91.076560, 35.649850</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/5/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, JACKSON, GRUBBS, 115 EAST NANCE STREET</description><Point><coordinates>-91.073780, 35.652243</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/18/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, JACKSON, HICKORY RIDGE, 5068  JACKSON 29</description><Point><coordinates>-91.078216, 35.457855</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/3/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, JACKSON, NEWPORT, 1000 LELIA STREET</description><Point><coordinates>-91.255273, 35.614691</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/13/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, JACKSON, NEWPORT, 8088 SOUTH 367</description><Point><coordinates>-91.405168, 35.479797</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/10/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, JACKSON, NEWPORT, 610 LAKESHORE DRIVE</description><Point><coordinates>-91.272875, 35.604439</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/4/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, JACKSON, NEWPORT, 1513 HINES</description><Point><coordinates>-91.261000, 35.603230</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/4/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, JACKSON, NEWPORT, 1582 SOUTH HIGHWAY 37</description><Point><coordinates>-91.115799, 35.543501</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/13/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, JACKSON, NEWPORT, 800 MANNING</description><Point><coordinates>-91.273666, 35.612667</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/9/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, JACKSON, NEWPORT, 2344 JACKSON 19</description><Point><coordinates>-91.190790, 35.503347</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/27/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, JACKSON, NEWPORT, 7888 SOUTH HIGHWAY 224</description><Point><coordinates>-91.277137, 35.491206</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/7/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, JACKSON, NEWPORT, 800 MCCLAIN STREET</description><Point><coordinates>-91.281795, 35.604802</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/15/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, JACKSON, NEWPORT, 1205  MCLAIN</description><Point><coordinates>-91.264990, 35.608362</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/2/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, JACKSON, SWIFTON, 601 WEST 2ND STREET</description><Point><coordinates>-91.132988, 35.830813</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

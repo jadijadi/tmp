@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/10/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, LEFLORE, ARKOMA, 1209 ROCK ISLAND E</description><Point><coordinates>-97.092877, 35.007752</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/7/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, LEFLORE, ARKOMA, 402 1/2 MAIN E</description><Point><coordinates>-97.092877, 35.007752</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/3/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, LEFLORE, CALHOUN, 18712  HUDSON CORNER ROAD</description><Point><coordinates>-97.092877, 35.007752</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/8/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, LEFLORE, CAMERON, 29031  CABIN LANE</description><Point><coordinates>-97.092877, 35.007752</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/24/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, LEFLORE, CAMERON, 20706  FIELDS LANE</description><Point><coordinates>-97.092877, 35.007752</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/13/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, LEFLORE, HEAVENER, 1800 SOUTH GRAY STREET</description><Point><coordinates>-97.092877, 35.007752</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/20/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, LEFLORE, HEAVENER, 2406 PRYOR E AVE</description><Point><coordinates>-97.092877, 35.007752</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/5/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, LEFLORE, HEAVENER, 106  ROWE AVENUE</description><Point><coordinates>-97.092877, 35.007752</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/16/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, LEFLORE, MUSE, 22756 CEDAR  RD</description><Point><coordinates>-97.092877, 35.007752</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/21/2000</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, LEFLORE, PANAMA, 17117  SHELLEY CARLILE DRIVE</description><Point><coordinates>-97.092877, 35.007752</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/22/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, LEFLORE, PANAMA, 739 RIVERSIDE  DR</description><Point><coordinates>-97.092877, 35.007752</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/7/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, LEFLORE, PANAMA, 205 CHOCTAW  ST</description><Point><coordinates>-97.092877, 35.007752</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/17/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, LEFLORE, POCOLA, 203 BLACKWELL  ST</description><Point><coordinates>-97.092877, 35.007752</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/13/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, LEFLORE, POTEAU, 113 HICKMAN  ST</description><Point><coordinates>-97.092877, 35.007752</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/17/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, LEFLORE, POTEAU, 601 INDIANA S ST</description><Point><coordinates>-97.092877, 35.007752</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/4/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, LEFLORE, SHADY POINT, 800 WASHINGTON</description><Point><coordinates>-77.036871, 38.907192</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/4/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, LEFLORE, SHADY POINT, 310 ILLINOIS N ST</description><Point><coordinates>-97.092877, 35.007752</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/31/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, LEFLORE, SPIRO, 606 MISSOURI</description><Point><coordinates>-91.831833, 37.964253</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/31/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, LEFLORE, SPIRO, 803 MCKENZIE W AVE</description><Point><coordinates>-97.092877, 35.007752</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/26/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, LEFLORE, SPIRO, 1700 CENTRAL  ST</description><Point><coordinates>-97.092877, 35.007752</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, LEFLORE, SPIRO, 704 OKLAHOMA  ST</description><Point><coordinates>-97.092877, 35.007752</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

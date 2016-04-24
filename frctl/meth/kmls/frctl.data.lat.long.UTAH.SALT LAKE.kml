@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 8/8/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: UTAH, SALT LAKE, BLUFFDALE, 14036 2200 WEST S</description><Point><coordinates>-111.948476, 40.496194</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/11/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: UTAH, SALT LAKE, DRAPER, 304 WEST 13240 SOUTH</description><Point><coordinates>-111.899589, 40.511027</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/9/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: UTAH, SALT LAKE, DRAPER, 11585  700 EAST</description><Point><coordinates>-111.871172, 40.541159</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: UTAH, SALT LAKE, KEARNS, 4027 ZODIAC W DR</description><Point><coordinates>-111.987155, 40.641648</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/15/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: UTAH, SALT LAKE, KEARNS, 5423 5540 SOUTH W</description><Point><coordinates>-112.020260, 40.649962</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/30/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: UTAH, SALT LAKE, KEARNS, 4834 SOUTH 4860 WEST</description><Point><coordinates>-112.007086, 40.664392</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: UTAH, SALT LAKE, MIDVALE, 8273 SOUTH IVY DRIVE</description><Point><coordinates>-111.904979, 40.600819</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/4/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: UTAH, SALT LAKE, MIDVALE, 98 EAST FORBUSH AVENUE</description><Point><coordinates>-111.888261, 40.613398</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/15/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: UTAH, SALT LAKE, MIDVALE, 7263 CATALPA ROAD</description><Point><coordinates>-111.902116, 40.619143</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/17/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: UTAH, SALT LAKE, MURRAY, 538 MURRAY W BLVD 8S</description><Point><coordinates>-111.906589, 40.657969</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/9/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: UTAH, SALT LAKE, MURRAY, 5274 SOUTH ALLENDALE</description><Point><coordinates>-111.908688, 40.656616</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/13/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: UTAH, SALT LAKE, SALT LAKE CITY, 1236 VICTORIA N WAY</description><Point><coordinates>-111.918956, 40.795773</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/21/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: UTAH, SALT LAKE, SALT LAKE CITY, 2759 700 EAST S</description><Point><coordinates>-111.871165, 40.711184</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: UTAH, SALT LAKE, SALT LAKE CITY, 2870 BLAIR S ST 9</description><Point><coordinates>-111.881416, 40.708718</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/14/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: UTAH, SALT LAKE, SALT LAKE CITY, 833 WHITE MAPLE E WAY</description><Point><coordinates>-111.867590, 40.690177</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/23/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: UTAH, SALT LAKE, SALT LAKE CITY, 1333 (a) 600 S</description><Point><coordinates>-111.853042, 40.756339</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/13/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: UTAH, SALT LAKE, SALT LAKE CITY, 4345 South 1300 EAST E</description><Point><coordinates>-111.853686, 40.677157</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/14/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: UTAH, SALT LAKE, SALT LAKE CITY, 1275 GUNN E AVE</description><Point><coordinates>-111.854603, 40.704392</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: UTAH, SALT LAKE, SALT LAKE CITY, 139 MACARTHUR W AVE</description><Point><coordinates>-111.895218, 40.728469</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/19/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: UTAH, SALT LAKE, SALT LAKE CITY, 2870 BLAIR S ST 9</description><Point><coordinates>-111.881416, 40.708718</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/8/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: UTAH, SALT LAKE, SALT LAKE CITY, 4500 5726 SOUTH W</description><Point><coordinates>-111.938419, 40.689348</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/3/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: UTAH, SALT LAKE, SALT LAKE CITY, 1150 RICHARDS S ST</description><Point><coordinates>-111.892990, 40.744029</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/6/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: UTAH, SALT LAKE, SALT LAKE CITY, 2357 SOUTH 500 EAST</description><Point><coordinates>-111.876754, 40.742697</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/17/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: UTAH, SALT LAKE, SALT LAKE CITY, 1573 3010 SOUTH E</description><Point><coordinates>-111.845727, 40.705827</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/21/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: UTAH, SALT LAKE, SALT LAKE CITY, 1023 SOUTH</description><Point><coordinates>-111.859624, 40.718416</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/20/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: UTAH, SALT LAKE, SALT LAKE CITY, 651 WARNOCK AVENUE</description><Point><coordinates>-111.872479, 40.717571</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/2/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: UTAH, SALT LAKE, SALT LAKE CITY, 722 WALL N ST 4</description><Point><coordinates>-111.896324, 40.785184</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/14/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: UTAH, SALT LAKE, SANDY, 9465 STREATHAM S RD A</description><Point><coordinates>-111.895948, 40.579309</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: UTAH, SALT LAKE, SANDY, 39 MARS E WAY</description><Point><coordinates>-111.889487, 40.597885</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/23/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: UTAH, SALT LAKE, SANDY, 8746 1225 S</description><Point><coordinates>-111.855901, 40.592267</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/12/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: UTAH, SALT LAKE, SANDY, 2120 SEGO LILY E DR</description><Point><coordinates>-111.830448, 40.562750</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: UTAH, SALT LAKE, SOUTH SALT LAKE, 48 3300 SOUTH W 243</description><Point><coordinates>-111.922735, 40.705148</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/6/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: UTAH, SALT LAKE, TAYLORSVILLE, 4575 KNIGHTSBRIDGE S RD</description><Point><coordinates>-111.938826, 40.667725</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: UTAH, SALT LAKE, TAYLORSVILLE, 5032 GALILEO S LN</description><Point><coordinates>-111.944882, 40.659633</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/9/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: UTAH, SALT LAKE, TAYLORSVILLE, 3553 VALLEY HEIGHTS W DR 7</description><Point><coordinates>-111.976330, 40.660347</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/6/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: UTAH, SALT LAKE, TAYLORSVILLE, 4847 SOUTH 4015 WEST</description><Point><coordinates>-111.986890, 40.636730</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: UTAH, SALT LAKE, WEST JORDAN, 3759 7800 SOUTH W</description><Point><coordinates>-111.980454, 40.609553</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/5/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: UTAH, SALT LAKE, WEST VALLEY CITY, 6296 HIGATE W AVE</description><Point><coordinates>-112.041516, 40.694267</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/21/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: UTAH, SALT LAKE, WEST VALLEY CITY, 7185 TEN W WAY</description><Point><coordinates>-111.969958, 40.660689</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/29/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: UTAH, SALT LAKE, WEST VALLEY CITY, 3158 COVE W DR</description><Point><coordinates>-112.005923, 40.654977</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 9/14/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, EMMET, BATTLE CREEK, 135  WATTS</description><Point><coordinates>-85.131940, 42.309734</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/3/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, EMMET, PETOSKEY, 1317  CRESTVIEW STREET APT 30</description><Point><coordinates>-84.967165, 45.362626</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/25/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, ALLEN, LIMA, 826 FINDLAY ROAD</description><Point><coordinates>-84.093259, 40.752523</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/15/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, ALLEN, LIMA, 633 SOUTH PRIMEROSE PLACE</description><Point><coordinates>-84.142667, 40.733039</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/7/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, ALLEN, LIMA, 1820 SOUTH WAPAK ROAD</description><Point><coordinates>-84.204531, 40.713621</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/23/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, ALLEN, LIMA, 124 PILGRIM TRAIL</description><Point><coordinates>-84.042934, 40.730317</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/30/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, ALLEN, LIMA, 1409 WILSON</description><Point><coordinates>-84.147890, 40.721826</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/30/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, ALLEN, LIMA, 916 CRAYTON</description><Point><coordinates>-84.147113, 40.723651</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/11/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, ALLEN, LIMA, 530 EAST KIBBY STREET</description><Point><coordinates>-84.097791, 40.730044</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

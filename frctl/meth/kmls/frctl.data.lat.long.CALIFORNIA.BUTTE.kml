@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, BUTTE, BIGGS, 2164 LARKIN</description><Point><coordinates>-121.654866, 39.383883</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, BUTTE, BIGGS, 488 G ST</description><Point><coordinates>-121.713241, 39.417443</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, BUTTE, CHICO, 939 W EAST AVE 4</description><Point><coordinates>-121.878300, 39.746283</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/14/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, BUTTE, CHICO, 853 E 7TH ST</description><Point><coordinates>-121.829638, 39.731175</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, BUTTE, CHICO, 453 POSADA WAY 12</description><Point><coordinates>-121.861775, 39.766089</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/18/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, BUTTE, CHICO, 1056 E 8TH ST</description><Point><coordinates>-121.827321, 39.732201</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/19/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, BUTTE, CHICO, 696 7TH E ST</description><Point><coordinates>-121.831285, 39.730728</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/17/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, BUTTE, CHICO, 1402 POMONA LN</description><Point><coordinates>-121.847477, 39.715974</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/15/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, BUTTE, CHICO, 997 E 16TH ST</description><Point><coordinates>-121.815955, 39.725811</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/26/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, BUTTE, CHICO, 1735 MAGNOLIA AVENUE</description><Point><coordinates>-121.852887, 39.744154</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/7/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, BUTTE, CHICO, 1024 NEAL DOW AVENUE</description><Point><coordinates>-121.828885, 39.746323</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/30/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, BUTTE, CHICO, 729 NORD AVENUE</description><Point><coordinates>-121.857731, 39.728746</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/15/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, BUTTE, DURHAM, 9606 FIMPLE RD</description><Point><coordinates>-121.822941, 39.654021</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/22/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, BUTTE, DURHAM, 8200  DURNEL DRIVE</description><Point><coordinates>-121.797220, 39.602402</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/21/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, BUTTE, GRIDLEY, 233 KENTUCKY STREET</description><Point><coordinates>-121.695533, 39.360982</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/21/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, BUTTE, GRIDLEY, 275 KENTUCKY ST</description><Point><coordinates>-121.695727, 39.361042</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/14/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, BUTTE, GRIDLEY, 124 EAST GRIDLEY ROAD</description><Point><coordinates>-121.682078, 39.362679</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/2/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, BUTTE, HONCUT, 16 TRUXTON COURT</description><Point><coordinates>-121.500099, 39.318894</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/31/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, BUTTE, MAGALIA, 3 JORDAN HILL RD</description><Point><coordinates>-121.560064, 39.820217</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/21/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, BUTTE, MAGALIA, 14723 GOLD CONE DR</description><Point><coordinates>-121.578306, 39.812106</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, BUTTE, OROVILLE, 1940 HELMAN ST</description><Point><coordinates>-121.552651, 39.484311</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/5/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, BUTTE, OROVILLE, 110 GREENBACK DR</description><Point><coordinates>-121.509342, 39.491351</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/17/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, BUTTE, OROVILLE, 2437 ORO QUINCY HWY</description><Point><coordinates>-121.531553, 39.509470</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/5/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, BUTTE, OROVILLE, 126 CANYON HIGHLANDS DR</description><Point><coordinates>-121.530127, 39.512868</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, BUTTE, OROVILLE, 208 MISTY VIEW LN</description><Point><coordinates>-121.458522, 39.446982</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/21/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, BUTTE, OROVILLE, 2750 DE BANGAR HWY</description><Point><coordinates>-121.556359, 39.513775</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/3/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, BUTTE, OROVILLE, 2720 ORO DAM BLVD 6A</description><Point><coordinates>-121.628034, 39.498097</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/12/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, BUTTE, OROVILLE, 1130 TEHAMA ST</description><Point><coordinates>-121.590046, 39.515984</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/9/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, BUTTE, OROVILLE, 1915 PLUMAS ST</description><Point><coordinates>-121.607333, 39.518879</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/30/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, BUTTE, OROVILLE, 2794 OAK KNOLL WAY</description><Point><coordinates>-121.516088, 39.482686</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/23/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, BUTTE, OROVILLE, 91 TOYON HILLS DRIVE</description><Point><coordinates>-121.355379, 39.558069</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/18/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, BUTTE, OROVILLE, 165 HURLES CIRCLE</description><Point><coordinates>-121.376803, 39.495625</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/1/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, BUTTE, OROVILLE, 4210 ORO BANGOR HIGHWAY</description><Point><coordinates>-121.480050, 39.480102</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/11/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, BUTTE, OROVILLE, 2349 VIA MADERO</description><Point><coordinates>-121.537539, 39.474416</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/29/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, BUTTE, OROVILLE, 1616 ORO DAM BOULEVARD</description><Point><coordinates>-121.600490, 39.498972</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/31/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, BUTTE, OROVILLE, 1660 20TH STREET</description><Point><coordinates>-121.608697, 39.512433</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/13/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, BUTTE, OROVILLE, 3 ALVERDA DRIVE</description><Point><coordinates>-121.516297, 39.466768</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/17/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, BUTTE, OROVILLE, 1840 7TH STREET</description><Point><coordinates>-121.579988, 39.516196</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/7/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, BUTTE, OROVILLE, 1960  ROSE STREET</description><Point><coordinates>-121.552027, 39.486344</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/7/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, BUTTE, OROVILLE, 5075  LOWER WYANDOTTE AVENUE</description><Point><coordinates>-121.529336, 39.482555</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/27/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, BUTTE, PALERMO, 2398 LOUIS AVENUE</description><Point><coordinates>-121.544007, 39.426027</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/31/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, BUTTE, PARADISE, 6441 MOSS LN</description><Point><coordinates>-121.596670, 39.778851</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/23/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, BUTTE, PARADISE, 538 CASTLE</description><Point><coordinates>-121.631636, 39.766364</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/25/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, BUTTE, PARADISE, 5955 HAZEL WAY</description><Point><coordinates>-121.591007, 39.762527</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

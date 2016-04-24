@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/20/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BARRY, BELLEVUE, 8020 DAY ROAD</description><Point><coordinates>-85.131885, 42.438222</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/9/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BARRY, CLOVERDALE, 3231 CLOVERDALE RD</description><Point><coordinates>-85.393162, 42.537377</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/23/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BARRY, DELTON, 7495 CEDAR CREEK RD</description><Point><coordinates>-85.327504, 42.543944</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/1/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BARRY, DELTON, 6305 TIGERLILY</description><Point><coordinates>-85.488763, 42.560635</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/2/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BARRY, DELTON, 6491 LINDSEY RD</description><Point><coordinates>-85.504376, 42.562126</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/2/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BARRY, DELTON, 10995 SHELP LAKE DR</description><Point><coordinates>-85.503560, 42.507036</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/20/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BARRY, DELTON, 6305 TIGER LILY DR</description><Point><coordinates>-85.488763, 42.560635</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/6/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BARRY, DELTON, 11922  COBB ROAD</description><Point><coordinates>-85.344413, 42.477455</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/6/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BARRY, DELTON, 6642  WREVER LANE</description><Point><coordinates>-85.408229, 42.499854</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/14/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BARRY, DELTON, 7757  GUERNSEY LAKE ROAD</description><Point><coordinates>-85.444767, 42.544832</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/9/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BARRY, DELTON, 6425  KELLER ROAD</description><Point><coordinates>-85.413709, 42.559625</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/12/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BARRY, DELTON, 4067 SOUTH SHORE DRIVE</description><Point><coordinates>-85.366271, 42.557838</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/12/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BARRY, DELTON, 11492  SPRAGUE ROAD</description><Point><coordinates>-85.420378, 42.485553</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/8/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BARRY, DELTON, 11175  EAST SHORE ROAD</description><Point><coordinates>-85.416824, 42.489730</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/19/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BARRY, DOWLING, 8558 GURD RD</description><Point><coordinates>-85.317767, 42.530532</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BARRY, HASTINGS, 2940 LAWRENCE RD</description><Point><coordinates>-85.231521, 42.566056</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/12/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BARRY, HASTINGS, 1295 STARR SCHOOL RD</description><Point><coordinates>-85.270833, 42.636348</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/29/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BARRY, HASTINGS, 302 THORN E ST</description><Point><coordinates>-85.284653, 42.651484</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/13/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BARRY, HASTINGS, 3846 SOUTH M-43 HIGHWAY</description><Point><coordinates>-85.290779, 42.709776</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/2/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BARRY, HASTINGS, 420 EAST MADISON STREET</description><Point><coordinates>-85.282451, 42.642346</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/26/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BARRY, HASTINGS, 1607 EAST DOWLING ROAD</description><Point><coordinates>-85.239434, 42.522483</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/7/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BARRY, HASTINGS, 1966  YECKLEY ROAD</description><Point><coordinates>-85.330610, 42.631303</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/13/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BARRY, HASTINGS, 317 EAST STATE STREET</description><Point><coordinates>-85.283795, 42.648685</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/21/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BARRY, HASTINGS, 602 EAST GREEN STREET</description><Point><coordinates>-85.279912, 42.645945</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/3/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BARRY, HASTINGS, 55  SUNDAGO PARK</description><Point><coordinates>-85.195771, 42.625064</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/17/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BARRY, HASTINGS, 210 NORTH PARK STREET</description><Point><coordinates>-85.292221, 42.650211</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/20/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BARRY, HASTINGS, 317 EAST BOND STREET</description><Point><coordinates>-85.283796, 42.643262</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/15/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BARRY, HASTINGS, 403 SOUTH JEFFERSON STREET</description><Point><coordinates>-85.287532, 42.645899</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/17/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BARRY, HICKORY CORNERS, 15467 RICH LANE</description><Point><coordinates>-85.440061, 42.428145</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/18/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BARRY, HICKORY CORNERS, 14565  KELLOGG SCHOOL ROAD</description><Point><coordinates>-85.376034, 42.441086</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/19/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BARRY, MIDDLEVILLE, MCCANN\IRVING ROAD</description><Point><coordinates>-85.461960, 42.713089</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/16/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BARRY, MIDDLEVILLE, 201  LINCOLN STREET</description><Point><coordinates>-85.460060, 42.717362</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/13/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BARRY, NASHVILLE, 107 NORTH MAIN STREET</description><Point><coordinates>-85.093548, 42.603454</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/6/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BARRY, NASHVILLE, 409  LENTZ STREET</description><Point><coordinates>-85.086132, 42.606254</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/27/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BARRY, NASHVILLE, 844  SHERMAN</description><Point><coordinates>-85.081900, 42.603467</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/15/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BARRY, NASHVILLE, 11545 W KINSEL HIGHWAY</description><Point><coordinates>-85.061952, 42.596365</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/12/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BARRY, PLAINWELL, 11321 9 MILE ROAD</description><Point><coordinates>-85.509272, 42.549648</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/2/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BARRY, PLAINWELL, 11321  9 MILE ROAD</description><Point><coordinates>-85.509272, 42.549648</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/14/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BARRY, PLAINWELL, 12372  SUNSET CIRCLE</description><Point><coordinates>-85.531081, 42.487818</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/18/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BARRY, PLAINWELL, 11604  PEACH TREE STREET</description><Point><coordinates>-85.536975, 42.499584</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/5/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BARRY, SHELBYVILLE, 6583 BOULTER RD</description><Point><coordinates>-85.602364, 44.314844</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/5/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BARRY, SHELBYVILLE, 7120 MARSH RD</description><Point><coordinates>-85.519012, 42.552182</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/8/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BARRY, SHELBYVILLE, 4268 WEST JOY ROAD</description><Point><coordinates>-85.539351, 42.590691</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/23/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BARRY, WAYLAND, 129924  RISON DRIVE</description><Point><coordinates>-85.541803, 42.636478</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

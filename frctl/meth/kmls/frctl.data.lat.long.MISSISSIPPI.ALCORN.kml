@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/13/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, ALCORN, CORINTH, 1703 HORTON ST 1703</description><Point><coordinates>-88.506341, 34.925172</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/10/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, ALCORN, CORINTH, 3969 GAINES</description><Point><coordinates>-88.572953, 34.927564</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/14/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, ALCORN, CORINTH, CR 552    BOX  122</description><Point><coordinates>-88.522270, 34.934255</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/24/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, ALCORN, CORINTH, 45 NORTH  HIGHWAY</description><Point><coordinates>-88.544693, 34.916339</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/23/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, ALCORN, CORINTH, 45 SOUTH  HIGHWAY</description><Point><coordinates>-88.544693, 34.916339</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/9/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, ALCORN, CORINTH, 72 SOUTH  HIGHWAY</description><Point><coordinates>-88.509737, 34.917355</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/7/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, ALCORN, JACKSON, 4870 OLD BYRUM ROAD</description><Point><coordinates>-89.398528, 32.354668</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/3/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, ALCORN, RIENZI, 537  CR  18</description><Point><coordinates>-88.650486, 34.799703</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

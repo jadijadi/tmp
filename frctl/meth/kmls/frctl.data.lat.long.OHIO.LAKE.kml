@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/5/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, LAKE, CONCORD, 9880 OLD JOHNNYCAKE RD 2</description><Point><coordinates>-81.284401, 41.679433</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/1/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, LAKE, FAIRPORT HARBOR, 416 KING STREET</description><Point><coordinates>-81.272760, 41.746292</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/22/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, LAKE, MADISON, 65 PALM BLVD</description><Point><coordinates>-81.100317, 41.791085</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/10/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, LAKE, MADISON, 13 EDDIE ROAD</description><Point><coordinates>-81.009480, 41.840485</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/10/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, LAKE, MADISON, 243 WEST MAIN STREET</description><Point><coordinates>-81.052918, 41.770939</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/20/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, LAKE, MADISON, 6067 NORTH RIDGE ROAD</description><Point><coordinates>-81.072073, 41.804639</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/11/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, LAKE, MADISON, 1972  ABERDEEN ROAD</description><Point><coordinates>-81.078840, 41.820667</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/19/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, LAKE, MENTOR HEADLANDS, 4763  FOREST ROAD</description><Point><coordinates>-81.319809, 41.741266</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/4/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, LAKE, PAINESVILLE, 587  SHELBY AVENUE</description><Point><coordinates>-81.247792, 41.737924</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/1/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, LAKE, PERRY, 3805 RIDGE S RD</description><Point><coordinates>-81.151124, 41.744227</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

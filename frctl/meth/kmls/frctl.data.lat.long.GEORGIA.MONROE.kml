@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/3/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, MONROE, FORSYTH, 800 SOUTH 42 HIGHWAY</description><Point><coordinates>-83.941341, 33.011709</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

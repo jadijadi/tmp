@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, MARION, HANNIBAL, 2702 RACKLIFFE</description><Point><coordinates>-91.384264, 39.706414</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, MARION, HANNIBAL, 285 MUNGER LN 29</description><Point><coordinates>-91.400571, 39.716346</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, MARION, HANNIBAL, 1819 BROADWAY</description><Point><coordinates>-91.375278, 39.703535</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/25/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, MARION, HANNIBAL, 1511 ROBINSON ST</description><Point><coordinates>-91.373065, 39.689760</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/11/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, MARION, HANNIBAL, 1500 SINGLETON N ST</description><Point><coordinates>-91.391735, 39.690777</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/4/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, MARION, HANNIBAL, 1308 FULTON</description><Point><coordinates>-91.348571, 39.697074</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/5/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, MARION, HANNIBAL, 2200 LILLY STREET</description><Point><coordinates>-91.375664, 39.685324</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/19/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, MARION, HANNIBAL, 1816 MILL STREET</description><Point><coordinates>-91.374336, 39.697480</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/14/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, MARION, HANNIBAL, 2711 MARKET</description><Point><coordinates>-91.384988, 39.692377</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/19/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, MARION, HANNIBAL, 901 PARK</description><Point><coordinates>-91.356698, 39.700619</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/15/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, MARION, HANNIBAL, 608  WALNUT</description><Point><coordinates>-91.352475, 39.702933</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/27/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, MARION, HANNIBAL, 1135  PARK AVENUE</description><Point><coordinates>-91.356707, 39.698546</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/2/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, MARION, HANNIBAL, 912  LINDELL AVENUE</description><Point><coordinates>-91.374294, 39.696628</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/22/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, MARION, HANNIBAL, 702  BROADWAY</description><Point><coordinates>-91.361761, 39.707349</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/31/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, MARION, HANNIBAL, 1112 NORTH VALLEY STREET</description><Point><coordinates>-91.354920, 39.698873</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/27/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, MARION, MAYWOOD, 1591 CR 135</description><Point><coordinates>-91.697405, 39.889727</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/12/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, MARION, PALMYRA, 108 SOUTH BETTY AVENUE</description><Point><coordinates>-91.520471, 39.803852</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/2/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, MARION, PALMYRA, 223 EAST CHURCH</description><Point><coordinates>-91.521635, 39.796910</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

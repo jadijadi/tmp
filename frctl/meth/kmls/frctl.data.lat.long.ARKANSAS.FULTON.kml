@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 8/8/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, FULTON, CHEROKEE VILLAGE, 64 TONSUE ROAD</description><Point><coordinates>-91.568748, 36.269851</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/6/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, FULTON, HARDY, 179 WILLOW LN</description><Point><coordinates>-91.831833, 35.201050</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/17/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, FULTON, MAMMOTH SPRING, 236 WHITE ROCK LN</description><Point><coordinates>-91.513493, 36.468183</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/11/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, FULTON, MAMMOTH SPRING, 120 SPRINGFIELD LN</description><Point><coordinates>-91.587455, 36.488416</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, FULTON, MAMMOTH SPRING, 1200 RIVER OAK RD</description><Point><coordinates>-91.510916, 36.410160</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, FULTON, MAMMOTH SPRING, 43 WOODDALE</description><Point><coordinates>-91.529369, 36.420056</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/6/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, FULTON, MAMMOTH SPRING, 2753 MOONLIGHT ROAD</description><Point><coordinates>-91.459083, 36.487018</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/16/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, FULTON, MAMMOTH SPRING, 295 NORTH 16TH</description><Point><coordinates>-91.555730, 36.497606</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/16/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, FULTON, MAMMOTH SPRING, 295 NORTH 16TH STREET</description><Point><coordinates>-91.555730, 36.497606</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/19/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, FULTON, MAMMOTH SPRING, 704 RIVERBEND RD.</description><Point><coordinates>-91.526435, 36.483021</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/25/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, FULTON, MAMMOTH SPRING, 202  GREENLEAF</description><Point><coordinates>-91.463218, 36.487223</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/1/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, FULTON, SALEM, 898 CORNERTOWN RD</description><Point><coordinates>-91.771280, 36.492734</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/11/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, FULTON, SALEM, 662 TALL PINES</description><Point><coordinates>-91.822648, 36.371176</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/17/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, FULTON, SALEM, 529  MORRISTON</description><Point><coordinates>-91.765996, 36.275359</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, FULTON, VIOLA, 264 DEERCHASE</description><Point><coordinates>-92.052552, 36.371849</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

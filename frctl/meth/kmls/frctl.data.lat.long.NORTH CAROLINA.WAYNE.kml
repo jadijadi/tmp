@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/9/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, WAYNE, DUDLEY, 319  CAMP TRAILEE ROAD</description><Point><coordinates>-78.003113, 35.299091</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/30/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, WAYNE, DUDLEY, 847  GENOA ROAD</description><Point><coordinates>-78.016228, 35.309986</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/27/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, WAYNE, DUDLEY, 3900  ARRINGTON BRIDGE ROAD</description><Point><coordinates>-77.953313, 35.253120</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/24/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, WAYNE, DUDLEY, 2121  EMMAUS CHURCH ROAD</description><Point><coordinates>-78.014709, 35.252962</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/11/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, WAYNE, DUDLEY, 2253 SOUTH NC 581 HIGHWAY</description><Point><coordinates>-77.955688, 35.313078</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/29/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, WAYNE, DUDLEY, 161  BROOK TERRACE DRIVE</description><Point><coordinates>-78.039233, 35.271220</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/2/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, WAYNE, FREMONT, 401  PATE ROAD</description><Point><coordinates>-77.972771, 35.579977</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/23/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, WAYNE, GOLDSBORO, 313 WINDSOR DRIVE</description><Point><coordinates>-77.922610, 35.315470</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/18/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, WAYNE, GOLDSBORO, 1510  DAKOTA AVENUE</description><Point><coordinates>-77.978069, 35.394542</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/20/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, WAYNE, GOLDSBORO, 1005 NORTH SPENCE AVENUE</description><Point><coordinates>-77.949473, 35.387691</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/23/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, WAYNE, GOLDSBORO, 3859 WEST US 70 HIGHWAY</description><Point><coordinates>-77.930494, 35.359579</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/30/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, WAYNE, GOLDSBORO, 1310  STEVENS MILL ROAD</description><Point><coordinates>-78.042261, 35.380098</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/10/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, WAYNE, GOLDSBORO, 100  MARLETTE DRIVE</description><Point><coordinates>-77.917259, 35.320993</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/10/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, WAYNE, GOLDSBORO, 100  MARLETTE DRIVE</description><Point><coordinates>-77.917259, 35.320993</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/24/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, WAYNE, GOLDSBORO, 104  KENDALL LANE</description><Point><coordinates>-77.886189, 35.466479</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/24/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, WAYNE, GOLDSBORO, 104  KENDALL LANE</description><Point><coordinates>-77.886189, 35.466479</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/29/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, WAYNE, GOLDSBORO, 767  STONEY CREEK CHURCH ROAD D</description><Point><coordinates>-77.955576, 35.445345</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/8/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, WAYNE, GOLDSBORO, 117  DELUXE DRIVE</description><Point><coordinates>-78.047511, 35.322935</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/8/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, WAYNE, GOLDSBORO, 1904  MARGARET DRIVE</description><Point><coordinates>-78.040506, 35.405920</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/11/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, WAYNE, GOLDSBORO, 714  NATIONAL DRIVE</description><Point><coordinates>-77.905013, 35.379762</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/26/2016</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, WAYNE, GOLDSBORO, 1219  Collier STREET</description><Point><coordinates>-78.013035, 35.401995</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/19/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, WAYNE, MOUNT OLIVE, 1154 WEST HWY NC 55</description><Point><coordinates>-78.105961, 35.206047</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/9/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, WAYNE, MOUNT OLIVE, 282  WALLER ROAD</description><Point><coordinates>-78.125447, 35.202565</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/12/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, WAYNE, PIKEVILLE, 266  IVEY LANE</description><Point><coordinates>-78.011200, 35.501319</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/4/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, WAYNE, PIKEVILLE, 400  IVEY LANE</description><Point><coordinates>-78.014185, 35.500482</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/8/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, WAYNE, PRINCETON, 335  DAVE HOWELL ROAD</description><Point><coordinates>-79.019300, 35.759573</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/8/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, WAYNE, PRINCETON, 437  PRINCETON ROAD</description><Point><coordinates>-78.143745, 35.407241</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/5/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, WAYNE, SEVEN SPRINGS, 103  RED HAWK TRAIL</description><Point><coordinates>-77.951196, 35.247773</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/17/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, WAYNE, SEVEN SPRINGS, 1968  PINEVIEW CEMETARY ROAD</description><Point><coordinates>-77.900922, 35.205561</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

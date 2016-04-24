@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 12/16/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, DEKALB, BOAZ, 1406  COUNRY 380 ROAD</description><Point><coordinates>-86.018435, 34.230175</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/22/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, DEKALB, COLLINSVILLE, 2324 CO RD 469</description><Point><coordinates>-85.852928, 34.219779</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/24/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, DEKALB, COLLINSVILLE, 24159  76 HIGHWAY</description><Point><coordinates>-85.860525, 34.263982</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/8/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, DEKALB, CROSSVILLE, 129 COUNTY ROAD 389</description><Point><coordinates>-86.062980, 34.351313</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/9/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, DEKALB, FORT PAYNE, 16708 HWY 176 HIGHWAY</description><Point><coordinates>-85.742725, 34.342200</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/15/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, DEKALB, FORT PAYNE, 3229 COUNTY RD 101</description><Point><coordinates>-85.737892, 34.291060</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/25/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, DEKALB, FORT PAYNE, 605 FRUIT FARM ROAD</description><Point><coordinates>-85.697719, 34.427927</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/30/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, DEKALB, FORT PAYNE, 449 COUNTY ROAD 74</description><Point><coordinates>-85.770244, 34.262800</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/27/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, DEKALB, FORT PAYNE, 203 NORTHEAST 20TH STREET</description><Point><coordinates>-85.702433, 34.459908</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/5/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, DEKALB, FORT PAYNE, 5713  DUNN ROAD</description><Point><coordinates>-85.612267, 34.465172</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/30/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, DEKALB, FORT PAYNE, 410 NORTHEAST BEASON GAP ROAD 172</description><Point><coordinates>-85.699011, 34.458019</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/15/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, DEKALB, HENAGAR, 1891 COUNTY 651 ROAD</description><Point><coordinates>-85.644767, 34.680003</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/12/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, DEKALB, RAINSVILLE, 860  JONES ROAD</description><Point><coordinates>-85.882119, 34.522576</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/6/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, DEKALB, SYLVANIA, 133 3RD STREET</description><Point><coordinates>-85.816505, 34.560210</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

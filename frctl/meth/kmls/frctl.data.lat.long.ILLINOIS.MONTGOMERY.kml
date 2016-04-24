@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/29/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, MONTGOMERY, BUTLER, 15046 ILLINOIS ROUTE 127</description><Point><coordinates>-89.539644, 39.218872</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/2/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, MONTGOMERY, FARMERSVILLE, 34TH ST STREET</description><Point><coordinates>-89.651762, 39.443385</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, MONTGOMERY, HILLSBORO, 119 TRUESDALE</description><Point><coordinates>-89.493506, 39.149685</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/10/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, MONTGOMERY, HILLSBORO, 22 VANDALIA ST</description><Point><coordinates>-89.492153, 39.137024</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/18/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, MONTGOMERY, IRVING, 215 MCCORDS TRAIL</description><Point><coordinates>-89.443605, 39.188070</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/3/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, MONTGOMERY, LITCHFIELD, 634 OLD QUARRY TRL</description><Point><coordinates>-89.614179, 39.166717</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/7/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, MONTGOMERY, LITCHFIELD, 115 WATER E ST</description><Point><coordinates>-89.655318, 39.168095</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/28/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, MONTGOMERY, LITCHFIELD, 847 MOZART N</description><Point><coordinates>-89.654258, 39.175326</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/10/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, MONTGOMERY, LITCHFIELD, 723 BROWN N ST</description><Point><coordinates>-89.662343, 39.180236</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/23/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, MONTGOMERY, LITCHFIELD, 835 CHESTNUT S ST</description><Point><coordinates>-89.648328, 39.168726</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/15/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, MONTGOMERY, LITCHFIELD, 505 E JONES</description><Point><coordinates>-89.650796, 39.167191</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/9/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, MONTGOMERY, LITCHFIELD, 1017 S MONTGOMERY</description><Point><coordinates>-89.647250, 39.166556</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/8/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, MONTGOMERY, WITT, 709 ILLINOIS E ST</description><Point><coordinates>-89.337445, 39.261157</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/21/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, MONTGOMERY, WITT, 103 EAST OAK</description><Point><coordinates>-89.349067, 39.246478</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/15/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, MONTGOMERY, WITT, 214 NORTH FIRST</description><Point><coordinates>-89.350488, 39.256103</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/8/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, MONTGOMERY, , 303 WEST CARSON</description><Point><coordinates>-89.475864, 39.031741</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

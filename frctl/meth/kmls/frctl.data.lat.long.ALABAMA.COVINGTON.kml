@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/7/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, COVINGTON, ANDALUSIA, 23591 HARMONY CHURCH RD</description><Point><coordinates>-86.375320, 31.355017</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/15/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, COVINGTON, ANDALUSIA, 301 PUGH ST</description><Point><coordinates>-86.488104, 31.313892</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/22/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, COVINGTON, DOZIER, 31979 HWY 29 NORTH</description><Point><coordinates>-86.902298, 32.318231</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/13/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, COVINGTON, FLORALA, 792 FIR ST</description><Point><coordinates>-86.312081, 31.000629</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/1/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, COVINGTON, FLORALA, 25488 5TH AVE</description><Point><coordinates>-86.313344, 30.999780</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/22/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, COVINGTON, FLORALA, 1602 4TH ST</description><Point><coordinates>-86.326760, 31.006349</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/9/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, COVINGTON, FLORALA, 25294 5TH AVENUE</description><Point><coordinates>-86.313344, 30.999780</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/31/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, COVINGTON, FLORALA, 2010 WEST 7TH AVENUE</description><Point><coordinates>-86.333439, 31.011511</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/20/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, COVINGTON, FLORALA, 22464 7TH AVENUE</description><Point><coordinates>-86.327638, 31.008369</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, COVINGTON, OPP, 1300 OLD PERRY STORE RD</description><Point><coordinates>-86.222444, 31.280861</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, COVINGTON, RED LEVEL, 28453 ANNA LN</description><Point><coordinates>-86.612186, 31.407111</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

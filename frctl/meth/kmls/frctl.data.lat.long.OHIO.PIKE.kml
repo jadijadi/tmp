@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/15/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, PIKE, BEAVER, 1545 HOLBROOK RD</description><Point><coordinates>-82.837558, 38.988696</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/25/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, PIKE, BEAVER, 262  BRIGNER ROAD</description><Point><coordinates>-82.913345, 38.995523</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/22/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, PIKE, LUCASVILLE, 403 WORTH S ST</description><Point><coordinates>-82.907123, 40.417287</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, PIKE, LUCASVILLE, 2080 OWL CREEK RD</description><Point><coordinates>-82.950019, 38.960192</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/2/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, PIKE, LUCASVILLE, 5972 CAMP CREEK ROAD</description><Point><coordinates>-83.121068, 38.975588</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/19/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, PIKE, PIKETON, 947 SCHUSTER RD</description><Point><coordinates>-82.974187, 39.044439</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, PIKE, PIKETON, 126 HOPPER RD</description><Point><coordinates>-83.097756, 39.001735</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/20/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, PIKE, WAVERLY, 1017 STATE ROUTE 552</description><Point><coordinates>-83.021637, 39.109102</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/31/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, PIKE, WAVERLY, 5812 CAMP CREEK RD</description><Point><coordinates>-82.985455, 39.126735</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/9/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, PIKE, WAVERLY, 11190  23  BOX 146</description><Point><coordinates>-82.985455, 39.126735</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

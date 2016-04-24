@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 12/8/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, SHELBY, ALABASTER, 108 CAPE COD CIR</description><Point><coordinates>-86.830666, 33.264779</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/7/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, SHELBY, ALABASTER, 631 NORTHEAST 2ND STREET</description><Point><coordinates>-86.813473, 33.250025</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/13/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, SHELBY, CALERA, 364  CAMDEN COVE</description><Point><coordinates>-86.756575, 33.122798</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/13/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, SHELBY, CALERA, 1655  HIAWATHA ROAD</description><Point><coordinates>-86.673937, 33.072480</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/13/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, SHELBY, CALERA, 156  FOUNDRY ROAD</description><Point><coordinates>-86.742154, 33.100734</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/8/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, SHELBY, CALERA, 1398  9TH AVE</description><Point><coordinates>-86.753916, 33.107235</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/15/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, SHELBY, HARPERSVILLE, 3662 WESTOVER E RD</description><Point><coordinates>-86.503970, 33.364463</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/28/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, SHELBY, HARPERSVILLE, 200  LONELY OAK DRIVE</description><Point><coordinates>-86.437932, 33.313148</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/20/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, SHELBY, HARPERSVILLE, 198  LARKIN LANE</description><Point><coordinates>-86.409047, 33.328982</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/18/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, SHELBY, HARPERSVILLE, 50  DUSTY WAY 11</description><Point><coordinates>-86.451525, 33.280966</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/4/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, SHELBY, HARPERSVILLE, 556  FARMINGDALE</description><Point><coordinates>-86.449286, 33.344826</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/5/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, SHELBY, HELENA, 212  LEES COVE</description><Point><coordinates>-86.852657, 33.284260</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/11/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, SHELBY, MONTEVALLO, 7269  HIGHWAY 10</description><Point><coordinates>-86.951209, 33.156679</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/16/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, SHELBY, MONTEVALLO, 22  ARWOOD DR</description><Point><coordinates>-86.872125, 33.157887</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/9/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, SHELBY, PELHAM, 1473 KELLY DRIVE</description><Point><coordinates>-86.771058, 33.282688</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/28/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, SHELBY, PELHAM, 1902  HIGHWAY 31 SOUTH  427</description><Point><coordinates>-86.809989, 33.285669</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/29/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, SHELBY, SHELBY, 29 HICKORY HILLS LN</description><Point><coordinates>-86.558258, 33.025879</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/13/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, SHELBY, SHELBY, 30  LAKE DRIVE</description><Point><coordinates>-86.501723, 33.108021</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/10/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, SHELBY, STERRETT, 145  CRIPPLE CREEK LANE</description><Point><coordinates>-86.521066, 33.457907</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/10/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, SHELBY, VANDIVER, 390  EDGELAND ROAD</description><Point><coordinates>-86.489174, 33.490293</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/3/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, SHELBY, VANDIVER, 543  COUNTY ROAD 480</description><Point><coordinates>-86.511635, 33.484311</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/27/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, SHELBY, VINCENT, 132  ROLLING MEADOWS LANE</description><Point><coordinates>-86.418354, 33.368957</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/12/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, SHELBY, WILSONVILLE, 115 CHEROKEE S LN</description><Point><coordinates>-86.468901, 33.213234</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/25/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, SHELBY, WILSONVILLE, 99  BUSTER DR DRIVE</description><Point><coordinates>-86.483592, 33.234281</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

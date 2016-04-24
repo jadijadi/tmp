@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/2/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, HARDIN, ADA, 4643 COUNTY ROAD 65 RD</description><Point><coordinates>-83.785111, 40.752963</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/22/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, HARDIN, ALGER, 1540 CO 92 ROAD</description><Point><coordinates>-83.850295, 40.703861</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

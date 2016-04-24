@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 9/25/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WEST VIRGINIA, LINCOLN, ALUM CREEK, 101 UPPER MOLLY'S BRANCH ROAD</description><Point><coordinates>-81.817031, 38.283570</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/10/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WEST VIRGINIA, LINCOLN, CULLODEN, 1326 COON CREEK RD</description><Point><coordinates>-82.088224, 38.348656</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

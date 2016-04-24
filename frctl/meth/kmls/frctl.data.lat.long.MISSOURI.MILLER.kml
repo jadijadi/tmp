@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 7/12/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, MILLER, BRUMLEY, 5  CASTLE ROAD</description><Point><coordinates>-92.444177, 38.094232</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/25/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, MILLER, ELDON, 1508 GRAND S AVE 7</description><Point><coordinates>-92.586742, 38.339004</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/30/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, MILLER, ELDON, 800 LAKEVIEW DR</description><Point><coordinates>-92.569691, 38.277930</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/11/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, MILLER, ELDON, 504 OAK STREET</description><Point><coordinates>-92.600352, 38.226950</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/5/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, MILLER, ELDON, 202 Z HIGHWAY</description><Point><coordinates>-92.645214, 38.305547</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/6/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, MILLER, ELDON, 321 SHAW ROAD</description><Point><coordinates>-92.526676, 38.413571</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/16/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, MILLER, ELDON, 601 OLD BAGNELL ROAD</description><Point><coordinates>-92.600384, 38.226966</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/1/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, MILLER, EUGENE, 5 HIGHLAND DR</description><Point><coordinates>-123.061009, 44.033022</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, MILLER, IBERIA, 884 A HWY</description><Point><coordinates>-92.270457, 38.187510</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/6/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, MILLER, IBERIA, 358  SEQUOIA ROAD</description><Point><coordinates>-92.328929, 38.147849</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/4/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, MILLER, KAISER, 616 HIGHWAY 42</description><Point><coordinates>-92.592378, 38.145890</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/4/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, MILLER, LAKE OZARK, 1468 SCHOOL ROAD</description><Point><coordinates>-92.637445, 38.196136</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/30/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, MILLER, RUSSELLVILLE, 45 BRIDGE RD</description><Point><coordinates>-92.531643, 38.429874</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, MILLER, TUSCUMBIA, 337 A HWY</description><Point><coordinates>-92.353075, 38.186113</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

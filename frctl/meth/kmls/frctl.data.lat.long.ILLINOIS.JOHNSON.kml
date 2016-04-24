@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/27/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, JOHNSON, BUNCOMBE, 185 PROCTOR AVENUE</description><Point><coordinates>-88.978850, 37.471424</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/12/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, JOHNSON, GOREVILLE, 7150 STATE RT. 37 N</description><Point><coordinates>-88.965433, 37.526970</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/10/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, JOHNSON, GOREVILLE, 108 NORTH FERNE CLYFFE ROAD</description><Point><coordinates>-88.979153, 37.555455</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/5/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, JOHNSON, NEW BURNSIDE, 490 EAST MAIN STREET</description><Point><coordinates>-88.772855, 37.581027</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, JOHNSON, OZARK, 3690 OZARK RD</description><Point><coordinates>-88.714694, 37.532047</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/7/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, JOHNSON, OZARK, 246 OZARK RD</description><Point><coordinates>-88.767868, 37.541658</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/6/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, JOHNSON, ROBBS, 76  MIDDLE</description><Point><coordinates>-89.398528, 40.633125</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, JOHNSON, VIENNA, 2925 REEVESVILLE RD</description><Point><coordinates>-88.783536, 37.370297</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

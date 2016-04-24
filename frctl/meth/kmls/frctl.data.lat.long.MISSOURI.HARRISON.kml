@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/11/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, HARRISON, BETHANY, 35067 240 E AVE</description><Point><coordinates>-93.972969, 40.205646</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/13/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, HARRISON, CAINSVILLE, 1102 WASHINGTON ST</description><Point><coordinates>-93.776181, 40.440579</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/18/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, HARRISON, GILMAN CITY, 120 FISHER AVE</description><Point><coordinates>-93.873469, 40.139030</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/18/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, HARRISON, RIDGEWAY, 19401 240 W ST</description><Point><coordinates>-93.937106, 40.366783</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

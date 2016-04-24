@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/7/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, SULLIVAN, CARLISLE, 1659 EAST 425 S ROAD</description><Point><coordinates>-87.379506, 39.021238</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, SULLIVAN, DUGGER, 8065 TREHUNE ST</description><Point><coordinates>-87.258158, 39.072910</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/3/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, SULLIVAN, DUGGER, 605  N COAL</description><Point><coordinates>-87.262005, 39.073960</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/21/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, SULLIVAN, FAIRBANKS, 5638 CR 1000 N. W</description><Point><coordinates>-87.509305, 39.231644</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/2/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, SULLIVAN, FAIRBANKS, 6891 EAST COUNTY ROAD 750 N</description><Point><coordinates>-87.534319, 39.193498</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/20/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, SULLIVAN, FARMERSBURG, 406 EAST HAMPTON STREET</description><Point><coordinates>-87.375525, 39.251993</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/16/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, SULLIVAN, FARMERSBURG, 504  E HEAP STREET</description><Point><coordinates>-87.374363, 39.252885</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, SULLIVAN, SHELBURN, 36 SR 48 E</description><Point><coordinates>-87.407616, 39.186160</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/8/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, SULLIVAN, SHELBURN, 4157 SR 48 W</description><Point><coordinates>-87.483019, 39.194123</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/27/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, SULLIVAN, SHELBURN, 8794 NORTH CR 200 W</description><Point><coordinates>-87.441955, 39.213989</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/23/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, SULLIVAN, SHELBURN, 2809 EAST CR 500 N</description><Point><coordinates>-87.371684, 39.157322</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/19/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, SULLIVAN, SHELBURN, 7584 NORTH CR 300 W</description><Point><coordinates>-87.457943, 39.195045</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/8/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, SULLIVAN, SHELBURNE, 328 SOUTH WARREN STREET</description><Point><coordinates>-86.134902, 40.267194</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, SULLIVAN, SULLIVAN, 24 STATE S ST</description><Point><coordinates>-87.405861, 39.095098</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/5/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, SULLIVAN, SULLIVAN, 20 FRENCHS N ST</description><Point><coordinates>-87.415908, 39.095705</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, SULLIVAN, SULLIVAN, 4247 C.R.350 E</description><Point><coordinates>-87.329604, 39.031865</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/7/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, SULLIVAN, SULLIVAN, 1488 CR 300 N E</description><Point><coordinates>-87.381321, 39.128205</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/22/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, SULLIVAN, SULLIVAN, 423 SOUTH CR 600 E</description><Point><coordinates>-87.297053, 39.077311</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/20/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, SULLIVAN, SULLIVAN, 808 SOUTH MAIN STREET</description><Point><coordinates>-87.407498, 39.082170</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/24/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, SULLIVAN, SULLIVAN, 550 EAST WASHINGTON STREET</description><Point><coordinates>-87.399706, 39.095550</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

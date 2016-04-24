@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/23/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, JEFFERSON, DANDRIDGE, 1489 OLD CHISHOLM TRL</description><Point><coordinates>-83.349211, 35.994347</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/27/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, JEFFERSON, DANDRIDGE, 1033 WOODLAND WAY</description><Point><coordinates>-83.434819, 36.012911</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/1/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, JEFFERSON, DANDRIDGE, 1033 WOODLAND WAY</description><Point><coordinates>-83.434819, 36.012911</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/31/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, JEFFERSON, DANDRIDGE, 1065 BEECHWOOD ROAD</description><Point><coordinates>-83.374890, 36.015524</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/23/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, JEFFERSON, DANDRIDGE, 745 GRACE CHURCH ROAD</description><Point><coordinates>-83.387276, 36.030538</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/1/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, JEFFERSON, DANDRIDGE, 2186  SHROPSHIRE HOLLOW ROAD</description><Point><coordinates>-83.310890, 35.957781</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/26/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, JEFFERSON, DANDRIDGE, 927  BLACK ALDER LANE</description><Point><coordinates>-83.375310, 36.016978</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/17/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, JEFFERSON, DANDRIDGE, 705  ROSS DRIVE</description><Point><coordinates>-83.446802, 36.013094</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/3/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, JEFFERSON, JEFFERSON CITY, 708  RHOTEN STREET</description><Point><coordinates>-83.493466, 36.128833</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/11/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, JEFFERSON, NEW MARKET, 1153 MCGUIRE RD</description><Point><coordinates>-83.521113, 36.035522</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/28/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, JEFFERSON, NEW MARKET, 404 OLD A.J. HWY W</description><Point><coordinates>-83.508623, 36.116980</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, JEFFERSON, STRAWBERRY PLAINS, 1051 THOMGROVE PIKE</description><Point><coordinates>-83.668525, 36.008764</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, JEFFERSON, STRAWBERRY PLAINS, 2635 HIGHWAY 11-E</description><Point><coordinates>-83.686011, 36.063141</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/8/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, JEFFERSON, TALBOTT, 2445 VALLEY HOME RD</description><Point><coordinates>-83.352880, 36.103706</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/22/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, JEFFERSON, TALBOTT, 1706 ELLER ROAD</description><Point><coordinates>-83.380997, 36.115856</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/22/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, JEFFERSON, TALBOTT, 1721 BIRDSONG LANE</description><Point><coordinates>-83.384896, 36.123566</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/15/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, JEFFERSON, TALBOTT, 1206 HIGHWAY 11E</description><Point><coordinates>-83.433125, 36.151231</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/29/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, JEFFERSON, WHITE PINE, 3683 ROY J MESSER HWY</description><Point><coordinates>-83.338827, 36.109785</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

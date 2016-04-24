@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/5/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WISCONSIN, SHEBOYGAN, PLYMOUTH, 741 WESTERN AVE</description><Point><coordinates>-87.991163, 43.753389</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/23/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WISCONSIN, SHEBOYGAN, SHEBOYGAN, 1221 17TH N ST</description><Point><coordinates>-87.727566, 43.758104</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/9/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WISCONSIN, SHEBOYGAN, SHEBOYGAN, 1434 ONTARIO AVENUE</description><Point><coordinates>-87.724510, 43.756163</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/26/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WISCONSIN, SHEBOYGAN, SHEBOYGAN FALLS, 1026 ERIE ST</description><Point><coordinates>-87.810644, 43.729162</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

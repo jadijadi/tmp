@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/5/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, WEBSTER, FORDLAND, 8879 STATE Z HWY</description><Point><coordinates>-92.917375, 37.153832</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/5/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, WEBSTER, MARSHFIELD, 702 WASHINGTON E ST</description><Point><coordinates>-92.896801, 37.338161</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/6/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, WEBSTER, MARSHFIELD, 121 2ND W ST</description><Point><coordinates>-92.907610, 37.334599</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/17/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, WEBSTER, MARSHFIELD, 157  BLAIR STREET</description><Point><coordinates>-92.921065, 37.338471</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/31/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, WEBSTER, NIANGUA, 260 SOUTH ELM STREET</description><Point><coordinates>-92.834353, 37.385985</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/25/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, WEBSTER, ROGERSVILLE, 2192 125 S HWY</description><Point><coordinates>-93.055734, 37.116995</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/25/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, WEBSTER, ROGERSVILLE, 2065 FARM 241 S RD</description><Point><coordinates>-93.098776, 37.178507</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, WEBSTER, ROGERSVILLE, 3986 FARM 243 S RD</description><Point><coordinates>-93.094139, 37.137648</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, WEBSTER, SEYMOUR, 921 DILLON RD</description><Point><coordinates>-92.867926, 37.096960</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

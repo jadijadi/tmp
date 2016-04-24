@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/5/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, BROWN, ABERDEEN, 1229  MARYLAND STREET</description><Point><coordinates>-83.768549, 38.660397</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/22/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, BROWN, FAYETTEVILLE, 410 RUSSELL ST</description><Point><coordinates>-83.930984, 39.185796</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/27/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, BROWN, FAYETTEVILLE, 4904 EUBANKS RD</description><Point><coordinates>-83.885712, 39.227171</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/29/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, BROWN, FAYETTEVILLE, 2995 US 50</description><Point><coordinates>-83.955773, 39.177267</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/1/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, BROWN, HAMERSVILLE, 2705 EDEN ROAD</description><Point><coordinates>-83.966448, 38.876257</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/26/2000</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, BROWN, MOUNT ORAB, 17244 US 68 GREEN TOWNSHIP</description><Point><coordinates>-84.587083, 37.994978</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, BROWN, MOUNT ORAB, 118 PINE RIDGE LN</description><Point><coordinates>-83.947930, 39.028704</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/26/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, BROWN, MOUNT ORAB, 11971 STERLING EAST</description><Point><coordinates>-83.911929, 38.967750</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/5/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, BROWN, MOUNT ORAB, 3200 LAKE GRANT ACCESS ROAD</description><Point><coordinates>-83.929800, 39.005112</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/1/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, BROWN, SARDINIA, 5260 STEPHAN RD</description><Point><coordinates>-83.874895, 38.990473</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/27/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, BROWN, SARDINIA, 3031 ST RT 321</description><Point><coordinates>-83.808538, 39.007845</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/17/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, BROWN, WINCHESTER, 12611 MOUND RD</description><Point><coordinates>-83.696848, 38.985287</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/6/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, BROWN, WINCHESTER, 10434 JOHN WOODS RD</description><Point><coordinates>-83.685796, 38.941234</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

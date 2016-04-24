@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/21/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, DOUGLAS, EUDORA, 909  OAK STREET</description><Point><coordinates>-95.101132, 38.943064</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, DOUGLAS, LAWRENCE, 1900 31 ST W ST V-16</description><Point><coordinates>-95.252409, 38.929778</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, DOUGLAS, LAWRENCE, 2531 RED BUD LN</description><Point><coordinates>-95.259152, 38.937081</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/17/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, DOUGLAS, LAWRENCE, 2300 WEST 26TH STREET</description><Point><coordinates>-95.264310, 38.936272</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/22/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, DOUGLAS, LAWRENCE, 2530 REDBUD LN 32</description><Point><coordinates>-95.259114, 38.937086</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

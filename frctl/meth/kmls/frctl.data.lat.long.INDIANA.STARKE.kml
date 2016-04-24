@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, STARKE, HAMLET, 504 STARKE N ST</description><Point><coordinates>-86.585669, 41.387746</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/6/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, STARKE, HAMLET, 301 EAST PEARL</description><Point><coordinates>-86.586307, 41.380435</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/14/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, STARKE, KNOX, 1204 COREY E ST</description><Point><coordinates>-86.605941, 41.290274</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/23/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, STARKE, KNOX, 4895 EAST 150</description><Point><coordinates>-86.603891, 41.324023</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/20/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, STARKE, KNOX, 5820 EAST MANOR DRIVE C2</description><Point><coordinates>-86.585213, 41.244842</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/20/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, STARKE, KNOX, 3540 EAST 250 NORTH</description><Point><coordinates>-86.629050, 41.339157</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/25/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, STARKE, KNOX, 802 SOUTH MAIN STREET</description><Point><coordinates>-86.623234, 41.290290</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/28/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, STARKE, KNOX, 214 WEST LOCUST STREET</description><Point><coordinates>-86.625792, 41.300101</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/17/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, STARKE, KNOX, 406 EAST JOHN STREET</description><Point><coordinates>-86.617286, 41.295281</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/20/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, STARKE, MONTEREY, 10905  HAZEL BOULEVARD</description><Point><coordinates>-86.487887, 41.175475</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/7/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, STARKE, NORTH JUDSON, 2475 100 W. S</description><Point><coordinates>-86.718059, 41.267815</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/28/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, STARKE, NORTH JUDSON, 2320 SOUTH 250 WEST</description><Point><coordinates>-86.746176, 41.269653</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/29/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, STARKE, NORTH JUDSON, 5392 SOUTH DETROITER LANE</description><Point><coordinates>-86.749148, 41.223736</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/6/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, STARKE, NORTH JUDSON, 5251 NORTH  STREET</description><Point><coordinates>-86.768074, 41.222229</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/3/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, STARKE, NORTH JUDSON, 2750 EAST AIRSTREAM</description><Point><coordinates>-86.752179, 41.229121</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/28/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, STARKE, WALKERTON, 11220 EAST 875 NORTH</description><Point><coordinates>-86.481807, 41.429946</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

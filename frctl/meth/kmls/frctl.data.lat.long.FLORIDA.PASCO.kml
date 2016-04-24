@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 11/17/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, PASCO, CRYSTAL SPRINGS, 2104 ENGESSOR RD</description><Point><coordinates>-82.141781, 28.187896</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/4/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, PASCO, CRYSTAL SPRINGS, 1853 OWENS RD</description><Point><coordinates>-82.163479, 28.186557</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, PASCO, DADE CITY, 37204 MAIN ST</description><Point><coordinates>-82.200474, 28.368580</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/29/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, PASCO, DADE CITY, 11720 MEADOWLAND DR</description><Point><coordinates>-82.195918, 28.364725</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/29/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, PASCO, DADE CITY, 13946 14TH ST</description><Point><coordinates>-82.195536, 28.361295</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/19/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, PASCO, HUDSON, 17555 AKINS RD</description><Point><coordinates>-82.580702, 28.412703</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/12/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, PASCO, HUDSON, 9502 ED STREET</description><Point><coordinates>-82.657777, 28.359504</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, PASCO, LACOOCHEE, 21125 FLANDERS DR</description><Point><coordinates>-82.165156, 28.465841</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/17/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, PASCO, NEW PORT RICHEY, 65659 WEST ECHO ROAD</description><Point><coordinates>-82.632820, 28.324862</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/16/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, PASCO, WESLEY CHAPEL, 7342 SKY DR</description><Point><coordinates>-82.307307, 28.264464</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/4/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, PASCO, WESLEY CHAPEL, 30642  WAY DRIVE</description><Point><coordinates>-82.308915, 28.261896</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/15/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, PASCO, ZEPHYRHILLS, 8106 GALL (US HWY 301) BLVD LOT #55B</description><Point><coordinates>-82.181195, 28.233620</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/23/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, PASCO, ZEPHYRHILLS, 8106 US HWY 301 LOT 2</description><Point><coordinates>-82.091875, 29.106265</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, PASCO, ZEPHYRHILLS, 5133 ALLEN RD</description><Point><coordinates>-82.205326, 28.232389</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/30/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, PASCO, ZEPHYRHILLS, 38430 C AVE</description><Point><coordinates>-82.180629, 28.226295</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/18/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, PASCO, ZEPHYRHILLS, 3950 MICHELLE LN</description><Point><coordinates>-82.193206, 28.215254</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/23/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, PASCO, ZEPHYRHILLS, 8341 HEATHER DRIVE</description><Point><coordinates>-82.162176, 28.278951</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/11/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, PASCO, ZEPHYRHILLS, 38524 NAOMI AVENUE</description><Point><coordinates>-82.179296, 28.245424</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/14/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, PASCO, ZEPHYRHILLS, 8044 GALL LOT 4 BOULEVARD</description><Point><coordinates>-82.181195, 28.233620</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

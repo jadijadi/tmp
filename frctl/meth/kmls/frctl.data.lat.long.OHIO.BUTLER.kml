@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/10/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, BUTLER, FAIRFIELD, 6516 STATE ROUTE 4</description><Point><coordinates>-84.500398, 39.320954</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/29/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, BUTLER, HAMILTON, 1816 PANKOMO AVE</description><Point><coordinates>-84.561335, 39.399501</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/2/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, BUTLER, HAMILTON, 2218 GRAND AVENUE</description><Point><coordinates>-84.539241, 39.381647</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/14/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, BUTLER, HAMILTON, 4 BALFORD COURT</description><Point><coordinates>-84.437772, 39.436276</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/17/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, BUTLER, HAMILTON, 431 NORTH 3RD STREET</description><Point><coordinates>-84.558046, 39.404610</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/6/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, BUTLER, MIDDLETOWN, 2363 SOUTH SUTPHIN STREET</description><Point><coordinates>-84.384367, 39.505844</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/9/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, BUTLER, MIDDLETOWN, 1505 SMITH AVENUE</description><Point><coordinates>-84.400916, 39.495090</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/4/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, BUTLER, MIDDLETOWN, 4510  ROOSEVELT AVE AVENUE 8</description><Point><coordinates>-84.350438, 39.498165</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/6/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, BUTLER, MIDDLETOWN, 2106  ERIE AVENUE</description><Point><coordinates>-84.388636, 39.527303</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/19/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, BUTLER, MIDDLETOWN, 3112  RUFUS ST STREET</description><Point><coordinates>-84.403227, 39.481460</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/31/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, BUTLER, OXFORD, 6102  JOSEPH DR DRIVE  BOX W</description><Point><coordinates>-84.755594, 39.510036</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/10/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, BUTLER, SEVEN MILE, 205 WALNUT ST B</description><Point><coordinates>-84.555031, 39.481145</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/24/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, BUTLER, SHARONVILLE, 14 YORKTOWN DRIVE</description><Point><coordinates>-106.611699, 38.566660</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/9/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, BUTLER, SOMERVILLE, 1248  NORTHERN ROAD</description><Point><coordinates>-84.627531, 39.575712</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

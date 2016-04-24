@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WHITE, BROOKSTON, 850 300 E S</description><Point><coordinates>-86.812146, 40.615497</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/25/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WHITE, BROOKSTON, 2858 COUNTY ROAD 850 SOUTH E</description><Point><coordinates>-86.867234, 40.602814</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/8/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WHITE, BROOKSTON, 12482 626 W W</description><Point><coordinates>-86.203217, 39.626145</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/20/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WHITE, BUFFALO, 9241 W. SHAFER N DR</description><Point><coordinates>-86.756073, 40.887759</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/24/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WHITE, BUFFALO, 8282 NORTH CR 900 E</description><Point><coordinates>-86.696644, 40.873353</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/25/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WHITE, COLUMBIA, 207 SOUTH MAIN</description><Point><coordinates>-86.134902, 40.267194</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/21/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WHITE, MONON, 202 NORTH MARKET STREET</description><Point><coordinates>-86.879044, 40.859519</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/8/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WHITE, MONON, 110 SOUTH RAILROAD</description><Point><coordinates>-86.877649, 40.853672</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/26/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WHITE, MONTICELLO, 306 WASHINGTON W ST</description><Point><coordinates>-86.765232, 40.746104</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/30/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WHITE, MONTICELLO, 4370 650 S E</description><Point><coordinates>-86.786023, 40.657427</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/15/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WHITE, MONTICELLO, 4273 NORTH 800 E</description><Point><coordinates>-86.715761, 40.814695</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/1/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WHITE, MONTICELLO, 521  TWIN LAKES AVENUE</description><Point><coordinates>-86.768283, 40.739766</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/17/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WHITE, REYNOLDS, 1308 US24 E 18</description><Point><coordinates>-86.897014, 40.749232</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/4/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WHITE, REYNOLDS, 2176 WEST N 450</description><Point><coordinates>-86.956878, 40.718776</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

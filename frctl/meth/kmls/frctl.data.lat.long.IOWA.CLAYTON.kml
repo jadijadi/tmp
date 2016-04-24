@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/3/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, CLAYTON, FARMERSBURG, 405 S MAIN STREET</description><Point><coordinates>-91.368007, 42.957448</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/5/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, CLAYTON, GUTTENBERG, 726  SECOND</description><Point><coordinates>-91.101980, 42.793103</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/15/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, CLAYTON, GUTTENBERG, 115  SCHILLER</description><Point><coordinates>-91.096485, 42.780388</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/1/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, CLAYTON, MCGREGOR, 16998 KING ROAD</description><Point><coordinates>-91.219925, 42.985252</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, CLAYTON, STRAWBERRY POINT, 109 1/2 ELKADER ST D</description><Point><coordinates>-91.534235, 42.684334</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

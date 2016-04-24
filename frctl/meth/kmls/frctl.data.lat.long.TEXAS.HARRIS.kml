@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 10/24/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, HARRIS, CHANNELVIEW, 908 HARDING</description><Point><coordinates>-95.109356, 29.769896</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/26/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, HARRIS, CHANNELVIEW, 16906  B AVENUE</description><Point><coordinates>-95.098512, 29.790851</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/12/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, HARRIS, CHANNELVIEW, 922  LITTLEPORT LN LANE</description><Point><coordinates>-95.149961, 29.792219</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/8/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, HARRIS, CROSBY, 205 REIDLAND ROAD 10</description><Point><coordinates>-95.082117, 29.961769</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/1/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, HARRIS, CROSBY, 20508 HENRY DALE STREET</description><Point><coordinates>-95.062151, 29.911888</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/19/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, HARRIS, CROSBY, 302 MOOSE DRIVE</description><Point><coordinates>-95.094181, 29.985007</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/27/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, HARRIS, CYPRESS, 13703 PEPPER KNOLL</description><Point><coordinates>-95.626790, 29.941062</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/5/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, HARRIS, CYPRESS, 18723 BERRY HILL</description><Point><coordinates>-95.621560, 30.041311</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, HARRIS, HOUSTON, 1508 MAIN W ST 1</description><Point><coordinates>-95.398381, 29.736342</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, HARRIS, HOUSTON, 1027 SADDLEROCK DR</description><Point><coordinates>-95.419331, 29.891904</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, HARRIS, HOUSTON, 12342 PALMSPINGS</description><Point><coordinates>-95.204610, 29.623372</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, HARRIS, HOUSTON, 4717 TILSON N LN</description><Point><coordinates>-95.518619, 29.841255</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, HARRIS, HOUSTON, 15313 GULF FREEWAY</description><Point><coordinates>-95.184682, 29.588988</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/13/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, HARRIS, HOUSTON, 14255 NORTHURST S FRWY 308</description><Point><coordinates>-95.528624, 29.860777</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/24/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, HARRIS, HOUSTON, 12342 PALM SPRINGS</description><Point><coordinates>-95.174651, 30.065088</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/27/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, HARRIS, HOUSTON, 707 EL DORADO</description><Point><coordinates>-95.139271, 29.563999</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/24/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, HARRIS, HOUSTON, 17302 SEVEN PINES</description><Point><coordinates>-95.493819, 29.793836</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/13/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, HARRIS, HOUSTON, 506 WEST BERTRAND STREET</description><Point><coordinates>-95.406227, 29.886443</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/13/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, HARRIS, HOUSTON, 5402  RENWICK STREET</description><Point><coordinates>-95.485806, 29.723040</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/17/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, HARRIS, HOUSTON, 2203  PLACE REBECCA LANE</description><Point><coordinates>-95.469938, 30.018344</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/2/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, HARRIS, HOUSTON, 5002  NOLDRIDGE</description><Point><coordinates>-95.348434, 29.671140</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/27/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, HARRIS, HOUSTON, 11503  MEADOW LAKE DRIVE</description><Point><coordinates>-95.578859, 29.742348</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/5/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, HARRIS, HUFFMAN, 2719 3RD N ST 31</description><Point><coordinates>-95.079726, 30.030714</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/10/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, HARRIS, HUMBLE, 18039  JUNE FOREST DRIVE</description><Point><coordinates>-95.203322, 29.980280</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/18/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, HARRIS, LA PORTE, 3207  SCOTCH MOSS</description><Point><coordinates>-95.109406, 29.662014</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/7/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, HARRIS, PASADENA, 2101 HUNTINGTON DR</description><Point><coordinates>-95.185647, 29.707131</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/23/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, HARRIS, PASADENA, 2905 DEWBERRY LN</description><Point><coordinates>-95.190776, 29.667598</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, HARRIS, SPRING, 2507 NIGHT OWL</description><Point><coordinates>-95.417160, 30.079940</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/9/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, HARRIS, TOMBALL, 303 BELMONT C</description><Point><coordinates>-95.612735, 30.091217</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

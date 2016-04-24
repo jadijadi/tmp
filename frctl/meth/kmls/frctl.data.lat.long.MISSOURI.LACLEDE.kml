@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/3/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LACLEDE, CONWAY, 101 MARTINGALE DR</description><Point><coordinates>-92.841303, 37.507546</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/18/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LACLEDE, CONWAY, 115  RANDALL STREET B</description><Point><coordinates>-92.821010, 37.501989</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/3/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LACLEDE, LEBANON, 27512 PARKGROVE LN G</description><Point><coordinates>-92.638048, 37.740291</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LACLEDE, LEBANON, 22170 HACKBERRY RD 41</description><Point><coordinates>-92.633202, 37.741113</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LACLEDE, LEBANON, 25989 OAKDALE DR</description><Point><coordinates>-92.687088, 37.717889</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LACLEDE, LEBANON, 13857 CC HWY</description><Point><coordinates>-92.819796, 37.536031</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/21/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LACLEDE, LEBANON, 20496 COLE RD</description><Point><coordinates>-92.659332, 37.589105</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LACLEDE, LEBANON, 352 WASHINGTON S AVE</description><Point><coordinates>-92.658935, 37.680652</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/21/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LACLEDE, LEBANON, 14900 GEORGETOWN RD</description><Point><coordinates>-92.768034, 37.717126</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LACLEDE, LEBANON, 14189 DUNKLIN RD</description><Point><coordinates>-92.778453, 37.613349</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LACLEDE, LEBANON, 1431 ELM W ST</description><Point><coordinates>-92.668212, 37.659451</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LACLEDE, LEBANON, 22329 GARRETT DR</description><Point><coordinates>-92.442178, 37.703561</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LACLEDE, LEBANON, 1507 FINN</description><Point><coordinates>-92.664978, 37.658235</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LACLEDE, LEBANON, 202 SHERMAN AVE 202</description><Point><coordinates>-92.654100, 37.683181</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/5/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LACLEDE, LEBANON, 238 MICHIGAN ST C</description><Point><coordinates>-92.662121, 37.685047</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LACLEDE, LEBANON, 337 5TH W ST</description><Point><coordinates>-92.671323, 37.682063</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/7/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LACLEDE, LEBANON, 36999 BB HWY</description><Point><coordinates>-92.621733, 37.876792</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/31/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LACLEDE, LEBANON, 2804 MORGAN S RD 124</description><Point><coordinates>-92.665590, 37.638659</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/16/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LACLEDE, LEBANON, 403 KNIGHT ST C</description><Point><coordinates>-92.672220, 37.682238</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/8/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LACLEDE, LEBANON, 16425 TULSA DRIVE</description><Point><coordinates>-92.488163, 37.570020</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/1/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LACLEDE, LEBANON, 224  GARFIELD</description><Point><coordinates>-92.673196, 37.675132</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/27/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LACLEDE, LEBANON, 17705  FINCH ROAD</description><Point><coordinates>-92.709431, 37.679360</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/28/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LACLEDE, LEBANON, 16201  TULSA DRIVE</description><Point><coordinates>-92.490260, 37.570838</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/28/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LACLEDE, LEBANON, 16501  TULSA DRIVE</description><Point><coordinates>-92.486064, 37.569980</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/6/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LACLEDE, LEBANON, 160  GRAND AVENUE</description><Point><coordinates>-92.660829, 37.684407</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/12/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LACLEDE, LEBANON, 25744 EAST HWY 32</description><Point><coordinates>-92.564717, 37.665916</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/16/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LACLEDE, LEBANON, 17498  FINCH ROAD</description><Point><coordinates>-92.713993, 37.673559</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/30/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LACLEDE, LEBANON, 509  DILLWORTH  22</description><Point><coordinates>-92.674229, 37.684804</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/2/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LACLEDE, LEBANON, 511  MILLER STREET</description><Point><coordinates>-92.674228, 37.689967</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/14/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LACLEDE, LEBANON, 1346  MILLCREEK COURT</description><Point><coordinates>-92.644022, 37.683464</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/19/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LACLEDE, LEBANON, 16201  TULSA DRIVE</description><Point><coordinates>-92.490260, 37.570838</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/15/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LACLEDE, LYNCHBURG, 10974 95 HWY</description><Point><coordinates>-92.295011, 37.493341</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/26/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LACLEDE, LYNCHBURG, 36678 BASS RD</description><Point><coordinates>-92.338504, 37.535702</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

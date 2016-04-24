@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/31/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, CAMPBELL, GLADYS, 4478 THREE CREEKS ROAD</description><Point><coordinates>-78.980892, 37.136916</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/28/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, CAMPBELL, LYNCHBURG, 1301  HARDING STREET</description><Point><coordinates>-79.177772, 37.383367</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/3/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, CAMPBELL, LYNCHBURG, 98  SAGE DR DRIVE</description><Point><coordinates>-79.111754, 37.357892</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

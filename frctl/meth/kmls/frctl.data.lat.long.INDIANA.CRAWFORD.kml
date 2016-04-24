@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/15/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, CRAWFORD, BIRDSEYE, 9098 WEST SR 64</description><Point><coordinates>-86.644510, 38.340951</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/24/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, CRAWFORD, BIRDSEYE, 9098 WEST SR 64</description><Point><coordinates>-86.644510, 38.340951</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/3/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, CRAWFORD, ENGLISH, 1788 COUNTY RD 1050 SOUTH W</description><Point><coordinates>-86.490637, 38.402493</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/11/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, CRAWFORD, MARENGO, 162 NORTH MAIN STREET</description><Point><coordinates>-86.343018, 38.375328</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/18/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, CRAWFORD, MARENGO, 1336 NORTH DEPOT HILL ROAD</description><Point><coordinates>-86.339910, 38.355534</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/15/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, CRAWFORD, MILLTOWN, 14740 GREENE ST</description><Point><coordinates>-86.276089, 38.342285</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/28/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, CRAWFORD, MILLTOWN, 8725 EAST SPEED ROAD</description><Point><coordinates>-86.295324, 38.341502</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, CRAWFORD, TASWELL, 3117 ALLSTOT W RD</description><Point><coordinates>-86.532620, 38.349846</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, CRAWFORD, TASWELL, 3414 STATE ROAD 64 W</description><Point><coordinates>-86.539150, 38.332433</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/15/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, CRAWFORD, TASWELL, 1245 SOUTH MONTGOMERY ROAD</description><Point><coordinates>-86.581744, 38.323167</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/11/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, CRAWFORD, TASWELL, 3696 WEST SR 64</description><Point><coordinates>-86.545348, 38.335379</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

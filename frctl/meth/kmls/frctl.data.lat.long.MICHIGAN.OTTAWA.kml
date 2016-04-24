@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/15/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, OTTAWA, ALLENDALE, 10069  LAKER LANE</description><Point><coordinates>-85.892365, 42.953942</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/6/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, OTTAWA, HOLLAND, 505 30TH W D3</description><Point><coordinates>-86.130033, 42.770726</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/6/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, OTTAWA, HOLLAND, 791 EAST 16TH STREET C52</description><Point><coordinates>-86.073617, 42.784841</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/6/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, OTTAWA, HOLLAND, 92 EAST 21ST STREET LOWER</description><Point><coordinates>-86.111261, 42.778168</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/16/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, OTTAWA, HOLLAND, 11877  WAVERLY MEADOW APT 80</description><Point><coordinates>-86.075164, 42.828101</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/6/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, OTTAWA, HOLLAND, 232 EAST 13TH STREET UPPER</description><Point><coordinates>-86.096682, 42.785597</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/7/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, OTTAWA, HOLLAND, 358  MAPLE AVE STREET 7</description><Point><coordinates>-86.115072, 42.784008</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/17/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, OTTAWA, HOLLAND, 11788  WAVERLY MEADOW</description><Point><coordinates>-86.073229, 42.829034</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/3/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, OTTAWA, HOLLAND, 56 WEST 16TH STREET</description><Point><coordinates>-86.109842, 42.782733</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/29/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, OTTAWA, ZEELAND, 40 NORTH ELM STREET</description><Point><coordinates>-86.016998, 42.813483</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/12/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, OTTAWA, ZEELAND, 8553  HERON STREET</description><Point><coordinates>-85.993291, 42.828075</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

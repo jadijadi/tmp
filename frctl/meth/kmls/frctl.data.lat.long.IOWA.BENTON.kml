@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, BENTON, BELLE PLAINE, 1236 D AVE</description><Point><coordinates>-92.275740, 41.895553</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/18/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, BENTON, BLAIRSTOWN, 1040 L AVE</description><Point><coordinates>-92.089905, 41.856291</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/14/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, BENTON, BLAIRSTOWN, 206  LOCUST</description><Point><coordinates>-92.084391, 41.908090</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/9/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, BENTON, NEWHALL, 6909 28TH AVENUE</description><Point><coordinates>-91.953924, 42.019608</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/25/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, BENTON, SHELLSBURG, 107 HOMER STREET 1</description><Point><coordinates>-91.863721, 42.092897</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/12/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, BENTON, VINTON, 5224 26TH AVE</description><Point><coordinates>-91.981919, 42.266689</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/22/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, BENTON, VINTON, 5748 22ND AVE DRIVE</description><Point><coordinates>-92.061335, 42.188798</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/7/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, BENTON, VINTON, 512 W 14TH STREET</description><Point><coordinates>-92.029878, 42.158195</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/3/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, BENTON, WALFORD, 425 1ST STREET</description><Point><coordinates>-91.831553, 41.874183</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

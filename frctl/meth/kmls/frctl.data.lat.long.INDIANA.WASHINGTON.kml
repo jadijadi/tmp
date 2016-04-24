@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 12/8/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WASHINGTON, CAMPBELLSBURG, 245 WEST 2ND STREET</description><Point><coordinates>-86.263908, 38.653441</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/24/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WASHINGTON, CAMPBELLSBURG, 136 NORTH FRANKLIN</description><Point><coordinates>-86.266771, 38.653279</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/17/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WASHINGTON, FREDERICKSBURG, 8427 WASHINGTON SCHOOL W RD</description><Point><coordinates>-86.211720, 38.478484</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/13/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WASHINGTON, FREDERICKSBURG, 10280 KAYS CHAPEL ROAD</description><Point><coordinates>-86.225069, 38.448008</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/25/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WASHINGTON, FREDERICKSBURG, 6171 SOUTH BULLINGTON ROAD</description><Point><coordinates>-86.198670, 38.464329</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/15/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WASHINGTON, HARDINSBURG, 7325 EAST CR 725 S</description><Point><coordinates>-86.319563, 38.448634</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/12/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WASHINGTON, HARDINSBURG, 11995 SHEPARD ROAD</description><Point><coordinates>-86.234844, 38.436598</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/22/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WASHINGTON, HARDINSBURG, 8932 US 150</description><Point><coordinates>-86.250940, 38.450178</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/8/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WASHINGTON, HARDINSBURG, 11915 HWY 150 HIGHWAY</description><Point><coordinates>-86.306992, 38.478355</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/8/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WASHINGTON, HARDINSBURG, 9176 HONEY CREEK ROAD</description><Point><coordinates>-86.297087, 38.467609</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/24/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WASHINGTON, HARDINSBURG, 9176 SOUTH HONEY CREEK ROAD</description><Point><coordinates>-86.297087, 38.467609</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/6/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WASHINGTON, HARDINSBURG, 7309 E COUNTY ROAD 725 SOUTH</description><Point><coordinates>-86.319866, 38.448632</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/12/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WASHINGTON, HARDINSBURG, 988 EAST HWY 150</description><Point><coordinates>-86.263946, 38.454422</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/24/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WASHINGTON, LIVONIA, 2871 WHEELER HOLLOW ROAD</description><Point><coordinates>-86.277483, 38.557001</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/30/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WASHINGTON, PALMYRA, 1530 E COUNTY LINE ROAD SOUTH</description><Point><coordinates>-86.077087, 38.419060</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/7/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WASHINGTON, PEKIN, 1170 EASTERN SCHOOL N RD 4</description><Point><coordinates>-86.003542, 38.515539</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WASHINGTON, PEKIN, 100 B ST</description><Point><coordinates>-86.013490, 38.506293</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/10/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WASHINGTON, PEKIN, 11680 HONEY RUN E</description><Point><coordinates>-85.891280, 38.528446</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/24/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WASHINGTON, PEKIN, 5504 EASTERN SCHOOL ROAD</description><Point><coordinates>-86.002879, 38.524271</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/5/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WASHINGTON, PEKIN, 8383 OLD PALMYRA ROAD</description><Point><coordinates>-86.063898, 38.479087</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/18/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WASHINGTON, PEKIN, 6925 OLIVE BRANCH ROAD</description><Point><coordinates>-85.977593, 38.552584</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/9/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WASHINGTON, PEKIN, 597 EAST MAIN STREET</description><Point><coordinates>-86.010518, 38.501232</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/21/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WASHINGTON, SALEM, 3654 AULT SAW MILL RD</description><Point><coordinates>-86.101089, 38.605613</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/24/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WASHINGTON, SALEM, 3654 WEST AULT SAW MILL ROAD</description><Point><coordinates>-86.101089, 38.605613</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/31/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WASHINGTON, SALEM, 5879 EAST STATE ROAD 56</description><Point><coordinates>-85.979534, 38.658531</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/2/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WASHINGTON, SALEM, 2514 EAST NUBIAN</description><Point><coordinates>-86.132721, 38.637987</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/4/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WASHINGTON, SALEM, 4604 EAST KANSAS CHURCH ROAD</description><Point><coordinates>-86.170680, 38.515165</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/20/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WASHINGTON, SALEM, 2448 NORTH RUSH CREEK ROAD</description><Point><coordinates>-86.142399, 38.637954</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/28/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WASHINGTON, VALLONIA, 3572 WEST WHEELER HOLLOW</description><Point><coordinates>-86.157811, 38.770656</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/13/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WASHINGTON, VALLONIA, 11352 K LANE</description><Point><coordinates>-86.146976, 38.765525</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

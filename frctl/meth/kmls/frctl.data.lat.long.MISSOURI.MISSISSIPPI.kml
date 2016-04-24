@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/8/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, MISSISSIPPI, BERTRAND, 207 WEST JOBE STREET</description><Point><coordinates>-89.444622, 36.908996</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/17/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, MISSISSIPPI, EAST PRAIRIE, 109 IRENE ST</description><Point><coordinates>-89.383162, 36.769159</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/21/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, MISSISSIPPI, EAST PRAIRIE, 1675 SOUTH 423RD ROAD</description><Point><coordinates>-89.385630, 36.779778</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

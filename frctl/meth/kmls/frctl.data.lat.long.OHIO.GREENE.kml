@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/6/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, GREENE, BOWERSVILLE, 3288  LONG STREET</description><Point><coordinates>-83.723194, 39.577832</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/30/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, GREENE, CEDARVILLE, 48 WEST NORTH STREET</description><Point><coordinates>-83.809145, 39.743863</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/23/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, GREENE, FAIRBORN, 436 IRONWOOD DR</description><Point><coordinates>-84.026940, 39.798869</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/26/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, GREENE, FAIRBORN, 507 LOHNES DR</description><Point><coordinates>-84.010522, 39.832885</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/16/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, GREENE, FAIRBORN, 30 GOODMAN E</description><Point><coordinates>-84.023830, 39.793622</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/13/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, GREENE, FAIRBORN, 64 ERIE ST</description><Point><coordinates>-84.017189, 39.815770</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/15/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, GREENE, FAIRBORN, 647 DAYTON YELLOW SPRINGS E</description><Point><coordinates>-84.009790, 39.784486</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, GREENE, FAIRBORN, 44 THORNTON DR</description><Point><coordinates>-84.011178, 39.807048</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/24/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, GREENE, FAIRBORN, 241 MADISON ST</description><Point><coordinates>-84.031430, 39.800992</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/3/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, GREENE, FAIRBORN, 1923 ZIMMERMAN 20</description><Point><coordinates>-84.043726, 39.791119</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/31/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, GREENE, FAIRBORN, 315 BUCKEYE STREET</description><Point><coordinates>-84.032802, 39.803555</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/18/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, GREENE, FAIRBORN, 4659 BYRON ROAD</description><Point><coordinates>-83.980606, 39.821143</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/1/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, GREENE, FAIRBORN, 415 VINE STREET</description><Point><coordinates>-84.035753, 39.800294</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/2/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, GREENE, FAIRBORN, 166 DELWOOD STREET</description><Point><coordinates>-84.014285, 39.805482</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/6/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, GREENE, FAIRBORN, 212 EUCLID AVENUE</description><Point><coordinates>-84.029718, 39.803689</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/20/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, GREENE, FAIRBORN, 1708 LOWELL ROAD</description><Point><coordinates>-84.034216, 39.794908</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/2/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, GREENE, FAIRBORN, 1010  LEXINGTON AVE AVENUE</description><Point><coordinates>-84.020278, 39.809603</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/5/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, GREENE, FAIRBORN, 152  FITCHLAND AVENUE</description><Point><coordinates>-84.015761, 39.811685</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/20/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, GREENE, JAMESTOWN, 10 SOUTH S BUCKLES ST/S BUCKLES AVE AVENUE</description><Point><coordinates>-83.734924, 39.658116</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/27/2000</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, GREENE, SPRING VALLEY, 1850 42 STATE S RT</description><Point><coordinates>-84.007711, 39.608949</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/31/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, GREENE, SPRINGFIELD, 2801 DIVISION E 17</description><Point><coordinates>-82.907123, 40.417287</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/13/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, GREENE, XENIA, 1483 CHEYENNE DRIVE</description><Point><coordinates>-83.961848, 39.680309</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

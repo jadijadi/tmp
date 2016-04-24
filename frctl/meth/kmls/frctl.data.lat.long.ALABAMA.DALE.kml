@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, DALE, DALEVILLE, 2447 GRITNEY S RD</description><Point><coordinates>-85.701999, 31.244717</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/6/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, DALE, ENTERPRISE, 23 WATERS ST NO. 1</description><Point><coordinates>-85.771509, 31.312424</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/8/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, DALE, ENTERPRISE, 205  RICHLAND DRIVE</description><Point><coordinates>-85.787447, 31.338746</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/10/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, DALE, LEVEL PLAINS, 159 G ST</description><Point><coordinates>-85.770617, 31.304576</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/11/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, DALE, MIDLAND CITY, 420  JACKSON CIRCLE</description><Point><coordinates>-85.515863, 31.271882</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/6/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, DALE, NEWTON, 14237 84 W HWY</description><Point><coordinates>-85.623501, 31.239981</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/6/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, DALE, OZARK, 222 COUNTY 317 W RD</description><Point><coordinates>-85.566168, 31.541042</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/13/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, DALE, OZARK, 11511 HWY 27</description><Point><coordinates>-85.480760, 31.459118</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, DALE, OZARK, 517 BROAD E ST</description><Point><coordinates>-85.634653, 31.459502</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

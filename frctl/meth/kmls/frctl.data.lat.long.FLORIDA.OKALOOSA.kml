@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 10/25/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, OKALOOSA, BAKER, 861 HIGHWAY C 180</description><Point><coordinates>-86.717652, 30.982667</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/19/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, OKALOOSA, BAKER, 1894  WADSWORTH RD ROAD</description><Point><coordinates>-86.636793, 30.752457</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/5/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, OKALOOSA, CRESTVIEW, 838 WILLIAMS E ST</description><Point><coordinates>-86.548827, 30.747285</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/13/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, OKALOOSA, CRESTVIEW, 5301 HARE STREET</description><Point><coordinates>-86.525174, 30.758766</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/17/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, OKALOOSA, CRESTVIEW, 5352  COUNTY ROAD 393 ROAD</description><Point><coordinates>-86.437518, 30.756862</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/1/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, OKALOOSA, CRESTVIEW, 127  BEACONS BEND ROAD</description><Point><coordinates>-86.580044, 30.800063</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/27/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, OKALOOSA, DEFUNIAK SPRINGS, 1052 EAGLES WAY</description><Point><coordinates>-86.343599, 30.793765</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, OKALOOSA, DESTIN, 217 SIBERT AVE</description><Point><coordinates>-86.506763, 30.400730</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/2/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, OKALOOSA, DESTIN, 7991  GULF BOULEVARD</description><Point><coordinates>-86.464375, 30.388788</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/23/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, OKALOOSA, FORT WALTON BEACH, 20 HIGHLAND DR</description><Point><coordinates>-86.616217, 30.418236</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/4/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, OKALOOSA, FORT WALTON BEACH, 520  SANTA ROSA BOULEVARD 508</description><Point><coordinates>-86.611252, 30.396513</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/7/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, OKALOOSA, FORT WALTON BEACH, 108  MONAHAN DR DRIVE 3</description><Point><coordinates>-86.607558, 30.432482</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/18/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, OKALOOSA, FORT WALTON BEACH, 705 W SUNSET BOULEVARD</description><Point><coordinates>-86.634377, 30.435518</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/3/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, OKALOOSA, HOLT, 4399 SUNDANCE WAY</description><Point><coordinates>-86.742173, 30.688003</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, OKALOOSA, LAUREL HILL, 7831 STEEL MILL CREEK RD</description><Point><coordinates>-86.441438, 30.940526</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/9/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, OKALOOSA, LAUREL HILL, 9124 FIFTH S ST</description><Point><coordinates>-86.463419, 30.967170</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/30/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, OKALOOSA, LAUREL HILL, 3988 SECOND AVENUE</description><Point><coordinates>-86.456621, 30.965522</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, OKALOOSA, NICEVILLE, 517 SAMANA WAY</description><Point><coordinates>-86.415607, 30.479646</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/14/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, OKALOOSA, NICEVILLE, 521 COUNTY LINE RD</description><Point><coordinates>-86.394289, 30.460926</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/23/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, OKALOOSA, NICEVILLE, 1595 JOHN SIMS E PKWY</description><Point><coordinates>-86.449669, 30.511927</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/29/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, OKALOOSA, NICEVILLE, 304 REEVES ST C-5</description><Point><coordinates>-86.462783, 30.511370</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, OKALOOSA, NICEVILLE, 48 VIRGINIA CT</description><Point><coordinates>-86.388195, 30.459496</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, OKALOOSA, NICEVILLE, 105 SASSER ST</description><Point><coordinates>-86.466162, 30.510472</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/7/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, OKALOOSA, NICEVILLE, 616 ELM ST</description><Point><coordinates>-86.480666, 30.520154</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/29/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, OKALOOSA, NICEVILLE, 232 MADISON STREET</description><Point><coordinates>-86.471868, 30.527919</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/29/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, OKALOOSA, NICEVILLE, 616 ELM STREET</description><Point><coordinates>-86.480666, 30.520154</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/6/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, OKALOOSA, SHALIMAR, 61 FAWN LN</description><Point><coordinates>-86.570863, 30.444029</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/17/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, OKALOOSA, SHALIMAR, 51  6TH AVENUE</description><Point><coordinates>-86.573863, 30.441651</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/17/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, OKALOOSA, VALPARAISO, 358 MADISON AVE</description><Point><coordinates>-86.500793, 30.505945</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/6/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, OKALOOSA, VALPARAISO, 15  CARIE TERRACE</description><Point><coordinates>-86.508508, 30.530233</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

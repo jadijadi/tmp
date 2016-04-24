@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/4/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: PENNSYLVANIA, BEDFORD, EVERETT, 108  BROWELL RD STREET</description><Point><coordinates>-78.373348, 40.011471</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/28/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: PENNSYLVANIA, BEDFORD, MANNS CHOICE, 150 SUNSET LANE</description><Point><coordinates>-78.611876, 40.011011</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/10/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: PENNSYLVANIA, BEDFORD, OSTERBURG, 114 MAIN ST</description><Point><coordinates>-78.511732, 40.150694</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

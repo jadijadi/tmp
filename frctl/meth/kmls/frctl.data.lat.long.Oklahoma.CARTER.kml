@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 11/3/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CARTER, ARDMORE, 1426 RUTLEDGE SE ST</description><Point><coordinates>-97.127120, 34.151885</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/25/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CARTER, LONE GROVE, SUE MILLER  RD  291</description><Point><coordinates>-97.262795, 34.175372</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/26/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CARTER, LONE GROVE, 11700  PRAIRIE VALLEY ROAD</description><Point><coordinates>-97.311971, 34.201962</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/30/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CARTER, WILSON, 301 ASH W</description><Point><coordinates>-97.428433, 34.162727</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

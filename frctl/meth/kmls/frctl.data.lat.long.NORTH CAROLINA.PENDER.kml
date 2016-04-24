@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/13/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, PENDER, HAMPSTEAD, 913  CEDAR AVENUE</description><Point><coordinates>-77.570101, 34.438786</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/13/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, PENDER, HAMPSTEAD, 913  CEDAR AVENUE</description><Point><coordinates>-77.570101, 34.438786</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/25/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, PENDER, HAMPSTEAD, 315  FRANK MILLIS ROAD</description><Point><coordinates>-77.752848, 34.385913</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/18/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, PENDER, SURF CITY, 13814 NC 50 HIGHWAY</description><Point><coordinates>-77.560572, 34.445737</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 12/3/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, OAKLAND, HAZEL PARK, 1482 EAST ELZA AVENUE</description><Point><coordinates>-83.088797, 42.451581</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, OAKLAND, ROYAL OAK, 821 NORTH EDGEWORTH AVENUE</description><Point><coordinates>-83.120262, 42.497167</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

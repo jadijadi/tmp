@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/1/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, HART, BONNIEVILLE, 10584 DIXIE N HWY</description><Point><coordinates>-85.892530, 37.420566</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/21/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, HART, BONNIEVILLE, 707 CAMP GROUND RD</description><Point><coordinates>-85.911794, 37.372111</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/30/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, HART, BONNIEVILLE, 4140 NORTH DIXE HIGHWAY</description><Point><coordinates>-85.908994, 37.326568</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/13/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, HART, BOONEVILLE, 3040  FALLING SPRINGS CHURCH</description><Point><coordinates>-84.270018, 37.839333</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/22/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, HART, HARDY, 125 KOUNTRY KITCHEN ROAD</description><Point><coordinates>-84.270018, 37.839333</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/25/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, HART, HORSE CAVE, 1415 MAIN E</description><Point><coordinates>-85.888807, 37.177943</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/16/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, HART, HORSE CAVE, 753 HATCHER VALLEY ROAD</description><Point><coordinates>-85.945071, 37.179585</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/23/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, HART, HORSE CAVE, 110 HART AVENUE</description><Point><coordinates>-85.897515, 37.177866</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/31/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, HART, HORSE CAVE, 1261  DAVIS WILLIAMS ROAD</description><Point><coordinates>-85.967323, 37.225110</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, HART, MUNFORDVILLE, 315 COUNTY BARN RD</description><Point><coordinates>-85.917296, 37.270840</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/5/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, HART, MUNFORDVILLE, 564 BUCKNER HOLLOW RD</description><Point><coordinates>-85.872754, 37.298833</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/17/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, HART, MUNFORDVILLE, 734 NATIONAL TURNPIKE #4</description><Point><coordinates>-85.896850, 37.280510</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/27/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, HART, UPTON, 4174 PLEASANT HILL RD</description><Point><coordinates>-85.935797, 37.438691</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/28/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, HART, UPTON, 2488 LONE STAR ROAD</description><Point><coordinates>-85.958327, 37.426450</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

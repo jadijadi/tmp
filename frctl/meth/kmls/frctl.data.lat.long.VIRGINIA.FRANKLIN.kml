@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 11/19/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, FRANKLIN, BOONES MILL, 1252  CROWELL GAP ROAD</description><Point><coordinates>-79.904076, 37.170717</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/12/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, FRANKLIN, BOONES MILL, 2569  JUBAL EARLY HIGHWAY</description><Point><coordinates>-79.852889, 37.129776</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/24/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, FRANKLIN, FERRUM, 400  RAMBLING ROSE</description><Point><coordinates>-80.023345, 36.902416</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/8/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, FRANKLIN, ROANOKE, 7444  TINKERVIEW ROAD</description><Point><coordinates>-79.915131, 37.350322</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/22/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, FRANKLIN, ROCKY MOUNT, 71 CASSELL DRIVE</description><Point><coordinates>-79.885751, 36.959154</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/12/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, FRANKLIN, ROCKY MOUNT, 280  OLD FURNACE ROAD</description><Point><coordinates>-79.895328, 36.989437</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/17/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, FRANKLIN, ROCKY MOUNT, 3199  OLD FRANKLIN TURNPIKE</description><Point><coordinates>-79.858601, 37.017982</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/10/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, FRANKLIN, ROCKY MOUNT, 430  DIAMOND AVE STREET</description><Point><coordinates>-79.900037, 36.998054</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/1/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, FRANKLIN, ROCKY MOUNT, 406  ROUND HILL ROAD</description><Point><coordinates>-79.819722, 37.060705</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/16/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, FRANKLIN, ROCKY MOUNT, 35  OAK STREET</description><Point><coordinates>-79.893590, 36.996923</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/20/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, FRANKLIN, UNION HALL, 324 SE MONTEVISTA ROAD</description><Point><coordinates>-79.648095, 37.028056</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/7/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, FRANKLIN, WIRTZ, 355  HILLBROOK LANE</description><Point><coordinates>-79.725122, 37.077713</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

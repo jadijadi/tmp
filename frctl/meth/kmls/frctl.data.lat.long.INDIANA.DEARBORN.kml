@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 10/21/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, DEARBORN, DILLSBORO, 10557 US 50 ROAD</description><Point><coordinates>-85.037342, 39.019639</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/7/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, DEARBORN, GUILFORD, 9531 DEARBORN N RD</description><Point><coordinates>-84.994343, 39.234054</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/11/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, DEARBORN, LAWRENCEBURG, 334 OBERTING RD</description><Point><coordinates>-84.827466, 39.144762</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, DEARBORN, LAWRENCEBURG, 3179 WOODS RD</description><Point><coordinates>-84.878755, 39.201100</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/5/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, DEARBORN, LAWRENCEBURG, 21976 SALT FORK RD</description><Point><coordinates>-84.876714, 39.196066</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/26/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, DEARBORN, LAWRENCEBURG, 2586 MEYER ROAD</description><Point><coordinates>-84.878355, 39.104201</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/17/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, DEARBORN, LAWRENCEBURG, 1537  FAIRWAY DRIVE 101</description><Point><coordinates>-84.849359, 39.155525</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/18/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, DEARBORN, WEST HARRISON, 1156 SPARKS RD</description><Point><coordinates>0, 0</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/10/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, DEARBORN, WEST HARRISON, 27541 LONGNECKER ROAD</description><Point><coordinates>-84.872472, 39.275148</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

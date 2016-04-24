@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/27/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: PENNSYLVANIA, ERIE, ALBION, 9004 RTE 215</description><Point><coordinates>-80.398898, 41.920114</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/22/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: PENNSYLVANIA, ERIE, ALBION, 9370 RTE 215</description><Point><coordinates>-80.401670, 41.912442</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/3/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: PENNSYLVANIA, ERIE, ALBION, 13333 TRACY ROAD</description><Point><coordinates>-80.461377, 41.874743</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/3/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: PENNSYLVANIA, ERIE, ALBION, 13355 TRACY ROAD</description><Point><coordinates>-80.462139, 41.874723</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/15/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: PENNSYLVANIA, ERIE, ALBION, 13249  TRACY ROAD</description><Point><coordinates>-80.460337, 41.870559</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/3/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: PENNSYLVANIA, ERIE, CORRY, 109 EAST SMITH STREET</description><Point><coordinates>-79.639016, 41.925499</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/11/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: PENNSYLVANIA, ERIE, E SPRINGFIELD, 11744 WEST MIDDLE ROAD</description><Point><coordinates>-80.399072, 41.994737</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/25/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: PENNSYLVANIA, ERIE, ERIE, 1530 FAIRMONT PKWY</description><Point><coordinates>-80.040745, 42.128106</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/21/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: PENNSYLVANIA, ERIE, ERIE, 3081 STATION RD 1</description><Point><coordinates>-80.007843, 42.134649</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/13/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: PENNSYLVANIA, ERIE, ERIE, 1124 EAST 11TH STREET</description><Point><coordinates>-80.056568, 42.134755</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/13/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: PENNSYLVANIA, ERIE, ERIE, 649 EAST 13TH STREET</description><Point><coordinates>-80.065761, 42.128028</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/2/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: PENNSYLVANIA, ERIE, ERIE, 3428 W 32ND STREET</description><Point><coordinates>-80.148116, 42.078785</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: PENNSYLVANIA, ERIE, GIRARD, 1014 LAWRENCE CT</description><Point><coordinates>-80.326744, 42.009596</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/5/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: PENNSYLVANIA, ERIE, GIRARD, 11326 CROSS STATION RD</description><Point><coordinates>-80.381264, 41.974087</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/19/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: PENNSYLVANIA, ERIE, GIRARD, 55  RANDALL AVENUE</description><Point><coordinates>-80.327895, 42.010947</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/11/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: PENNSYLVANIA, ERIE, NORTH EAST, 48 1/2 WALL ST</description><Point><coordinates>-79.837475, 42.210572</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/8/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: PENNSYLVANIA, ERIE, NORTH EAST, 68 MAIN W ST</description><Point><coordinates>-79.838840, 42.215017</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/13/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: PENNSYLVANIA, ERIE, NORTH EAST, 2271 NORTH MILL ROAD</description><Point><coordinates>-79.842120, 42.220728</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/12/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: PENNSYLVANIA, ERIE, OIL CITY, 46907 ENTERPRISE ROAD</description><Point><coordinates>-80.085059, 42.129224</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/6/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: PENNSYLVANIA, ERIE, WATTSBURG, 8350 PAGE RD</description><Point><coordinates>-79.868795, 42.073128</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/26/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: PENNSYLVANIA, ERIE, WEST SPRINGFIELD, 5300 NASH RD LOT 2</description><Point><coordinates>-80.450980, 41.951788</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/4/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: PENNSYLVANIA, ERIE, WEST SPRINGFIELD, 5300  NASH ROAD BOX LOT#27</description><Point><coordinates>-80.450980, 41.951788</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

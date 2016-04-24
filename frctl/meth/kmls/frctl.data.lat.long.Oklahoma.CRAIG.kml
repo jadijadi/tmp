@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 7/13/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CRAIG, VINITA, 134  SAINTS CIRCLE</description><Point><coordinates>-95.154134, 36.638694</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/21/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CRAIG, VINITA, 646 NORTH THOMPSON STREET</description><Point><coordinates>-95.151145, 36.649658</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/22/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CRAIG, VINITA, 443454 EAST 320 ROAD</description><Point><coordinates>-95.104851, 36.553921</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/4/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CRAIG, VINITA, 401 EAST ATTUCKS</description><Point><coordinates>-95.151690, 36.630781</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/25/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CRAIG, VINITA, 311 SOUTH BROWN STREET</description><Point><coordinates>-95.167775, 36.638753</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/18/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CRAIG, WELCH, 156 FIRST W AVE</description><Point><coordinates>-95.094719, 36.877857</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CRAIG, WELCH, 440 WASHINGTON S ST</description><Point><coordinates>-95.098833, 36.873276</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

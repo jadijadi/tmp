@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, CALHOUN, ANNISTON, 4250 US 431 HWY</description><Point><coordinates>-85.882400, 33.732800</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/25/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, CALHOUN, ANNISTON, 440 WILLINGHAM DR</description><Point><coordinates>-85.902232, 33.647520</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, CALHOUN, ANNISTON, 4620 SPRAUGE AVE LOT 2</description><Point><coordinates>-85.828436, 33.705604</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/1/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, CALHOUN, ANNISTON, 1001 BYNUM LEATHERWOOD RD</description><Point><coordinates>-85.903800, 33.653700</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, CALHOUN, ANNISTON, 207 BRENDA RD</description><Point><coordinates>-85.825600, 33.705600</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/5/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, CALHOUN, ANNISTON, 176 MARION DR</description><Point><coordinates>-85.860800, 33.690200</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, CALHOUN, ANNISTON, 2130 WOODLAND AVE</description><Point><coordinates>-85.816000, 33.673100</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/6/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, CALHOUN, ANNISTON, 116 29TH W ST</description><Point><coordinates>-85.831323, 33.682817</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/6/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, CALHOUN, ANNISTON, 2325 NOBLE ST</description><Point><coordinates>-85.829826, 33.675046</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/19/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, CALHOUN, ANNISTON, 169 WOODMIST LN</description><Point><coordinates>-85.831632, 33.659826</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/3/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, CALHOUN, ANNISTON, 101 54TH ST. E ST LOT #10</description><Point><coordinates>-85.829400, 33.716200</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/10/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, CALHOUN, ANNISTON, 148 CHELSI LANE</description><Point><coordinates>-85.898500, 33.644100</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/21/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, CALHOUN, ANNISTON, 807 BANCROFT</description><Point><coordinates>-85.855700, 33.655100</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/5/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, CALHOUN, ANNISTON, 704 MOUNTAIN DRIVE</description><Point><coordinates>-85.805700, 33.730200</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/7/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, CALHOUN, ANNISTON, 4500 SPRAGUE AVENUE 82</description><Point><coordinates>-85.828553, 33.704151</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/17/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, CALHOUN, ANNISTON, 2910 DEMPSEY AVENUE</description><Point><coordinates>-85.871300, 33.650400</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/14/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, CALHOUN, ANNISTON, 792  JAMBACK ROAD</description><Point><coordinates>-85.733629, 33.631772</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/16/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, CALHOUN, ANNISTON, 4726  OLD BIRMINGHAM HWY</description><Point><coordinates>-85.900500, 33.635800</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, CALHOUN, DE ARMANVILLE, 2445 DEARMANVILLE RD C-4</description><Point><coordinates>-85.727353, 33.645095</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/27/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, CALHOUN, JACKSONVILLE, 1520 CHURCH SE ST LOT 6</description><Point><coordinates>-85.760066, 33.794642</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/3/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, CALHOUN, JACKSONVILLE, 69 ROBERTS CHAPEL RD</description><Point><coordinates>-85.761354, 33.813713</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/27/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, CALHOUN, OHATCHEE, 8934 MUDD ST</description><Point><coordinates>-86.045800, 33.721000</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/17/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, CALHOUN, OHATCHEE, 1050 GILBERTS FERRY ROAD</description><Point><coordinates>-85.970019, 33.879132</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/25/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, CALHOUN, OXFORD, 415 MCPHERSON AVE</description><Point><coordinates>-85.836300, 33.615600</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/23/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, CALHOUN, OXFORD, 2218 MILLER ST</description><Point><coordinates>-85.844800, 33.598200</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/10/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, CALHOUN, OXFORD, 50  SHORT STREET 4</description><Point><coordinates>-85.809609, 33.610128</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/21/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, CALHOUN, OXFORD, 1909  FRIENDSHIP ROAD</description><Point><coordinates>-85.798300, 33.586000</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/5/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, CALHOUN, OXFORD, 600  MCPHERSON STREET 6</description><Point><coordinates>-85.837165, 33.614714</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/5/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, CALHOUN, WEAVER, 705 TIMBERWAY</description><Point><coordinates>-85.818900, 33.754000</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

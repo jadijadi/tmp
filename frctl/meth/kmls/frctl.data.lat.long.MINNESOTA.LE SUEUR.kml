@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MINNESOTA, LE SUEUR, KASOTA, 321 RICE S ST</description><Point><coordinates>-93.964987, 44.287520</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MINNESOTA, LE SUEUR, KASOTA, 1 KOSSUTH ST</description><Point><coordinates>-93.964935, 44.296338</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MINNESOTA, LE SUEUR, KASOTA, 700 WEBSTER N</description><Point><coordinates>-93.966365, 44.294986</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/9/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MINNESOTA, LE SUEUR, LE SUEUR, 509 NORTH SECOND #209 STREET</description><Point><coordinates>-93.911363, 44.459852</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

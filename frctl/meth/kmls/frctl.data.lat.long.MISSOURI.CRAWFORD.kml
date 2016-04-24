@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CRAWFORD, BOURBON, 344 OLD SPRINGFIELD</description><Point><coordinates>-91.255674, 38.149936</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CRAWFORD, BOURBON, 1805 BERNETT</description><Point><coordinates>-91.315544, 38.146466</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CRAWFORD, BOURBON, 110 LANDERS RD</description><Point><coordinates>-91.184829, 38.185426</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/4/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CRAWFORD, BOURBON, 344 OLD SPRINGFIELD RD</description><Point><coordinates>-91.255674, 38.149936</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/5/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CRAWFORD, BOURBON, 512 OAK</description><Point><coordinates>-91.241598, 38.155765</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/18/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CRAWFORD, BOURBON, 3301 C HIGHWAY</description><Point><coordinates>-91.244033, 38.154770</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/27/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CRAWFORD, CHERRYVILLE, 290 WHITE RIVER RD</description><Point><coordinates>-91.236008, 37.869592</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CRAWFORD, CUBA, 1005 GRAND E</description><Point><coordinates>-91.394061, 38.066505</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CRAWFORD, CUBA, 713 PRAIRIE S 3</description><Point><coordinates>-91.402955, 38.057261</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CRAWFORD, CUBA, 5810 RIVERSIDE</description><Point><coordinates>-91.451546, 38.011599</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/3/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CRAWFORD, CUBA, 75 INDIAN HILLS DR</description><Point><coordinates>-91.442864, 38.088549</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CRAWFORD, CUBA, 901 MAPLESHADE N</description><Point><coordinates>-91.394710, 38.069704</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CRAWFORD, CUBA, 906 GLASSEY ST</description><Point><coordinates>-91.424971, 38.093787</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/20/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CRAWFORD, CUBA, 2418 SAN CHEZ</description><Point><coordinates>-91.403483, 38.062823</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/29/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CRAWFORD, CUBA, 1002 GLASSEY STREET</description><Point><coordinates>-91.426794, 38.093130</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/23/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CRAWFORD, CUBA, 10629 HIGHWAY 19</description><Point><coordinates>-91.388933, 38.036698</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/30/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CRAWFORD, CUBA, 1508 ENLOE ROAD</description><Point><coordinates>-91.347624, 38.154033</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/18/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CRAWFORD, LEASBURG, 6411 NORTH SERVICE ROAD</description><Point><coordinates>-91.333545, 38.110935</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/21/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CRAWFORD, LEASBURG, 711 CEDAR</description><Point><coordinates>-91.293220, 38.096496</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CRAWFORD, STEELVILLE, 394 LONG SPRING</description><Point><coordinates>-91.286026, 37.954482</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CRAWFORD, STEELVILLE, 418 8 E HWY</description><Point><coordinates>-91.431514, 37.955873</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/16/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CRAWFORD, STEELVILLE, 234 STATE HWY E</description><Point><coordinates>-91.249192, 37.993593</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/20/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CRAWFORD, STEELVILLE, 117 BIG BEND LANE</description><Point><coordinates>-91.447420, 37.985416</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/30/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CRAWFORD, STEELVILLE, 288 BIRDSNEST</description><Point><coordinates>-91.355543, 37.980399</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/7/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CRAWFORD, SULLIVAN, 309 SOUTH PARK STREET</description><Point><coordinates>-91.166132, 38.203510</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

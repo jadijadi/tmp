@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 10/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, LINCOLN, CRAB ORCHARD, 1695 PINE GROVE RD</description><Point><coordinates>-84.581098, 37.440932</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/4/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, LINCOLN, CRAB ORCHARD, 8035 CRAB ORCHARD RD</description><Point><coordinates>-84.344453, 37.352681</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/23/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, LINCOLN, CRAB ORCHARD, 550 HARNESS RIDGE</description><Point><coordinates>-84.525396, 37.368560</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/8/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, LINCOLN, CRAB ORCHARD, 740 FLAT WOODS SCHOOL ROAD</description><Point><coordinates>-84.518444, 37.348818</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/25/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, LINCOLN, CRAB ORCHARD, 107214  DANVILLE ROAD</description><Point><coordinates>-84.270018, 37.839333</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/30/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, LINCOLN, STANFORD, 1600 WILLIAM WHITLEY RD</description><Point><coordinates>-84.546194, 37.467574</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/1/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, LINCOLN, STANFORD, 1600 WILLIAM WHITNEY RD</description><Point><coordinates>-84.270018, 37.839333</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/6/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, LINCOLN, STANFORD, 114 STAR AVENUE</description><Point><coordinates>-84.651085, 37.532489</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/2/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, LINCOLN, STANFORD, 199  LOGAN AVE AVENUE</description><Point><coordinates>-84.658255, 37.531305</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

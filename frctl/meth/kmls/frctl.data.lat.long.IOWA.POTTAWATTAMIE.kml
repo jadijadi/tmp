@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/23/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, POTTAWATTAMIE, AVOCA, 155 CHESTNUT S ST</description><Point><coordinates>-95.336104, 41.476179</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/14/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, POTTAWATTAMIE, COUNCIL BLUFFS, 1727 5TH AVE</description><Point><coordinates>-95.870543, 41.256856</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, POTTAWATTAMIE, COUNCIL BLUFFS, 1848 16TH N ST 227</description><Point><coordinates>-95.867491, 41.277346</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/5/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, POTTAWATTAMIE, COUNCIL BLUFFS, 21903 CHESNUT RD</description><Point><coordinates>-95.766824, 41.214157</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/9/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, POTTAWATTAMIE, COUNCIL BLUFFS, 2118 N AVE</description><Point><coordinates>-95.943802, 41.209667</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/13/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, POTTAWATTAMIE, COUNCIL BLUFFS, 1908 PUEBLO ROAD</description><Point><coordinates>-95.867924, 41.227590</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/15/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, POTTAWATTAMIE, COUNCIL BLUFFS, 807 8TH AVENUE</description><Point><coordinates>-95.856504, 41.254049</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/3/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, POTTAWATTAMIE, TREYNOR, 32505 US HWY 92</description><Point><coordinates>-95.565064, 41.229836</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, POTTAWATTAMIE, UNDERWOOD, 22426 HIGHWAY 191</description><Point><coordinates>-95.680702, 41.384701</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, POTTAWATTAMIE, UNDERWOOD, 22426 HWY 191</description><Point><coordinates>-95.676674, 41.386939</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

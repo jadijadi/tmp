@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/10/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CUMBERLAND, AUTRYVILLE, 9567 SOUTH 210 HIGHWAY</description><Point><coordinates>-78.620840, 34.949036</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/26/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CUMBERLAND, AUTRYVILLE, 9785  RUTH VINSON ROAD</description><Point><coordinates>-78.603257, 34.946615</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/21/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CUMBERLAND, FAYETTEVILLE, 341 WILKES RD</description><Point><coordinates>-78.888427, 35.021321</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/23/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CUMBERLAND, FAYETTEVILLE, 724  SKYCLIFF COURT</description><Point><coordinates>-78.863014, 35.108440</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/8/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CUMBERLAND, FAYETTEVILLE, 6816  RADIAL DRIVE</description><Point><coordinates>-78.853401, 35.176028</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/21/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CUMBERLAND, FAYETTEVILLE, 374  SADDLE RIDGE ROAD</description><Point><coordinates>-78.899465, 35.145397</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/2/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CUMBERLAND, GODWIN, 6083 PERCY STRICKLAND RD</description><Point><coordinates>-78.700367, 35.172708</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/5/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CUMBERLAND, HOPE MILLS, 4917  MADISON DRIVE</description><Point><coordinates>-78.944690, 34.943986</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/17/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CUMBERLAND, HOPE MILLS, 2054  CANADY POND ROAD</description><Point><coordinates>-78.905096, 34.875124</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/30/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CUMBERLAND, LINDEN, 26  VALERIE LANE</description><Point><coordinates>-78.822653, 35.260950</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

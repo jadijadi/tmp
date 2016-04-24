@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 10/3/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JOHNSON, BARGERSVILLE, 806 OLD PLANK RD</description><Point><coordinates>-86.153289, 39.516884</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/25/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JOHNSON, BARGERSVILLE, 2701 NORTH COUNTY ROAD 575TH W ROAD</description><Point><coordinates>-86.167766, 39.520882</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/8/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JOHNSON, EDINBURGH, 106  1/2 E MAIN CROSS 1 STREET</description><Point><coordinates>-85.966658, 39.354218</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/3/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JOHNSON, EDINBURGH, 106  1/2 E MAIN CROSS</description><Point><coordinates>-85.966276, 39.354515</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/1/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JOHNSON, FRANKLIN, 798 YOUNG ST</description><Point><coordinates>-86.047855, 39.487991</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/15/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JOHNSON, FRANKLIN, 60 LINCOLN CT</description><Point><coordinates>-86.062930, 39.502276</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/15/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JOHNSON, FRANKLIN, 2010 CEDAR LANE 3</description><Point><coordinates>-86.068274, 39.498764</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/13/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JOHNSON, FRANKLIN, 791 DUANE ST</description><Point><coordinates>-86.051013, 39.488544</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/5/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JOHNSON, FRANKLIN, 5787 SOUTH CR 700 E</description><Point><coordinates>-85.979247, 39.516892</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/10/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JOHNSON, FRANKLIN, 599  YANDES STREET</description><Point><coordinates>-86.049540, 39.486309</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/9/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JOHNSON, FRANKLIN, 2013 EAST BENJAMIN STREET 3</description><Point><coordinates>-86.019257, 39.481711</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/14/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JOHNSON, FRANKLIN, 370  YANDES STREET</description><Point><coordinates>-86.050248, 39.484381</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JOHNSON, GREENWOOD, 843 SMITH VALLEY W RD</description><Point><coordinates>-86.125466, 39.605883</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/28/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JOHNSON, GREENWOOD, 398 SCHOOLY DR</description><Point><coordinates>-86.148865, 39.608693</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/3/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JOHNSON, GREENWOOD, 1712  AVERITT ROAD</description><Point><coordinates>-86.121219, 39.592048</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/25/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JOHNSON, INDIANAPOLIS, 306 NORTH PLEASANT STREET</description><Point><coordinates>-86.161506, 39.620469</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

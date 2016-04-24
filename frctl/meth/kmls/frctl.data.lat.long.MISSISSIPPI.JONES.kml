@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 7/24/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, JONES, ELLISVILLE, 104 PAULDING ROAD</description><Point><coordinates>-89.190592, 31.609941</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/18/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, JONES, ELLISVILLE, 896 GRAVES ROAD</description><Point><coordinates>-89.253126, 31.651398</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/21/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, JONES, ELLISVILLE, 1010 SOUTH OLD HIGHWAY</description><Point><coordinates>-89.195614, 31.604054</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/16/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, JONES, ELLISVILLE, 194 PECAN GROVE ROAD</description><Point><coordinates>-89.141575, 31.563728</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/1/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, JONES, ELLISVILLE, 622 SOUTH OLD HIGHWAY 15</description><Point><coordinates>-89.093591, 31.598634</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/14/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, JONES, ELLISVILLE, 1014 SOUTH OLD HWY 15</description><Point><coordinates>-89.093591, 31.598634</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/11/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, JONES, ELLISVILLE, 823  NEW HOPE ROAD</description><Point><coordinates>-89.200429, 31.533620</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/6/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, JONES, ELLISVILLE, 105  MIZE STREET</description><Point><coordinates>-89.211663, 31.612775</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/6/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, JONES, ELLISVILLE, 105  MIZE STREET</description><Point><coordinates>-89.211663, 31.612775</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/28/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, JONES, ELLISVILLE, 3210  FANT DRIVE</description><Point><coordinates>-89.195614, 31.604054</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/9/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, JONES, LAUREL, 411 CHARLIE GREEN ROAD</description><Point><coordinates>-88.955645, 31.714074</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/25/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, JONES, LAUREL, 24 BILL TOUCHSTONE ROAD</description><Point><coordinates>-89.052418, 31.689560</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/8/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, JONES, LAUREL, 30  NORTHEAST DRIVE</description><Point><coordinates>-89.056189, 31.698346</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/29/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, JONES, LAUREL, 2915 SOUTH HIGHWAY 11</description><Point><coordinates>-89.084064, 31.737873</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/12/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, JONES, LAUREL, 351  NORTON ROAD</description><Point><coordinates>-88.971444, 31.637263</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/19/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, JONES, LAUREL, 106  REDB  HILL CROSSING ROAD</description><Point><coordinates>-89.028589, 31.729313</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/25/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, JONES, LAUREL, 224  COUNTRY CIRCLE</description><Point><coordinates>-89.107732, 31.650393</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/2/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, JONES, LAUREL, 88  GARDEN ROAD</description><Point><coordinates>-89.211034, 31.682066</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/3/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, JONES, MOSELLE, 47  RUSSELL LANE</description><Point><coordinates>-89.302000, 31.492249</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/26/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, JONES, OVETT, 6  GATOR FARM RADIAL</description><Point><coordinates>-89.032835, 31.485447</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/10/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, JONES, OVETT, 63  UPPER OVETT ROAD</description><Point><coordinates>-89.028233, 31.495719</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/3/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, JONES, SANDERSVILLE, 609 EAST MAIN STREET</description><Point><coordinates>-89.032604, 31.781026</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/14/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, JONES, SEMINARY, 1364  MOSELLE SEMINARY ROAD</description><Point><coordinates>-89.399088, 31.541290</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/14/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, JONES, SEMINARY, 1364  MOSELLE SEMINARY ROAD</description><Point><coordinates>-89.399088, 31.541290</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/22/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, JONES, SEMINARY, 188  MABELLE ROAD</description><Point><coordinates>-89.398528, 32.354668</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

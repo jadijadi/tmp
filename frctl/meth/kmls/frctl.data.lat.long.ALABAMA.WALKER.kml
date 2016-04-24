@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/5/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, WALKER, CARBON HILL, 266 AULTMAN RD</description><Point><coordinates>-87.586064, 33.934655</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/11/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, WALKER, CARBON HILL, 290 HOLCOMB ST</description><Point><coordinates>-88.300014, 41.295872</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/16/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, WALKER, CARBON HILL, 2554 RIPLEY ROAD</description><Point><coordinates>-87.444663, 33.908291</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/6/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, WALKER, CARBON HILL, 981 NORTHEAST 2ND AVENUE</description><Point><coordinates>-87.522324, 33.895858</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/29/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, WALKER, CORDOVA, 122 HOLLY ROAD</description><Point><coordinates>-87.119240, 33.807439</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/16/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, WALKER, CORDOVA, 369 FIRETOWER ROAD</description><Point><coordinates>-87.117316, 33.800277</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/24/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, WALKER, CORDOVA, 439  STEWART STREET</description><Point><coordinates>-87.191893, 33.767136</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/29/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, WALKER, CORDOVA, 174  NASHUA CIRCLE</description><Point><coordinates>0, 0</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/8/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, WALKER, DORA, 66 WOLF STREET</description><Point><coordinates>-87.093929, 33.728392</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, WALKER, EMPIRE, 3895  HULL ROAD</description><Point><coordinates>-87.053383, 33.806642</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, WALKER, JASPER, 751 ANDERSON RD</description><Point><coordinates>-87.362833, 33.927086</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/11/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, WALKER, JASPER, 7738 OK/BIRMINGHAM HWY</description><Point><coordinates>-87.277505, 33.831218</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/13/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, WALKER, JASPER, 1156 BCKWELL LP</description><Point><coordinates>-87.391300, 33.853715</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/11/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, WALKER, JASPER, 1205  BRAKEFIELD DAIRY ROAD</description><Point><coordinates>-87.289608, 33.886836</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/10/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, WALKER, JASPER, 6456  OLD TUSCALOOSA ROAD</description><Point><coordinates>-87.310153, 33.780976</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/4/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, WALKER, JASPER, 437  HAMBRIC ROAD</description><Point><coordinates>-87.162989, 33.825145</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/4/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, WALKER, JASPER, 122  HARVEST CIRCLE</description><Point><coordinates>-87.263619, 33.879757</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/5/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, WALKER, JASPER, 144  HARVEST CIRCLE 50</description><Point><coordinates>-87.263587, 33.879611</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/14/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, WALKER, NAUVOO, 6670 DOGTOWN ROAD</description><Point><coordinates>-87.570660, 33.952095</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/20/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, WALKER, NAUVOO, 263 GERMAN ROAD</description><Point><coordinates>-87.492522, 33.942845</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/23/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, WALKER, NAUVOO, 6395  DOGTOWN ROAD</description><Point><coordinates>-87.581985, 33.963097</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/3/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, WALKER, NAUVOO, 3770  REDMILL SARAGOSSA ROAD</description><Point><coordinates>-87.389731, 33.895513</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/16/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, WALKER, OAKMAN, 105 WOLF CREEK RD</description><Point><coordinates>-87.470707, 33.709418</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, WALKER, OAKMAN, 720  MOCKINGBIRD HILL ROAD</description><Point><coordinates>-87.376334, 33.749540</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/30/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, WALKER, PARRISH, 71 ANITA LN</description><Point><coordinates>-87.299143, 33.728451</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/7/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, WALKER, PARRISH, 4613  OLD OAKMAN PARRISH ROAD</description><Point><coordinates>-87.284447, 33.730664</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/30/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, WALKER, QUINSEY, 203  CRANE CREEK LANE</description><Point><coordinates>-86.902298, 32.318231</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/14/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, WALKER, QUINTON, 79 REEDS FERRY ROAD</description><Point><coordinates>-87.090239, 33.657408</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/15/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, WALKER, SUMITON, 1932 HULL ROAD</description><Point><coordinates>-87.054667, 33.782763</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

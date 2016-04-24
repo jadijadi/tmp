@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 10/21/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, OCONEE, FAIR PLAY, 371 TAMMY LN</description><Point><coordinates>-82.985558, 34.511325</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, OCONEE, SENECA, 13011 MOHAWK PATH</description><Point><coordinates>-82.909890, 34.608220</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/5/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, OCONEE, SENECA, 206 RED CARDINAL RD</description><Point><coordinates>-82.968763, 34.702090</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/9/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, OCONEE, SENECA, 1021 SOUTH 2ND E ST 1016</description><Point><coordinates>-82.939132, 34.683531</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/31/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, OCONEE, SENECA, 322 FRIENDSHIP ROAD</description><Point><coordinates>-82.938483, 34.651286</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/1/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, OCONEE, SENECA, 10  LONSDALE STREET</description><Point><coordinates>-82.931040, 34.675385</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/1/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, OCONEE, SENECA, 10  LONSDALE STREET</description><Point><coordinates>-82.931040, 34.675385</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/2/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, OCONEE, SENECA, 723  ARGO ROAD</description><Point><coordinates>-82.982886, 34.626262</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/14/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, OCONEE, TAMASSEE, 340  TAMASSEE KNOB ROAD</description><Point><coordinates>-83.057364, 34.866841</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/25/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, OCONEE, WALHALLA, 799  CEDAR CREST TRAIL</description><Point><coordinates>-83.104303, 34.761599</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, OCONEE, WESTMINSTER, 125 COBB HOLLOW LN</description><Point><coordinates>-83.158451, 34.612496</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/6/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, OCONEE, WESTMINSTER, 167  ROAME ROAD</description><Point><coordinates>-83.078319, 34.640990</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/23/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, OCONEE, WESTMINSTER, 413  JACK POLFREY ROAD</description><Point><coordinates>-83.096542, 34.664820</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

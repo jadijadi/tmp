@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/10/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, MAHONING, BERLIN CENTER, 4446 BEDELL ROAD</description><Point><coordinates>-80.987405, 41.055269</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/29/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, MAHONING, BOARDMAN, 1853 MATHEWS ROAD</description><Point><coordinates>-80.623521, 41.038606</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/15/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, MAHONING, LAKE MILTON, 15847 CREED ROAD</description><Point><coordinates>-80.952647, 41.109703</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/14/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, MAHONING, NORTH BENTON, 9500  BANDY ROAD</description><Point><coordinates>-81.050980, 40.981977</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/6/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, MAHONING, SEBRING, 1005  LAKE PARK BOULEVARD BOX 85</description><Point><coordinates>-81.038001, 40.911948</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/20/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, MAHONING, SEBRING, 206 E OREGON AVENUE</description><Point><coordinates>-81.016684, 40.921873</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/1/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, MAHONING, YOUNGSTOWN, 561 WEST DELASON AVENUE</description><Point><coordinates>-80.672139, 41.082879</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/1/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, MAHONING, YOUNGSTOWN, 24 N BROCKWAY AVENUE</description><Point><coordinates>-80.694260, 41.103506</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

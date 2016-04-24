@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/21/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, JOHNSON, FLAT GAP, 1092 BARN ROCK RD</description><Point><coordinates>-82.887386, 37.934257</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/10/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, JOHNSON, HAGERHILL, 305 CANNEL COAL GAP</description><Point><coordinates>-82.787795, 37.764970</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/14/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, JOHNSON, HAGERHILL, 8476 SOUTH ROUTE 321 KEY</description><Point><coordinates>-82.775038, 37.756866</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/16/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, JOHNSON, MEALLY, 797  PIGEON ROOST ROAD</description><Point><coordinates>-82.714367, 37.802164</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/1/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, JOHNSON, PAINTSVILLE, 79 PACK HILL DR</description><Point><coordinates>-82.782789, 37.814457</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/6/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, JOHNSON, PAINTSVILLE, 219  PINE STREET</description><Point><coordinates>-82.795874, 37.810873</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/14/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, JOHNSON, PAINTSVILLE, 601 - 677  BLEVINS DR/BLEVINS AVE</description><Point><coordinates>-82.807113, 37.824456</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/20/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, JOHNSON, PAINTSVILLE, 1621  RABBIT HOLLOW HOLLOW</description><Point><coordinates>-82.807105, 37.814538</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/3/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, JOHNSON, PAINTSVILLE, 413  MILL ST   BOX C</description><Point><coordinates>-82.811129, 37.818308</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/27/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, JOHNSON, REDBUSH, 11528 KY ROUTE 172</description><Point><coordinates>-82.919483, 37.922240</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/15/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, JOHNSON, SITKA, 838 SLOANE BRANCH BOULEVARD</description><Point><coordinates>-82.838217, 37.880648</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/13/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, JOHNSON, SITKA, 141 PUNCHEON CREEK ROAD</description><Point><coordinates>-82.849369, 37.885843</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/10/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, JOHNSON, SITKA, 102  CAUDILL BRANCH RD/CAUDILL BRANCH-SIP RD/CAUDILL BR</description><Point><coordinates>-82.838217, 37.880648</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/28/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, JOHNSON, STAFFORDSVILLE, STAFFORDS SPRING</description><Point><coordinates>-82.849359, 37.837817</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/4/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, JOHNSON, STAMBAUGH, 119 LOCUST GROVE</description><Point><coordinates>-82.793378, 37.878537</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/22/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, JOHNSON, THEALKA, 936 BOYD BRANCH</description><Point><coordinates>-82.800349, 37.830007</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, JOHNSON, VAN LEAR, 2029 ROUTE 2381</description><Point><coordinates>-82.757937, 37.771207</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, JOHNSON, WEST VAN LEAR, 100 MCCLURE ST 2</description><Point><coordinates>-82.779859, 37.786731</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, JOHNSON, WEST VAN LEAR, 114 KENTUCKY 302</description><Point><coordinates>-82.789041, 37.787350</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

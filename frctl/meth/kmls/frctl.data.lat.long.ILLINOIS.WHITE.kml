@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 12/7/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, WHITE, BURNT PRAIRIE, 2248 Co Rd 675 E</description><Point><coordinates>-88.248602, 38.206126</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, WHITE, CARMI, 503 HILLSDALE DR</description><Point><coordinates>-88.175388, 38.091383</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, WHITE, CARMI, 300 DOTY</description><Point><coordinates>-88.153092, 38.091709</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/14/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, WHITE, CARMI, 407 RICE A</description><Point><coordinates>-88.161489, 38.085037</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/13/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, WHITE, CARMI, 404 1/2 WALNUT S</description><Point><coordinates>-88.158030, 38.088058</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/28/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, WHITE, CARMI, 310 SHIPLEY STREET A</description><Point><coordinates>-88.164906, 38.097451</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, WHITE, CROSSVILLE, 102 SECOND ST</description><Point><coordinates>-88.063973, 38.162496</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/15/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, WHITE, CROSSVILLE, 407 FIRST N SR</description><Point><coordinates>-88.065312, 38.161713</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/19/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, WHITE, CROSSVILLE, 2012 CR 2200N</description><Point><coordinates>-88.009020, 38.200810</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/22/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, WHITE, ENFIELD, 647 EAST 1700 NORTH</description><Point><coordinates>-88.254688, 38.126392</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/27/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, WHITE, MAUNIE, 131 SHERIDAN ST</description><Point><coordinates>-88.045925, 38.034593</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/24/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, WHITE, MILL SHOALS, 887 CHURCH N ST</description><Point><coordinates>-88.343244, 38.251333</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, WHITE, NEW HAVEN, 459 1140 COUNTY E RD</description><Point><coordinates>-88.162860, 37.944559</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/14/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, WHITE, NORRIS, 670 EAST 500 NORTH ROAD</description><Point><coordinates>-88.251256, 37.951813</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/3/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, WHITE, NORRIS CITY, 608 CO RD 950 E</description><Point><coordinates>-88.199526, 37.971912</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/7/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, WHITE, NORRIS CITY, 608 Co Rd 675 E</description><Point><coordinates>-88.250833, 37.927969</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/14/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, WHITE, NORRIS CITY, 108 WEST MAIN STREET</description><Point><coordinates>-88.329016, 37.980911</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/16/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, WHITE, NORRIS CITY, 108 WEST MAIN STREET</description><Point><coordinates>-88.329016, 37.980911</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, WHITE, SPRINGERTON, 236 2100 N RD</description><Point><coordinates>-88.323933, 38.183640</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

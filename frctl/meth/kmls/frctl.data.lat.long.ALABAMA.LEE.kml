@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, LEE, AUBURN, 570 LEE RD</description><Point><coordinates>-85.539850, 32.536506</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/16/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, LEE, AUBURN, 137  OAK STREET</description><Point><coordinates>-85.460654, 32.604644</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/10/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, LEE, AUBURN, 2045  LEE ROAD 137  40</description><Point><coordinates>-85.642204, 32.665103</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/25/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, LEE, CUSSETA, 11136  LEE ROAD 279</description><Point><coordinates>-85.199792, 32.719140</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, LEE, OPELIKA, 3305 KING AVE</description><Point><coordinates>-85.428967, 32.623725</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/7/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, LEE, OPELIKA, 343 LEE ROAD 117</description><Point><coordinates>-85.384753, 32.510716</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/11/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, LEE, OPELIKA, 1010  2ND AVENUE 108</description><Point><coordinates>-85.383931, 32.648032</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/18/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, LEE, OPELIKA, 2796  ALABAMA STREET</description><Point><coordinates>-85.389608, 32.630417</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/24/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, LEE, OPELIKA, 454 SOUTH 10TH STREET 6</description><Point><coordinates>-85.377327, 32.642628</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/29/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, LEE, OPELIKA, 140  LEE ROAD 703</description><Point><coordinates>-85.331757, 32.584957</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, LEE, PHENIX CITY, 228 LEE RD</description><Point><coordinates>-85.056940, 32.521376</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/7/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, LEE, PHENIX CITY, 289  LEE ROAD 214</description><Point><coordinates>-85.089363, 32.489213</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/5/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, LEE, PHENIX CITY, 15  LEE ROAD  496</description><Point><coordinates>-85.081279, 32.488932</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/27/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, LEE, SALEM, 5433 LEE RD 145</description><Point><coordinates>-85.234021, 32.653638</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/22/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, LEE, SALEM, 1636 LEE RD 246</description><Point><coordinates>-85.178295, 32.557954</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/10/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, LEE, SALEM, 385  LEE ROAD 792</description><Point><coordinates>-85.115411, 32.672322</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/1/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, LEE, SMITHS STATION, 295 LEE ROAD 876</description><Point><coordinates>-85.091967, 32.510105</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/29/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, LEE, SMITHS STATION, 245 LEE ROAD 596</description><Point><coordinates>-85.123354, 32.492085</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/2/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, LEE, VALLEY, 500 LEE RD/ 360 VALLEY</description><Point><coordinates>-85.173984, 32.701230</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

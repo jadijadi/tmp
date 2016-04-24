@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/18/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: PENNSYLVANIA, CARBON, LEHIGHTON, 165  SOUTH 1 STREET</description><Point><coordinates>-75.708256, 40.832672</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/24/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: PENNSYLVANIA, CARBON, LEHIGHTON, 189  1ST SOUTH STREET</description><Point><coordinates>-75.708083, 40.832137</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/22/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: PENNSYLVANIA, CARBON, LEHIGHTON, 6  CHRISTMAN ROAD</description><Point><coordinates>-75.752893, 40.789176</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/13/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: PENNSYLVANIA, CARBON, PALMERTON, 115  LEHIGH AVENUE  BOX B</description><Point><coordinates>-75.614871, 40.798778</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/6/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, PERRY, COULTERVILLE, 477 TULIP ST</description><Point><coordinates>-89.570762, 38.146413</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, PERRY, DU QUOIN, 7672 STATE ROUTE 154 RT 116</description><Point><coordinates>-89.243311, 38.081752</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

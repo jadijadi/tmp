@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 9/6/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, BOULDER, LAFAYETTE, 1091 SIR GALAHAD DRIVE</description><Point><coordinates>-105.079413, 39.987835</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, BOULDER, LONGMONT, 2264 DEXTER DR</description><Point><coordinates>-105.098034, 40.198967</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, BOULDER, LONGMONT, 311 21ST AVE 4</description><Point><coordinates>-105.097907, 40.195733</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, BOULDER, LONGMONT, 15 EMPIRE PL</description><Point><coordinates>-105.091717, 40.178831</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, BOULDER, LONGMONT, 946 PENDELTON AVE</description><Point><coordinates>-105.075126, 40.170721</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

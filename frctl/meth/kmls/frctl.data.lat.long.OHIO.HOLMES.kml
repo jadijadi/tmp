@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/12/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, HOLMES, HOLMESVILLE, 102 NORTH WOOD STREET</description><Point><coordinates>-81.920164, 40.630154</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/20/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, HOLMES, MILLERSBURG, 151 TANAGER ST</description><Point><coordinates>-81.917920, 40.554507</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/12/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, HOLMES, MILLERSBURG, 5671 STATE ROUTE 83</description><Point><coordinates>-81.923954, 40.569661</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/8/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, HOLMES, MILLERSBURG, 6037 COUNTY ROAD 59</description><Point><coordinates>-81.917920, 40.554507</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/1/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, HOLMES, MILLERSBURG, 710 S WASHINGTON STREET BOX 11</description><Point><coordinates>-81.917529, 40.546635</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/13/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, HOLMES, MILLERSBURG, 71 N MAD ANTHONY STREET</description><Point><coordinates>-81.919282, 40.555196</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/27/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, HOLMES, WOOSTER, 223 CURRY CT</description><Point><coordinates>-81.936561, 40.800583</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

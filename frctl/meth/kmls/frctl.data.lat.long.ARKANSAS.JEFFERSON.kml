@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, JEFFERSON, PINE BLUFF, 2104 ASHLEY RD</description><Point><coordinates>-92.200931, 34.306107</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, JEFFERSON, PINE BLUFF, 305 PALOMINO RD</description><Point><coordinates>-92.148922, 34.351719</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/29/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, JEFFERSON, PINE BLUFF, 1214 104 HWY</description><Point><coordinates>-92.142659, 34.294803</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/4/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, JEFFERSON, PINE BLUFF, 7410 GIBBINS ROAD</description><Point><coordinates>-92.090091, 34.108124</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/9/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, JEFFERSON, PINE BLUFF, 5811 SASSAFRAS TRL</description><Point><coordinates>-92.161786, 34.348329</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/28/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, JEFFERSON, PINE BLUFF, 5200 SASSAFRAS TRAIL STREET</description><Point><coordinates>-92.156571, 34.351990</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/21/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, JEFFERSON, PINE BLUFF, 8205 US HWY 63 SOUTH</description><Point><coordinates>-92.324849, 39.247804</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/28/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, JEFFERSON, PINE BLUFF, 6609 WEST JONES STREET</description><Point><coordinates>-92.077909, 34.241695</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/10/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, JEFFERSON, PINE BLUFF, 1120 NORTH TUPELO STREET</description><Point><coordinates>-92.052964, 34.240251</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/16/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, JEFFERSON, PINE BLUFF, 1410 SCHOOL</description><Point><coordinates>-92.054326, 34.242138</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/18/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, JEFFERSON, PINE BLUFF, 3109  RIVIERA</description><Point><coordinates>-91.953374, 34.270596</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, JEFFERSON, REDFIELD, 2108 RIVER RD</description><Point><coordinates>-92.156006, 34.458112</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/23/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, JEFFERSON, REDFIELD, 621 PLY DR</description><Point><coordinates>-92.189204, 34.453790</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/12/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, JEFFERSON, REDFIELD, 9020 WHITEVILLE ROAD</description><Point><coordinates>-92.183203, 34.445095</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/7/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, JEFFERSON, REDFIELD, 2030 REYNOLDS ROAD</description><Point><coordinates>-92.174697, 34.412124</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, JEFFERSON, SHERILL, 403 PACK S RD</description><Point><coordinates>-92.011488, 34.379860</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/10/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, JEFFERSON, WHITE HALL, 11003 HWY 270</description><Point><coordinates>-92.154840, 34.283474</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

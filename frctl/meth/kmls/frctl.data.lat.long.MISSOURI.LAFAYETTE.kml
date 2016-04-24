@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 8/8/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LAFAYETTE, CONCORDIA, 305 SOUTH BISMARK STREET C</description><Point><coordinates>-93.570503, 38.986654</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/3/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LAFAYETTE, CORDER, 23268 LITTLE TABO CREEK RD</description><Point><coordinates>-93.631489, 39.162676</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/15/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LAFAYETTE, HIGGINSVILLE, 1710 OLIVE ST</description><Point><coordinates>-93.713769, 39.077147</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LAFAYETTE, LEXINGTON, 415 23RD S ST A1</description><Point><coordinates>-93.867985, 39.181995</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LAFAYETTE, LEXINGTON, 425 13 E HWY</description><Point><coordinates>-93.879778, 39.180145</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/24/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LAFAYETTE, NAPOLEON, 419 ANDERSON RD</description><Point><coordinates>-94.096705, 39.120577</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/8/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LAFAYETTE, NAPOLEON, 2600 HWY 224</description><Point><coordinates>-94.050156, 39.133185</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/1/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LAFAYETTE, ODESSA, 503 CHESTNUT E</description><Point><coordinates>-93.943004, 38.993583</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/1/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LAFAYETTE, ODESSA, 311 MASION E</description><Point><coordinates>-93.947779, 38.999016</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/10/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LAFAYETTE, ODESSA, 3575 SHAW SCHOOL ROAD</description><Point><coordinates>-93.907929, 38.959026</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/3/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, OHIO, BEAVER DAM, 511 SANDEFUR CROSSING RD</description><Point><coordinates>-86.807378, 37.410528</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, OHIO, BEAVER DAM, 587 MINE FORK RD</description><Point><coordinates>-86.894005, 37.390460</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/14/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, OHIO, BEAVER DAM, 711 ST RT 1245</description><Point><coordinates>-86.875826, 37.401992</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/8/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, OHIO, BEAVER DAM, 202 NORTH LAFAYETTE STREET</description><Point><coordinates>-86.878781, 37.403392</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/16/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, OHIO, BEAVER DAM, 1455  SCOTTOWN ROAD</description><Point><coordinates>-86.966025, 37.323213</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/7/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, OHIO, CENTERTOWN, 101 VALLEY LN A-3</description><Point><coordinates>-86.989663, 37.396988</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/14/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, OHIO, CROMWELL, 6955  US 231 SOUTH</description><Point><coordinates>-86.785567, 37.338736</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/19/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, OHIO, FORDSVILLE, 368 EAST MAIN STREET</description><Point><coordinates>-86.711968, 37.633137</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/27/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, OHIO, HARTFORD, 548 PARK RIDGE RD</description><Point><coordinates>-86.895764, 37.527113</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/25/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, OHIO, HARTFORD, 375 ADABURG TOWER LN</description><Point><coordinates>-86.856764, 37.589726</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/2/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, OHIO, HARTFORD, 130 MAPLE LEAF DRIVE</description><Point><coordinates>-86.909160, 37.451159</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/19/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, OHIO, HARTFORD, 1962 SHULTZ ROAD</description><Point><coordinates>-86.741643, 37.562024</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/20/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, OHIO, HAWESVILLE, 512  BARNES STREET</description><Point><coordinates>-84.270018, 37.839333</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/25/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, OHIO, HORSE BRANCH, 2887 DOGWALK E RD</description><Point><coordinates>-86.626826, 37.405606</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, OHIO, OLATON, 2603 NEW BAYMUS RD</description><Point><coordinates>-86.691553, 37.527365</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, OHIO, ROSINE, 994 UNCLE PEN LN</description><Point><coordinates>-86.735627, 37.445303</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

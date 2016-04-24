@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 8/2/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, LENAWEE, ADDISON, 219 SOUTH JACKSON STREET</description><Point><coordinates>-84.344968, 41.985013</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/11/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, LENAWEE, ADRIAN, 620 WINTER N ST</description><Point><coordinates>-84.034223, 41.904590</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/27/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, LENAWEE, ADRIAN, 1661 WEST VALLEY ROAD</description><Point><coordinates>-84.019989, 41.934060</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/21/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, LENAWEE, ADRIAN, 620 NORTH WINTER STREET</description><Point><coordinates>-84.034223, 41.904590</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/6/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, LENAWEE, ADRIAN, 1004 NORTH BROAD STREET</description><Point><coordinates>-84.028648, 41.906377</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/4/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, LENAWEE, HUDSON, 207  GROVE STREET 4</description><Point><coordinates>-84.358842, 41.853297</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/21/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, LENAWEE, JASPER, 1050  PACKARD ROAD</description><Point><coordinates>-84.042866, 41.784019</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/1/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, LENAWEE, JASPER, 1050  PACKARD ROAD</description><Point><coordinates>-84.042866, 41.784019</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/15/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, LENAWEE, MORENCI, 15670  WABASH ROAD</description><Point><coordinates>-84.322432, 41.722257</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/9/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, LENAWEE, PALMYRA, 4163  ROBB HIGHWAY</description><Point><coordinates>-83.940340, 41.858835</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

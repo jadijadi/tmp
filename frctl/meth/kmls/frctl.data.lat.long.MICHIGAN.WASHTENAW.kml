@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/2/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, WASHTENAW, MANCHESTER, 314 S WASHINGTON STREET</description><Point><coordinates>-84.039521, 42.145035</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/9/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, WASHTENAW, SALINE, 13340 LINDSLEY ROAD</description><Point><coordinates>-83.874438, 42.089835</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, CHRISTIAN, MORRISONVILLE, 201 MOHAWK ST</description><Point><coordinates>-89.456644, 39.422739</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/17/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, CHRISTIAN, MORRISONVILLE, 805 SIXTH SE ST</description><Point><coordinates>-89.449621, 39.416107</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, CHRISTIAN, PAMA, 817 1ST E ST</description><Point><coordinates>-89.398528, 40.633125</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/17/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, CHRISTIAN, PANA, 808 1ST E ST</description><Point><coordinates>-89.071228, 39.388817</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/4/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, CHRISTIAN, PANA, 402 CLARK S ST</description><Point><coordinates>-89.089255, 39.386066</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/7/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, CHRISTIAN, PANA, 650 N 2500 E ROAD</description><Point><coordinates>-89.063509, 39.443096</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/10/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, CHRISTIAN, PANA, 830 SOUTH HICKORY STREET</description><Point><coordinates>-89.071095, 39.378705</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/6/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, CHRISTIAN, PANA, 9 ELIZABETH CIRCLE</description><Point><coordinates>-89.033909, 39.379983</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/9/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, CHRISTIAN, ROSAMOND, 315 2ND ST</description><Point><coordinates>-89.159610, 39.379555</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/31/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, CHRISTIAN, TAYLORVILLE, 1398 600 EAST N RD</description><Point><coordinates>-89.423082, 39.553195</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/3/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, CHRISTIAN, TAYLORVILLE, 801 VANDEVEER W ST</description><Point><coordinates>-89.303585, 39.545733</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, CHRISTIAN, TAYLORVILLE, 1400 SPRESSER W ST 19</description><Point><coordinates>-89.311926, 39.552808</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, CHRISTIAN, TAYLORVILLE, 1318 VANDAVEER W ST</description><Point><coordinates>-89.294533, 39.548935</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/3/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, CHRISTIAN, TAYLORVILLE, 908 EAST ADAMS STREET</description><Point><coordinates>-89.283854, 39.546222</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/10/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, CHRISTIAN, TAYLORVILLE, 723 E ESTHER</description><Point><coordinates>-89.287086, 39.556304</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

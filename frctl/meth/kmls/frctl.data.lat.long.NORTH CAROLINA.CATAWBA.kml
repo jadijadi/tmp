@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 11/22/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CATAWBA, CLAREMONT, 5321  HERMAN ROAD</description><Point><coordinates>-81.147754, 35.782022</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/6/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CATAWBA, CONOVER, 222 5TH NE ST</description><Point><coordinates>-81.211295, 35.711947</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/19/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CATAWBA, CONOVER, 3305 SOUTHEAST 16TH AVENUE</description><Point><coordinates>-81.263853, 35.700901</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/28/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CATAWBA, CONOVER, 300 NORTHWEST 3RD AVENUE  B</description><Point><coordinates>-81.220145, 35.711167</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CATAWBA, HICKORY, 629 7TH SW ST</description><Point><coordinates>-81.349126, 35.724031</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/29/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CATAWBA, HICKORY, 2365 OLD SHELBY ROAD</description><Point><coordinates>-81.401754, 35.694553</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/19/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CATAWBA, HICKORY, 1515 NORTHEAST 16TH AVENUE</description><Point><coordinates>-81.303518, 35.748345</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/18/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CATAWBA, HICKORY, 1127 NORTHEAST 13TH AVENUE</description><Point><coordinates>-81.315443, 35.745975</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/18/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CATAWBA, HICKORY, 1127 NORTHEAST 13TH AVENUE</description><Point><coordinates>-81.315443, 35.745975</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/15/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CATAWBA, HICKORY, 1274 SOUTHWEST 39TH CIRCLE STREET</description><Point><coordinates>-81.398452, 35.715577</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/28/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CATAWBA, HICKORY, 3102 NORTHEAST KOOL PARK ROAD</description><Point><coordinates>-81.274597, 35.770152</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/3/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CATAWBA, HICKORY, 3462 SOUTHWEST 15TH AVENUE</description><Point><coordinates>-81.393403, 35.712390</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/6/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CATAWBA, HICKORY, 1755 NORTHEAST 20TH AVENUE A</description><Point><coordinates>-81.302036, 35.756493</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/31/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CATAWBA, MAIDEN, 4049 SOUTH HIGHWAY 16</description><Point><coordinates>-81.076760, 35.580087</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/16/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CATAWBA, NEWTON, 406 EAST 20TH STREET</description><Point><coordinates>-81.213576, 35.682594</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/8/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CATAWBA, NEWTON, 1269  FLORA DRIVE</description><Point><coordinates>-81.253232, 35.668322</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/6/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CATAWBA, VALE, 3907 HWY 18 HWY</description><Point><coordinates>-81.509307, 35.572307</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/24/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CATAWBA, VALE, 3927 CAT SQUARE RD</description><Point><coordinates>-81.438261, 35.579551</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

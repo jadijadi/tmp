@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/12/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, HENRY, BUCHANAN, 160  FREDERICA DRIVE</description><Point><coordinates>-88.208371, 36.437000</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/21/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, HENRY, MCKENZIE, 2345  OLD STATE ROUTE 76</description><Point><coordinates>-86.580447, 35.517491</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/29/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, HENRY, PARIS, 69 W HWY</description><Point><coordinates>-88.346224, 36.325054</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, HENRY, PARIS, 4671 SHADY GROVE RD</description><Point><coordinates>-88.256336, 36.385500</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/1/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, HENRY, PARIS, 4925 HIGHWAY 641 N HWY</description><Point><coordinates>-88.265896, 36.257438</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/17/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, HENRY, PARIS, 1275 WHITLOCK RD</description><Point><coordinates>-88.356289, 36.363639</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/9/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, HENRY, PARIS, 1015 STEELE ROAD</description><Point><coordinates>-88.366514, 36.251050</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/16/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, HENRY, PARIS, 245 FAIRVIEW STREET</description><Point><coordinates>-88.298344, 36.281920</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/2/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, HENRY, SPRINGVILLE, 9034 HIGHWAY 79 N</description><Point><coordinates>-88.180269, 36.380479</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

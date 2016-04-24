@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 10/11/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: PENNSYLVANIA, JEFFERSON, BROOKVILLE, 94  CRESTWOOD CIRCLE BOX 15825</description><Point><coordinates>-79.063755, 41.164399</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/9/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: PENNSYLVANIA, JEFFERSON, SYKESVILLE, 30  SYKES STREET</description><Point><coordinates>-78.816046, 41.053883</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

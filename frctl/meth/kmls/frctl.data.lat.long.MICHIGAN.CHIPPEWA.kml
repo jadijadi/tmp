@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 11/10/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, CHIPPEWA, [Unspecified], 639  MYRTLE ELLIOTT CIRCLE BOX 3</description><Point><coordinates>-85.602364, 44.314844</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/9/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, CHIPPEWA, SAULT STE MARIE, 2309  ANDARY AVENIDA</description><Point><coordinates>-84.406393, 46.486418</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/21/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, SCOTT, BETTENDORF, 5425 VALLEY DR 7</description><Point><coordinates>-90.454990, 41.547476</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/18/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, SCOTT, BETTENDORF, 1005 39TH STREET</description><Point><coordinates>-90.479330, 41.531768</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/5/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, SCOTT, DAVENPORT, 2815 68TH W ST</description><Point><coordinates>-90.615365, 41.589948</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/17/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, SCOTT, DAVENPORT, 717 SOUTH DITTMER STREET</description><Point><coordinates>-90.620416, 41.512505</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/8/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, SCOTT, DAVENPORT, 2809  SHERIDAN STREET</description><Point><coordinates>-90.574096, 41.548946</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/6/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, SCOTT, DAVENPORT, 5112  FAIRMOUNT STREET BOX 196</description><Point><coordinates>-90.631909, 41.572715</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/21/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, SCOTT, DAVENPORT, 1434 W 15TH STREET</description><Point><coordinates>-90.595126, 41.535066</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/11/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, SCOTT, MOUNT JOY, 21445  SCOTT PARK ROAD</description><Point><coordinates>-93.097702, 41.878003</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/16/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, SCOTT, PRINCETON, 219  RIVER DRIVE</description><Point><coordinates>-90.339838, 41.676014</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

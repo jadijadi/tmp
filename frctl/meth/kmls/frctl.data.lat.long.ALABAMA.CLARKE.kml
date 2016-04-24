@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/18/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, CLARKE, CLARKE, 641 RURAL ROAD</description><Point><coordinates>-86.902298, 32.318231</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/15/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, CLARKE, JACKSON, 302 DUBASE LANE</description><Point><coordinates>-87.921977, 31.539917</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

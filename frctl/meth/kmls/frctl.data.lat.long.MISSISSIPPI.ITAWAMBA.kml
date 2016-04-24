@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 8/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, ITAWAMBA, FULTON, 1335 RAMEY RD</description><Point><coordinates>-88.274468, 34.294126</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/1/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, ITAWAMBA, FULTON, 1867 WALKER LEVEE ROAD</description><Point><coordinates>-88.374756, 34.444956</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/15/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, ITAWAMBA, FULTON, 9135 HIGHWAY 25</description><Point><coordinates>-88.364092, 34.198064</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/12/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, ITAWAMBA, FULTON, 6210 DORSEY EVERGREEN ROAD</description><Point><coordinates>-88.498633, 34.242280</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/6/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, ITAWAMBA, FULTON, 2594 WEST 178 HIGHWAY</description><Point><coordinates>-88.500171, 34.256714</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/28/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, ITAWAMBA, FULTON, 494  RANKIN ROAD</description><Point><coordinates>-88.450666, 34.261773</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/16/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, ITAWAMBA, FULTON, 1753  HARDINS CHAPEL</description><Point><coordinates>-88.374369, 34.268417</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/13/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, ITAWAMBA, FULTON, 71  MORRISON ROAD</description><Point><coordinates>-88.409318, 34.293961</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/6/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, ITAWAMBA, GOLDEN, 2436 ANTIOCH ROAD</description><Point><coordinates>-88.233293, 34.427716</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/18/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, ITAWAMBA, GOLDEN, 3639 MT. GILEAD RD</description><Point><coordinates>-88.261407, 34.335771</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/5/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, ITAWAMBA, GOLDEN, 2280 ANTIOCH CHURCH RD</description><Point><coordinates>-88.229771, 34.430876</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/1/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, ITAWAMBA, GOLDEN, 1063  WALKER CHURCH ROAD</description><Point><coordinates>-88.267262, 34.413675</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/1/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, ITAWAMBA, GOLDEN, 1063  WALKER CHURCH ROAD</description><Point><coordinates>-88.267262, 34.413675</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/16/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, ITAWAMBA, GOLDEN, 509  MT. GILEAD ROAD</description><Point><coordinates>-88.291325, 34.355324</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/16/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, ITAWAMBA, GOLDEN, 509  MT. GILEAD ROAD</description><Point><coordinates>-88.291325, 34.355324</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/20/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, ITAWAMBA, GOLDEN, 1212  DOC MASON ROAD</description><Point><coordinates>-88.167149, 34.380668</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/1/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, ITAWAMBA, GOLDEN, 32080  HIGHWAY 25</description><Point><coordinates>-88.259013, 34.443872</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/7/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, ITAWAMBA, MANTACHIE, 195 BRANDON ROAD</description><Point><coordinates>-88.526775, 34.319600</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/11/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, ITAWAMBA, MANTACHIE, 243 FRANKS ROAD</description><Point><coordinates>-88.514232, 34.292743</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/6/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, ITAWAMBA, MANTACHIE, 111  363 HIGHWAY</description><Point><coordinates>-88.455651, 34.258363</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/13/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, ITAWAMBA, MANTACHIE, 285  SCOOTER ROAD</description><Point><coordinates>-88.484811, 34.313493</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/25/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, ITAWAMBA, MOOREVILLE, 1250  COUNTY LINE ROAD</description><Point><coordinates>-88.544813, 34.250885</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/5/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, ITAWAMBA, NETTLETON, 726 THORN RD</description><Point><coordinates>-88.424369, 34.188307</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/26/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, ITAWAMBA, NETTLETON, 5605 VAN BUREN-CAROLINA RD</description><Point><coordinates>-88.421507, 34.130802</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/7/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, ITAWAMBA, NETTLETON, 6430  CAROLINA ROAD</description><Point><coordinates>-88.502158, 34.151637</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/14/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, ITAWAMBA, TREMONT, 5859 COTTON GIN RD</description><Point><coordinates>-88.187015, 34.310797</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

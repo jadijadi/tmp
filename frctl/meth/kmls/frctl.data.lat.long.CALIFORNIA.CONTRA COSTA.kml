@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 12/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, CONTRA COSTA, ANTIOCH, 1927 BIRCH AVE</description><Point><coordinates>-121.804142, 38.003002</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/22/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, CONTRA COSTA, BAY POINT, 71  MOUNTAIN VIEW AVENUE</description><Point><coordinates>-121.930053, 38.024252</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/2/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, CONTRA COSTA, BRENTWOOD, 1880 EAST EDEN PLAINS STREET</description><Point><coordinates>-121.658900, 37.952906</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/11/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, CONTRA COSTA, BRENTWOOD, 638  SUMMERWOOD DRIVE</description><Point><coordinates>-121.720103, 37.934660</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/9/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, CONTRA COSTA, CROCKETT, 815  1ST AVENUE</description><Point><coordinates>-122.224381, 38.052096</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/20/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, CONTRA COSTA, EL SOBRANTE, 2211 RANCHO ROAD</description><Point><coordinates>-122.294435, 37.984815</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/22/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, CONTRA COSTA, MARTINEZ, 625 MARINA VISTA ST</description><Point><coordinates>-122.138027, 38.018236</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/5/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, CONTRA COSTA, RICHMOND, 2420 ESMOND AVENUE</description><Point><coordinates>-122.344903, 37.944922</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/29/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, CONTRA COSTA, RICHMOND, 712 BRADFORD DRIVE</description><Point><coordinates>-122.354136, 37.985243</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, CONTRA COSTA, RODEO, 1120 4TH ST</description><Point><coordinates>-122.261721, 38.033978</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

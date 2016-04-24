@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALASKA, ANCHORAGE, ANCHORAGE, 1145 LATOUCHE ST</description><Point><coordinates>-149.860800, 61.210861</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALASKA, ANCHORAGE, ANCHORAGE, 926 W 25TH ST</description><Point><coordinates>-149.900809, 61.197738</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALASKA, ANCHORAGE, ANCHORAGE, 3402 DORBRANDT 36</description><Point><coordinates>-149.905636, 61.189555</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/15/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALASKA, ANCHORAGE, ANCHORAGE, 13049 OLD GLENN HWY 205</description><Point><coordinates>-149.561330, 61.338665</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/17/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALASKA, ANCHORAGE, ANCHORAGE, 3508 DORBRANDT ST 1</description><Point><coordinates>-149.905019, 61.188427</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/7/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALASKA, ANCHORAGE, ANCHORAGE, 12831 HACE ST</description><Point><coordinates>-149.853403, 61.104209</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALASKA, ANCHORAGE, ANCHORAGE, 1507 W 47TH AVE B</description><Point><coordinates>-149.911916, 61.178024</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALASKA, ANCHORAGE, ANCHORAGE, 3029 EAST 46TH AVENUE</description><Point><coordinates>-149.824889, 61.179309</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/27/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALASKA, ANCHORAGE, ANCHORAGE, 4206  HAYES STREET UPPER UNIT</description><Point><coordinates>-149.900278, 61.218056</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

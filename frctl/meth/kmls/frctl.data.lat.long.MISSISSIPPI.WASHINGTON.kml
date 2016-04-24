@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 9/29/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, WASHINGTON, ARCOLA, 1409 LAKE WASHINGTON RD</description><Point><coordinates>-90.879823, 33.269842</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/12/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, WASHINGTON, GREENVILLE, 148 SAINT CHRISTOPHER ROAD</description><Point><coordinates>-90.964332, 33.393146</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/14/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, WASHINGTON, GREENVILLE, 1528 FAIRVIEW AVENUE</description><Point><coordinates>-91.041218, 33.381609</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/2/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, WASHINGTON, GREENVILLE, 281  WILMONT ROAD</description><Point><coordinates>-91.043592, 33.298058</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/6/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, WASHINGTON, GREENVILLE, 1557 NORTH HIGHWAY 1</description><Point><coordinates>-91.039323, 33.379445</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

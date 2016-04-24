@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/13/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LAWRENCE, AURORA, 1600 ENGLE S 21</description><Point><coordinates>-93.700837, 36.957070</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LAWRENCE, AURORA, 19557 LAWRENCE 2180</description><Point><coordinates>-93.707970, 37.012514</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/23/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LAWRENCE, AURORA, 18205 K HWY 7</description><Point><coordinates>-93.717979, 36.970891</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/17/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LAWRENCE, AURORA, 3037 ELLIOTT S 42</description><Point><coordinates>-93.718575, 36.947299</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/21/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LAWRENCE, AURORA, 422 EAST PROSPECT DRIVE 80</description><Point><coordinates>-93.716065, 36.953680</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/3/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LAWRENCE, AURORA, 17248 LAWRENCE 1224</description><Point><coordinates>-93.657430, 37.022826</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/16/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LAWRENCE, AURORA, 20762 LAWRENCE 1210</description><Point><coordinates>-93.682403, 36.972123</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/10/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LAWRENCE, AURORA, 100 WEST CHURCH STREET</description><Point><coordinates>-93.723196, 36.970955</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/2/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LAWRENCE, AURORA, 718  S. MADISON</description><Point><coordinates>-93.721252, 36.967655</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/15/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LAWRENCE, AURORA, 420 WEST COLLEGE STREET</description><Point><coordinates>-93.728063, 36.972353</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/28/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LAWRENCE, AURORA, 420  W COLLEGE STREET</description><Point><coordinates>-93.728063, 36.972353</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LAWRENCE, FREISTATT, 228 MAIN N ST</description><Point><coordinates>-93.897718, 37.021873</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/22/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LAWRENCE, FREISTATT, EAST LAW 2180</description><Point><coordinates>-93.897708, 37.018392</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/10/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LAWRENCE, HALLTOWN, 22320  HWY 266</description><Point><coordinates>-93.653451, 37.193871</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/16/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LAWRENCE, LA RUSSELL, 2888 LAWRENCE 1025</description><Point><coordinates>-94.009334, 37.240358</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/21/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LAWRENCE, MARIONVILLE, 404 CIRCLE DR</description><Point><coordinates>-93.637421, 37.003112</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LAWRENCE, MARIONVILLE, 356 GRACIE LN</description><Point><coordinates>-93.637421, 37.003112</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/2/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LAWRENCE, MARIONVILLE, 102 MARTHA DRIVE 9</description><Point><coordinates>-93.630061, 36.995684</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/3/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LAWRENCE, MARIONVILLE, 23596 LAWRENCE</description><Point><coordinates>-93.637405, 36.997652</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/12/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LAWRENCE, MARIONVILLE, LAWRENCE 1235</description><Point><coordinates>-93.637427, 36.979588</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LAWRENCE, MILLER, 1668 LAWRENCE 1160</description><Point><coordinates>-93.766602, 37.238809</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/12/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LAWRENCE, MILLER, LAWRENCE 2040</description><Point><coordinates>-93.918842, 37.219481</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LAWRENCE, MOUNT VERNON, 15235 FARM ROAD 2153</description><Point><coordinates>-93.878824, 37.052312</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LAWRENCE, MOUNT VERNON, 9611 LAWRENCE 1170</description><Point><coordinates>-93.750760, 37.137939</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/28/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LAWRENCE, MOUNT VERNON, 9617 LAWRNCE 1210</description><Point><coordinates>-93.686059, 37.134436</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/16/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LAWRENCE, MOUNT VERNON, 17509 HWY 174 LOT 16</description><Point><coordinates>-93.738489, 37.115155</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/12/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LAWRENCE, MOUNT VERNON, 20864 LAWRENCE 2108</description><Point><coordinates>-93.683546, 37.117520</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/14/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LAWRENCE, MOUNT VERNON, 14846 LAWRENCE 2100</description><Point><coordinates>-93.793573, 37.130456</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/9/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LAWRENCE, MOUNT VERNON, 9611 LAWRENCE 1170</description><Point><coordinates>-93.750760, 37.137939</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/29/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LAWRENCE, MOUNT VERNON, 10370  LAWRENCE 2150</description><Point><coordinates>-93.869366, 37.058975</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/17/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LAWRENCE, MOUNT VERNON, 223  TYLER COURT</description><Point><coordinates>-93.821159, 37.120345</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/6/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LAWRENCE, PIERCE CITY, 100 ADAMS</description><Point><coordinates>-94.003268, 36.947598</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/22/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LAWRENCE, SARCOXIE, 2112  LAWRENCE 1247  UNIT 2</description><Point><coordinates>-94.058138, 37.084096</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/15/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LAWRENCE, VERONA, 524 BROWNING</description><Point><coordinates>-93.794062, 36.968823</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/29/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LAWRENCE, WENTWORTH, 2948 LAWRENCE</description><Point><coordinates>-94.060109, 37.018763</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

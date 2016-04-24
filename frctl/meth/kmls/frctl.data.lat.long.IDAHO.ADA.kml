@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 12/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IDAHO, ADA, BOISE, 5416 FAIRVIEW AVENUE</description><Point><coordinates>-116.249431, 43.619892</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/12/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IDAHO, ADA, BOISE, 5921 SOUTH SEDUM WAY</description><Point><coordinates>-116.124063, 43.548445</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/21/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IDAHO, ADA, BOISE, 5075 SOUTH DAKOTA AVENUE</description><Point><coordinates>-116.273337, 43.556624</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/11/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IDAHO, ADA, BOISE, 838  WHITE CLOUD DRIVE</description><Point><coordinates>-116.284447, 43.597226</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/23/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IDAHO, ADA, GARDEN CITY, 205 WEST 38TH STREET</description><Point><coordinates>-116.245419, 43.624980</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/24/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IDAHO, ADA, KUNA, 13131 SOUTH FIVE MILE ROAD</description><Point><coordinates>-116.314922, 43.482732</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/31/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IDAHO, ADA, MERIDIAN, 2378 NORTH LANGHRIDGE AVENUE</description><Point><coordinates>-116.391513, 43.612109</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

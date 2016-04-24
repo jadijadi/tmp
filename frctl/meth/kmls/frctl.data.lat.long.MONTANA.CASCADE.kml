@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 7/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MONTANA, CASCADE, GREAT FALLS, 614 NORTH 12TH STREET</description><Point><coordinates>-111.286815, 47.511980</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MONTANA, CASCADE, GREAT FALLS, 520 2ND S AVE 46</description><Point><coordinates>-111.297802, 47.502763</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/15/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MONTANA, CASCADE, GREAT FALLS, 1818 SOUTH 14TH AVENUE</description><Point><coordinates>-111.275474, 47.489486</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MONTANA, CASCADE, GREAT FALLS, 1421 2ND S AVE</description><Point><coordinates>-111.282236, 47.502990</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/21/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MONTANA, CASCADE, GREAT FALLS, 1513 17TH SW AVE</description><Point><coordinates>-111.340877, 47.487664</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/5/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MONTANA, CASCADE, GREAT FALLS, 1316 8TH S AVE</description><Point><coordinates>-111.284139, 47.496112</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/23/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MONTANA, CASCADE, GREAT FALLS, 714 11TH N ST</description><Point><coordinates>-111.288797, 47.513668</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/20/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MONTANA, CASCADE, GREAT FALLS, 1712 SOUTHWEST 10TH STREET 1</description><Point><coordinates>-111.329337, 47.487317</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/3/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MONTANA, CASCADE, GREAT FALLS, 2611 UPPER RIVER ROAD UNIT 13</description><Point><coordinates>-111.303231, 47.478096</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/29/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MONTANA, CASCADE, GREAT FALLS, 1120 WEST CENTRAL AVENUE 4</description><Point><coordinates>-111.331923, 47.507530</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/4/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MONTANA, CASCADE, GREAT FALLS, 807 SOUTH 7TH AVENUE</description><Point><coordinates>-111.293433, 47.497886</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

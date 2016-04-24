@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/2/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, SALINE, ELDORADO, 101 WILLOW LAKE RD</description><Point><coordinates>-88.406117, 37.793313</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/4/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, SALINE, ELDORADO, 1845 WOOLARD RD</description><Point><coordinates>-88.484850, 37.836334</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/4/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, SALINE, ELDORADO, 1109A  GARFIELD</description><Point><coordinates>-88.455852, 37.809705</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/17/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, SALINE, GALATIA, 304 EAST MAIN STREET</description><Point><coordinates>-88.608278, 37.840827</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/6/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, SALINE, HARCO, 130  DANNIE</description><Point><coordinates>-88.650057, 37.795882</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/9/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, SALINE, HARRISBURG, 710 SOUTH COMMERCIAL</description><Point><coordinates>-88.532912, 37.728206</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/13/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, SALINE, HARRISBURG, 1 N MAIN</description><Point><coordinates>-88.540282, 37.738413</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/26/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, SALINE, RALEIGH, 19  OAK</description><Point><coordinates>-88.529800, 37.827355</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/11/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, SALINE, RALEIGH, OLD MASON ROAD</description><Point><coordinates>-88.531996, 37.826992</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

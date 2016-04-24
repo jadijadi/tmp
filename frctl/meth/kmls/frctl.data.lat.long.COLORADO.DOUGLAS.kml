@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/28/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, DOUGLAS, CASTLE ROCK, 1030 HIGHLANDS BLUFF DRIVE</description><Point><coordinates>-104.875316, 39.377710</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/12/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, DOUGLAS, LITTLETON, 3406 POWERS W PL</description><Point><coordinates>-105.782067, 39.550051</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/26/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, DOUGLAS, PARKER, 17739 BISCUIT ROOT DRIVE</description><Point><coordinates>-104.783415, 39.555551</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/1/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, DOUGLAS, PARKER, 10883 BAYFIELD WAY</description><Point><coordinates>-104.757846, 39.518947</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

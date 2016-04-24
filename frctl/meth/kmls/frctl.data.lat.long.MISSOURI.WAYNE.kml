@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 12/5/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, WAYNE, PIEDMONT, 2963 2 RT</description><Point><coordinates>-90.699788, 37.151000</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, WAYNE, WAPPAPELLO, 1459E D HWY</description><Point><coordinates>-91.831833, 37.964253</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, WAYNE, WAPPAPELLO, 1584 HC1</description><Point><coordinates>-91.831833, 37.964253</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

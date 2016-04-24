@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 8/15/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, NEWTON, DEWEYVILLE, COOPERS TRAILER PARK 1</description><Point><coordinates>-93.743500, 30.297706</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/5/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, NEWTON, NEWTON, HWY 87 6</description><Point><coordinates>-93.811379, 30.618447</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

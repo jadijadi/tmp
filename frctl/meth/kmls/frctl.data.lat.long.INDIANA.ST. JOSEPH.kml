@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 9/22/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, ST. JOSEPH, GRANGER, 15580 STATE HWY 23</description><Point><coordinates>-86.168642, 41.727590</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/24/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, ST. JOSEPH, LAKEVILLE, 121 SOUTH MIGHIGAN STREET</description><Point><coordinates>-86.274935, 41.523640</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/23/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, ST. JOSEPH, LAKEVILLE, 105  1ST ROAD</description><Point><coordinates>-86.312566, 41.462372</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/24/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, ST. JOSEPH, MISHAWAKA, 802 EAST 9TH STREET</description><Point><coordinates>-86.168945, 41.654550</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/4/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, ST. JOSEPH, MISHAWAKA, 11233 ARCHER</description><Point><coordinates>-86.084318, 41.629557</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/8/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, ST. JOSEPH, MISHAWAKA, 2604  MILBURN BOULEVARD</description><Point><coordinates>-86.212544, 41.655156</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/1/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, ST. JOSEPH, MISHAWAKA, 124 NORTH MERRIFIELD</description><Point><coordinates>-86.167229, 41.662336</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/1/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, ST. JOSEPH, MISHAWAKA, 816 NORTH MAIN STREET APT. C</description><Point><coordinates>-86.181053, 41.668637</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/19/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, ST. JOSEPH, MISHAWAKA, 919 EAST BORLEY AVENUE</description><Point><coordinates>-86.167261, 41.673978</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/22/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, ST. JOSEPH, MISHAWAKA, 914 EAST CATALPA</description><Point><coordinates>-86.192618, 41.691217</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/3/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, ST. JOSEPH, OSCEOLA, 11788 EAST LINCOLN WAY</description><Point><coordinates>-86.070653, 41.663138</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/5/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, ST. JOSEPH, OSCEOLA, 11788 LINCOLN WAY</description><Point><coordinates>-86.070653, 41.663138</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/9/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, ST. JOSEPH, OSCEOLA, 10617  TOLEDO AVENUE</description><Point><coordinates>-86.073519, 41.689816</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/23/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, ST. JOSEPH, SOUTH BEND, 1017 OAK STREET</description><Point><coordinates>-86.264587, 41.680001</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/15/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, ST. JOSEPH, SOUTH BEND, 1509 HILDRETH</description><Point><coordinates>-86.225162, 41.662746</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/28/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, ST. JOSEPH, SOUTH BEND, 531 SOUTH LOGAN STREET</description><Point><coordinates>-86.196449, 41.656201</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/13/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, ST. JOSEPH, SOUTH BEND, 1725  PHILIPPA STREET</description><Point><coordinates>-86.281964, 41.654966</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/7/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, ST. JOSEPH, SOUTH BEND, 1718  OLIVE STREET</description><Point><coordinates>-86.282828, 41.655190</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/9/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, ST. JOSEPH, SOUTH BEND, 1938 EAST RANDOLF STREET</description><Point><coordinates>-86.217324, 41.655819</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/3/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, ST. JOSEPH, SOUTH BEND, 3624  MISHAWAKA AVENUE</description><Point><coordinates>-86.196664, 41.665645</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/7/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, ST. JOSEPH, SOUTH BEND, 811 EAST LASALLE AVENUE</description><Point><coordinates>-86.239737, 41.679210</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

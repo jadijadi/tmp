@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/9/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, FRANKLIN, BATESVILLE, 6128  PIPE CREEK ROAD</description><Point><coordinates>-85.127863, 39.390656</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/29/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, FRANKLIN, BROOKVILLE, 9090 SR1</description><Point><coordinates>-85.012738, 39.423107</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, FRANKLIN, BROOKVILLE, 8126 BIG CEDAR RD LOT 476</description><Point><coordinates>-84.908261, 39.416825</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/4/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, FRANKLIN, BROOKVILLE, 11149 LITTLE DUCK RD</description><Point><coordinates>-85.012738, 39.423107</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/28/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, FRANKLIN, BROOKVILLE, 12057 LOHREY DR</description><Point><coordinates>-85.025333, 39.428064</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/21/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, FRANKLIN, BROOKVILLE, 11165 US 52 LOT 25</description><Point><coordinates>-90.154394, 42.090718</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/14/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, FRANKLIN, BROOKVILLE, 10006 WHITCOMB ROAD</description><Point><coordinates>-84.937062, 39.436729</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/13/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, FRANKLIN, BROOKVILLE, 21 WEST 10TH STREET</description><Point><coordinates>-85.013705, 39.425582</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/15/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, FRANKLIN, CORNETTSVILLE, 18022  LAUREL ROAD</description><Point><coordinates>-86.134902, 40.267194</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/15/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, FRANKLIN, LAUREL, 27054 US 52</description><Point><coordinates>-85.248735, 39.486641</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/13/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, FRANKLIN, LAUREL, 25063 VANETTA AVENUE</description><Point><coordinates>-85.245285, 39.500108</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/16/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, FRANKLIN, LAUREL, 9138 LONG BRANCH ROAD</description><Point><coordinates>-85.260363, 39.432372</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/13/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, FRANKLIN, LAUREL, 25001  OLD US HWY 52</description><Point><coordinates>-85.241714, 39.488281</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

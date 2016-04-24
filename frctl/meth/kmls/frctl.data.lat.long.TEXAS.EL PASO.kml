@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, EL PASO, EL PASO, 5216 CARROUSEL 7</description><Point><coordinates>-106.519046, 31.815075</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, EL PASO, EL PASO, 9191 DYER UNIT O</description><Point><coordinates>-106.427309, 31.873837</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/29/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, EL PASO, EL PASO, 10516 BRIAN MOONEY</description><Point><coordinates>-106.335164, 31.770941</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/21/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, EL PASO, EL PASO, 1521 HOWZE ST</description><Point><coordinates>-106.431853, 31.789427</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, EL PASO, EL PASO, 5644 WALDORF</description><Point><coordinates>-106.410652, 31.908761</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/26/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, EL PASO, EL PASO, 10482 DAVWOOD</description><Point><coordinates>-106.343379, 31.765535</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/30/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, EL PASO, EL PASO, 8845 ANKERSON 2</description><Point><coordinates>-106.437092, 31.864310</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/16/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, EL PASO, EL PASO, 2023 DETROIT AVENUE</description><Point><coordinates>-106.474314, 31.782614</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/20/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, EL PASO, EL PASO, 2380  BLUE JAY DRIVE</description><Point><coordinates>-106.485022, 31.761878</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

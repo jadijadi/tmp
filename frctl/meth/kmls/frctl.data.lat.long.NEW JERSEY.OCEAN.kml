@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/20/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW JERSEY, OCEAN, FORKED RIVER, 986 CAPSTAN DR</description><Point><coordinates>-74.152528, 39.842744</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/2/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW JERSEY, OCEAN, MANAHAWKIN, 358 DEER LAKE COURT</description><Point><coordinates>-74.258997, 39.704653</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

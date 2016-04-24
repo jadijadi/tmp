@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 7/14/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CASS, BELTON, 121 BROOKSIDE DR</description><Point><coordinates>-94.538625, 38.803579</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/15/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CASS, BELTON, 15509 ALLEN AVE</description><Point><coordinates>-94.518506, 38.841528</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/23/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CASS, BELTON, 1731 LAKEWOOD TER 205</description><Point><coordinates>-94.509375, 38.809924</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/8/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CASS, CREIGHTON, 501 3RD E</description><Point><coordinates>-94.076089, 38.497028</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/7/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CASS, EAST LYNNE, 111 MAIN ST</description><Point><coordinates>-94.228451, 38.667199</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/9/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CASS, EAST LYNNE, 201 MAIN E</description><Point><coordinates>-94.228865, 38.667212</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CASS, HARRISONVILLE, 1003 WALL W B</description><Point><coordinates>-94.356485, 38.654237</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/3/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CASS, HARRISONVILLE, 603 NORTH INDEPENDENCE STREE</description><Point><coordinates>-94.348354, 38.658126</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CASS, LAKE ANNETTE, 25617 LAKE ANNETTE RD</description><Point><coordinates>-94.512831, 38.654699</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/27/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CASS, PECULIAR, 24717 DONAHUE S</description><Point><coordinates>-94.453130, 38.672463</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/11/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CASS, PECULIAR, 12400 250 ST</description><Point><coordinates>-94.453112, 38.668291</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CASS, PLEASANT HILL, 16420 M-291 S</description><Point><coordinates>-94.373381, 38.809310</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CASS, RAYMORE, 318 SUNRISE S DR</description><Point><coordinates>-94.446207, 38.800430</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CASS, RAYMORE, 1200 HUBACH RD</description><Point><coordinates>-94.432533, 38.781539</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/22/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CASS, RAYMORE, 512 SKYVUE A</description><Point><coordinates>-94.447861, 38.797846</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/8/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CASS, RAYMORE, 715 MADISON CREEK</description><Point><coordinates>-94.458712, 38.820318</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

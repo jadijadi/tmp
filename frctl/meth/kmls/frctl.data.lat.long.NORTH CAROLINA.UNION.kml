@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/25/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, UNION, MARSHVILLE, 3922 HOLLY SCHOOL RD</description><Point><coordinates>-80.346580, 35.089529</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/1/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, UNION, MARSHVILLE, 7917  BENTON EDWARDS ROAD</description><Point><coordinates>-80.297760, 35.161976</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/10/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, UNION, MARSHVILLE, 623 EAST UNION STREET</description><Point><coordinates>-80.360022, 34.991352</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/13/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, UNION, MARSHVILLE, 6300  FOUNTAIN HILL CHURCH ROAD</description><Point><coordinates>-80.323598, 35.048430</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/4/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, UNION, MATTHEWS, 5115  BIRCHAVEN DRIVE</description><Point><coordinates>-79.019300, 35.759573</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/4/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, UNION, MATTHEWS, 5115  BIRCHAVEN DRIVE</description><Point><coordinates>-79.019300, 35.759573</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/28/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, UNION, MONROE, 1203  ROANOKE CHURCH ROAD</description><Point><coordinates>-80.560802, 35.048617</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/12/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, UNION, MONROE, 2500  ROUND TABLE ROAD F</description><Point><coordinates>-80.568570, 35.015507</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/11/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, UNION, MONROE, 813 N ROCKY RIVER ROAD</description><Point><coordinates>-80.612090, 34.997902</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/8/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEBRASKA, DOUGLAS, BENNINGTON, 12525 BENNINGTON ROAD</description><Point><coordinates>-96.112193, 41.364636</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/29/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEBRASKA, DOUGLAS, OMAHA, 4319 PARKER</description><Point><coordinates>-95.978277, 41.276993</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEBRASKA, DOUGLAS, OMAHA, 2464 HARNEY #1</description><Point><coordinates>-95.948324, 41.256999</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEBRASKA, DOUGLAS, OMAHA, 5026 58TH S ST</description><Point><coordinates>-96.002742, 41.207459</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/8/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEBRASKA, DOUGLAS, OMAHA, 1738 1/2 13TH S ST</description><Point><coordinates>-95.933631, 41.241513</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/24/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEBRASKA, DOUGLAS, OMAHA, 3522 WEBSTER</description><Point><coordinates>-95.965688, 41.266128</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/24/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEBRASKA, DOUGLAS, OMAHA, 2504 SOUTH 49TH STREET</description><Point><coordinates>-95.987845, 41.235867</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/31/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEBRASKA, DOUGLAS, OMAHA, 6200  ARBOR STREET</description><Point><coordinates>-96.011588, 41.236295</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/12/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEBRASKA, DOUGLAS, OMAHA, 2300 SOUTH 23RD STREET</description><Point><coordinates>-95.945588, 41.238201</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/16/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEBRASKA, DOUGLAS, OMAHA, 3421 SOUTH 58TH STREET</description><Point><coordinates>-96.001620, 41.227888</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/16/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEBRASKA, DOUGLAS, OMAHA, 3421 SOUTH 58TH STREET</description><Point><coordinates>-96.001620, 41.227888</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/1/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEBRASKA, DOUGLAS, OMAHA, 219 SOUTH 38TH AVENUE IN</description><Point><coordinates>-95.970060, 41.258494</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/11/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEBRASKA, DOUGLAS, VALLEY, 117 CHARLES E ST</description><Point><coordinates>-96.345727, 41.309632</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEBRASKA, DOUGLAS, WATERLOO, 2521 CAMPANILE ROAD #25</description><Point><coordinates>-96.353633, 41.233940</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

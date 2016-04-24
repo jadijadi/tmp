@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, BUTLER, EL DORADO, 701 HIGH S ST</description><Point><coordinates>-96.862713, 37.811746</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/27/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, BUTLER, ROSE HILL, 13463 160 SW ST</description><Point><coordinates>-97.089059, 37.592201</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

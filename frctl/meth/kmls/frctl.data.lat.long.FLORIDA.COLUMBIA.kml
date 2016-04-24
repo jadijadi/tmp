@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 12/21/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, COLUMBIA, FORT WHITE, 1069 SOUTHWEST FAULKNER ROAD</description><Point><coordinates>-82.755092, 30.004484</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/3/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, COLUMBIA, FORT WHITE, 168 SOUTHWEST FEEEDOM COURT</description><Point><coordinates>-82.755080, 29.962407</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/1/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, COLUMBIA, LAKE CITY, 448 NORTHEAST TAMMY LANE</description><Point><coordinates>-82.633930, 30.229198</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/13/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, COLUMBIA, LAKE CITY, 247 NORTHEAST JACKSONVILLE LOOP</description><Point><coordinates>-82.616108, 30.190362</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/16/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, COLUMBIA, LAKE CITY, 943 NORTHWEST BROWN ROAD</description><Point><coordinates>-82.716318, 30.200406</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/24/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, COLUMBIA, LAKE CITY, 276 SOUTHEAST MORNING GLORY COURT</description><Point><coordinates>-82.693771, 30.137844</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/11/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, COLUMBIA, LAKE CITY, 306 SOUTHWEST SUNSET GLEN</description><Point><coordinates>-82.705417, 30.151783</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/12/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, COLUMBIA, LAKE CITY, 953 SOUTHWEST SEBASTIAN CIRCLE</description><Point><coordinates>-82.703360, 30.190448</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/14/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, COLUMBIA, LAKE CITY, 167 SOUTHWEST FANTASY GLEN</description><Point><coordinates>-82.710833, 30.141440</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/13/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, COLUMBIA, LAKE CITY, 1210 NORTHEAST DOUBLE RUN ROAD</description><Point><coordinates>-82.626635, 30.223214</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/3/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, COLUMBIA, LAKE CITY, 641 SOUTHWEST MAYHALL TERRACE</description><Point><coordinates>-82.586179, 30.093906</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/26/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, COLUMBIA, LAKE CITY, 276 SOUTHEAST MORNING GLORY COURT</description><Point><coordinates>-82.693771, 30.137844</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

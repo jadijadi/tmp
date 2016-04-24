@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 9/28/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, FRANKLIN, CANAL WINCHESTER, 6822 SOWERS DRIVE</description><Point><coordinates>-82.816822, 39.915095</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/2/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, FRANKLIN, COLUMBUS, 1250 FAIRWOOD AVENUE</description><Point><coordinates>-82.952820, 39.940658</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/4/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, FRANKLIN, COLUMBUS, 2744 GREAT WOODS LN</description><Point><coordinates>-82.942639, 40.085469</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/11/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, FRANKLIN, COLUMBUS, 4580 WYANDOT RD</description><Point><coordinates>-82.894730, 40.069612</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/30/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, FRANKLIN, COLUMBUS, 382 KANAWAHA AVE</description><Point><coordinates>-83.008504, 40.071094</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/25/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, FRANKLIN, COLUMBUS, 3830 SUNBURY ROAD</description><Point><coordinates>-82.930314, 40.037506</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/17/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, FRANKLIN, COLUMBUS, 1230 SOUTH EUREKA AVENUE</description><Point><coordinates>-83.063554, 39.932750</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/10/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, FRANKLIN, COLUMBUS, 2755 EAKIN ROAD L</description><Point><coordinates>-83.071477, 39.937835</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/1/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, FRANKLIN, COLUMBUS, 2595 SPARROW HILL ROAD</description><Point><coordinates>-82.939790, 40.006648</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/29/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, FRANKLIN, COLUMBUS, 789 WHITETHORN AVENUE</description><Point><coordinates>-82.998794, 39.961176</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/8/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, FRANKLIN, COLUMBUS, 1146 SUMMIT STREET</description><Point><coordinates>-83.001639, 39.986165</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/30/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, FRANKLIN, FRANKLIN, 765 MAIN S ST</description><Point><coordinates>-84.308455, 39.555515</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/19/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, FRANKLIN, GROVE CITY, 1979 HARRISBURG PIKE</description><Point><coordinates>-83.065210, 39.917577</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, FRANKLIN, GROVEPORT, 788 BREATHITT AVE</description><Point><coordinates>-82.888276, 39.853206</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/6/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, FRANKLIN, OBETZ, 4332 THELMA DR</description><Point><coordinates>-82.944589, 39.877900</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/13/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, FRANKLIN, REYNOLDSBURG, 693 STOW PLACE</description><Point><coordinates>-82.822147, 39.967764</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/31/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, FRANKLIN, WESTERVILLE, 165 JUNIPER AVENUE</description><Point><coordinates>-82.915650, 40.130225</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

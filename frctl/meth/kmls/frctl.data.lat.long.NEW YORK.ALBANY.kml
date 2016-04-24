@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/14/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, ALBANY, LATHAM, 1080  ROUTE 9</description><Point><coordinates>-73.939317, 41.798722</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/4/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, ALBANY, WELLSVILLE, 90  HOWARD STREET  BOX APT 305</description><Point><coordinates>-73.756232, 42.652579</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

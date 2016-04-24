@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/22/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, MARTINSVILLE (CITY), MARTINSVILLE, 1542  STULTZ ROAD</description><Point><coordinates>-79.894457, 36.704370</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/15/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, MARTINSVILLE (CITY), MARTINSVILLE, 1542  STULTZ ROAD</description><Point><coordinates>-79.894457, 36.704370</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/1/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, MARTINSVILLE (CITY), MARTINSVILLE, 801  FOREST ST   BOX 2</description><Point><coordinates>-78.656894, 37.431573</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/15/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, KINGMAN, CHENEY, 14318 40 NE ST</description><Point><coordinates>-97.855855, 37.704347</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/17/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, KINGMAN, CHENEY, 4968 TUMBLEWEED NE LN</description><Point><coordinates>-97.832287, 37.718680</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/26/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, KINGMAN, MURDOCK, 9270 SOUTHEAST 60TH STREET</description><Point><coordinates>-97.946535, 37.561121</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

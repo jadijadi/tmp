@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/31/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, TODD, ALLEGRE, 6594 ALLEGRE RD</description><Point><coordinates>-87.213317, 36.938329</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, TODD, ALLENSVILLE, 2781 JEFFERSON DAVIS E HWY</description><Point><coordinates>-87.116800, 36.803423</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, TODD, ELKTON, 5610 BUTLER RD</description><Point><coordinates>-87.257999, 36.889195</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/27/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, TODD, ELKTON, 1680 STOKES CHAPEL RD</description><Point><coordinates>-87.210295, 36.852586</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/7/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, TODD, ELKTON, 1489 BLUE & GRAY PARK RD</description><Point><coordinates>-87.154167, 36.810043</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/7/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, TODD, GUTHRIE, 325 3RD S ST</description><Point><coordinates>-87.168729, 36.646544</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/1/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, TODD, SHARON GROVE, 530 HALL RD</description><Point><coordinates>-87.125695, 36.938341</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/20/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, TODD, TRENTON, 1485 EAST PENCHEM ROAD</description><Point><coordinates>-87.220317, 36.707835</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

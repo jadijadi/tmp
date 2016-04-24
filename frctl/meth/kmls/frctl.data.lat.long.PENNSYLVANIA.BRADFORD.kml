@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 12/22/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: PENNSYLVANIA, BRADFORD, NEW ALBANY, 431 LONE MARY ROAD</description><Point><coordinates>-76.441887, 41.600075</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: PENNSYLVANIA, BRADFORD, STEVENSVILLE, SR706 MILLER CREEK E RD</description><Point><coordinates>-76.176319, 41.760631</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/3/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: PENNSYLVANIA, BRADFORD, TOWANDA, 925 MAIN S ST</description><Point><coordinates>-76.443024, 41.756071</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

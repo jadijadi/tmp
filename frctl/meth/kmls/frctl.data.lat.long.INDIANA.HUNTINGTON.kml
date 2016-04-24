@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/23/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, HUNTINGTON, ANDREWS, 400 EAST MONROE STREET</description><Point><coordinates>-85.606880, 40.856285</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/12/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, HUNTINGTON, HUNTINGTON, 529 POPLAR STREET</description><Point><coordinates>-85.498472, 40.882804</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/5/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, HUNTINGTON, HUNTINGTON, 607  CLINE STREET</description><Point><coordinates>-85.500242, 40.872728</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/14/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, HUNTINGTON, HUNTINGTON, 1622  SALAMONIE AVENUE</description><Point><coordinates>-85.490372, 40.867077</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/1/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, HUNTINGTON, HUNTINGTON, 1727  GRANT</description><Point><coordinates>-85.508393, 40.868690</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

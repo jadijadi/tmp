@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 10/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, JEFFERSON, BIRMINGHAM, 212 CAHABA FOREST COVE</description><Point><coordinates>-86.708048, 33.432781</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/23/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, JEFFERSON, BIRMINGHAM, 2700 RAY ST</description><Point><coordinates>-86.924796, 33.530181</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/1/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, JEFFERSON, BIRMINGHAM, 4221 SHADES CREST S RD</description><Point><coordinates>-86.903002, 33.310490</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/26/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, JEFFERSON, BIRMINGHAM, 2721 NORTH 2ND AVENUE</description><Point><coordinates>-86.795625, 33.520092</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/17/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, JEFFERSON, BIRMINGHAM, 1070  MCDONALDS CHAPEL ROAD</description><Point><coordinates>-86.939129, 33.541095</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/27/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, JEFFERSON, BIRMINGHAM, 4238  CENTER POINT ROAD</description><Point><coordinates>-86.683065, 33.683181</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/4/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, JEFFERSON, BIRMINGHAM, 4631  ELFRETH JOHNSON ROAD 46</description><Point><coordinates>-86.717118, 33.665064</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/31/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, JEFFERSON, DORA, 8850 COUNTY LINE RD</description><Point><coordinates>-87.010875, 33.769571</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/10/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, JEFFERSON, HOMEWOOD, 409 EDGECREST DRIVE 3</description><Point><coordinates>-86.832766, 33.464031</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/28/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, JEFFERSON, IRONDALE, 218 24TH N ST</description><Point><coordinates>-86.704479, 33.543217</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/1/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, JEFFERSON, KIMBERLY, 9352  PETERSON DRIVE</description><Point><coordinates>-86.818882, 33.779315</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, JEFFERSON, LEEDS, 1214 ASHVILLE SE RD</description><Point><coordinates>-86.538704, 33.551321</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/15/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, JEFFERSON, LEEDS, 1910  LINDEN STREET</description><Point><coordinates>-86.545630, 33.558262</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/8/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, JEFFERSON, MORRIS, 283 SOUTH 4TH AVENUE</description><Point><coordinates>-86.805077, 33.746047</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/22/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, JEFFERSON, MORRIS, 8435  STOUTS ROAD</description><Point><coordinates>-86.806751, 33.752090</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/27/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, JEFFERSON, MORRIS, 268  SAM THOMAS ROAD</description><Point><coordinates>-86.793847, 33.720497</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/14/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, JEFFERSON, MOUNT OLIVE, 1542  MOUNT OLIVE BROOKSIDE ROAD</description><Point><coordinates>-86.873884, 33.681731</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/17/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, JEFFERSON, MOUNT OLIVE, 2640  MOUNT OLIVE ROAD</description><Point><coordinates>-86.851661, 33.669032</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/28/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, JEFFERSON, MULGA, 1435  SHORT CREEK ROAD</description><Point><coordinates>-87.095298, 33.552927</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/11/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, JEFFERSON, PINSON, 6511  ROE CHANDLER ROAD</description><Point><coordinates>-86.602882, 33.693484</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/11/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, JEFFERSON, PINSON, 6511  ROE CHANDLER ROAD</description><Point><coordinates>-86.602882, 33.693484</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/13/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, JEFFERSON, PINSON, 7070  SELF ROAD</description><Point><coordinates>-86.604920, 33.710458</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/5/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, JEFFERSON, TRAFFORD, 9209  5TH AVENUE</description><Point><coordinates>-86.746078, 33.818707</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/12/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, JEFFERSON, WARRIOR, 9385 MILLER RD</description><Point><coordinates>-86.926449, 33.810358</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/18/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, JEFFERSON, WARRIOR, 3035 NAIL RD</description><Point><coordinates>-86.937610, 33.758249</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/28/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, JEFFERSON, WARRIOR, 444  TRAFFORD ROAD</description><Point><coordinates>-86.792194, 33.826795</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/21/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, GREENE, BULLS GAP, 540  PORTER KITE RD</description><Point><coordinates>-83.050730, 36.219100</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/31/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, GREENE, GREENEVILLE, 109 FRY ST</description><Point><coordinates>-82.821137, 36.177728</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, GREENE, GREENEVILLE, 2025 GILBREATH RD</description><Point><coordinates>-82.981284, 36.237335</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, GREENE, GREENEVILLE, 2020 CARTERS VALLEY RD 2020</description><Point><coordinates>-82.890230, 36.272600</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/3/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, GREENE, GREENEVILLE, 709  CARSON STREET</description><Point><coordinates>-82.840442, 36.157110</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/5/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, GREENE, GREENEVILLE, 35  PEPPERMINT LANE</description><Point><coordinates>-82.867991, 36.177691</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/20/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, GREENE, LIMESTONE, 3540 JOCKEY ROAD</description><Point><coordinates>-82.672823, 36.276890</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/27/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, GREENE, MOHAWK, 5535 MCDONALD ROAD</description><Point><coordinates>-83.083359, 36.178022</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

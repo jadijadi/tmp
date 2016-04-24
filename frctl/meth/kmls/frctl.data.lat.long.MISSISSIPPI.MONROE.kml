@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/20/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, MONROE, ABERDEEN, 50421 OLD COLUMBUS ROAD</description><Point><coordinates>-88.466491, 33.853956</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/26/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, MONROE, ABERDEEN, 50272  JONESBORO ROAD</description><Point><coordinates>-88.408422, 33.914002</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/3/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, MONROE, ABERDEEN, 211  JAMES STREET</description><Point><coordinates>-88.546208, 33.826255</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/17/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, MONROE, AMORY, 60045 MT. ZION RD</description><Point><coordinates>-88.438413, 34.025923</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/7/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, MONROE, AMORY, 61156 EAST HIGHWAY 278</description><Point><coordinates>-88.439706, 33.956133</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, MONROE, CALEDONIA, 2238 BORDER SPRINGS RD</description><Point><coordinates>-89.398528, 32.354668</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/20/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, MONROE, CALEDONIA, 391 ELBERT ROBINSON RD</description><Point><coordinates>-88.370927, 33.681167</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/18/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, MONROE, CALEDONIA, 1300 FLINT HILL ROAD</description><Point><coordinates>-88.303303, 33.702211</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/28/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, MONROE, CALEDONIA, 40140 WOLFE ROAD</description><Point><coordinates>-88.300870, 33.761100</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/11/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, MONROE, GATTMAN, 50088  PRIESTVILLE</description><Point><coordinates>-88.254451, 33.883878</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, MONROE, HAMILTON, 40277 HAMILTON ROAD</description><Point><coordinates>-88.399299, 33.744583</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/11/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, MONROE, HAMILTON, 40228 RYE BOTTOM ROAD</description><Point><coordinates>-88.365453, 33.748156</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/28/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, MONROE, NETTLETON, 30428 MS. HIGHWAY 371</description><Point><coordinates>-88.510638, 34.067431</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

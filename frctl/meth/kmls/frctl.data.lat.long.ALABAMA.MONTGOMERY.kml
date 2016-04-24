@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/17/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MONTGOMERY, MONTGOMERY, 325 THIRD STREET</description><Point><coordinates>-86.350278, 32.380488</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/16/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MONTGOMERY, MONTGOMERY, 6868  BROWNWOOD LANE</description><Point><coordinates>-86.177240, 32.385988</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/6/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MONTGOMERY, MONTGOMERY, 710  CENTRAL STREET</description><Point><coordinates>-86.318705, 32.359729</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/30/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MONTGOMERY, MONTGOMERY, 2501  PLUM STREET</description><Point><coordinates>-86.275160, 32.371546</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/7/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MONTGOMERY, MONTGOMERY, 2044  AMOS STREET</description><Point><coordinates>-86.275369, 32.400732</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MONTGOMERY, PINE LEVEL, 5026 MOORE RD</description><Point><coordinates>-86.076824, 32.021203</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

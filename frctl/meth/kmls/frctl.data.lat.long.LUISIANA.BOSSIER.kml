@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/2/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: LUISIANA, BOSSIER, BOSSIER CITY, 620 WHITTINGTON ST 1/2</description><Point><coordinates>-93.710350, 32.506172</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: LUISIANA, BOSSIER, HAUGHTON, 570 HWY 164 AVE</description><Point><coordinates>-93.482161, 32.549801</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: LUISIANA, BOSSIER, PLAIN DEALING, 560 MILLERS BLUFF RD</description><Point><coordinates>-93.794377, 32.906336</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

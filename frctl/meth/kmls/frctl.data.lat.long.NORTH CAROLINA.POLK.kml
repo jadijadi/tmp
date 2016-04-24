@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 11/4/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, POLK, MILL SPRING, 33 WATER LANE</description><Point><coordinates>-82.154390, 35.368034</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/27/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, POLK, MILL SPRING, 40  PEACH LANE</description><Point><coordinates>-82.153718, 35.368418</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/12/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, POLK, MILL SPRING, 370  HICKORY NUT DRIVE</description><Point><coordinates>-82.216035, 35.324287</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/23/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, POLK, MILL SPRING, 108  WOLF BRANCH TRAIL</description><Point><coordinates>-82.199986, 35.381299</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/21/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, POLK, RUTHERFORDTON, 146 COYOTE PASS</description><Point><coordinates>-82.170990, 35.404694</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/10/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, POLK, TRYON, 90  BEAVER STREET</description><Point><coordinates>-82.237342, 35.218898</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/23/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, POLK, TRYON, 241  HIDDEN HILLS ROAD</description><Point><coordinates>-82.245048, 35.216863</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/1/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, POLK, , 560  PHILLIP HENDERSON ROAD</description><Point><coordinates>-82.009375, 35.227938</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/31/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, OWEN, BOWLING GREEN, 4510 GERRARD CHAPEL ROAD</description><Point><coordinates>-86.134902, 40.267194</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/15/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, OWEN, POLAND, 4601 SCHMIDT ROAD</description><Point><coordinates>-86.852677, 39.336850</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/14/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, OWEN, SPENCER, 151 NORTH W ST</description><Point><coordinates>-86.764461, 39.288052</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/27/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, OWEN, SPENCER, 198 MALLORY DR</description><Point><coordinates>-86.679893, 39.204932</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/26/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, OWEN, SPENCER, 9751 OWEN PARK ROAD</description><Point><coordinates>-86.812043, 39.430450</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/24/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, OWEN, SPENCER, 724  CHAPMAN ROAD</description><Point><coordinates>-86.861291, 39.304341</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 12/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, SCOTT, AUSTIN, 6159 TERRY N RD</description><Point><coordinates>-85.739662, 38.781909</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/24/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, SCOTT, AUSTIN, 30 WILBUR AVENUE</description><Point><coordinates>-85.809349, 38.751922</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/6/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, SCOTT, AUSTIN, 2613 NORTH JEFFREY ROAD</description><Point><coordinates>-85.805958, 38.741504</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/10/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, SCOTT, AUSTIN, 227 NORTH 6TH STREET</description><Point><coordinates>-85.812070, 38.738417</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/24/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, SCOTT, AUSTIN, 153 NORTH 6TH STREET</description><Point><coordinates>-85.812266, 38.741794</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/25/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, SCOTT, AUSTIN, 138  BLUNT STREET</description><Point><coordinates>-85.802806, 38.747928</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/22/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, SCOTT, BLOCHER, 6426 WEBSTER E</description><Point><coordinates>-85.656261, 38.717620</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/21/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, SCOTT, LEXINGTON, 8006 EAST MACE ROAD</description><Point><coordinates>-85.625487, 38.634195</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/11/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, SCOTT, NABB, 5936 SOUTH CONCORD ROAD</description><Point><coordinates>-85.588599, 38.606301</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/22/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, SCOTT, SCOTTSBURG, 553 SOUTH 2ND STREET</description><Point><coordinates>-85.767388, 38.681268</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/9/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, SCOTT, SCOTTSBURG, 885 ALLEN STREET</description><Point><coordinates>-85.779573, 38.682914</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/23/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, SCOTT, SCOTTSBURG, 2929 EAST SR 56</description><Point><coordinates>-85.720062, 38.686634</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

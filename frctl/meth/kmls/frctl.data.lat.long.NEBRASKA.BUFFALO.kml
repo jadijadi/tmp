@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/22/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEBRASKA, BUFFALO, ELM CREEK, 205 NORTH MILL STREET</description><Point><coordinates>-99.370136, 40.718348</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEBRASKA, BUFFALO, KEARNEY, 702 48TH E ST</description><Point><coordinates>-99.072420, 40.723586</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/24/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEBRASKA, BUFFALO, KEARNEY, 1712 AVENUE G</description><Point><coordinates>-99.072294, 40.691385</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/5/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEBRASKA, BUFFALO, KEARNEY, 2005 THIRD AVE</description><Point><coordinates>-99.085830, 40.695678</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/10/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEBRASKA, BUFFALO, KEARNEY, 4664 WEST 30 HIGHWAY APT 62</description><Point><coordinates>-99.018778, 40.710148</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

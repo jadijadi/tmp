@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 12/13/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, WARREN, CARLISLE, 100 ASH STREET 821</description><Point><coordinates>-93.486228, 41.493269</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, WARREN, INDIANOLA, 10271 R57 HWY</description><Point><coordinates>-93.644674, 41.377204</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, WARREN, INDIANOLA, 8218 PIERCE ST</description><Point><coordinates>-93.651570, 41.269845</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/15/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, WARREN, INDIANOLA, 1409 EAST IOWA STREET</description><Point><coordinates>-93.540296, 41.368628</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/31/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, WARREN, LIBERTY CENTER, 16038 TYLER ST</description><Point><coordinates>-93.499300, 41.204439</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/22/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, WARREN, NEW VIRGINIA, 701 MAPLE</description><Point><coordinates>-93.735976, 41.183336</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

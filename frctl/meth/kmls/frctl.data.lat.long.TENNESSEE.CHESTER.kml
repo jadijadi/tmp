@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 9/8/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, CHESTER, ENVILLE, 11440 ENVILLE ROAD</description><Point><coordinates>-88.447221, 35.396709</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/2/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, CHESTER, HENDERSON, 111 SIXTH W ST</description><Point><coordinates>-88.643890, 35.449198</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/9/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, CHESTER, HENDERSON, 280 HOMESTEAD LANE</description><Point><coordinates>-88.583400, 35.477392</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/14/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, CHESTER, HENDERSONVILLE, 125  MEMORY LN.</description><Point><coordinates>-86.580447, 35.517491</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

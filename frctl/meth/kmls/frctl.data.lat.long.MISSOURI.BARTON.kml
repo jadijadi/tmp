@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 7/17/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BARTON, GOLDEN CITY, 907 PINE ST</description><Point><coordinates>-94.095285, 37.390786</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/30/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BARTON, GOLDEN CITY, 1105 HICKS</description><Point><coordinates>-94.092690, 37.389307</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/23/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BARTON, GOLDEN CITY, 1000 BROCK ST</description><Point><coordinates>-94.097126, 37.390839</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/11/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BARTON, LAMAR, 1704 HIDDEN LANE</description><Point><coordinates>-94.264768, 37.486835</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/28/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BARTON, LIBERAL, 617 NORTHWEST 145TH LANE</description><Point><coordinates>-94.556606, 37.594858</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/12/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BARTON, LIBERAL, 210  KNEELAND STREET</description><Point><coordinates>-94.524733, 37.561679</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/14/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BARTON, MINDENMINES, 367 NORTHWEST 176TH LANE</description><Point><coordinates>-94.615999, 37.558354</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/30/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BARTON, MINDENMINES, 601 TUCKER</description><Point><coordinates>-94.588283, 37.474095</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/7/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BARTON, MINDENMINES, 107 EAST 11TH STREET</description><Point><coordinates>-94.588787, 37.479119</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/5/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BARTON, MINDENMINES, 405 TUCKER</description><Point><coordinates>-94.588283, 37.474095</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

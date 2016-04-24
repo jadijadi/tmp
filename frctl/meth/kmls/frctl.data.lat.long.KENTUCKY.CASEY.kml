@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/24/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, CASEY, DUNNVILLE, 172  OLD US 127 LOOP ROAD</description><Point><coordinates>-85.009205, 37.174117</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/21/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, CASEY, LIBERTY, 1369  CANTOWN ROAD</description><Point><coordinates>-84.939398, 37.318406</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/22/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, CASEY, LIBERTY, 127  JR MURPHY ROAD</description><Point><coordinates>-84.980283, 37.388536</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/3/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, CASEY, LIBERTY, 130  DILLON  137</description><Point><coordinates>-84.928195, 37.324390</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

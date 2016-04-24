@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, COFFEE, AMBROSE, 1486 NEW HOPE RD</description><Point><coordinates>-83.024574, 31.611780</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/29/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, COFFEE, AMBROSE, 462 PINE STREET</description><Point><coordinates>-83.019013, 31.596821</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/1/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, COFFEE, DOUGLAS, 447 411 S HWY</description><Point><coordinates>-82.849865, 31.508807</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, COFFEE, DOUGLAS, 1291 ROCKY POND RD</description><Point><coordinates>-82.902268, 31.547652</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/1/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, COFFEE, DOUGLAS, 107 JASMINE DR</description><Point><coordinates>-82.824040, 31.412281</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/4/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, COFFEE, WILLACOOCHEE, 1426 BRISTON ROAD</description><Point><coordinates>-82.920203, 31.425789</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

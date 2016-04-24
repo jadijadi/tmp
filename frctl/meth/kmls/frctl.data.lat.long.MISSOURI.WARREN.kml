@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 7/23/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, WARREN, FORISTELL, 485 RODEO DRIVE</description><Point><coordinates>-90.989075, 38.857548</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/23/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, WARREN, JONESBURG, 141 (b) CEDAR</description><Point><coordinates>-91.304629, 38.855433</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/31/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, WARREN, JONESBURG, 31595 HONEY LOCUST</description><Point><coordinates>-91.255593, 38.860036</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/17/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, WARREN, MARTHASVILLE, 1367 HWY D</description><Point><coordinates>-91.057645, 38.628384</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/14/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, WARREN, MARTHASVILLE, 16861 CONCORD HILL ROAD</description><Point><coordinates>-91.133486, 38.649290</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/2/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, WARREN, MARTHASVILLE, 15397  STATE RT 47</description><Point><coordinates>-91.000569, 38.589874</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/2/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, WARREN, MARTHASVILLE, 15998  STATE RT 47</description><Point><coordinates>-91.000569, 38.589874</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, WARREN, WARRENTON, 28 FAIRLANE ACRES</description><Point><coordinates>-91.152438, 38.832470</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, WARREN, WARRENTON, 381 PENDELTON LOST CREEK</description><Point><coordinates>-91.221210, 38.785280</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, WARREN, WARRENTON, 28087 PENDLETON LOST CREEK</description><Point><coordinates>-91.210403, 38.801579</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, WARREN, WARRENTON, 4 LOTUS CT</description><Point><coordinates>-91.127655, 38.859327</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, WARREN, WARRENTON, 404 HIGHWAY B S</description><Point><coordinates>-91.142116, 38.819197</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, WARREN, WARRENTON, 1429 SERVICE ROAD N 127</description><Point><coordinates>-91.129602, 38.818917</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, WARREN, WARRENTON, 425 VETERAN'S MEMORIAL PARKW</description><Point><coordinates>-91.148031, 38.820789</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, WARREN, WARRENTON, 27159 PENDLETON LOST CREEK</description><Point><coordinates>-91.210403, 38.801579</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/6/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, WARREN, WARRENTON, 23955 STOCKPILE RD</description><Point><coordinates>-91.228309, 38.928875</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/7/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, WARREN, WARRENTON, 712 STEINHAGEN A</description><Point><coordinates>-91.139471, 38.818667</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, WARREN, WARRENTON, 13 PENDLETON LAKE ESTATES</description><Point><coordinates>-91.139198, 38.821185</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/27/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, WARREN, WARRENTON, 19200 TOWNSHIP LINE RD</description><Point><coordinates>-91.189457, 38.872820</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/2/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, WARREN, WARRENTON, 9 KELLING LN</description><Point><coordinates>-91.232183, 38.827789</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/29/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, WARREN, WARRENTON, 20791 POWERLINE RD</description><Point><coordinates>-91.198588, 38.902630</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/21/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, WARREN, WARRENTON, 10 PENDLETON LAKE EST.</description><Point><coordinates>-91.276827, 38.803446</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/22/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, WARREN, WARRENTON, 2007 HIGHWAY 47 N</description><Point><coordinates>-91.136199, 38.836643</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/4/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, WARREN, WARRENTON, 2007 HIGHWAY 47 N</description><Point><coordinates>-91.136199, 38.836643</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/7/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, WARREN, WARRENTON, 25561 PENDLETON FOREST</description><Point><coordinates>-91.232202, 38.765215</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/2/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, WARREN, WARRENTON, 1202 LILAC CIRCLE</description><Point><coordinates>-91.128873, 38.857585</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/2/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, WARREN, WARRENTON, 22247  SCHUETZENGROUND ROAD</description><Point><coordinates>-91.094340, 38.763316</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/29/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, WARREN, WARRENTON, 1998  SOUTH HIGHWAY 47</description><Point><coordinates>-91.136151, 38.835100</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/21/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, WARREN, WARRENTON, 120  LAVERNE STREET</description><Point><coordinates>-91.143914, 38.786346</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/7/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, WARREN, WARRENTON, 712  STEINGAGEN</description><Point><coordinates>-91.139471, 38.818667</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/9/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, WARREN, WARRENTON, 908 WEST BOONESLICK</description><Point><coordinates>-91.165532, 38.815580</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/6/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, WARREN, WARRENTON, 1918  GOLDEN VICARY</description><Point><coordinates>-91.130399, 38.856072</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, WARREN, WRIGHT CITY, 1122 CHESTER RD</description><Point><coordinates>-91.077343, 38.873151</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/15/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, WARREN, WRIGHT CITY, 275 BOBWHITE LN</description><Point><coordinates>-91.025163, 38.842733</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/12/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, WARREN, WRIGHT CITY, 552 STRINGTOWN N RD</description><Point><coordinates>-90.990090, 38.848103</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/28/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, WARREN, WRIGHT CITY, 834 SHADY RIDGE</description><Point><coordinates>-90.990381, 38.849306</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/12/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, WARREN, WRIGHT CITY, 560 STRACKS CHURCH N</description><Point><coordinates>-91.073816, 38.844733</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/24/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, WARREN, WRIGHT CITY, 42 POINT MAPLE</description><Point><coordinates>-91.027397, 38.803964</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/25/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, WARREN, WRIGHT CITY, 980 ARCHER ROAD</description><Point><coordinates>-90.991114, 38.813447</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/18/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, WARREN, WRIGHT CITY, 29839  GREEN LEAF COURT</description><Point><coordinates>-91.041324, 38.822587</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/19/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, WARREN, WRIGHT CITY, 616  TONY DRIVE</description><Point><coordinates>-91.044527, 38.739970</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/1/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, WARREN, WRIGHT CITY, 46  ROCKY LANE</description><Point><coordinates>-90.990305, 38.847200</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

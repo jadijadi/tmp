@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, CARROLL, ATWOOD, 10362 HWY 220</description><Point><coordinates>-88.646393, 35.933981</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/28/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, CARROLL, ATWOOD, 10360 SOUTH STATE HWY 220</description><Point><coordinates>-88.646381, 35.933850</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/28/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, CARROLL, BRUCETON, 1520 MOORE CREEK RD</description><Point><coordinates>-88.309804, 36.003844</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/11/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, CARROLL, HUNTINGDON, 950 MAYTOWN ROAD</description><Point><coordinates>-88.348122, 36.003562</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/22/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, CARROLL, HUNTINGDON, 300  OLD HWY 22 LN.</description><Point><coordinates>-88.428106, 36.000618</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/13/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, CARROLL, HUNTINGDON, 270  MCADAMS ROAD</description><Point><coordinates>-88.358869, 36.080738</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/4/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, CARROLL, HUNTINGDON, 635  OLD STAGE ROAD</description><Point><coordinates>-88.449558, 35.988840</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/17/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, CARROLL, MC KENZIE, 975 BUNN ROAD</description><Point><coordinates>-88.372052, 36.136695</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/14/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, CARROLL, MCKENZIE, 2860 436 HWY</description><Point><coordinates>-88.519835, 36.038719</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/1/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, CARROLL, MCKENZIE, 695 EUCLIDE ST</description><Point><coordinates>-88.538476, 36.145103</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, CARROLL, TREZEVANT, 7050 HWY 105 HWY</description><Point><coordinates>-88.594560, 35.998857</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, CARROLL, TREZEVANT, 225 CROOKED ST</description><Point><coordinates>-88.629674, 36.010516</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

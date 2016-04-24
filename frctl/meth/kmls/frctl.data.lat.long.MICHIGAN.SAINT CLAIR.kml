@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/9/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, SAINT CLAIR, CLYDE, 5648  NORTH RO</description><Point><coordinates>-82.527987, 43.071432</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/9/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, SAINT CLAIR, SAINT CLAIR, 1751 N WADHAMS ROAD</description><Point><coordinates>-82.554035, 42.852910</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/24/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, SAINT CLAIR, PORT HURON, 1116  VARNEY STREET</description><Point><coordinates>-82.435944, 42.979434</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/16/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, SAINT CLAIR, PORT HURON, 1322  DIVISION</description><Point><coordinates>-82.438304, 42.965212</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/27/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, SAINT CLAIR, PORT HURON, 2010  FARRAND STREET</description><Point><coordinates>-82.448488, 42.977032</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/9/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, SAINT CLAIR, PORT HURON, 2801  GRISWOLD ROAD BOX 47</description><Point><coordinates>-82.458489, 42.966192</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

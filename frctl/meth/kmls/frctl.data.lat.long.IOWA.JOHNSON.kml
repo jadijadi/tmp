@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/24/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, JOHNSON, FAIRFAX, 1576 NORTHWEST 120TH STREET</description><Point><coordinates>-91.776062, 41.848136</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, JOHNSON, IOWA CITY, 3981 N.E. OVERLOOK W RD</description><Point><coordinates>-91.543573, 41.724232</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, JOHNSON, IOWA CITY, 2221 MUSCATINE AVE</description><Point><coordinates>-91.502457, 41.649242</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, JOHNSON, IOWA CITY, 328 4TH AVE</description><Point><coordinates>-91.506009, 41.656942</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, JOHNSON, IOWA CITY, 428 ELMRIDGE DR</description><Point><coordinates>-91.498787, 41.655432</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, JOHNSON, IOWA CITY, 328 4TH AVE</description><Point><coordinates>-91.506009, 41.656942</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/15/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, JOHNSON, IOWA CITY, 4494 TAFT AVENUE</description><Point><coordinates>-91.463715, 41.520536</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/10/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, JOHNSON, IOWA CITY, 1116 NORTH DODGE STREET</description><Point><coordinates>-91.519077, 41.675738</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/22/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, JOHNSON, IOWA CITY, 633 BEACHVIEW DRIVE</description><Point><coordinates>-91.552506, 41.628640</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/17/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, JOHNSON, IOWA CITY, </description><Point><coordinates>-91.530168, 41.661128</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/25/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, JOHNSON, IOWA CITY, 2  CENTURY STREET</description><Point><coordinates>-91.482153, 41.640281</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/31/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, JOHNSON, IOWA CITY, 2221  MUSCATINE AVENUE</description><Point><coordinates>-91.502457, 41.649242</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/21/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, JOHNSON, NORTH LIBERTY, 35 SPARTON DR</description><Point><coordinates>-91.606741, 41.735498</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/27/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, JOHNSON, OXFORD, 1710 LOWER OLD HIGHWAY 6 NW</description><Point><coordinates>-91.763532, 41.727066</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/4/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, JOHNSON, OXFORD, 4344 SOUTHWEST EAGLE AVENUE</description><Point><coordinates>-91.763062, 41.616388</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

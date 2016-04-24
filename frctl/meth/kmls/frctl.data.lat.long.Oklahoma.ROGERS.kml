@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 11/3/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, ROGERS, CATOOSA, 601 8TH SE ST</description><Point><coordinates>-95.844356, 36.151546</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/1/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, ROGERS, CLAREMORE, 320 CLEARLOCK</description><Point><coordinates>-95.616090, 36.312596</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/18/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, ROGERS, CLAREMORE, 19907 22ND E ST</description><Point><coordinates>-95.619889, 36.330226</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/25/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, ROGERS, CLAREMORE, 504 RYAN W ST</description><Point><coordinates>-95.616090, 36.312596</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/28/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, ROGERS, CLAREMORE, 15725 NETWON E ST</description><Point><coordinates>-95.616090, 36.312596</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/19/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, ROGERS, CLAREMORE, 20520 EAST PINE STREET</description><Point><coordinates>-95.525209, 36.427949</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/26/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, ROGERS, CLAREMORE, 215 EAST DENBO STREET</description><Point><coordinates>-95.616090, 36.312596</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/27/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, ROGERS, CLAREMORE, 20520 EAST PINE STREET 3</description><Point><coordinates>-95.525209, 36.427949</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/23/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, ROGERS, CLAREMORE, 313 EZZARD E ST</description><Point><coordinates>-95.616090, 36.312596</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/30/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, ROGERS, CLAREMORE, 14292E 500 E RD</description><Point><coordinates>-95.575018, 36.292739</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/16/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, ROGERS, CLAREMORE, 1012 OSAGE N AVE</description><Point><coordinates>-95.597777, 36.316927</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/3/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, ROGERS, CLAREMORE, 520 8TH E  LOT 4</description><Point><coordinates>-95.600473, 36.312049</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/9/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, ROGERS, CLAREMORE, 15910 41821 E RD</description><Point><coordinates>-95.616090, 36.312596</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/13/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, ROGERS, CLAREMORE, 23855 66 S HWY 210</description><Point><coordinates>-95.646736, 36.265703</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/24/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, ROGERS, CLAREMORE, 6911 4200 S RD</description><Point><coordinates>-95.525317, 36.513598</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, ROGERS, CLAREMORE, 19400 106TH NORTH E ST</description><Point><coordinates>-95.482248, 36.309535</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, ROGERS, CLAREMORE, 409 CHEROKEE N AVE</description><Point><coordinates>-95.612007, 36.314840</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/7/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, ROGERS, CLAREMORE, 6332 480 E RD 8</description><Point><coordinates>-95.716534, 36.321222</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/16/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, ROGERS, CLAREMORE, 304 LAVIRA N AVE</description><Point><coordinates>-95.601689, 36.309492</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/14/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, ROGERS, CLAREMORE, 1114 16TH W ST</description><Point><coordinates>-95.622844, 36.324196</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/20/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, ROGERS, CLAREMORE, 1326 QUARLES W ST</description><Point><coordinates>-95.626611, 36.314092</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/31/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, ROGERS, CLAREMORE, 900 BLUE STARR W DR 23</description><Point><coordinates>-95.618463, 36.322345</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/17/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, ROGERS, COLLINSVILLE, 2000 FREDERICK S RD H-11</description><Point><coordinates>-97.092877, 35.007752</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/30/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, ROGERS, COLLINSVILLE, 1000 WEWOKA S AVE</description><Point><coordinates>-97.092877, 35.007752</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/11/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, ROGERS, INOLA, 417 FIRST E ST</description><Point><coordinates>-95.515808, 36.149684</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/11/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, ROGERS, INOLA, 2090 LYNN RIGGS S BLVD 44</description><Point><coordinates>-95.509419, 36.151210</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/4/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, ROGERS, INOLA, 10804 202ND EAST N AVE</description><Point><coordinates>-95.509419, 36.151210</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/3/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, ROGERS, OWASSO, 402 NORTH J. M. DAVIS BOULEVARD</description><Point><coordinates>-97.092877, 35.007752</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/12/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, ROGERS, TALALA, 15304 SOUTH 4240 ROAD</description><Point><coordinates>-95.701370, 36.529815</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

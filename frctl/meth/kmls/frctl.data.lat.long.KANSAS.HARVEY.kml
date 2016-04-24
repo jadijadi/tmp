@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 11/30/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, HARVEY, HESSTON, 448 MAIN S ST B-1</description><Point><coordinates>-97.431205, 38.130522</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, HARVEY, SEDGWICK, 400 WATERMAN W 420</description><Point><coordinates>-97.422541, 37.916678</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/13/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, HARVEY, SEDGWICK, 202 WEST 8T</description><Point><coordinates>-97.425705, 37.921263</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

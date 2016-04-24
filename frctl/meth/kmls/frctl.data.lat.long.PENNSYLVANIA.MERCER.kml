@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 7/22/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: PENNSYLVANIA, MERCER, GREENVILLE, 70  PLUM STREET</description><Point><coordinates>-80.377890, 41.406496</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/6/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: PENNSYLVANIA, MERCER, GROVE CITY, 104  WEST POPLAR STREET</description><Point><coordinates>-80.088499, 41.156396</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/28/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: PENNSYLVANIA, MERCER, MERCER, 159 BESTWICK ROAD</description><Point><coordinates>-80.298813, 41.217777</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/9/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: PENNSYLVANIA, MERCER, SHARON, 371 OAKLAND S AVE</description><Point><coordinates>-80.499499, 41.227665</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

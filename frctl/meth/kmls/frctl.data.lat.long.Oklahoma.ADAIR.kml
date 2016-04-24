@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/20/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, ADAIR, ACHILLE, 1521 N LEWIS PLACE</description><Point><coordinates>-97.092877, 35.007752</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/10/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, ADAIR, BUNCH, 26676 EAST 888 ROAD</description><Point><coordinates>-94.830879, 35.727052</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/2/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, ADAIR, STILWELL, 120 NORTH 7TH STREET</description><Point><coordinates>-94.634264, 35.816551</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/22/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, ADAIR, STILWELL, 120 SOUTH SEVENTH</description><Point><coordinates>-94.634264, 35.816551</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/6/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, ADAIR, STILWELL, 6  RURAL ROUTE  1605</description><Point><coordinates>-94.628555, 35.814530</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/6/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, ADAIR, WATTS, 1  CHEROKEE RURAL ROUTE</description><Point><coordinates>-94.570220, 36.109249</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/18/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, ADAIR, WATTS, 315  3RD STREET</description><Point><coordinates>-94.575159, 36.107447</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/26/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, ADAIR, WESTVILLE, 101 10 CHERRY E</description><Point><coordinates>-94.568849, 35.995625</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/21/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, ADAIR, WESTVILLE, 506 SOUTH 2ND STREET</description><Point><coordinates>-94.563048, 35.986267</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/31/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, ADAIR, WESTVILLE, 103  CHERRY 104</description><Point><coordinates>-94.568635, 35.995489</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/31/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, ADAIR, WESTVILLE, 317  MAPLE STREET</description><Point><coordinates>-94.575572, 35.990789</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/22/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, ADAIR, WESTVILLE, 415  2ND STREET</description><Point><coordinates>-94.563863, 35.991153</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

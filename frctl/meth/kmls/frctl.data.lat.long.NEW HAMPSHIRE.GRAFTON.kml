@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 9/5/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW HAMPSHIRE, GRAFTON, BRISTOL, 229  PLEASANT STREET C</description><Point><coordinates>-71.744169, 43.588842</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/13/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW HAMPSHIRE, GRAFTON, CAMPTON, 440 BOG ROAD</description><Point><coordinates>-71.706662, 43.815132</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/25/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW HAMPSHIRE, GRAFTON, THORNTON, 19 SUGAR SHACK RD</description><Point><coordinates>-71.666652, 43.903090</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/31/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW HAMPSHIRE, GRAFTON, THORNTON, 12 ANDERSON HILL RD</description><Point><coordinates>-71.654898, 43.880751</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW HAMPSHIRE, GRAFTON, WARREN, 108 RTE 118</description><Point><coordinates>-71.890035, 43.931777</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/21/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW HAMPSHIRE, GRAFTON, WENTWORTH, 79 FRESCOLN RD</description><Point><coordinates>-71.950130, 43.834701</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

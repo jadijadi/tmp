@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/19/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, FAYETTE, BERRY, 638  COUNTY ROAD 62</description><Point><coordinates>-87.621950, 33.638440</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/11/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, FAYETTE, ELDRIDGE, 17175 STATE HWY 233</description><Point><coordinates>-86.902298, 32.318231</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, FAYETTE, ELDRIDGE, 6540 CO RD 24</description><Point><coordinates>-87.659674, 33.880510</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/26/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, FAYETTE, FAYETTE, 2313  2ND AVENUE</description><Point><coordinates>-87.821032, 33.718554</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, FAYETTE, GLEN ALLEN, 160 COUNTY ROAD 73</description><Point><coordinates>-87.702137, 33.885180</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/8/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, FAYETTE, WINFIELD, 187 MAUD TAYLOR ROAD</description><Point><coordinates>-87.879162, 33.887177</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 8/5/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW JERSEY, CAMDEN, BLACKWOOD, 131  BREWER AVENUE</description><Point><coordinates>-75.069410, 39.824276</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/9/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW JERSEY, CAMDEN, BURLINGTON, 7  BODINE AVENUE</description><Point><coordinates>-74.824797, 40.089921</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/27/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW JERSEY, CAMDEN, GLOUCESTER CITY, 903 KOEHLER STREET</description><Point><coordinates>-75.121302, 39.887070</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

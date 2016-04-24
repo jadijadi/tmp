@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 11/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, CRAWFORD, FLAT ROCK, 2681 1315 N ST</description><Point><coordinates>-87.701003, 38.888730</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/30/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, CRAWFORD, FLAT ROCK, 2681 1315 N ST</description><Point><coordinates>-87.701003, 38.888730</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/23/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, CRAWFORD, HUTSONVILLE, 405 MAIN N ST</description><Point><coordinates>-87.657984, 39.112026</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/18/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, CRAWFORD, HUTSONVILLE, 15501 1600 E AVE</description><Point><coordinates>-87.648458, 39.085062</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/10/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, CRAWFORD, MARTINSVILLE, 21118 NORTH 475TH STREET</description><Point><coordinates>-87.859904, 39.161097</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/19/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, CRAWFORD, MARTINSVILLE, 21118 NORTH 475TH STREET</description><Point><coordinates>-87.859904, 39.161097</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, CRAWFORD, OBLONG, 405 KENTUCKY E</description><Point><coordinates>-87.905788, 38.999098</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/6/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, CRAWFORD, OBLONG, 6835 NORTH 150TH STREET</description><Point><coordinates>-87.917485, 38.950587</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/2/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, CRAWFORD, OBLONG, 5234 EAST 825TH AVENUE</description><Point><coordinates>-87.847362, 38.971608</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/26/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, CRAWFORD, OBLONG, 20997 NORTH 100 E</description><Point><coordinates>-87.931398, 39.158735</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/12/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, CRAWFORD, PALESTINE, 9673 1710 N ST</description><Point><coordinates>-87.630258, 38.995818</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/29/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, CRAWFORD, PALESTINE, 16313 950 E AVE</description><Point><coordinates>-87.647582, 38.993373</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/29/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, CRAWFORD, PALESTINE, 412 PIKE S ST E</description><Point><coordinates>-87.614262, 38.998644</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/27/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, CRAWFORD, ROBINSON, 5063 1300TH N ST</description><Point><coordinates>-87.703486, 38.927128</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/16/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, CRAWFORD, ROBINSON, 203 SOUTH JEFFERSON</description><Point><coordinates>-87.738232, 39.004870</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

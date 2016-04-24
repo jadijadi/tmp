@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, BELL, BELTON, 701 Q E AVE</description><Point><coordinates>-97.462468, 31.040771</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/20/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, BELL, HOLLAND, 20779 STATE HIGHWAY 95</description><Point><coordinates>-97.375934, 30.899933</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/6/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, BELL, KILLEEN, 515 53RD ST</description><Point><coordinates>-97.696911, 31.101724</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/28/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, BELL, KILLEEN, 1310  HARRIS AVENUE BOX 77</description><Point><coordinates>-97.718378, 31.122248</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/24/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, BELL, TEMPLE, 303 EAST CALHOUN</description><Point><coordinates>-97.336799, 31.098619</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/1/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, BELL, TEMPLE, 3409  ANTELOPE TRAIL</description><Point><coordinates>-97.378746, 31.105549</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/10/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, BELL, TROY, 10123  LELA LANE</description><Point><coordinates>-97.341618, 31.198948</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

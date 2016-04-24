@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/28/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, JEFFERSON, BEAUMONT, 8220 KILLIAN</description><Point><coordinates>-94.188009, 30.094444</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/25/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, JEFFERSON, BEAUMONT, 9080 WASHINGTON BOULEVARD</description><Point><coordinates>-94.199028, 30.057674</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/20/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, JEFFERSON, NEDERLAND, 311  NEDERLAND AVENUE</description><Point><coordinates>-93.981025, 29.983207</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/4/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, JEFFERSON, PORT NECHES, 1839 NALL STREET</description><Point><coordinates>-93.959548, 29.985425</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

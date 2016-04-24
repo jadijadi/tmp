@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/4/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, DAVIESS, CLAY, 725  PENNBROOKE AVENUE</description><Point><coordinates>-84.270018, 37.839333</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/27/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, DAVIESS, LEWISPORT, 507 CHESTNUT GROVE N RD</description><Point><coordinates>-86.965636, 37.893884</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/11/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, DAVIESS, MACEO, 1151 YELVINGTON KNOTTSVILLE RD</description><Point><coordinates>-86.965656, 37.855574</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/19/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, DAVIESS, MACEO, 7580 HWY 405 HIGHWAY</description><Point><coordinates>-86.986922, 37.826128</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/2/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, DAVIESS, MACEO, 7048  2830 HIGHWAY</description><Point><coordinates>-87.025333, 37.829252</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/2/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, DAVIESS, MACEO, 347  POTTS</description><Point><coordinates>-86.987676, 37.884053</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, DAVIESS, OWENSBORO, 905 2ND W ST A</description><Point><coordinates>-87.120703, 37.774579</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, DAVIESS, OWENSBORO, 608 CRITTENDEN 7</description><Point><coordinates>-87.107668, 37.770451</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/11/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, DAVIESS, OWENSBORO, 7301 HOBBS RD</description><Point><coordinates>-87.280518, 37.688419</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/21/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, DAVIESS, OWENSBORO, 7301 HOBBS RD A-39</description><Point><coordinates>-87.280518, 37.688419</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/8/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, DAVIESS, OWENSBORO, 820 PARRISH W AVE</description><Point><coordinates>-87.119426, 37.761926</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/12/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, DAVIESS, OWENSBORO, 3504 ARLINGTON DRIVE</description><Point><coordinates>-87.142736, 37.735507</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/24/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, DAVIESS, OWENSBORO, 4911 CAMBRIDGE DR</description><Point><coordinates>-87.034220, 37.786843</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/14/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, DAVIESS, OWENSBORO, 8230 CECIL RD</description><Point><coordinates>-87.298278, 37.700422</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/29/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, DAVIESS, OWENSBORO, 9375 STANLEY-BIRK CITY ROAD</description><Point><coordinates>-87.290199, 37.785030</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/11/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, DAVIESS, OWENSBORO, 1217 JACKSON STREET</description><Point><coordinates>-87.095899, 37.764611</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/2/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, DAVIESS, OWENSBORO, 7936 LAKETOWN ROAD</description><Point><coordinates>-87.256063, 37.842277</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/5/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, DAVIESS, OWENSBORO, 2223 KEENLAND PARKWAY</description><Point><coordinates>-87.023444, 37.787619</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/11/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, DAVIESS, OWENSBORO, 727 ASHLAND AVENUE</description><Point><coordinates>-87.191693, 37.766692</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/11/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, DAVIESS, OWENSBORO, 5419 RUIDOSO LOOP</description><Point><coordinates>-87.021676, 37.787011</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/19/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, DAVIESS, OWENSBORO, 3220 DAVIESS STREET</description><Point><coordinates>-87.108612, 37.739331</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/19/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, DAVIESS, OWENSBORO, 7537 CROOKED CREEK ROAD</description><Point><coordinates>-87.268140, 37.727607</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/27/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, DAVIESS, OWENSBORO, 1710 VIRGINIA STREET</description><Point><coordinates>-87.099460, 37.759946</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/2/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, DAVIESS, OWENSBORO, 6410  TODD BRIDGE ROAD</description><Point><coordinates>-87.153769, 37.691311</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/15/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, DAVIESS, OWENSBORO, 1100  CEDAR STREET 7</description><Point><coordinates>-87.116214, 37.765384</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/5/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, DAVIESS, OWENSBORO, 1657 SOUTH PARKDALE DRIVE</description><Point><coordinates>-87.090481, 37.767260</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/16/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, DAVIESS, OWENSBORO, 519  BRECKENDRIDGE STREET</description><Point><coordinates>-87.099094, 37.771671</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/5/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, DAVIESS, OWENSBORO, 537  JR MILLER BOULEVARD</description><Point><coordinates>-87.108159, 37.770712</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/17/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, DAVIESS, OWENSBORO, 3215  WANDERIN LANE</description><Point><coordinates>-87.151863, 37.780004</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/16/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, DAVIESS, OWENSBORO, 614  BOLIVAR STREET A</description><Point><coordinates>-87.105348, 37.770372</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/6/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, DAVIESS, OWENSBORO, 1122 WEST 4TH STREET</description><Point><coordinates>-87.123225, 37.771776</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/13/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, DAVIESS, OWENSBORO, 4710  TOWNE SQUARE COURT  BOX 11</description><Point><coordinates>-87.128053, 37.724258</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/4/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, DAVIESS, OWENSBORO, 4100 SW WEST 5TH ST RD</description><Point><coordinates>-87.165876, 37.764738</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/11/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, DAVIESS, OWENSBORO, 4100 W WEST 5TH STREET ROAD</description><Point><coordinates>-87.165876, 37.764738</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, DAVIESS, PHILPOT, 5802 FREE SILVER RD</description><Point><coordinates>-86.905019, 37.773196</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/23/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, DAVIESS, PHILPOT, 5095 HWY. 142</description><Point><coordinates>-86.998747, 37.758163</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/3/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, DAVIESS, PHILPOT, 10874 HWY 144</description><Point><coordinates>-86.866469, 37.758677</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/1/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, DAVIESS, UTICA, 9171 POPLAR LOG BRIDGE SPUR RD</description><Point><coordinates>-86.983516, 37.629861</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/30/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, DAVIESS, UTICA, 151 HWY 140 W</description><Point><coordinates>-87.107789, 37.606112</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/6/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, DAVIESS, WHITESVILLE, 7640 DESERTER CREEK ROAD</description><Point><coordinates>-86.883899, 37.652805</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

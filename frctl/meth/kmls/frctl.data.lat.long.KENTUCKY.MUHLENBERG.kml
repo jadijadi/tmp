@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 8/6/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, MUHLENBERG, BOWLING GREEN, 1521  MAGNOLIA AVENUE</description><Point><coordinates>-86.445236, 36.979530</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, MUHLENBERG, BREMEN, 7961 ST ROUTE HWY 70 HWY</description><Point><coordinates>-87.218608, 37.361433</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/28/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, MUHLENBERG, BROWDER, 1514 US 431 SOUTH</description><Point><coordinates>-87.032956, 37.162178</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, MUHLENBERG, CENTRAL CITY, 102 CENTRAL ST</description><Point><coordinates>-87.153168, 37.244790</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, MUHLENBERG, CENTRAL CITY, 220 MCCORNELL DR</description><Point><coordinates>-87.099810, 37.280011</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/24/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, MUHLENBERG, CENTRAL CITY, 565 HWY 181 N</description><Point><coordinates>-87.211770, 37.265387</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/11/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, MUHLENBERG, CENTRAL CITY, 907 HWY 602</description><Point><coordinates>-87.124965, 37.313067</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/23/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, MUHLENBERG, CENTRAL CITY, 915  RIVER ROAD</description><Point><coordinates>-87.122419, 37.308213</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/6/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, MUHLENBERG, DRAKESBORO, 101 WOOTEN LN</description><Point><coordinates>-87.048885, 37.217543</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/25/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, MUHLENBERG, DUNMOR, 106 PINE STREET</description><Point><coordinates>-86.995954, 37.076667</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/23/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, MUHLENBERG, GRAHAM, 1645 HENRY OATS RD</description><Point><coordinates>-87.340829, 37.250753</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, MUHLENBERG, GREENVILLE, 4585 STATE ROUTE 171</description><Point><coordinates>-87.202736, 37.152467</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

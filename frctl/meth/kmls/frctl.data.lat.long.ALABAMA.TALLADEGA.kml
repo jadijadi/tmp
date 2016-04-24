@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/11/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, TALLADEGA, ALPINE, 5 PLEASURE POINT ROAD</description><Point><coordinates>-86.295721, 33.456248</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/21/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, TALLADEGA, CHILDERSBURG, 1265 14TH SE ST</description><Point><coordinates>-86.354977, 33.278169</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/27/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, TALLADEGA, CHILDERSBURG, 174 PARK LANE</description><Point><coordinates>-86.359213, 33.269817</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/28/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, TALLADEGA, EASTABOGA, 94 COUNTRY LN</description><Point><coordinates>-85.948714, 33.582900</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/19/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, TALLADEGA, EASTABOGA, 3712 RICHEYTOWN ROAD</description><Point><coordinates>-85.951362, 33.571040</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/10/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, TALLADEGA, EASTABOGA, 3184 RICHEYTOWN ROAD</description><Point><coordinates>-85.964105, 33.567910</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/6/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, TALLADEGA, MUNFORD, 226 BUCKHORN ROAD</description><Point><coordinates>-85.850207, 33.570269</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/15/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, TALLADEGA, MUNFORD, 3499 MCELDERRY ROAD</description><Point><coordinates>-85.972921, 33.485425</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/30/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, TALLADEGA, MUNFORD, 46640 NORTH 21 HIGHWAY</description><Point><coordinates>-85.905054, 33.544120</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/18/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, TALLADEGA, MUNFORD, 3499 MCELDERRY ROAD</description><Point><coordinates>-85.972921, 33.485425</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/15/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, TALLADEGA, MUNFORD, 46640 HWY 21</description><Point><coordinates>-85.905054, 33.544120</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/12/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, TALLADEGA, OAK GROVE, 215 LANDERS LOOP</description><Point><coordinates>-86.293861, 33.183005</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/3/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, TALLADEGA, OXFORD, 4659 MCINTOSH ROAD</description><Point><coordinates>-85.806408, 33.567909</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, TALLADEGA, OXFORD, 787  HJ BENTLEY PARKWAY</description><Point><coordinates>-85.889297, 33.577278</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/3/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, TALLADEGA, SYLACAUGA, 796 HEASLETTS RD</description><Point><coordinates>-86.461803, 33.191273</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/19/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, TALLADEGA, SYLACAUGA, 602 NEW COUNTY LINE RD.</description><Point><coordinates>-86.283345, 33.129529</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/18/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, TALLADEGA, SYLACAUGA, 201 SOUTH DAVIS AVENUE</description><Point><coordinates>-86.260342, 33.163506</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/28/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, TALLADEGA, SYLACAUGA, 35984 280 HIGHWAY</description><Point><coordinates>-86.331061, 33.236664</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/7/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, TALLADEGA, SYLACAUGA, 1170 HOUSTON ROAD</description><Point><coordinates>-86.260253, 33.104423</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/16/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, TALLADEGA, SYLACAUGA, 3241 NORTH ODENA ROAD</description><Point><coordinates>-86.264176, 33.253182</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/15/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, TALLADEGA, SYLACAUGA, 35351 HWY 280 HIGHWAY</description><Point><coordinates>-86.251641, 33.173172</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/24/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, TALLADEGA, SYLACAUGA, 779 SPRINGVALLEY ROAD</description><Point><coordinates>-86.261410, 33.200303</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/30/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, TALLADEGA, SYLACAUGA, 35351 280 HIGHWAY</description><Point><coordinates>-86.251641, 33.173172</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/12/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, TALLADEGA, SYLACAUGA, 411 WEST WALNUT AVENUE</description><Point><coordinates>-86.258739, 33.163740</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/12/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, TALLADEGA, SYLACAUGA, 46  DIVISION STREET</description><Point><coordinates>-86.256316, 33.189354</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/28/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, TALLADEGA, SYLACAUGA, 46  DIVISION STREET</description><Point><coordinates>-86.256316, 33.189354</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/28/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, TALLADEGA, SYLACAUGA, 26  RUTH CIRCLE</description><Point><coordinates>-86.251709, 33.185951</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/19/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, TALLADEGA, SYLACAUGA, 26  RUTH CIRCLE</description><Point><coordinates>-86.251709, 33.185951</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/14/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, TALLADEGA, SYLACAUGA, 65  WAGON WHEEL LANE</description><Point><coordinates>-86.285136, 33.188401</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/10/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, TALLADEGA, SYLACAUGA, 217  SMITH AVENIDA</description><Point><coordinates>-86.265223, 33.171391</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/21/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, TALLADEGA, TALLADEGA, 1599 IRONATON ROAD</description><Point><coordinates>-86.036200, 33.440503</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/5/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, TALLADEGA, TALLADEGA, 211 CAROUSEL LANE</description><Point><coordinates>-86.092673, 33.490414</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/6/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, TALLADEGA, TALLADEGA, 209 WEST NORTH STREET 3</description><Point><coordinates>-86.104031, 33.435501</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

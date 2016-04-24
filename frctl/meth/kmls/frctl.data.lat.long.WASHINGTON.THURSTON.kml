@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, THURSTON, BUCODA, 308 S MARKET ST</description><Point><coordinates>-122.868263, 46.796475</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, THURSTON, LACEY, 5134 BERGER SE DR</description><Point><coordinates>-122.739573, 47.000511</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, THURSTON, OLYMPIA, 2816 MARTIN E WAY</description><Point><coordinates>-122.860334, 47.046830</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/14/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, THURSTON, OLYMPIA, 6212 MILLER NW RD</description><Point><coordinates>-122.998260, 47.122515</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/8/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, THURSTON, OLYMPIA, 2612 CRESTRIDGE NW DR</description><Point><coordinates>-122.935391, 47.172212</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/25/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, THURSTON, OLYMPIA, 5217 KAGY SE RD</description><Point><coordinates>-122.759668, 47.000677</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/4/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, THURSTON, OLYMPIA, 1730 SOUTHEAST ELIZABETH STREET</description><Point><coordinates>-122.844123, 47.032972</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/7/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, THURSTON, RAINIER, 12510 RAINIER SE RD</description><Point><coordinates>-122.698640, 46.905651</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, THURSTON, ROCHESTER, 185TH SW AVE</description><Point><coordinates>-123.101406, 46.818933</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/5/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, THURSTON, ROCHESTER, 4840 176TH AVE</description><Point><coordinates>-122.982795, 46.834985</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, THURSTON, TACOMA, 1117 6TH N ST</description><Point><coordinates>-77.036871, 38.907192</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, THURSTON, TACOMA, 404 30TH S ST</description><Point><coordinates>-77.036871, 38.907192</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, THURSTON, YELM, 15547 148TH SE AVE</description><Point><coordinates>-122.610816, 46.871252</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, THURSTON, YELM, 18220 BALD HILLS SE RD</description><Point><coordinates>-122.482425, 46.823167</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/25/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, THURSTON, YELM, 15913 90TH SE AVE</description><Point><coordinates>-122.601810, 46.956619</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/25/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, THURSTON, YELM, 9502 CULLENS RD</description><Point><coordinates>-122.609907, 46.950509</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/21/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, THURSTON, YELM, 14804 LAWRENCE LAKE SE RD B</description><Point><coordinates>-122.557768, 46.872432</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

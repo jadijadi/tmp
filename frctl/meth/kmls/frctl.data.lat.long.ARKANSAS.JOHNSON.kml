@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, JOHNSON, CLARKSVILLE, 712 JOHNSON N ST</description><Point><coordinates>-93.468289, 35.480632</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/23/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, JOHNSON, CLARKSVILLE, 409 TAYLOR 2</description><Point><coordinates>-93.466978, 35.469259</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/31/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, JOHNSON, CLARKSVILLE, 809 JOHNSON N ST</description><Point><coordinates>-93.468531, 35.482484</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/21/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, JOHNSON, CLARKSVILLE, 1825 BIG DANGER RD</description><Point><coordinates>-93.445125, 35.439296</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/25/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, JOHNSON, CLARKSVILLE, 601 JOHNSON N</description><Point><coordinates>-93.468530, 35.477297</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/15/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, JOHNSON, CLARKSVILLE, 137 CR 3383</description><Point><coordinates>-93.500120, 35.500530</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/4/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, JOHNSON, CLARKSVILLE, 1060 COUNTY ROUTE 4430 ROUTE</description><Point><coordinates>-93.535926, 35.473550</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/3/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, JOHNSON, CLARKSVILLE, CR 3503 127</description><Point><coordinates>-93.432496, 35.542939</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/28/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, JOHNSON, CLARKSVILLE, 1220 WEST SEVIER STREET</description><Point><coordinates>-93.477418, 35.470547</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/1/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, JOHNSON, CLARKSVILLE, 639 CR 2253</description><Point><coordinates>-93.573396, 35.457394</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/29/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, JOHNSON, CLARKSVILLE, 13009  POWERS ST</description><Point><coordinates>-93.478656, 35.462807</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/9/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, JOHNSON, COAL HILL, 627 HWY. 64</description><Point><coordinates>-93.699056, 35.439083</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, JOHNSON, LAMAR, 201 JOHNSONVILLE ST 1-A</description><Point><coordinates>-93.389734, 35.446683</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/19/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, JOHNSON, OZONE, 4359 CR 5500</description><Point><coordinates>-93.389477, 35.651287</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

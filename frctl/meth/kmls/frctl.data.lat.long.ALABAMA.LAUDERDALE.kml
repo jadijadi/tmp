@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, LAUDERDALE, FLORENCE, 3204 CO RD 158</description><Point><coordinates>-87.861508, 34.917992</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/21/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, LAUDERDALE, FLORENCE, 76 MEADOW GROVE LANE</description><Point><coordinates>-87.727554, 34.892114</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/31/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, LAUDERDALE, FLORENCE, 300 CO RD 237</description><Point><coordinates>-87.655807, 34.813370</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/4/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, LAUDERDALE, FLORENCE, 1836  DARBY DRIVE</description><Point><coordinates>-87.655544, 34.823199</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/4/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, LAUDERDALE, FLORENCE, 1836  DARBY DRIVE</description><Point><coordinates>-87.655544, 34.823199</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/22/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, LAUDERDALE, FLORENCE, 6290  COUNTY 87 ROAD</description><Point><coordinates>-87.902470, 34.927897</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/10/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, LAUDERDALE, FLORENCE, 502  DEER TRAIL</description><Point><coordinates>-87.675961, 34.852595</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/27/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, LAUDERDALE, LEXINGTON, 12447 CO RD 33</description><Point><coordinates>-87.442768, 34.947946</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/22/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, LAUDERDALE, LEXINGTON, 217 JUSTIN LANE</description><Point><coordinates>-87.376933, 34.913007</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, LAUDERDALE, ROGERSVILLE, 355 C.R. 558 RD</description><Point><coordinates>-87.290006, 34.869302</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/1/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, LAUDERDALE, ROGERSVILLE, 1049 CO RD 540</description><Point><coordinates>-87.340505, 34.895804</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

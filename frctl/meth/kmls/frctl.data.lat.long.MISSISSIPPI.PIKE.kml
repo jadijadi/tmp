@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/4/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, PIKE, MAGNOLIA, 1035  GUIDING LIGHT ROAD</description><Point><coordinates>-90.407250, 31.072001</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/10/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, PIKE, MCCOMB, 1155  ADAMS ROAD</description><Point><coordinates>-90.441418, 31.204886</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/25/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, PIKE, MCCOMB, 1030  STERLING ROAD</description><Point><coordinates>-90.460624, 31.205867</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/5/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, PIKE, MCCOMB, 1155  ADAMS ROAD</description><Point><coordinates>-90.441418, 31.204886</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/4/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, PIKE, MCCOMB, 1020 EAST 24 HIGHWAY</description><Point><coordinates>-90.445235, 31.230906</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/7/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, PIKE, OSYKA, 7771 HIGHWAY 584</description><Point><coordinates>-90.581114, 31.021758</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/22/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, PIKE, OSYKA, 1146  LINE CREEK ROAD</description><Point><coordinates>-90.542339, 31.009753</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/8/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, PIKE, SUMMIT, 2024 COUNTY LINE RD</description><Point><coordinates>-90.548186, 31.276515</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/19/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, PIKE, SUMMIT, 2002 WEST HIGHWAY 24</description><Point><coordinates>-90.542732, 31.204715</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

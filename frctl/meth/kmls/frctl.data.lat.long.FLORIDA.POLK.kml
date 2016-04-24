@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 7/16/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, POLK, AUBURNDALE, 1204  TAYLOR STREET</description><Point><coordinates>-81.846426, 28.047694</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/15/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, POLK, BARTOW, 4818  MARK WAY</description><Point><coordinates>-81.764596, 27.954840</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/9/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, POLK, BARTOW, 1154  HANKIN ROAD</description><Point><coordinates>-81.751124, 27.894231</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/4/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, POLK, BARTOW, 7222 WEST THOMAS JEFFERSON CIRCLE</description><Point><coordinates>-81.724160, 27.914973</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/13/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, POLK, BARTOW, 2200  THOMPSON ROAD</description><Point><coordinates>-81.783321, 27.924738</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/8/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, POLK, BARTOW, 2710  HOLLY LANE</description><Point><coordinates>-81.741978, 27.871461</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/8/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, POLK, BARTOW, 2710  HOLLY LANE</description><Point><coordinates>-81.741978, 27.871461</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/6/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, POLK, BARTOW, 750 SOUTH DUDLEY AVENUE</description><Point><coordinates>-81.847337, 27.890084</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/18/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, POLK, BARTOW, 170 EAST VINE STREET</description><Point><coordinates>-81.842155, 27.889904</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/2/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, POLK, BARTOW, 270  HANKIN ROAD</description><Point><coordinates>-81.751601, 27.908394</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/17/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, POLK, EAGLE LAKE, 1630  GRAY ROAD 4</description><Point><coordinates>-81.743661, 27.976654</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/28/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, POLK, FORT MEADE, 1330  HICKORY LANE</description><Point><coordinates>-81.792626, 27.734262</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/26/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, POLK, LAKE WALES, 1518 NORTH SCENIC HIGHWAY 19</description><Point><coordinates>-81.593344, 27.921627</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/23/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, POLK, LAKE WALES, 3531 NORTH SCENIC HIGHWAY 3</description><Point><coordinates>-81.595173, 27.950389</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/21/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, POLK, LAKE WALES, 165  NORTH DRIVE</description><Point><coordinates>-81.586391, 27.835080</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/19/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, POLK, LAKE WALES, 1837  OLD BARTOW ROAD</description><Point><coordinates>-81.618882, 27.904933</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, POLK, LAKELAND, 2922 COUNTY RIDGE LN</description><Point><coordinates>-81.900053, 28.064780</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, POLK, LAKELAND, 3585 DONOVAN RD</description><Point><coordinates>-81.990315, 28.087379</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/11/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, POLK, LAKELAND, 5247 1ST NW ST</description><Point><coordinates>-82.052244, 28.122581</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/2/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, POLK, LAKELAND, 2345  DEER RUN</description><Point><coordinates>-81.996110, 28.192984</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/9/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, POLK, LAKELAND, 5034  FAIRFIELD COURT</description><Point><coordinates>-81.987741, 27.973900</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/27/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, POLK, LAKELAND, 5103  IVYBROOK LANE</description><Point><coordinates>-82.009054, 27.972985</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/12/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, POLK, LAKELAND, 2350  DEER RUN</description><Point><coordinates>-81.996243, 28.191913</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/18/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, POLK, LAKELAND, 2114  DAWN HEIGHTS DRIVE</description><Point><coordinates>-81.884082, 28.018283</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/8/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, POLK, LAKELAND, 4430  OLD GOVERNMENT ROAD</description><Point><coordinates>-82.035953, 27.947662</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/7/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, POLK, LAKELAND, 105 WEST CARTER ROAD</description><Point><coordinates>-81.956954, 27.934993</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/18/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, POLK, LAKELAND, 1005 SOUTH NEW YORK AVENUE</description><Point><coordinates>-81.959453, 28.031124</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/18/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, POLK, LAKELAND, 1005 SOUTH NEW YORK AVENUE</description><Point><coordinates>-81.959453, 28.031124</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/19/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, POLK, LAKELAND, 4561  OLD GOVERNMENT ROAD</description><Point><coordinates>-82.038518, 27.949921</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/9/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, POLK, LAKELAND, 433 WEST TIMBERLANE  A</description><Point><coordinates>-81.910932, 28.039124</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/4/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, POLK, LAKELAND, 530  JAMESTOWN AVE AVENUE</description><Point><coordinates>-81.914320, 28.037555</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/14/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, POLK, LAKELAND, 8715  CARROLWOOD DRIVE</description><Point><coordinates>-82.023938, 28.157080</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/29/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, POLK, LITHIA, 8902  COUNTY LINE ROAD</description><Point><coordinates>-82.054993, 27.878626</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/30/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, POLK, MULBERRY, 4425  MEADOW RIDGE AVENUE</description><Point><coordinates>-82.037389, 27.915145</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/23/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, POLK, WAHNETA, 1140 WEST A AVENUE</description><Point><coordinates>-81.730663, 27.949394</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, POLK, WINTER HAVEN, 2825 J NW AVE</description><Point><coordinates>-81.762883, 28.033463</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/6/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, POLK, WINTER HAVEN, 723  BYNI RIDGE DRIVE</description><Point><coordinates>-81.824002, 28.013132</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/6/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, POLK, WINTER HAVEN, 790  BYNI RIDGE ROAD</description><Point><coordinates>-81.821252, 28.013392</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/26/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, POLK, WINTER HAVEN, 124  EAGLE LAKE LOOP ROAD</description><Point><coordinates>-81.731284, 27.966272</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

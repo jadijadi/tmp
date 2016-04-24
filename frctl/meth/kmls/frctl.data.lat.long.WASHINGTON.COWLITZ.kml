@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 9/1/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, COWLITZ, KALAMA, 194 CONFER RD</description><Point><coordinates>-122.809235, 45.971801</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, COWLITZ, LONGVIEW, 337 21ST AVE</description><Point><coordinates>-122.954723, 46.123726</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, COWLITZ, LONGVIEW, 122 18TH AVE</description><Point><coordinates>-122.954188, 46.118645</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, COWLITZ, LONGVIEW, 149 NIBBLETT WAY</description><Point><coordinates>-122.932578, 46.176204</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/27/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, COWLITZ, LONGVIEW, 336 21ST AVE</description><Point><coordinates>-122.954157, 46.123476</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/10/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, COWLITZ, LONGVIEW, 149 NIBLETT</description><Point><coordinates>-122.932578, 46.176204</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/30/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, COWLITZ, LONGVIEW, 281 17TH AVENUE</description><Point><coordinates>-122.951773, 46.120566</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

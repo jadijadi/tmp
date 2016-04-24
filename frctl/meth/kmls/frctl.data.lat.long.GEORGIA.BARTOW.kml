@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, BARTOW, ACWORTH, 4572 ROBERTS DR</description><Point><coordinates>-84.683751, 34.123937</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/23/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, BARTOW, ADAIRSVILLE, 1401 140 HWY</description><Point><coordinates>-84.987649, 34.374029</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/29/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, BARTOW, CARTERSVILLE, 192 WOODLAND WAY</description><Point><coordinates>-84.895686, 34.264541</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, BARTOW, CARTERSVILLE, 81 OLD TENNESSEE RD</description><Point><coordinates>-84.794460, 34.212247</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/29/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, BARTOW, CARTERSVILLE, 41 AKINS ST</description><Point><coordinates>-84.861749, 34.234810</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, BARTOW, CARTERSVILLE, 1210 TENNESSEE N ST LOT 4A</description><Point><coordinates>-84.798981, 34.197609</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, BARTOW, CARTERSVILLE, 21 AKIN LN</description><Point><coordinates>-84.875215, 34.247818</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, BARTOW, CARTERSVILLE, 1925 CASSVILLE RD 25</description><Point><coordinates>-84.856278, 34.253985</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/16/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, BARTOW, CARTERSVILLE, 33 CRUMP RD</description><Point><coordinates>-84.833601, 34.207667</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/6/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, BARTOW, CARTERSVILLE, 34 FIRETOWER RD</description><Point><coordinates>-84.853943, 34.244812</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/29/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, BARTOW, CARTERSVILLE, 390 OLD MILL RD 204</description><Point><coordinates>-84.819192, 34.149154</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/13/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, BARTOW, CARTERSVILLE, 426 SHINALL-GAINES RD</description><Point><coordinates>-84.827747, 34.248366</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/27/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, BARTOW, CARTERSVILLE, 229 EVERGREEN TRAIL</description><Point><coordinates>-84.813036, 34.220581</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/27/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, BARTOW, CARTERSVILLE, 229 EVERGREEN TRAIL</description><Point><coordinates>-84.813036, 34.220581</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, BARTOW, CASSVILLE, 925 CASSVILLE RD 14</description><Point><coordinates>-84.837390, 34.213077</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/11/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, BARTOW, KINGSTON, 267 HARDIN BRIDGE RD 4</description><Point><coordinates>-84.932561, 34.212769</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/3/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, BARTOW, RYDAL, 11 INDIAN HILLS DR</description><Point><coordinates>-84.725399, 34.311844</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/23/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, BARTOW, TAYLORSVILLE, 2394 EUHARLEE RD</description><Point><coordinates>-85.032710, 34.182977</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/3/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, BARTOW, TAYLORSVILLE, 145 SEWELL RD</description><Point><coordinates>-85.020574, 34.095157</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/2/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, BARTOW, TAYLORSVILLE, 75 DAVIS DR</description><Point><coordinates>-84.994618, 34.087226</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

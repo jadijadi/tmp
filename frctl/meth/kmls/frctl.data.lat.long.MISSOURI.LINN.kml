@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LINN, BROOKFIELD, 217 EAST PRAIRIE STREET</description><Point><coordinates>-93.075202, 39.791613</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/15/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LINN, BROOKFIELD, 657 WENTZ ST</description><Point><coordinates>-93.056410, 39.775295</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/21/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LINN, BUCKLIN, 209 GENTRY E</description><Point><coordinates>-92.889770, 39.779591</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/22/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LINN, BUCKLIN, 417  RUBY STREET</description><Point><coordinates>-92.883993, 39.783410</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/29/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LINN, PURDIN, 610 C ST</description><Point><coordinates>-93.168252, 39.952253</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

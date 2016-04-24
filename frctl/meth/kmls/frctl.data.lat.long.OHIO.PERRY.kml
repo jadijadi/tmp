@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 11/11/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, PERRY, CROOKSVILLE, 338 WHITEHOUSE STREET</description><Point><coordinates>-82.091833, 39.766089</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/3/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, PERRY, CROOKSVILLE, 10 N BUCKEYE STREET</description><Point><coordinates>-82.100027, 39.771097</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/17/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, PERRY, GLENFORD, 13660 HOPEWELL TOWNSHIP 64 ROAD</description><Point><coordinates>-82.296674, 39.893850</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/5/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, PERRY, JUNCTION CITY, 1909 SOUTH JACKSON TOWNSHIP 131B ROA</description><Point><coordinates>-82.261975, 39.700109</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/14/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, PERRY, MOUNT PERRY, 10108 SOUTH WESLEY CHAPEL ROAD</description><Point><coordinates>-82.187577, 39.833903</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/13/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, PERRY, NEW LEXINGTON, 121 PORCELIN STREET B</description><Point><coordinates>-82.221552, 39.723337</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/14/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, PERRY, NEW LEXINGTON, 1399 SOUTHEAST TOWNSHIP ROAD 195</description><Point><coordinates>-82.133899, 39.705910</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/3/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, PERRY, NEW LEXINGTON, 699 NORTH STATE STREET</description><Point><coordinates>-82.215568, 39.717526</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1738  TOWNSHIP RD 128/TOWNSHIP ROAD</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, PERRY, NEW LEXINGTON</description><Point><coordinates>-82.208480, 39.713958</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/27/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, PERRY, SOMERSET, 3662 READING TOWNSHIP ROAD 124</description><Point><coordinates>-82.319618, 39.825003</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/2/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, PERRY, SOMERSET, 5475 RUSHCREEK ROAD</description><Point><coordinates>-82.349022, 39.809692</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/12/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, PERRY, SOMERSET, 105  SUMMIT STREET</description><Point><coordinates>-82.296870, 39.803088</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/26/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, PERRY, SOMERSET, 3594  TOWNSHIP ROAD 124</description><Point><coordinates>-82.297094, 39.807012</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/5/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, PERRY, THORNVILLE, 14876  EMPIRE ROAD</description><Point><coordinates>-82.412699, 39.916347</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

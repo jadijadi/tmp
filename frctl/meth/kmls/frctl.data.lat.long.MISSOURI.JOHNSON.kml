@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 9/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, JOHNSON, HOLDEN, 204 PACIFIC E</description><Point><coordinates>-93.987579, 38.720009</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, JOHNSON, KNOB NOSTER, 763 50 NE HWY</description><Point><coordinates>-93.602965, 38.775089</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/17/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, JOHNSON, KNOB NOSTER, 704 MCPHERSON E</description><Point><coordinates>-93.548509, 38.765102</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/5/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, JOHNSON, KNOB NOSTER, 1000 130 NE RD</description><Point><coordinates>-93.556033, 38.774152</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/4/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, JOHNSON, WARRENSBURG, 424 EAST MARKET STREET</description><Point><coordinates>-93.729311, 38.763320</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/6/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, JOHNSON, WARRENSBURG, 1106 SOUTH ZOLL STREET B</description><Point><coordinates>-93.731287, 38.747245</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, GIBSON, BRADFORD, 121 CANTRELL ST</description><Point><coordinates>-88.827389, 36.074721</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, GIBSON, BRADFORD, 328 MAIN E ST</description><Point><coordinates>-88.805294, 36.076689</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/10/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, GIBSON, BRADFORD, 169 WALNUT GROVE RD</description><Point><coordinates>-88.770113, 36.015256</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/21/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, GIBSON, BRADFORD, 139  WOODROW STREET</description><Point><coordinates>-88.807619, 36.078393</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/20/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, GIBSON, BRADFORD, 116  WINGO STREET</description><Point><coordinates>-88.817339, 36.062876</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/28/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, GIBSON, GIBSON, 719 ATKINS ST</description><Point><coordinates>-88.842894, 35.869589</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/30/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, GIBSON, GIBSON, 110/112 MAIN S ST</description><Point><coordinates>-88.846589, 35.875154</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/27/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, GIBSON, GIBSONTOWN, 512  PARKER ST</description><Point><coordinates>-86.580447, 35.517491</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/15/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, GIBSON, HUMBOLDT, 2611 OAKVIEW DR</description><Point><coordinates>-88.916759, 35.838592</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/12/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, GIBSON, HUMBOLDT, 32 FORKED DEER TRAILER PARK</description><Point><coordinates>-88.890859, 35.841924</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/10/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, GIBSON, HUMBOLDT, 2634 OAKVIEW DRIVE</description><Point><coordinates>-88.916035, 35.839321</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/8/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, GIBSON, HUMBOLDT, 76 TURNER ROAD</description><Point><coordinates>-89.076277, 35.866198</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/26/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, GIBSON, HUMBOLDT, 1443  SUNSET</description><Point><coordinates>-88.902165, 35.829904</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/24/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, GIBSON, HUMBOLDT, 1816  KAY</description><Point><coordinates>-88.910977, 35.815354</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, GIBSON, KENTON, 119 MOORE LOOP RD</description><Point><coordinates>-88.901658, 36.151653</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, GIBSON, MEDINA, 4078 OLD MEDINA RD</description><Point><coordinates>-88.789226, 35.760451</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/17/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, GIBSON, MEDINA, 211 REED CIR</description><Point><coordinates>-88.774429, 35.809000</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/24/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, GIBSON, MEDINA, 149  JUNO COVE</description><Point><coordinates>-88.804717, 35.825343</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/25/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, GIBSON, MILAN, 167 WALNUT GROOVE N RD</description><Point><coordinates>-88.767742, 36.004832</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, GIBSON, MILAN, 224 GERMANTOWN RD</description><Point><coordinates>-88.817895, 35.956144</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/31/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, GIBSON, MILAN, 444 CADES ATWOOD RD</description><Point><coordinates>-88.756780, 35.980166</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/16/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, GIBSON, MILAN, 1101 FIRST N ST</description><Point><coordinates>-88.760268, 35.922168</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/6/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, GIBSON, MILAN, 1117  BAIRD</description><Point><coordinates>-88.753279, 35.921973</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/9/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, GIBSON, MILAN, 1087  SHORT ANDERSON STREET</description><Point><coordinates>-88.758789, 35.916791</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/2/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, GIBSON, MILAN, 2049 CULPEPPER STREET</description><Point><coordinates>-88.766192, 35.921951</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, GIBSON, TRENTON, 112 FRED BROWN N RD</description><Point><coordinates>-89.087925, 36.005951</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, GIBSON, TRENTON, 63 HERD LAW RD</description><Point><coordinates>-88.819255, 35.988601</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/7/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, GIBSON, TRENTON, 63 HERD LAW RD</description><Point><coordinates>-88.819255, 35.988601</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/13/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, GIBSON, TRENTON, 24 DYER HWY R</description><Point><coordinates>-88.952157, 36.011627</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/28/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, GIBSON, TRENTON, 820  GIBSON RD.</description><Point><coordinates>-88.925967, 35.966628</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, GIBSON, YORKVILLE, 44 CARMACK KEMP RD</description><Point><coordinates>-89.118957, 36.099513</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

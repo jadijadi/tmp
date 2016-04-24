@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 10/6/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, RICHMOND, AUGUSTA, 1631 CURRAN STREET</description><Point><coordinates>-81.994402, 33.472319</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, RICHMOND, AUGUSTA, 3705 PEACH ORCHARD ROAD</description><Point><coordinates>-82.040374, 33.363400</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/21/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, RICHMOND, AUGUSTA, 4090 OLD WAYNESBORO ROAD</description><Point><coordinates>-82.008459, 33.330793</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/19/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, RICHMOND, AUGUSTA, 1933 GAY DRIVE</description><Point><coordinates>-82.010474, 33.407571</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/21/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, RICHMOND, AUGUSTA, 3473 LEWIS ROAD</description><Point><coordinates>-82.152140, 33.454222</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/22/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, RICHMOND, AUGUSTA, 2534 LUMPKIN ROAD</description><Point><coordinates>-82.048547, 33.423002</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/26/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, RICHMOND, AUGUSTA, 612 BENNOCK MILL ROAD</description><Point><coordinates>-81.899304, 33.266103</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/10/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, RICHMOND, AUGUSTA, 154 CORNITH DRIVE</description><Point><coordinates>-81.963121, 33.274487</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/16/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, RICHMOND, AUGUSTA, 2415 WILLIS FOREMAN ROAD</description><Point><coordinates>-82.080369, 33.341436</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/12/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, RICHMOND, AUGUSTA, 3105 MIKE PADGETT HIGHWAY</description><Point><coordinates>-82.006929, 33.410800</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/28/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, RICHMOND, AUGUSTA, 2014 BATTLE ROW</description><Point><coordinates>-82.002558, 33.481646</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/22/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, RICHMOND, AUGUSTA, 2545 RHODES DRIVE</description><Point><coordinates>-82.022175, 33.429244</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/14/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, RICHMOND, AUGUSTA, 3001 ROE'S WOOD DRIVE</description><Point><coordinates>-82.010515, 33.473498</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/23/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, RICHMOND, AUGUSTA, 154 CORINTH</description><Point><coordinates>-81.963121, 33.274487</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/11/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, RICHMOND, AUGUSTA, 2553 RHODES DRIVE</description><Point><coordinates>-82.022729, 33.428861</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/21/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, RICHMOND, AUGUSTA, 7048 AMARILLO CIRCLE</description><Point><coordinates>-81.963072, 33.254115</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/15/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, RICHMOND, AUGUSTA, 1944 WARREN STREET</description><Point><coordinates>-82.002881, 33.477808</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/15/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, RICHMOND, AUGUSTA, 1925 TELFAIR STREET</description><Point><coordinates>-81.998715, 33.483101</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/9/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, RICHMOND, AUGUSTA, 3347 RAVENWOOD DRIVE</description><Point><coordinates>-82.080545, 33.508521</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/19/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, RICHMOND, AUGUSTA, 2501  COLEMAN AVENUE</description><Point><coordinates>-82.013634, 33.428148</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/18/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, RICHMOND, AUGUSTA, 1503  PINE RIDGE DRIVE</description><Point><coordinates>-81.997889, 33.319999</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/14/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, RICHMOND, AUGUSTA, 3522  WINDMERE ROAD</description><Point><coordinates>-82.097312, 33.403183</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/14/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, RICHMOND, AUGUSTA, 3522  WINDMERE ROAD</description><Point><coordinates>-82.097312, 33.403183</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/14/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, RICHMOND, BLYTHE, 3326 88 HIGHWAY</description><Point><coordinates>-82.190090, 33.308732</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/12/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, RICHMOND, HEPHZIBAH, 2839 OLD HWY 1 HIGHWAY</description><Point><coordinates>-82.096786, 33.314031</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/25/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, RICHMOND, HEPHZIBAH, 2419 TURKEY TRAIL DRIVE</description><Point><coordinates>-82.076952, 33.356341</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/10/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, RICHMOND, HEPHZIBAH, 308 ROBERT DRIVE</description><Point><coordinates>-82.085851, 33.359410</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/29/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, RICHMOND, HEPHZIBAH, 2400 TURKEY TRAIL DRIVE</description><Point><coordinates>-82.073562, 33.355104</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/13/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, RICHMOND, HEPHZIBAH, 2393 NORTH COUGAR DRIVE</description><Point><coordinates>-82.071932, 33.356474</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/2/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, RICHMOND, HEPHZIBAH, 2059 MCDADE ROAD</description><Point><coordinates>-82.042207, 33.341181</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/6/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, RICHMOND, HEPHZIBAH, 2059 MCDADE ROAD</description><Point><coordinates>-82.042207, 33.341181</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/15/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, RICHMOND, HEPHZIBAH, 4535 WINDSOR SPRING ROAD</description><Point><coordinates>-82.087860, 33.339705</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/6/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, RICHMOND, HEPHZIBAH, 2489  88 HIGHWAY</description><Point><coordinates>-82.092511, 33.315162</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/27/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, RICHMOND, HEPHZIBAH, 4368  FOREST ROAD</description><Point><coordinates>-81.990276, 33.310961</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/29/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, RICHMOND, HEPHZIBAH, 3056  WOLCOTT LANE</description><Point><coordinates>-82.096786, 33.314031</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/17/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, RICHMOND, HEPHZIBAH, 5341  TIMBERWOOD DRIVE</description><Point><coordinates>-81.983416, 33.321609</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

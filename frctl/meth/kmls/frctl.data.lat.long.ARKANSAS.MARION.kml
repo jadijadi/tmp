@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, MARION, FLIPPIN, 7093 COUNTY RD 149</description><Point><coordinates>-92.563164, 36.261505</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/6/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, MARION, FLIPPIN, MEDLEY N LN 108</description><Point><coordinates>-91.831833, 35.201050</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/11/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, MARION, SUMMIT, GREEN TREE RD 35</description><Point><coordinates>-92.696242, 36.250812</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/16/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, MARION, SUMMIT, 125  NORTH VIRGINA</description><Point><coordinates>-92.688229, 36.249664</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/6/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, MARION, YELLVILLE, 11592 HWY 235 11592</description><Point><coordinates>-92.786509, 36.147824</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/3/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, MARION, YELLVILLE, 292  HOLLOW TREE LANE</description><Point><coordinates>-92.663474, 36.143916</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

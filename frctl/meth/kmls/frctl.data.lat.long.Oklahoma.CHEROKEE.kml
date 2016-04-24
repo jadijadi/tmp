@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/26/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CHEROKEE, COOKSON, 21115 WEST 888  RD</description><Point><coordinates>-94.931939, 35.728042</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/16/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CHEROKEE, HULBERT, 107 NORTH ELM</description><Point><coordinates>-95.142544, 35.934680</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/25/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CHEROKEE, HULBERT, 5037 770TH W RD</description><Point><coordinates>-95.078452, 35.900730</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/28/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CHEROKEE, HULBERT, 10336 NORTH 427 ROAD</description><Point><coordinates>-95.120533, 36.026981</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/11/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CHEROKEE, HULBERT, 7723 WEST J B TEAGUE DRIVE</description><Point><coordinates>-95.164386, 35.951212</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/31/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CHEROKEE, MOODYS, 11019 530 N RD</description><Point><coordinates>-94.934688, 36.013754</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/30/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CHEROKEE, PARK HILL, 35144 488 N RD</description><Point><coordinates>-95.023029, 35.666698</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/25/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CHEROKEE, TAHLEQUAH, 313 BAILEY  BLVD</description><Point><coordinates>-94.888257, 35.981919</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/28/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CHEROKEE, TAHLEQUAH, 15759 N BRYANT W RD</description><Point><coordinates>-95.011360, 35.948047</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/19/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CHEROKEE, TAHLEQUAH, 310 1/2 B COLLEGE  ST</description><Point><coordinates>-94.974504, 35.907722</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/6/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CHEROKEE, TAHLEQUAH, 20455 WHIPPERWILL HOLLOW  RD</description><Point><coordinates>-94.969956, 35.915370</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/8/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CHEROKEE, TAHLEQUAH, 408 EAST NORMAL STREET</description><Point><coordinates>-94.963758, 35.918477</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/10/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CHEROKEE, TAHLEQUAH, 22013 SOUTH 497 ROAD</description><Point><coordinates>-95.008851, 35.856234</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/11/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CHEROKEE, WELLING, 24283 SOUTH WELLING ROAD</description><Point><coordinates>-94.881676, 35.825176</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

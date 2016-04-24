@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/23/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, CRITTENDEN, EARLE, 3008 HWY 149 NORTH 0 0</description><Point><coordinates>-90.456165, 35.316129</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/8/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, CRITTENDEN, MARION, 256  MARION</description><Point><coordinates>-90.206190, 35.216547</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/14/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, CRITTENDEN, MARION, 18  MORRISON</description><Point><coordinates>-90.197261, 35.180400</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/13/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, CRITTENDEN, WEST MEMPHIS, 122 WEST COOPER</description><Point><coordinates>-90.186754, 35.151649</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/27/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, CRITTENDEN, WEST MEMPHIS, 618 BALFOUR ROAD</description><Point><coordinates>-90.199239, 35.163697</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/17/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, CRITTENDEN, WEST MEMPHIS, 301 NORTH REDDING</description><Point><coordinates>-90.190768, 35.149217</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/16/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, CRITTENDEN, WEST MEMPHIS, 519 SOUTH ROSELAWN DRIVE</description><Point><coordinates>-90.195256, 35.157713</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/18/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, CRITTENDEN, WEST MEMPHIS, 1307 COLONIAL</description><Point><coordinates>-90.212660, 35.160370</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/6/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, CRITTENDEN, WEST MEMPHIS, 65  LALMAN TRAILER PARK</description><Point><coordinates>-90.132306, 35.145593</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/23/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, CRITTENDEN, WEST MEMPHIS, 314  DANNER</description><Point><coordinates>-90.192147, 35.150398</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/24/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, CRITTENDEN, WEST MEMPHIS, 1850  AVALON</description><Point><coordinates>-90.195244, 35.166608</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/6/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, CRITTENDEN, WEST MEMPHIS, 202  DOVER</description><Point><coordinates>-90.188848, 35.161505</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/20/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, CRITTENDEN, WEST MEMPHIS, 2209  JACKSON HEIGHTS</description><Point><coordinates>-90.156922, 35.144487</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/13/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, CRITTENDEN, WEST MEMPHIS, 1201  BROADWATY</description><Point><coordinates>-90.169799, 35.146315</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/5/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, CRITTENDEN, WEST MEMPHIS, 212  BOND</description><Point><coordinates>-90.188807, 35.148007</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/25/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, CRITTENDEN, WEST MEMPHIS, 444  ROSS</description><Point><coordinates>-90.194863, 35.156100</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/9/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, CRITTENDEN, WEST MEMPHIS, 201  GEORGETOWN</description><Point><coordinates>-90.207738, 35.147631</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/14/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, CRITTENDEN, WEST MEMPHIS, 509  AVALON</description><Point><coordinates>-90.193744, 35.139618</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

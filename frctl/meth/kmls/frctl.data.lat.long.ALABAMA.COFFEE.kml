@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, COFFEE, BRANTLEY, 112 348 COUNTY ROAD</description><Point><coordinates>-86.189459, 31.497949</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/10/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, COFFEE, BRUNDIDGE, 6535 COUNTY ROAD 105</description><Point><coordinates>-85.834025, 31.593952</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, COFFEE, ELBA, 1907 COUNTY RD 228 RD</description><Point><coordinates>-86.067724, 31.414611</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/17/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, COFFEE, ELBA, 11010 STATE HWY 125</description><Point><coordinates>-85.951929, 31.524082</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/10/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, COFFEE, ELBA, 681 COUNTY ROAD 401</description><Point><coordinates>-86.054952, 31.390955</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/13/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, COFFEE, ELBA, 445 FOREST HILLS DRIVE</description><Point><coordinates>-86.053016, 31.415099</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/3/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, COFFEE, ELBA, 681 CO RD 401</description><Point><coordinates>-86.054952, 31.390955</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/29/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, COFFEE, ENTERPRISE, 1591 PARK E AVE 114</description><Point><coordinates>-85.818849, 31.305880</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, COFFEE, ENTERPRISE, 8543 COUNTY ROAD 636</description><Point><coordinates>-85.895854, 31.260003</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/11/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, COFFEE, ENTERPRISE, 845 COUNTY ROAD 606</description><Point><coordinates>-85.982280, 31.279780</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/13/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, COFFEE, ENTERPRISE, 442 PAUL ST</description><Point><coordinates>-85.823450, 31.300760</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/15/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, COFFEE, ENTERPRISE, 300 RAVEN STREET</description><Point><coordinates>-85.860704, 31.349420</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/27/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, COFFEE, ENTERPRISE, 587  CO RD 716</description><Point><coordinates>-85.885312, 31.258320</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/21/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, COFFEE, JACK, 1141 COUNTY ROAD 201</description><Point><coordinates>-85.957419, 31.589792</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/7/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, COFFEE, KINSTON, 242 RICHARDSON ST</description><Point><coordinates>-86.170317, 31.223263</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/27/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, COFFEE, KINSTON, 171 PEACHTREE ST</description><Point><coordinates>-86.173622, 31.217866</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, COFFEE, KINSTON, 197 COUNTY ROAD 5 RD</description><Point><coordinates>-86.119253, 31.155644</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/18/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, COFFEE, KINSTON, 7545 HWY 189 S</description><Point><coordinates>-86.136602, 31.311249</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/27/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, COFFEE, NEW BROCKTON, 201 JOHNS S ST</description><Point><coordinates>-85.930250, 31.385146</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/3/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, COFFEE, NEW BROCKTON, 16485 HWY 167 NORTH</description><Point><coordinates>-85.895102, 31.449111</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/31/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, COFFEE, NEW BROCKTON, 1155 COUNTY ROAD 615</description><Point><coordinates>-85.971231, 31.290489</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/7/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, COFFEE, SAMSON, 221 COUNTY RD</description><Point><coordinates>-86.902298, 32.318231</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/10/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, COFFEE, TROY, 33844 NORTH 87 HIGHWAY</description><Point><coordinates>-85.987924, 31.613863</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

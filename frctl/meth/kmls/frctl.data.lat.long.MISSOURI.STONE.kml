@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 8/31/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, STONE, BLUE EYE, 1292 STATE 13 HIGHWAY</description><Point><coordinates>-93.400511, 36.513427</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/8/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, STONE, CAPE FAIR, 8752 HIGHWAY 76 N</description><Point><coordinates>-93.509946, 36.733165</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, STONE, CRANE, 230 A RT 1</description><Point><coordinates>-93.574590, 36.880640</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, STONE, CRANE, 668 CREEKSIDE DR</description><Point><coordinates>-93.390915, 36.936390</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, STONE, GALENA, 71A SMITH AVE</description><Point><coordinates>-93.428881, 36.810940</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/7/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, STONE, GALENA, 60 GLADE N ST</description><Point><coordinates>-93.499014, 36.789113</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/28/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, STONE, GALENA, 90 SCENIC N</description><Point><coordinates>-93.499163, 36.788805</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/23/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, STONE, GALENA, 113 WEST 4TH N</description><Point><coordinates>-93.466812, 36.805432</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/12/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, STONE, HURLEY, 1638 HOLTS SPRING N</description><Point><coordinates>-93.521960, 36.943515</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/15/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, STONE, HURLEY, 105 SIMMS N</description><Point><coordinates>-93.498060, 36.930918</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/23/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, STONE, KIMBERLING CITY, 9755 13 HWY 2</description><Point><coordinates>-93.421953, 36.602464</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/8/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, STONE, KIMBERLING CITY, 10 GOLDEN DRIVE</description><Point><coordinates>-93.416047, 36.642088</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/15/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, STONE, LAMPE, 157 ALLISON BEND N RD</description><Point><coordinates>-93.508884, 36.533195</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/8/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, STONE, REEDS SPRING, 23416 OLD HIGHWAY 160 N</description><Point><coordinates>-93.377964, 36.749783</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/9/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, STONE, REEDS SPRING, 260 WHITE EAGLE N LN</description><Point><coordinates>-93.456320, 36.663246</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/21/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, STONE, REEDS SPRING, 1003 CRAIG STREET</description><Point><coordinates>-93.377792, 36.746488</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/18/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, STONE, REEDS SPRING, 21  YOCUM POND ROAD</description><Point><coordinates>-93.397780, 36.747665</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/20/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, PERRY, DWARF, 815  HWY 550</description><Point><coordinates>-83.165167, 37.302851</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/5/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, PERRY, HAZARD, 515  MULBERRY</description><Point><coordinates>-83.178094, 37.241007</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/11/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, PERRY, HAZARD, 3000  LOST CREEK</description><Point><coordinates>-83.235412, 37.371126</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

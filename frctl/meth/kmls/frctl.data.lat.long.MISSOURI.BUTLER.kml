@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 12/29/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BUTLER, BROSELEY, 6265 HIGHWAY CC</description><Point><coordinates>-90.174264, 36.638520</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/14/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BUTLER, BROSELEY, 850  COUNTY ROAD 620</description><Point><coordinates>-90.315805, 36.751113</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/8/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BUTLER, BROSELEY, 14193  HIGHWAY 51</description><Point><coordinates>-90.265384, 36.628189</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/16/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BUTLER, BROSELEY, 9067  AA HIGHWAY</description><Point><coordinates>-90.290785, 36.691049</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BUTLER, FISK, 104 LINCOLN ST</description><Point><coordinates>-90.207037, 36.779727</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/21/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BUTLER, FISK, 813 HWY FF</description><Point><coordinates>-90.209180, 36.765440</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/6/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BUTLER, HARVIELL, 2534 CR 369</description><Point><coordinates>-90.592253, 36.627393</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/4/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BUTLER, HARVIELL, 1089 COUNTY ROAD 364</description><Point><coordinates>-90.552485, 36.642403</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/5/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BUTLER, POPLAR BLUFF, 1873 NN HWY</description><Point><coordinates>-90.355403, 36.807838</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/16/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BUTLER, POPLAR BLUFF, 284 MERIDIAN LN</description><Point><coordinates>-90.582382, 36.763096</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/7/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BUTLER, POPLAR BLUFF, 1755 COUNTY ROAD 616</description><Point><coordinates>-90.328867, 36.692485</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/9/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BUTLER, POPLAR BLUFF, 346 COUNTY ROAD 564</description><Point><coordinates>-90.329145, 36.786840</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/9/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BUTLER, POPLAR BLUFF, 2564 HWY 142</description><Point><coordinates>-90.410174, 36.696843</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/12/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BUTLER, POPLAR BLUFF, 2493 WEST COUNTY ROAD 572</description><Point><coordinates>-90.281168, 36.846016</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/3/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BUTLER, POPLAR BLUFF, 99 WEST COUNTY ROAD 567</description><Point><coordinates>-90.307696, 36.784302</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/4/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BUTLER, POPLAR BLUFF, 40 EAST MOSEY LANE</description><Point><coordinates>-90.474109, 36.766754</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/23/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BUTLER, POPLAR BLUFF, 618 EAST SOUTH B STREET</description><Point><coordinates>-90.390460, 36.748940</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/10/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BUTLER, POPLAR BLUFF, 3315 WEST JIMMY LANE</description><Point><coordinates>-90.415925, 36.793738</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/19/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BUTLER, POPLAR BLUFF, 1235 GRAND</description><Point><coordinates>-90.390353, 36.767678</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/23/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BUTLER, POPLAR BLUFF, 812 WEST HENDRIX</description><Point><coordinates>-90.400198, 36.775548</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/27/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BUTLER, POPLAR BLUFF, 1003 SOUTH JIMMY LANE</description><Point><coordinates>-90.415984, 36.793667</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/19/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BUTLER, POPLAR BLUFF, 812 HENDRIX</description><Point><coordinates>-90.400198, 36.775548</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/11/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BUTLER, POPLAR BLUFF, 2703 EAST SHADDY LANE</description><Point><coordinates>-90.406814, 36.785161</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/1/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BUTLER, POPLAR BLUFF, 823 WEST HART</description><Point><coordinates>-90.404024, 36.770980</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/14/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BUTLER, POPLAR BLUFF, 1592  COUNTY ROAD 608</description><Point><coordinates>-90.368683, 36.722184</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/6/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BUTLER, POPLAR BLUFF, 1079  HIGHWAY T</description><Point><coordinates>-90.392888, 36.756999</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/13/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BUTLER, POPLAR BLUFF, 2536  COUNTY ROAD 521</description><Point><coordinates>-90.495903, 36.888364</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/12/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BUTLER, POPLAR BLUFF, 829  PARK STREET</description><Point><coordinates>-90.401448, 36.754004</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/18/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BUTLER, POPLAR BLUFF, 1027  COUNTY ROAD 605</description><Point><coordinates>-90.382868, 36.727103</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/5/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BUTLER, POPLAR BLUFF, 704  KINZER STREET</description><Point><coordinates>-90.398750, 36.760062</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/13/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BUTLER, POPLAR BLUFF, 1014  COUNTY RD 605</description><Point><coordinates>-90.382778, 36.726273</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/17/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BUTLER, POPLAR BLUFF, 2064  53 HIGHWAY</description><Point><coordinates>-90.383560, 36.723211</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/2/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BUTLER, POPLAR BLUFF, 705  FOLEY STREET</description><Point><coordinates>-90.397553, 36.772379</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/3/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BUTLER, POPLAR BLUFF, 5705  CEDAR VALLEY DR.</description><Point><coordinates>-90.460122, 36.749466</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/6/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BUTLER, QULIN, 2890 COUNTY ROAD 223</description><Point><coordinates>-90.229860, 36.521405</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/3/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BUTLER, QULIN, 3270 HIGHWAY N</description><Point><coordinates>-90.247325, 36.595891</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/9/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BUTLER, QULIN, 903 EAST SECOND STREET</description><Point><coordinates>-90.247292, 36.597265</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/1/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BUTLER, QULIN, 4018 WEST HIGHWAY N</description><Point><coordinates>-90.247325, 36.595891</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/27/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BUTLER, WILLIAMSVILLE, 180 LAKE CREEK DR</description><Point><coordinates>-90.526746, 36.926103</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, CLACKAMAS, BORING, 19770 SOUTHEAST SUNNYSIDE ROAD</description><Point><coordinates>-122.459587, 45.417813</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/25/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, CLACKAMAS, BORING, 15764 SE 322ND</description><Point><coordinates>-122.331847, 45.410046</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, CLACKAMAS, CLACKAMAS, 65500 E HIGHWAY 26</description><Point><coordinates>-121.746484, 45.095635</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/14/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, CLACKAMAS, CLACKAMAS, 16300 SOUTHEAST 224 HIGHWAY</description><Point><coordinates>-122.541628, 45.407874</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, CLACKAMAS, CLACKAMAS, 11313 SE STEVEN RD</description><Point><coordinates>-122.563856, 45.442176</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/29/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, CLACKAMAS, CLACKAMAS, 918 WEST WILLOW STREET</description><Point><coordinates>-122.551444, 45.411208</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/22/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, CLACKAMAS, CLACKAMAS, 9805 CITADEL SE ST</description><Point><coordinates>-122.562159, 45.408595</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/6/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, CLACKAMAS, CLACKAMAS, 10010 SOUTHEAST BRANDEIS STREET</description><Point><coordinates>-122.560044, 45.408839</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, CLACKAMAS, COLTON, 28387 SOUTH COX ROAD</description><Point><coordinates>-122.364453, 45.195867</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, CLACKAMAS, DAMASCUS, 15550 SE BARLOW CT</description><Point><coordinates>-122.446623, 45.409944</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, CLACKAMAS, MILWAUKIE, 15902 SE RUBY DR</description><Point><coordinates>-122.640613, 45.408956</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, CLACKAMAS, MILWAUKIE, 15710 SE FRANCIS ST</description><Point><coordinates>-122.616237, 45.409591</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, CLACKAMAS, OREGON CITY, 21560 SOUTH 213 HIGHWAY</description><Point><coordinates>-122.562367, 45.294147</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/14/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, CLACKAMAS, OREGON CITY, 13285 FORTUNA CT</description><Point><coordinates>-122.593888, 45.329703</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/29/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, CLACKAMAS, PORTLAND, 9911 SE 82ND AVE</description><Point><coordinates>-122.579353, 45.450732</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, CLACKAMAS, PORTLAND, 11310 SE 82ND AVE</description><Point><coordinates>-122.568519, 45.403961</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/19/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, CLACKAMAS, PORTLAND, 16456 SOUTHEAST SUN AVENUE</description><Point><coordinates>-122.607247, 45.393253</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/31/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, CLACKAMAS, SANDY, 59040 SHINGLE E LN</description><Point><coordinates>-122.056481, 45.382086</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

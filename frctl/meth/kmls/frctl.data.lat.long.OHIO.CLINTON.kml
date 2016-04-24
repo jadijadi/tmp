@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/10/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, CLINTON, BLANCHESTER, 108 PANSY PIKE</description><Point><coordinates>-83.992330, 39.298602</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/27/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, CLINTON, BLANCHESTER, 3569 WOODVILLE RD</description><Point><coordinates>-83.998330, 39.259259</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/5/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, CLINTON, BLANCHESTER, 3228 MARTIN ROAD</description><Point><coordinates>-84.002183, 39.288976</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/5/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, CLINTON, BLANCHESTER, 302 NORTH STREET</description><Point><coordinates>-83.983211, 39.299498</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/22/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, CLINTON, BLANCHESTER, 1432 NORTH STATE ROUTE 133</description><Point><coordinates>-83.986115, 39.310593</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/14/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, CLINTON, BLANCHESTER, 1953 DUDLEY ROAD</description><Point><coordinates>-83.940120, 39.290487</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/7/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, CLINTON, CLARKSVILLE, 2502 CREEK RD</description><Point><coordinates>-83.971290, 39.410515</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/6/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, CLINTON, CLARKSVILLE, 93 SUGARTREE STREET</description><Point><coordinates>-83.980849, 39.399589</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/24/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, CLINTON, MARTINSVILLE, 5883 FARMERS ROAD</description><Point><coordinates>-83.759581, 39.335606</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/1/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, CLINTON, MARTINSVILLE, 5219  JONESBORO ROAD</description><Point><coordinates>-83.831814, 39.299241</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/27/2000</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, CLINTON, MIDLAND, 101 VINE ST</description><Point><coordinates>-83.908013, 39.281550</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/7/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, CLINTON, MIDLAND, 122 STATE ROUTE 28</description><Point><coordinates>-83.909742, 39.310061</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/6/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, CLINTON, MIDLAND, 2468 WEST ST RT 28</description><Point><coordinates>-83.865043, 39.319686</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/1/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, CLINTON, PORT WILLIAM, 330 WALNUT STREET</description><Point><coordinates>-83.782388, 39.552955</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/1/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, CLINTON, SABINA, 7161 STATE ROUTE 729</description><Point><coordinates>-83.649481, 39.420387</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/13/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, CLINTON, WILMINGTON, 2252 BRIMSTONE RD</description><Point><coordinates>-83.957885, 39.507486</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, CLINTON, WILMINGTON, 267 COLUMBUS ST</description><Point><coordinates>-83.823715, 39.447485</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/3/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, CLINTON, WILMINGTON, 113 FAIRLAND AVENUE</description><Point><coordinates>-83.825814, 39.457536</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/2/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, CLINTON, WILMINGTON, 961 HIGGINS STREET</description><Point><coordinates>-83.814857, 39.449774</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/15/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, CLINTON, WILMINGTON, 695 FIFE AVENUE</description><Point><coordinates>-83.816656, 39.445785</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/17/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, CLINTON, WILMINGTON, 530 VINE STREET</description><Point><coordinates>-83.837560, 39.451100</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/7/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, CLINTON, WILMINGTON, 35 JODIE LANE G</description><Point><coordinates>-83.833693, 39.428932</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/10/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, CLINTON, WILMINGTON, 6320 SOUTH US 68</description><Point><coordinates>-83.866788, 39.365267</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/5/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, CLINTON, WILMINGTON, 41  FAIRLAND AVENUE</description><Point><coordinates>-83.827086, 39.457413</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/3/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, CLINTON, WILMINGTON, 711 WEST LOCUST STREET 1B</description><Point><coordinates>-83.840995, 39.447851</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/3/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, CLINTON, WILMINGTON, 247  DEHAN RD/MULBERRY ST ROAD</description><Point><coordinates>-83.744932, 39.407809</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/2/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, CLINTON, WILMINGTON, 291 W MAIN STREET BOX C</description><Point><coordinates>-83.833680, 39.445711</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

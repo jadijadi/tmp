@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, JACKSON, CHEROKEE, 355 DOBSON RIDGE RD</description><Point><coordinates>-83.236389, 35.503887</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/29/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, JACKSON, MURPHY, 2545 SHOAL CREEK</description><Point><coordinates>-79.019300, 35.759573</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, JACKSON, SYLVA, 10 POPLAR DR</description><Point><coordinates>-83.209337, 35.377846</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/21/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, JACKSON, SYLVA, 458 DANDELION DR</description><Point><coordinates>-83.152737, 35.400297</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, JACKSON, SYLVA, 1272 MOCKINGBIRD LN</description><Point><coordinates>-83.243544, 35.354890</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/29/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, JACKSON, SYLVA, 55  MOLASSES MOUNTAIN ROAD</description><Point><coordinates>-83.283981, 35.328540</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/23/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, JACKSON, TUCKASEGEE, 88 CRANE RD</description><Point><coordinates>-83.122793, 35.259713</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/26/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, JACKSON, WHITTIER, 333  LAZY LANE</description><Point><coordinates>-83.301293, 35.363705</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/8/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, JACKSON, WHITTIER, 120  LEWIS COVE ROAD</description><Point><coordinates>-83.342504, 35.414641</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

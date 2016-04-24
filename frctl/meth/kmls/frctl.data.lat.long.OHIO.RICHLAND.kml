@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 10/4/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, RICHLAND, MANSFIELD, 460.5 NORTH STEWART ROAD</description><Point><coordinates>-82.474634, 40.768941</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/1/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, RICHLAND, MANSFIELD, 173  GORDON PLACE   BOX 1/2</description><Point><coordinates>-82.508530, 40.767865</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/10/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, RICHLAND, MANSFIELD, 185 S FRANKLIN STREET</description><Point><coordinates>-82.513240, 40.753287</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/19/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, RICHLAND, MANSFIELD, 479  WAYNE STREET</description><Point><coordinates>-82.507029, 40.771179</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

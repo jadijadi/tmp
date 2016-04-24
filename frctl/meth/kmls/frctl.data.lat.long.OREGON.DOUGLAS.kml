@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/12/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, DOUGLAS, GARDINER, 77143 HIGHWAY 101</description><Point><coordinates>-124.110350, 43.726898</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, DOUGLAS, ROSEBURG, 5793 NE STEPHENS 6</description><Point><coordinates>-123.354214, 43.281776</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/1/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, DOUGLAS, ROSEBURG, 5030 MELODY LN</description><Point><coordinates>-123.390868, 43.141667</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/30/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, DOUGLAS, SUTHERLIN, 213 NW KRUSE STREET</description><Point><coordinates>-123.329882, 43.388211</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/3/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, DOUGLAS, WINSTON, 731 BLOSSOM CREEK RD</description><Point><coordinates>-123.459909, 43.023496</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/10/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, FRANKLIN, HALEYVILLE, 987 92 HIGHWAY</description><Point><coordinates>-87.531413, 34.337165</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/24/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, FRANKLIN, HODGES, 7929 HWY 172</description><Point><coordinates>-87.994000, 34.356337</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/15/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, FRANKLIN, HODGES, 3103  172 HIGHWAY 1</description><Point><coordinates>-87.942845, 34.343345</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/26/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, FRANKLIN, HODGES, 2504  SUNSET ROAD</description><Point><coordinates>-87.960817, 34.333244</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/25/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, FRANKLIN, PHIL CAMPBELL, 194 BLACK CHURCH ROAD</description><Point><coordinates>-85.802456, 32.478471</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/22/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, FRANKLIN, PHIL CAMPBELL, 1114 BAKER ROAD</description><Point><coordinates>-87.645995, 34.431202</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/25/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, FRANKLIN, PHIL CAMPBELL, 4274 20 HIGHWAY</description><Point><coordinates>-87.697920, 34.391843</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/6/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, FRANKLIN, RED BAY, 338 GARRISON HOLLOW RD</description><Point><coordinates>-88.085989, 34.466830</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/1/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, FRANKLIN, RUSSELLVILLE, 5443 COUNTY LINE RD</description><Point><coordinates>-87.527262, 34.570216</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/28/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, FRANKLIN, RUSSELLVILLE, 10331 SOUTH 43 HIGHWAY</description><Point><coordinates>-87.716044, 34.526728</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/28/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, FRANKLIN, RUSSELLVILLE, 100 TOWN AND COUNTRY LOT F-6</description><Point><coordinates>-87.713636, 34.481698</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/11/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, FRANKLIN, RUSSELLVILLE, 305 OLIVE STREET</description><Point><coordinates>-87.724258, 34.511024</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/19/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, FRANKLIN, RUSSELLVILLE, 47  PORTER ROAD</description><Point><coordinates>-87.759320, 34.454680</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/7/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, FRANKLIN, RUSSELLVILLE, 204  RICHESON STREET</description><Point><coordinates>-87.727799, 34.515555</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/21/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, FRANKLIN, RUSSELLVILLE, 1730 NORTH SOCKWELL AVENUE</description><Point><coordinates>-87.724313, 34.513003</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/1/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, FRANKLIN, VINA, 507 BARKER ROAD</description><Point><coordinates>-88.035576, 34.359960</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/14/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, FRANKLIN, VINA, 8036 19 HIGHWAY</description><Point><coordinates>-88.045293, 34.369636</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/14/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, FRANKLIN, VINA, 2123 CO HWY 9</description><Point><coordinates>-88.066997, 34.413143</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/25/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, FRANKLIN, VINA, 391 BARKER ROAD</description><Point><coordinates>-88.029440, 34.357655</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/11/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, FRANKLIN, VINA, 516 224 HIGHWAY</description><Point><coordinates>-88.015898, 34.452452</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

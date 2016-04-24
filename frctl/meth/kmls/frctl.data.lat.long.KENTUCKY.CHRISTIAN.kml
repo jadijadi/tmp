@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/23/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, CHRISTIAN, CROFTON, 5705 OLD MADISONVILLE RD</description><Point><coordinates>-87.480606, 36.987658</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/23/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, CHRISTIAN, CROFTON, 75561 OLD PALESTINE RD</description><Point><coordinates>-87.542980, 37.010541</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/6/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, CHRISTIAN, CROFTON, 1850 NORTH LEWIS HILL ROAD</description><Point><coordinates>-87.474185, 37.064574</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/31/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, CHRISTIAN, CROFTON, 2161 MANNINGTON LOOP</description><Point><coordinates>-87.492183, 37.115359</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/28/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, CHRISTIAN, HOPKINSVILLE, 314 ELTON DR</description><Point><coordinates>-87.488792, 36.850731</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/23/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, CHRISTIAN, HOPKINSVILLE, 2150 GREENVILLE ROAD</description><Point><coordinates>-87.463421, 36.874280</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/24/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, CHRISTIAN, HOPKINSVILLE, 1143 MAIN N ST</description><Point><coordinates>-87.480878, 36.891713</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/4/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, CHRISTIAN, HOPKINSVILLE, 2340 QUAIL CLUB ROAD</description><Point><coordinates>-87.428327, 36.882181</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/8/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, CHRISTIAN, NORTONVILLE, 1701 MANNINGTON LOOP ROAD</description><Point><coordinates>-87.492037, 37.115563</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/20/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, CHRISTIAN, OAK GROVE, 250 EAST ARKANSAS AVENUE</description><Point><coordinates>-87.411408, 36.667874</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, CHRISTIAN, PEMBROKE, 555 BEEKER RD</description><Point><coordinates>-87.321091, 36.840970</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

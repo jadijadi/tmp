@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/17/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, WINSTON, HALEYVILLE, 12527 POUNDERS</description><Point><coordinates>-87.598780, 34.234093</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/9/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, WINSTON, HALEYVILLE, 2400 14TH AVENUE</description><Point><coordinates>-87.616571, 34.231110</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/8/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, WINSTON, HALEYVILLE, 1330 22ND STREET</description><Point><coordinates>-87.618380, 34.228602</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/11/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, WINSTON, HALEYVILLE, 524 21ST STREET</description><Point><coordinates>-87.626064, 34.227933</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/11/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, WINSTON, HALEYVILLE, 710  5TH AVENUE</description><Point><coordinates>-87.633058, 34.211856</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/30/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, WINSTON, HALEYVILLE, 710  5TH AVENUE</description><Point><coordinates>-87.633058, 34.211856</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at </name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, WINSTON, HALEYVILLE, 2240  HOGGA RIDGE ROAD</description><Point><coordinates>-87.621413, 34.226488</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

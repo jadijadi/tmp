@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/30/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BUCHANAN, FAUCETT, 14578 SOUTHEAST 43RD ROAD</description><Point><coordinates>-94.791182, 39.595768</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/19/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BUCHANAN, SAINT JOSEPH, 1211 JOSEPH W</description><Point><coordinates>-94.878514, 39.705192</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/2/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BUCHANAN, SAINT JOSEPH, 2614 13TH S ST</description><Point><coordinates>-94.844824, 39.741264</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/7/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BUCHANAN, SAINT JOSEPH, 3124 ANNA ROAD</description><Point><coordinates>-94.816552, 39.725131</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/11/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BUCHANAN, SAINT JOSEPH, 140 COUNTRYSIDE LANE</description><Point><coordinates>-94.829024, 39.732950</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/15/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BUCHANAN, SAINT JOSEPH, 211 NORTH 21ST STREET</description><Point><coordinates>-94.834754, 39.767782</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/6/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BUCHANAN, SAINT JOSEPH, 531 NORTH 24TH</description><Point><coordinates>-94.831257, 39.771316</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/28/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BUCHANAN, SAINT JOSEPH, 218 WEST ROSINE</description><Point><coordinates>-94.861684, 39.776719</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/25/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BUCHANAN, SAINT JOSEPH, 809 NORTH 25TH</description><Point><coordinates>-94.830348, 39.774501</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/23/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BUCHANAN, SAINT JOSEPH, 2208 SOUTH 12TH</description><Point><coordinates>-94.845600, 39.746575</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/2/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BUCHANAN, SAINT JOSEPH, 2602 OLIVE</description><Point><coordinates>-94.829124, 39.758739</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/20/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BUCHANAN, SAINT JOSEPH, 711 NORTH 22ND STREET 208</description><Point><coordinates>-94.833835, 39.773347</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/2/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BUCHANAN, SAINT JOSEPH, 718  MASON</description><Point><coordinates>-94.850533, 39.711736</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/6/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BUCHANAN, SAINT JOSEPH, 2018  JAMESPORT</description><Point><coordinates>-94.886900, 39.714680</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

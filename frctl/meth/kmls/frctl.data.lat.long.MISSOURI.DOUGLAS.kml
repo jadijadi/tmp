@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/1/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, DOUGLAS, AVA, 728 5 RT</description><Point><coordinates>-92.660480, 36.947507</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/1/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, DOUGLAS, AVA, 1 RT 3544</description><Point><coordinates>-92.336217, 38.952724</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/17/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, DOUGLAS, AVA, 59 3 RT</description><Point><coordinates>-92.672021, 36.953891</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, DOUGLAS, AVA, 337A 1 RT</description><Point><coordinates>-92.660446, 36.951999</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/31/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, DOUGLAS, AVA, 402 4TH NW ST</description><Point><coordinates>-92.662646, 36.955458</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

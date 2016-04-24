@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 12/9/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, CLINTON, ALTONA, 4962  STATE ROUTE 190</description><Point><coordinates>-73.674535, 44.860571</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/9/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, CLINTON, ALTONA, 1867  ALDER BEND ROAD</description><Point><coordinates>-73.708690, 44.897737</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/5/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, CLINTON, AUSABLE CHASM, 395  HARKNESS ROAD</description><Point><coordinates>-73.550140, 44.505310</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/16/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, CLINTON, CHAZY, 9608 ROUTE 9</description><Point><coordinates>-73.939317, 41.798722</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/3/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, CLINTON, CHAZY, 7415  STATE ROUTE 22</description><Point><coordinates>-73.496968, 44.803499</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/7/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, CLINTON, MOOERS, 131  BASHAW ROAD</description><Point><coordinates>-73.586784, 44.935994</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/25/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, CLINTON, PERU, 308  ALLEN HILL ROAD</description><Point><coordinates>-73.596194, 44.510318</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/19/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, CLINTON, PLATTSBURGH, 460 MARGARET STR.,  APT. 203</description><Point><coordinates>-73.442903, 44.716535</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/10/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, CLINTON, PLATTSBURGH, 72  SPELLMAN ROAD</description><Point><coordinates>-73.433686, 44.782021</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/17/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, CLINTON, PLATTSBURGH, 10 ELEANOR WAY</description><Point><coordinates>-73.448647, 44.695557</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/10/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, CLINTON, PLATTSBURGH, 6  FIRST STREET</description><Point><coordinates>-73.508296, 44.720021</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/7/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, CLINTON, PLATTSBURGH, 4009  STATE ROUTE 22</description><Point><coordinates>-73.488157, 44.640610</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

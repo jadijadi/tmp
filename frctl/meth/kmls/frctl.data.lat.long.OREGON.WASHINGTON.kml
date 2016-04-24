@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 10/27/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, WASHINGTON, ALOHA, 2795 187TH SW AVE</description><Point><coordinates>-122.870468, 45.499565</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/8/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, WASHINGTON, ALOHA, 7315 SW 189TH AVE</description><Point><coordinates>-122.871903, 45.466943</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/10/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, WASHINGTON, ALOHA, 2064 LEEWOOD SW LN</description><Point><coordinates>-122.888429, 45.504636</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, WASHINGTON, BEAVERTON, 4770 SOUTHWEST 165TH AVENUE</description><Point><coordinates>-122.846433, 45.485404</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, WASHINGTON, BEAVERTON, 24310 SW ROSEDALE RD</description><Point><coordinates>-122.928515, 45.468468</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, WASHINGTON, BEAVERTON, 24422 SW ROSEDALE RD</description><Point><coordinates>-122.928204, 45.469287</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/8/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, WASHINGTON, BEAVERTON, 12690 SOUTHWEST DAPHNE COURT</description><Point><coordinates>-122.807017, 45.514949</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/7/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, WASHINGTON, BEAVERTON, 17740 SCHOLLS FERRY RD</description><Point><coordinates>-122.859013, 45.423160</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/13/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, WASHINGTON, BEAVERTON, 6155 SW KING</description><Point><coordinates>-122.794415, 45.475569</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/23/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, WASHINGTON, FOREST GROVE, 2738 19TH PLACE</description><Point><coordinates>-123.097606, 45.519287</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, WASHINGTON, HILLSBORO, 13115 SW EVERGREEN ST</description><Point><coordinates>-122.811410, 45.515897</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, WASHINGTON, HILLSBORO, 125 NW CONNELL AVE</description><Point><coordinates>-122.994298, 45.523156</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, WASHINGTON, HILLSBORO, 1375 NE ALEX WAY</description><Point><coordinates>-122.967176, 45.544274</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, WASHINGTON, HILLSBORO, 562 25TH NE CT</description><Point><coordinates>-122.957614, 45.527467</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/26/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, WASHINGTON, HILLSBORO, 1630 SE DUKE DRIVE</description><Point><coordinates>-122.968544, 45.505949</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/26/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, WASHINGTON, LAKE OSWEGO, 16231 SW PARKER RD</description><Point><coordinates>-122.738187, 45.408726</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/15/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, WASHINGTON, NORTH PLAINS, 39000 NORTHWEST SHERMANS MILL ROA</description><Point><coordinates>-123.083341, 45.729397</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/27/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, WASHINGTON, PORTLAND, 8255 SOUTHWEST DURHAM ROAD</description><Point><coordinates>-122.762146, 45.404545</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/21/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, WASHINGTON, PORTLAND, 14843 NORTHWEST HUNTERS DRIVE</description><Point><coordinates>-122.829686, 45.534920</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, WASHINGTON, TIGARD, 11583 (A) SW 135TH 18</description><Point><coordinates>-122.815827, 45.436251</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/27/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, WASHINGTON, TIGARD, 9870 SW FREWING ST</description><Point><coordinates>-122.778481, 45.424808</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

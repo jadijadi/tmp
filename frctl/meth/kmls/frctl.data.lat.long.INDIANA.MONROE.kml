@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MONROE, BLOOMINGTON, 611 MILLER DR A</description><Point><coordinates>-86.525857, 39.147017</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MONROE, BLOOMINGTON, 7122 LODGE S RD</description><Point><coordinates>-86.590815, 39.070319</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MONROE, BLOOMINGTON, 3740 WOODYARD W 8</description><Point><coordinates>-86.571395, 39.186806</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/31/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MONROE, BLOOMINGTON, 1218 MADISON N ST</description><Point><coordinates>-86.537385, 39.178254</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/9/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MONROE, BLOOMINGTON, 211 KIMBLE S DR B-15</description><Point><coordinates>-86.567282, 39.165416</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/30/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MONROE, BLOOMINGTON, 2911 LEONARD SPRINGS ROAD</description><Point><coordinates>-86.582591, 39.134925</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/26/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MONROE, BLOOMINGTON, 1524 NORTH SEWELL ROAD</description><Point><coordinates>-86.372697, 39.178249</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/20/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MONROE, BLOOMINGTON, 1030 NORTH OARD ROAD</description><Point><coordinates>-86.617467, 39.171993</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/3/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MONROE, BLOOMINGTON, 5415  FAIRFAX ROAD</description><Point><coordinates>-86.518115, 39.102014</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/23/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MONROE, BLOOMINGTON, 7255  VICTOR PIKE</description><Point><coordinates>-86.571869, 39.073218</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/30/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MONROE, BLOOMINGTON, 1702 EAST 8TH STREET</description><Point><coordinates>-86.507167, 39.169489</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/18/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MONROE, BLOOMINGTON, 1142 EAST POPCORN ROAD</description><Point><coordinates>-86.549976, 39.012141</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/5/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MONROE, BLOOMINGTON, 3237  ACADIA COURT</description><Point><coordinates>-86.519611, 39.134316</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/11/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MONROE, BLOOMINGTON, 1500 EAST KIRKWOOD AVENUE</description><Point><coordinates>-86.526934, 39.166533</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/2/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MONROE, BLOOMINGTON, 900 NORTH CURRY PIKE 20</description><Point><coordinates>-86.583028, 39.176656</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/7/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MONROE, BLOOMINGTON, 900  N CURRY PIKE 6</description><Point><coordinates>-86.583028, 39.176656</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/9/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MONROE, BLOOMINGTON, 5665  E STATE ROAD 46 56</description><Point><coordinates>-86.609848, 39.223718</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/23/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MONROE, BLOOMINGTON, 1021 NORTH 14TH STREET</description><Point><coordinates>-86.545985, 39.175586</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/28/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MONROE, BLOOMINGTON, 15TH STREET</description><Point><coordinates>-86.551705, 39.176647</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/28/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MONROE, BLOOMINGTON, 4574 EAST WOODLAND DRIVE D</description><Point><coordinates>-86.592023, 39.208087</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/11/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MONROE, BLOOMINGTON, 612  SKYLINE DRIVE</description><Point><coordinates>-86.540165, 39.189489</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/26/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MONROE, BLOOMINGTON, 5101  MADISON STREET</description><Point><coordinates>-86.537357, 39.110163</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/27/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MONROE, BLOOMINGTON, 1645 EAST RAYLETOWN ROAD</description><Point><coordinates>-86.512742, 39.093172</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/12/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MONROE, BLOOMINGTON, 1740 NORTH GARRISON CHAPEL ROAD</description><Point><coordinates>-86.642962, 39.148821</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/18/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MONROE, BLOOMINGTON, 513 EAST DAVIS  15</description><Point><coordinates>-86.528014, 39.154196</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/26/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MONROE, BLOOMINGTON, 1460 NORTH ARLINGTON PARK DRIVE</description><Point><coordinates>-86.554077, 39.179768</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/6/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MONROE, BLOOMINGTON, 2431 NORTH BRYAN STREET</description><Point><coordinates>-86.536234, 39.139706</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/12/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MONROE, BLOOMINGTON, 222 EAST 2ND STREET APT 2</description><Point><coordinates>-86.531667, 39.161356</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/3/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MONROE, BLOOMINGTON, 2601  KENDALL DRIVE</description><Point><coordinates>-86.535319, 39.138280</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/30/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MONROE, BLOOMINGTON, 4152  RAMP CREEK ROAD</description><Point><coordinates>-86.475616, 39.078006</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/1/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MONROE, BLOOMINGTON, 2398  WINSLOW COURT</description><Point><coordinates>-86.524200, 39.137336</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/16/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MONROE, ELLETTSVILLE, 6587 WEST WOODLAND ROAD</description><Point><coordinates>-86.623296, 39.283751</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/13/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MONROE, ELLETTSVILLE, 715  E ASSOCIATION STREET 1</description><Point><coordinates>-86.627148, 39.233920</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/11/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, HENRY, CALHOUN, 930 NORTHEAST 701 ROAD</description><Point><coordinates>-93.623489, 38.491301</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/24/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, HENRY, CALHOUN, 202 EAST FIFTH</description><Point><coordinates>-93.624011, 38.466359</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/23/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, HENRY, CALHOUN, 207 SOUTH MAPLE</description><Point><coordinates>-93.626413, 38.466383</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, HENRY, CLINTON, 112 ALLEN W</description><Point><coordinates>-93.777292, 38.363194</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/21/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, HENRY, CLINTON, 253 YY NE RT</description><Point><coordinates>-93.707814, 38.401531</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/17/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, HENRY, CLINTON, 711 CARTER S</description><Point><coordinates>-93.782960, 38.362706</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/14/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, HENRY, CLINTON, 305 WASHINGTON</description><Point><coordinates>-93.777871, 38.374329</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, HENRY, CLINTON, 308 OHIO E</description><Point><coordinates>-93.771522, 38.366711</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, HENRY, CLINTON, 108 HENRY W ST D</description><Point><coordinates>-93.776631, 38.362280</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/27/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, HENRY, CLINTON, 1505 2ND N ST 38</description><Point><coordinates>-93.772085, 38.387541</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/11/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, HENRY, CLINTON, 203 ORCHARD N ST 2</description><Point><coordinates>-93.780977, 38.372357</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/16/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, HENRY, CLINTON, 305 WASHINGTON N</description><Point><coordinates>-93.777871, 38.374329</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/3/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, HENRY, CLINTON, 1104 HUDSON S ST</description><Point><coordinates>-93.785500, 38.358321</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/27/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, HENRY, CLINTON, 451 51 SW RD</description><Point><coordinates>-93.756080, 38.435139</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/30/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, HENRY, CLINTON, 780 SOUTHEAST 250</description><Point><coordinates>-93.615168, 38.325944</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/7/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, HENRY, CLINTON, 477 SOUTHEAST 1151 ROAD</description><Point><coordinates>-93.547403, 38.291699</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/26/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, HENRY, CLINTON, 765 SOUTHEAST 250</description><Point><coordinates>-93.617495, 38.326041</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/13/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, HENRY, CLINTON, 497 SOUTHEAST 600</description><Point><coordinates>-93.667970, 38.276638</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/23/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, HENRY, CLINTON, 603 SOUTH CARTER</description><Point><coordinates>-93.783059, 38.364366</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/3/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, HENRY, CLINTON, 141 NORTHWEST 251</description><Point><coordinates>-93.803857, 38.386380</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/5/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, HENRY, COAL, 780 250 SE RD</description><Point><coordinates>-91.831833, 37.964253</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/1/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, HENRY, URICH, 507 EAST 4TH</description><Point><coordinates>-93.996358, 38.459353</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/14/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, HENRY, URICH, 1371 NORTHWEST 750</description><Point><coordinates>-94.012197, 38.472013</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, HENRY, WINDSOR, 1260 651 NE RD</description><Point><coordinates>-93.629202, 38.539275</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/13/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, HENRY, WINDSOR, 831 1000 NE RD</description><Point><coordinates>-93.601936, 38.500341</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, HENRY, WINDSOR, 1208 651 NE RD</description><Point><coordinates>-93.628963, 38.531409</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/8/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, HENRY, WINDSOR, 200 SOUTH COMMERCIAL</description><Point><coordinates>-93.525519, 38.533611</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

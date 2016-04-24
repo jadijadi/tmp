@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 8/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, LOGAN, AUBURN, 1288 RIVER RD</description><Point><coordinates>-86.682462, 36.978662</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, LOGAN, AUBURN, 3274 DENNIS CORNITH RD</description><Point><coordinates>-86.788217, 36.830894</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, LOGAN, AUBURN, 1087 RIVER RD</description><Point><coordinates>-86.682549, 36.979196</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/21/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, LOGAN, AUBURN, 413 MONTGOMERY ROAD</description><Point><coordinates>-86.744506, 36.833673</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/15/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, LOGAN, LEWISBURG, 2098 HOLLAND RD</description><Point><coordinates>-87.054296, 36.904955</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/19/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, LOGAN, LEWISBURG, 189 INDUSTRIAL E DR</description><Point><coordinates>-86.951459, 36.991462</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/1/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, LOGAN, LEWISBURG, 201 DUNMORE DEERLICK ROAD</description><Point><coordinates>-87.034764, 37.016307</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/20/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, LOGAN, LEWISBURG, 107 BUMPAW ROAD</description><Point><coordinates>-87.052145, 36.934606</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, LOGAN, RUSSELLVILLE, STUART SMOTHERMAN RD 1305</description><Point><coordinates>-86.926846, 36.876233</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/14/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, LOGAN, RUSSELLVILLE, 207 EAST LINCOLN STREET</description><Point><coordinates>-86.871403, 36.852133</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/24/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, LOGAN, RUSSELLVILLE, 9175 FRANKLIN ROAD</description><Point><coordinates>-86.797779, 36.789478</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/6/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, LOGAN, RUSSELLVILLE, 1064  BUCKSVILLE ROAD</description><Point><coordinates>-86.702367, 36.992596</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/9/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, LOGAN, RUSSELLVILLE, EMERSON BYPASS RD/KY-3233</description><Point><coordinates>-86.911172, 36.835022</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

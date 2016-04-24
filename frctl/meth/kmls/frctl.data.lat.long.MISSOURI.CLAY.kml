@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 9/17/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CLAY, AVONDALE, 2601 WAPLES N AVE</description><Point><coordinates>-94.549265, 39.157713</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CLAY, CLAYCOMO, 100 LONGFELLOW RD</description><Point><coordinates>-94.506932, 39.202377</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/29/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CLAY, GLADSTONE, 212 NORTHEAST 64TH STREET 101</description><Point><coordinates>-94.577436, 39.210133</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/1/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CLAY, KANSAS CITY, 4103 WINN NE ROAD</description><Point><coordinates>-94.531470, 39.168415</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CLAY, KANSAS CITY, 8917 CAMPBELL N ST</description><Point><coordinates>-94.568780, 39.256196</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/14/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CLAY, KANSAS CITY, 1600 PARVIN NE 211/213</description><Point><coordinates>-94.560129, 39.167345</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/7/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CLAY, KANSAS CITY, 6280 NORTHEAST PENNSYLVANIA A</description><Point><coordinates>-94.588260, 39.207505</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/17/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CLAY, KANSAS CITY, 3818 NORTH CHAUMIERE AVENUE</description><Point><coordinates>-94.542179, 39.164069</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/27/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CLAY, KANSAS CITY, 5611 NORTHEAST 50TH TERRACE</description><Point><coordinates>-94.531997, 39.185770</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/4/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CLAY, KANSAS CITY, 5224 NORTH BRIGHTON PLACE</description><Point><coordinates>-94.518263, 39.187544</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/21/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CLAY, KANSAS CITY, 504 NORTHWEST 71ST STREET</description><Point><coordinates>-94.587259, 39.222699</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/28/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CLAY, LIBERTY, 1508 LAKE ROAD</description><Point><coordinates>-94.440951, 39.265602</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/18/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CLAY, NORTH KANSAS CITY, 1000 EAST 24 AVENUE</description><Point><coordinates>-94.569945, 39.146725</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/9/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CLAY, SMITHVILLE, 14922  KELLY DRIVE</description><Point><coordinates>-94.581569, 39.364922</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

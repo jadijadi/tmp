@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 8/3/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, BALDWIN, BAY MINETTE, 15877 WEST PINE GROVE ROAD UNIT 6</description><Point><coordinates>-87.753084, 30.816250</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, BALDWIN, DAPHNE, 500 GRANT ST D213</description><Point><coordinates>-87.910837, 30.646478</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/27/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, BALDWIN, FOLEY, 126 COUNTY ROAD 20 W 206</description><Point><coordinates>-87.694000, 30.370226</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/4/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, BALDWIN, FOLEY, 15820 BEASLEY ROAD</description><Point><coordinates>-87.753665, 30.413510</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/2/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, BALDWIN, FOLEY, 15326  SHERMAN LANE</description><Point><coordinates>-87.761438, 30.365406</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/14/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, BALDWIN, GULF SHORES, 2151 MEEKER LN</description><Point><coordinates>-87.753375, 30.255651</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/22/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, BALDWIN, GULF SHORES, 336a EAST 3RD ST A</description><Point><coordinates>-87.681232, 30.250304</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/24/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, BALDWIN, GULF SHORES, 216 EAST 24TH AVENUE 11</description><Point><coordinates>-87.686091, 30.277990</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, BALDWIN, LILLIAN, 9525 COUNTY 91 RD</description><Point><coordinates>-87.480628, 30.362337</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, BALDWIN, PERDIDO, 56631 SPLINTER HILL RD</description><Point><coordinates>-87.649720, 31.045455</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/21/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, BALDWIN, ROBERTSDALE, 22031  COUNTY 87 ROAD 3</description><Point><coordinates>-87.585093, 30.546190</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/13/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, BALDWIN, SEMINOLE, 19815 SEMINOLE DR</description><Point><coordinates>-87.477363, 30.513968</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, BALDWIN, STOCKTON, 9700 HELTON RD</description><Point><coordinates>-87.857339, 31.009963</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/1/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, BALDWIN, SUMMERDALE, 17761 COUNTY ROAD 28 RD C</description><Point><coordinates>-87.666383, 30.458000</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

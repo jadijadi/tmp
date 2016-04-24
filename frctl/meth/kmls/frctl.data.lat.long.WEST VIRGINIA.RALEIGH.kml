@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/6/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WEST VIRGINIA, RALEIGH, CRAB ORCHARD, 106 EATON ST</description><Point><coordinates>-81.233886, 37.736609</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/16/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WEST VIRGINIA, RALEIGH, GLEN MORGAN, 353 RITTER DR</description><Point><coordinates>-81.149822, 37.754884</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/17/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WEST VIRGINIA, RALEIGH, MIDWAY, 225 1/2 BRAMMER ST</description><Point><coordinates>-81.240251, 37.717631</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/4/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, RIPLEY, HOLTON, 3727 WEST CR 250 S ROAD</description><Point><coordinates>-85.335939, 39.038349</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/11/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, RIPLEY, MILAN, 2264 FRIENDSHIP S RD</description><Point><coordinates>-85.162867, 39.045428</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/10/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, RIPLEY, MILAN, 3908 NORTH DELEWARE ROAD</description><Point><coordinates>-85.208911, 39.128818</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/19/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, RIPLEY, OSGOOD, 2547 EAST SR 350</description><Point><coordinates>-85.214638, 39.146677</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, RIPLEY, SUNMAN, 224 WESTERN AVE LOT 5</description><Point><coordinates>-85.098884, 39.236950</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/30/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, RIPLEY, VERSAILLES, 5334 SOUTH CR 400 W</description><Point><coordinates>-85.333705, 38.996692</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

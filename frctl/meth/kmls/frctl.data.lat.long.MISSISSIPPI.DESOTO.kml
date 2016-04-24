@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, DESOTO, EUDORA, 1147 HWY 301</description><Point><coordinates>-89.398528, 32.354668</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/8/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, DESOTO, HERNANDO, 2101  SEQUOAYAH</description><Point><coordinates>-90.187191, 34.828545</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/8/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, DESOTO, HERNANDO, 2101  SEQUOAYAH</description><Point><coordinates>-90.187191, 34.828545</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/4/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, DESOTO, HERNANDO, 1444  TANYARD ROAD</description><Point><coordinates>-90.180248, 34.839110</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/28/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, DESOTO, HERNANDO, 2323  MCINGVALE  1210</description><Point><coordinates>-89.972101, 34.825812</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/2/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, DESOTO, HORN LAKE, 801  DESOTO COVE</description><Point><coordinates>-90.001646, 34.966968</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/19/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, DESOTO, HORN LAKE, 4028  GOODMAN ROAD</description><Point><coordinates>-90.061822, 34.962681</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/17/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, DESOTO, HORN LAKE, 5496  ADAMS CIRCLE</description><Point><coordinates>-90.087490, 34.946951</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/7/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, DESOTO, HORN LAKE, 7136  HIGHWAY 301  37</description><Point><coordinates>-90.093153, 34.964463</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/2/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, DESOTO, HORN LAKE, 7136  HIGHWAY 301  UNIT 37</description><Point><coordinates>-90.093153, 34.964463</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/4/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, DESOTO, NESBIT, 981  NESBIT ROAD</description><Point><coordinates>-90.007090, 34.882146</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/25/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, DESOTO, OLIVE BRANCH, 9135 BYHALIA RD</description><Point><coordinates>-89.829909, 34.861574</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/16/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, DESOTO, OLIVE BRANCH, 10379  OAK LEAF DRIVE</description><Point><coordinates>-89.806248, 34.952981</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/14/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, DESOTO, OLIVE BRANCH, 9476  CHEROKEE DRIVE</description><Point><coordinates>-89.819380, 34.953933</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, DESOTO, SOUTHAVEN, 841 TOWN & COUNTRY DR</description><Point><coordinates>-90.002296, 34.991859</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/12/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, DESOTO, WALLS, 7480 161 HIGHWAY</description><Point><coordinates>-90.145457, 34.968924</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

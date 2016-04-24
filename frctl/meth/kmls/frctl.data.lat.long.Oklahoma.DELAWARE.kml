@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 9/29/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, DELAWARE, BERNICE, 206  SKYLINE</description><Point><coordinates>-94.915582, 36.626910</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/19/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, DELAWARE, COLCORD, 362  SERENITY DRIVE</description><Point><coordinates>-94.693001, 36.264249</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/5/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, DELAWARE, EUCHA, 181  MOBILE VISTA DRIVE</description><Point><coordinates>-94.917701, 36.474143</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/13/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, DELAWARE, GROVE, 1531 80TH  ST</description><Point><coordinates>-94.809941, 36.618290</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/12/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, DELAWARE, GROVE, 60950 360 E RD</description><Point><coordinates>-94.805452, 36.503061</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/1/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, DELAWARE, GROVE, 1011 SOUTH MILL STREET</description><Point><coordinates>-94.766632, 36.586044</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

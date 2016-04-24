@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/20/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, HILLSDALE, CAMDEN, 1623 HARMON ROAD</description><Point><coordinates>-84.619034, 41.738511</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/28/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, HILLSDALE, CAMDEN, 9800  MAPLE ROAD</description><Point><coordinates>-84.796294, 41.722936</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/5/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, HILLSDALE, CAMDEN, 8501  ALVORD ROAD</description><Point><coordinates>-84.777087, 41.760807</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/11/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, HILLSDALE, HILLSDALE, 1711 EAST READING ROAD</description><Point><coordinates>-84.620003, 41.839973</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/28/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, HILLSDALE, HILLSDALE, 1100 LILAC ROAD</description><Point><coordinates>-84.633299, 41.822247</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/30/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, HILLSDALE, HILLSDALE, 138 MARION STREET</description><Point><coordinates>-84.617850, 41.923921</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/17/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, HILLSDALE, HILLSDALE, 4032  PLEASANT STREET</description><Point><coordinates>-84.573909, 41.957519</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/7/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, HILLSDALE, HILLSDALE, 32 EAST CARLETON ROAD  BOX 513</description><Point><coordinates>-84.633841, 41.924243</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/10/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, HILLSDALE, HILLSDALE, 1100 S CRONK ROAD</description><Point><coordinates>-84.728889, 41.909019</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/7/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, HILLSDALE, HILLSDALE, 205 E WEST STREET</description><Point><coordinates>-84.635126, 41.908391</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/18/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, HILLSDALE, JONESVILLE, 1911 EAST GOOSE LAKE ROAD</description><Point><coordinates>-84.658482, 42.070889</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/2/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, HILLSDALE, JONESVILLE, 211  LIBERTY STREET</description><Point><coordinates>-84.660861, 41.981392</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/25/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, HILLSDALE, JONESVILLE, 2010 E MOSHERVILLE ROAD</description><Point><coordinates>-84.612425, 42.067050</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/7/2016</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, HILLSDALE, JONESVILLE, 216  West Street</description><Point><coordinates>-84.661976, 41.981238</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/30/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, HILLSDALE, LITCHFIELD, 7931 GENESEE ROAD</description><Point><coordinates>-84.759480, 42.000927</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/16/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, HILLSDALE, LITCHFIELD, 6930  MCLAIN ROAD</description><Point><coordinates>-84.787355, 41.999054</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/8/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, HILLSDALE, OSSEO, 6275 BEECHER ROAD</description><Point><coordinates>-84.530272, 41.883248</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/1/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, HILLSDALE, OSSEO, 12800  BIRD LAKE ROAD</description><Point><coordinates>-84.534135, 41.741410</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/1/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, HILLSDALE, PITTSFORD, 1500  JEROME</description><Point><coordinates>-84.459258, 41.905585</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/16/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, HILLSDALE, QUINCY, 10731 HICKS ROAD</description><Point><coordinates>-84.822192, 41.905123</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/6/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, HILLSDALE, READING, 5020 ABBOTT ROAD</description><Point><coordinates>-84.767310, 41.853705</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/30/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, HILLSDALE, READING, 5451 ABBOTT ROAD</description><Point><coordinates>-84.767158, 41.836053</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/25/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, HILLSDALE, READING, 120  ENTERPRISE DRIVE</description><Point><coordinates>-84.743056, 41.846001</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

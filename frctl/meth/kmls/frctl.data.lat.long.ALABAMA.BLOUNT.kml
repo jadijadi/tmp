@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/5/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, BLOUNT, ALLGOOD, 55  HIGHLAND AVENUE</description><Point><coordinates>-86.518472, 33.905828</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/27/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, BLOUNT, CLEVELAND, 135  BLACKBERRY LANE</description><Point><coordinates>-86.590401, 33.994289</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/4/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, BLOUNT, CLEVELAND, 363  OLD WALKER ROAD</description><Point><coordinates>-86.621638, 33.968039</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, BLOUNT, HAYDEN, 590 SHIPP RD</description><Point><coordinates>-86.926043, 33.827013</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/10/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, BLOUNT, HAYDEN, 911 ELVESTER RD</description><Point><coordinates>-86.757773, 33.892600</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/29/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, BLOUNT, ONEONTA, 830  MORTON ROAD</description><Point><coordinates>-86.407336, 33.930139</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/7/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, BLOUNT, TRAFFORD, 23 SMITH MILL RD LOT 4</description><Point><coordinates>-86.711912, 33.814807</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

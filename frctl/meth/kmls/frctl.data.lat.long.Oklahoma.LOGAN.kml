@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/21/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, LOGAN, COYLE, 7706 SOUTH VASSPR ROAD</description><Point><coordinates>-97.247052, 35.947189</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/8/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, LOGAN, EDMOND, 2217 7 W ST</description><Point><coordinates>-97.377150, 35.753489</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/19/2000</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, LOGAN, GUTHRIE, 707 ASH</description><Point><coordinates>-97.421534, 35.884570</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/28/2000</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, LOGAN, GUTHRIE, 9520 116TH W ST</description><Point><coordinates>-97.092877, 35.007752</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/5/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, LOGAN, GUTHRIE, 1011 JEFFERSON E</description><Point><coordinates>-97.421513, 35.886326</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/5/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, LOGAN, GUTHRIE, 404 MEADOW BACK</description><Point><coordinates>-97.092877, 35.007752</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/4/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, LOGAN, GUTHRIE, 300 CHISOLM  TRL</description><Point><coordinates>-97.482672, 35.756556</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/27/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, LOGAN, GUTHRIE, 1023 HARRISON E</description><Point><coordinates>-97.412665, 35.876778</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/6/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, LOGAN, GUTHRIE, 13200 ARMADILLO  DR</description><Point><coordinates>-97.262345, 35.878832</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/22/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, LOGAN, GUTHRIE, 3207 TWO CREEKS  RD</description><Point><coordinates>-97.385581, 35.857741</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/26/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, LOGAN, GUTHRIE, 10675 ARCADIA  LN</description><Point><coordinates>-97.342389, 35.768363</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/28/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, LOGAN, GUTHRIE, 817 CLEVELAND E</description><Point><coordinates>-97.415615, 35.878870</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/17/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, LOGAN, GUTHRIE, 3701 PRAIRIE GROVE</description><Point><coordinates>-97.379834, 35.837994</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/8/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, LOGAN, GUTHRIE, 810 PINE N ST 2</description><Point><coordinates>-97.407165, 35.885597</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/6/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, LOGAN, LUTHER, 1403 OKLAHOMA E</description><Point><coordinates>-97.259964, 35.725000</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/10/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, LOGAN, MERIDIAN, 10124 RIDGECREST  RD</description><Point><coordinates>-97.397260, 35.771133</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/29/2000</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, LOGAN, STILLWATER, 5050 DAVID PAYNE  RD</description><Point><coordinates>-97.092877, 35.007752</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/14/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, LOGAN, STILLWATER, 3 OAK PARK</description><Point><coordinates>-87.784503, 41.885032</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

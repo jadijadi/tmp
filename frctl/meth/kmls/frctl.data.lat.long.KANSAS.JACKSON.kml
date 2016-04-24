@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/7/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, JACKSON, DELIA, 2085 102ND</description><Point><coordinates>-95.981010, 39.231021</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/13/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, JACKSON, HOLTON, 704 IOWA</description><Point><coordinates>-95.738458, 39.460350</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/3/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, JACKSON, HOYT, 16302 134TH RD</description><Point><coordinates>-95.664264, 39.288857</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/16/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, JACKSON, KANSAS CITY, 137 NORTH HARDESTY AVENUE</description><Point><coordinates>-94.518288, 39.113822</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, JACKSON, MAYETTA, 13794 182ND RD</description><Point><coordinates>-95.720766, 39.375924</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/24/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, JACKSON, WHITING, 307 PRATT</description><Point><coordinates>-95.610975, 39.590051</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

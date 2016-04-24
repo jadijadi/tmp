@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 10/2/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, RANDOLPH, BALDWIN, 9214  STATE 154 ROUTE</description><Point><coordinates>-89.799687, 38.169351</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, RANDOLPH, COULTERVILLE, 10840 BOYD RD</description><Point><coordinates>-89.628840, 38.201041</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/4/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, RANDOLPH, PERCY, 103 E WABASH</description><Point><coordinates>-89.617849, 38.017502</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/6/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, RANDOLPH, SPARTA, 303 MAIN W ST A</description><Point><coordinates>-89.705947, 38.123545</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/9/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, RANDOLPH, SPARTA, 7079 STATE ROUTE 14 RURAL ROUTE</description><Point><coordinates>-89.696672, 38.126389</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/20/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, RANDOLPH, SPARTA, 12371  MOFFAT</description><Point><coordinates>-89.646163, 38.118020</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/9/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, RANDOLPH, STEELEVILLE, 910 EAST GREEN STREET</description><Point><coordinates>-89.650587, 38.009834</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, RANDOLPH, TILDEN, 51 MINNIE N ST</description><Point><coordinates>-89.683893, 38.219361</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/3/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, RANDOLPH, WALSH, 7950  PRESTON</description><Point><coordinates>-89.841282, 38.103694</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

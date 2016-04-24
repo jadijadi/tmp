@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, CULLMAN, BAILEYTON, 297 CO RD 1591</description><Point><coordinates>-86.639820, 34.283296</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, CULLMAN, CULLMAN, 640 CO RD 1127</description><Point><coordinates>-86.980189, 34.225521</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/27/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, CULLMAN, CULLMAN, 8840 AL HWY 157</description><Point><coordinates>-86.913235, 34.230856</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/6/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, CULLMAN, CULLMAN, 4588 CR 222</description><Point><coordinates>-86.922525, 34.109079</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, CULLMAN, CULLMAN, 284 CO RD 109</description><Point><coordinates>-86.923558, 34.016528</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/4/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, CULLMAN, CULLMAN, 1362  COUNTY ROAD 449</description><Point><coordinates>-86.919264, 34.075684</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/4/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, CULLMAN, CULLMAN, 1362  COUNTY ROAD 449</description><Point><coordinates>-86.919264, 34.075684</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/2/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, CULLMAN, CULLMAN, 107  CO 1475 ROAD</description><Point><coordinates>-86.790729, 34.187644</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/8/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, CULLMAN, CULLMAN, 66  STRICKLIN ROAD</description><Point><coordinates>-86.884673, 34.103153</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/6/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, CULLMAN, CULLMAN, 800  1678 CIRCLE</description><Point><coordinates>-86.665201, 34.192684</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, CULLMAN, HANCEVILLE, 78 CO RD 531</description><Point><coordinates>-86.734456, 34.022612</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/29/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, CULLMAN, HANCEVILLE, 116 CO RD 483</description><Point><coordinates>-86.830150, 34.113547</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/14/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, CULLMAN, JOPPA, 43 HILLSIDE VIEW RD</description><Point><coordinates>-86.619207, 34.305332</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/19/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, CULLMAN, VINEMONT, 80  COUNTY ROAD 1247</description><Point><coordinates>-86.924787, 34.262027</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/19/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, CULLMAN, VINEMONT, 80  COUNTY ROAD 1247</description><Point><coordinates>-86.924787, 34.262027</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/28/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, CULLMAN, VINEMONT, 18195  US 31 HIGHWAY</description><Point><coordinates>-86.861525, 34.229612</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

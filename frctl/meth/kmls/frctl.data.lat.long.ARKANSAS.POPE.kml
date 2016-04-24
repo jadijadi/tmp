@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/17/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, POPE, ATKINS, 2952 SR 247</description><Point><coordinates>-92.897139, 35.298613</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/28/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, POPE, ATKINS, 27 RED CLAY ROAD</description><Point><coordinates>-93.014967, 35.204849</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/15/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, POPE, DOVER, 1156 SILEX ROAD</description><Point><coordinates>-93.196959, 35.503344</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/1/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, POPE, DOVER, 464 STOCKTON ROAD</description><Point><coordinates>-93.042690, 35.379986</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, POPE, HECTOR, 232 WELLS LN</description><Point><coordinates>-92.909714, 35.459295</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, POPE, POTTSVILLE, 212 CEDAR W SR</description><Point><coordinates>-93.049061, 35.248139</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, POPE, POTTSVILLE, 5876 64 HWY</description><Point><coordinates>-93.050286, 35.254586</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/6/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, POPE, POTTSVILLE, 5229 US HWY 64</description><Point><coordinates>-93.057447, 35.257569</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/23/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, POPE, POTTSVILLE, 85 ANGEL LAKE ROAD</description><Point><coordinates>-93.047250, 35.182813</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, POPE, RUSSELLVILLE, 241 LINKER LN</description><Point><coordinates>-93.154780, 35.325884</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, POPE, RUSSELLVILLE, 602 ERIE N</description><Point><coordinates>-93.127253, 35.284045</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/10/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, POPE, RUSSELLVILLE, 1010 6TH E ST</description><Point><coordinates>-93.121380, 35.272811</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/20/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, POPE, RUSSELLVILLE, 127 LARAMIE RD</description><Point><coordinates>-93.047915, 35.336606</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/20/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, POPE, RUSSELLVILLE, 127 LARAMIE TRAIL RD</description><Point><coordinates>-93.047915, 35.336606</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/9/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, POPE, RUSSELLVILLE, 1206 EAST MAIN</description><Point><coordinates>-93.118859, 35.277717</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/18/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, POPE, RUSSELLVILLE, 409 EAST GUM LOG ROAD</description><Point><coordinates>-93.055004, 35.331400</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/22/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, POPE, RUSSELLVILLE, 1106 OLD COVE ROAD</description><Point><coordinates>-93.065677, 35.275891</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/12/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, POPE, RUSSELLVILLE, 1558  EAST 16TH ST.</description><Point><coordinates>-93.112928, 35.262286</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

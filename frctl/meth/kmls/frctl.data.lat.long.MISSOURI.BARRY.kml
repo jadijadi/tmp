@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/13/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BARRY, AURORA, 7553 FR 1245</description><Point><coordinates>-91.831833, 37.964253</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/12/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BARRY, AURORA, 13039 FARM ROAD 1157</description><Point><coordinates>-93.686680, 36.768859</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BARRY, CASSVILLE, 4543 ROUTE 4</description><Point><coordinates>-93.870538, 36.677474</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BARRY, CASSVILLE, 1725 SCHELL ST</description><Point><coordinates>-93.877041, 36.690676</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/18/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BARRY, CASSVILLE, 6730 HCR 64</description><Point><coordinates>-93.868811, 36.677011</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/9/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BARRY, CASSVILLE, 1404 CHERRY</description><Point><coordinates>-93.855204, 36.683461</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/11/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BARRY, CASSVILLE, 600 OLD EXETER ROAD</description><Point><coordinates>-93.877706, 36.675917</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/31/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BARRY, CASSVILLE, 29 SYCAMORE STREET</description><Point><coordinates>-93.868811, 36.677011</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BARRY, EAGLE ROCK, 1815 HC 01</description><Point><coordinates>-93.755632, 36.546854</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BARRY, EAGLE ROCK, 8664 HC 81</description><Point><coordinates>-93.755632, 36.546854</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/27/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BARRY, EXETER, 464 FR 1075</description><Point><coordinates>-93.932368, 36.668477</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/2/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BARRY, EXETER, 204 WASHINGTON STREET</description><Point><coordinates>-93.937958, 36.673455</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/23/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BARRY, EXETER, 5003  HIGHWAY 76</description><Point><coordinates>-94.019711, 36.697371</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/6/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BARRY, GOLDEN, HCR 1 1248</description><Point><coordinates>-93.653803, 36.524235</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/31/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BARRY, MONETT, 414 CALE W</description><Point><coordinates>-93.932614, 36.921641</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BARRY, MONETT, 364 FARM ROAD 1100</description><Point><coordinates>-93.900670, 36.918108</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/14/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BARRY, MONETT, 247 FARM ROAD 1050 A</description><Point><coordinates>-93.900724, 36.914646</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/12/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BARRY, MONETT, 320 FR 1052</description><Point><coordinates>-93.900747, 36.915157</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/2/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BARRY, MONETT, 147 FR 1050 A</description><Point><coordinates>-93.974815, 36.865937</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/12/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BARRY, MONETT, 602 NORTH LINCOLN STREET</description><Point><coordinates>-93.931244, 36.924122</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/7/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BARRY, MONETT, 415 WEST CLEVELNAD</description><Point><coordinates>-93.931408, 36.928834</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/11/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BARRY, MONETT, 501 EAST CR</description><Point><coordinates>-93.918068, 36.917741</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/4/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BARRY, MONETT, 503 THIRD STREET</description><Point><coordinates>-93.925722, 36.923602</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/7/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BARRY, MONETT, 526 WEST LOGAN STREET</description><Point><coordinates>-93.934117, 36.920259</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/6/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BARRY, PURDY, 5TH N ST</description><Point><coordinates>-93.918613, 36.818185</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/15/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BARRY, SELIGMAN, 1130 OLD MAIL ROUTE RD</description><Point><coordinates>-93.939644, 36.522571</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/21/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BARRY, SELIGMAN, 159 FRISCO RD 159</description><Point><coordinates>-93.940052, 36.520252</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/21/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BARRY, SELIGMAN, 1700 ROUTE 1</description><Point><coordinates>-93.937895, 36.534143</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/14/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BARRY, SELIGMAN, RT 1 1470</description><Point><coordinates>-93.937895, 36.534143</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/3/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BARRY, SELIGMAN, 28944  MEADOW LANE F</description><Point><coordinates>-93.932005, 36.514152</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/27/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BARRY, SELIGMAN, 8145  RIDGE CREST</description><Point><coordinates>-93.931418, 36.517706</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/21/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BARRY, SELIGMAN, 29016  MAIN STREET C</description><Point><coordinates>-93.938387, 36.527990</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BARRY, SHELL KNOB, 4549 ROUTE 1</description><Point><coordinates>-93.560226, 36.653555</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/18/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BARRY, SHELL KNOB, 1001 ROUTE 1</description><Point><coordinates>-93.558654, 36.711341</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/3/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BARRY, SHELL KNOB, 25318 RIVERSIDE LANE</description><Point><coordinates>-93.620905, 36.598490</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/11/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BARRY, WHEATON, 203  MAIN STREET</description><Point><coordinates>-94.055559, 36.762879</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

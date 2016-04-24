@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 11/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, KNOX, DANVILLE, 18825 STATE ROUTE 41</description><Point><coordinates>-82.223010, 40.451891</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/26/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, KNOX, GAMBIER, 4010 MARTINSBURG RD</description><Point><coordinates>-82.377211, 40.287216</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/25/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, KNOX, MOUNT VERNON, 1100 NEW GAMBIER RD</description><Point><coordinates>-82.458031, 40.391701</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, KNOX, MOUNT VERNON, 303 GAY N ST 1</description><Point><coordinates>-82.484234, 40.396967</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/5/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, KNOX, MOUNT VERNON, 111 EAST LAMARTINE STREET</description><Point><coordinates>-82.482197, 40.399322</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/12/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, KNOX, MOUNT VERNON, 22  MANSFIELD AVENUE</description><Point><coordinates>-82.485476, 40.402476</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/22/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, KNOX, MOUNT VERNON, 4 EAST CHESTNUT STREET</description><Point><coordinates>-82.485105, 40.394485</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

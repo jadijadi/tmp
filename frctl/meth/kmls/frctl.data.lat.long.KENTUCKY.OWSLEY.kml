@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/6/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, OWSLEY, BOONEVILLE, 3326 SUGAR CAMP RD</description><Point><coordinates>-83.646206, 37.467503</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/19/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, OWSLEY, BOONEVILLE, HWY 1503/ ISLAND CITY</description><Point><coordinates>-83.674914, 37.476199</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/9/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, OWSLEY, BOONEVILLE, 88 HWY 1717 HIGHWAY 200A</description><Point><coordinates>-83.599609, 37.483712</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

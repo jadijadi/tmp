@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/12/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, LEE, DUFFIELD, 160  ARROWHEAD ROAD</description><Point><coordinates>-82.829414, 36.761409</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/1/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, LEE, DUFFIELD, 1847  KLONDIKE ROAD</description><Point><coordinates>-82.914295, 36.743950</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/19/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, LEE, KEOKEE, RT 606 INTERS. OF RT T1006</description><Point><coordinates>-82.904052, 36.858982</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/7/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, LEE, PENNINGTON GAP, 327  HILTON DRIVE</description><Point><coordinates>-82.989880, 36.728291</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/1/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, LEE, ROSE HILL, S RT 2 245</description><Point><coordinates>-77.117587, 38.780425</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/5/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, ASHE, CRESTON, 5602 BIG LAUREL ROAD</description><Point><coordinates>-81.667009, 36.484333</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/24/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, ASHE, CRESTON, 1089  PEAK ROAD</description><Point><coordinates>-81.638132, 36.419420</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/2/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, ASHE, CRUMPLER, 2729 NORTH NC 16 HIGHWAY</description><Point><coordinates>-81.402818, 36.453565</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/31/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, ASHE, CRUMPLER, 654  TOM FOWLER ROAD</description><Point><coordinates>-81.391623, 36.469528</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/2/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, ASHE, FLEETWOOD, 239 SOURWOOD LN</description><Point><coordinates>-81.528962, 36.266472</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/10/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, ASHE, FLEETWOOD, 244 CRANBERRY SPRINGS ROAD</description><Point><coordinates>-81.501556, 36.261836</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, ASHE, JEFFERSON, 497 OAK GROVE CIR</description><Point><coordinates>-81.462084, 36.414915</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/7/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, ASHE, JEFFERSON, 160 ROLAND DRIVE</description><Point><coordinates>-81.457190, 36.414085</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/5/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, ASHE, JEFFERSON, 206  BOWER CALLOWAY ROAD</description><Point><coordinates>-81.458537, 36.434771</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/10/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, ASHE, LANSING, 1639 HELTON CREEK RD</description><Point><coordinates>-81.514176, 36.570927</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, ASHE, LAUREL SPRINGS, 455 HIRAM BARE RD</description><Point><coordinates>-81.284098, 36.381191</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, ASHE, LAUREL SPRINGS, 1031 BIG PEAK CREEK RD</description><Point><coordinates>-81.310230, 36.404379</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, ASHE, LAUREL SPRINGS, 360 ORE VALLEY RD</description><Point><coordinates>-81.320328, 36.396951</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/23/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, ASHE, LAUREL SPRINGS, 2801 PEAK CREEK CHURCH</description><Point><coordinates>-81.285825, 36.376440</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, ASHE, TODD, 2251 LONGHOPE RD</description><Point><coordinates>-81.652003, 36.308427</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/7/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, ASHE, WARRENSVILLE, 1463 COPELAND RD</description><Point><coordinates>-81.587194, 36.465129</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/15/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, ASHE, WARRENSVILLE, 536  JC NORTON ROAD</description><Point><coordinates>-81.586199, 36.440263</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, ASHE, WEST JEFFERSON, 1697 CLAYBANK RD</description><Point><coordinates>-81.493619, 36.450411</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

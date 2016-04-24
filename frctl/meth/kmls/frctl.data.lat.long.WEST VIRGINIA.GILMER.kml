@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 11/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WEST VIRGINIA, GILMER, GLENVILLE, #10 HOWARD ST</description><Point><coordinates>-80.836907, 38.933993</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WEST VIRGINIA, GILMER, GLENVILLE, 706 LEWIS N ST</description><Point><coordinates>-80.826326, 38.939871</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/11/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WEST VIRGINIA, GILMER, GLENVILLE, 4640 HIGHWAY 5 W</description><Point><coordinates>-80.736822, 38.904812</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

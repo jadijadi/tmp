@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 9/5/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, ONEIDA, ALMOND, 4  KARRDALE ROAD</description><Point><coordinates>-74.005941, 40.712784</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/16/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, ONEIDA, ANNSVILLE, 3283 POND HILL ROAD,  APT. 4</description><Point><coordinates>-75.670019, 43.326734</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/12/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, ONEIDA, ANNSVILLE, 9626  GLENMORE ROAD</description><Point><coordinates>-75.619724, 43.327385</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/19/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, ONEIDA, CAMDEN, 114 MAIN STREET</description><Point><coordinates>-75.748889, 43.337534</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/10/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, ONEIDA, CAMDEN, 23 WEST ELM STREET</description><Point><coordinates>-75.750670, 43.340374</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/23/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, ONEIDA, CANASTOTA, 3669  STATE ROUTE 5 ROUTE</description><Point><coordinates>-74.005941, 40.712784</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/14/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, ONEIDA, MARCY, 6800  STATE ROUTE 291</description><Point><coordinates>-75.299996, 43.191148</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/27/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, ONEIDA, NEW HARTFORD, 302 WASHINGTON DRIVE</description><Point><coordinates>-75.280467, 43.100565</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/4/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, ONEIDA, ONEIDA, 542  MAIN STREET</description><Point><coordinates>-75.644886, 43.082723</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/8/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, ONEIDA, PEMBROKE, 2538  MAIN ROAD</description><Point><coordinates>-78.312980, 42.995537</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/1/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, ONEIDA, ROME, 402 RIVERSIDE DRIVE</description><Point><coordinates>-75.441202, 43.216224</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/27/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, ONEIDA, ROME, 920  FLOYD AVENUE</description><Point><coordinates>-75.437439, 43.217393</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/2/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, ONEIDA, ROME, 6282  LAMPHEAR</description><Point><coordinates>-75.473443, 43.186635</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/17/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, ONEIDA, STEUBEN, CLEN DENNING ROAD</description><Point><coordinates>-75.282946, 43.320069</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/26/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, ONEIDA, SYLVAN BEACH, 2501  VIENNA ROAD</description><Point><coordinates>-75.721647, 43.210400</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/16/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, ONEIDA, SYLVAN BEACH, 1524  15TH AVENUE</description><Point><coordinates>-75.726992, 43.203152</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/8/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, ONEIDA, UTICA, 1128  SCHUYLER STREET</description><Point><coordinates>-75.250069, 43.100159</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/5/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, ONEIDA, UTICA, 1519  YORK STREET</description><Point><coordinates>-75.260186, 43.097848</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/12/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, ONEIDA, VERONA, 3311 CENTER STREET</description><Point><coordinates>-75.667529, 43.118060</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/31/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, ONEIDA, VIENNA, 8143  DEELEY ROAD</description><Point><coordinates>-75.674621, 43.256445</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/4/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, ONEIDA, WHITESBORO, 89  FOSTER STREET</description><Point><coordinates>-75.301162, 43.129015</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

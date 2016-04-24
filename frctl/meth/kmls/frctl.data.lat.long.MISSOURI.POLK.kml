@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 7/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, POLK, BOLIVAR, 105 CHESTNUT W 1</description><Point><coordinates>-93.412139, 37.614713</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, POLK, BOLIVAR, 817 COLLEGE E</description><Point><coordinates>-93.403848, 37.606525</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/23/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, POLK, BOLIVAR, 112 AUBURN E</description><Point><coordinates>-93.408567, 37.605677</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/7/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, POLK, BOLIVAR, 4734 140TH S RD</description><Point><coordinates>-93.378414, 37.562523</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/19/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, POLK, BOLIVAR, 1820 SOUTH SPRINGFIELD</description><Point><coordinates>-93.402378, 37.596932</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/15/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, POLK, BOLIVAR, 821 SOUTH ALBANY</description><Point><coordinates>-93.407816, 37.606391</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, POLK, FAIR PLAY, 240 NORTH ST</description><Point><coordinates>-93.577760, 37.637274</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/7/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, POLK, GOODSON, 3464 216TH S RD</description><Point><coordinates>-93.238458, 37.701729</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/26/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, POLK, PLEASANT HOPE, 1914 EAST 555 ROAD</description><Point><coordinates>-93.278237, 37.441437</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

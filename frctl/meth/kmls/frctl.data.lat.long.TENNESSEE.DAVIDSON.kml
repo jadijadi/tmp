@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 8/4/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, DAVIDSON, GOODLETTSVILLE, 539  WINDSON GREEN BLVD</description><Point><coordinates>-86.695721, 36.314919</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, DAVIDSON, MADISON, 135 FORK N LP</description><Point><coordinates>-86.630313, 36.219717</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/17/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, DAVIDSON, NASHVILLE, 893 MURFREESBORO RD 357</description><Point><coordinates>-86.720508, 36.132196</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, DAVIDSON, NASHVILLE, 225 (b) CASTEEL RD</description><Point><coordinates>-86.781602, 36.162664</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, DAVIDSON, NASHVILLE, 203 VALLEY VIEW AVE 1</description><Point><coordinates>-86.848233, 36.113038</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/31/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, DAVIDSON, NASHVILLE, 805 CHANNING DRIVE</description><Point><coordinates>-86.742838, 36.249302</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/4/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, DAVIDSON, NASHVILLE, 4998 CLARKSVILLE HWY</description><Point><coordinates>-86.845425, 36.257425</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/8/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, DAVIDSON, NASHVILLE, 3922 CREEKSIDE DRIVE</description><Point><coordinates>-86.700041, 36.066187</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/7/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, DAVIDSON, NASHVILLE, 224  DOWNEYMEADE DR.</description><Point><coordinates>-86.644239, 36.184332</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/12/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, DAVIDSON, NASHVILLE, 504 MCIVER STREET</description><Point><coordinates>-86.745298, 36.104468</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/16/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, DAVIDSON, NASHVILLE, 6459 HOLT RD</description><Point><coordinates>-86.710826, 36.009120</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

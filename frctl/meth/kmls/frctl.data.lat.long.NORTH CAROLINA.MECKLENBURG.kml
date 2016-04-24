@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 7/18/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, MECKLENBURG, CHARLOTTE, 8322 KNIGHTS BRIDGE RD</description><Point><coordinates>-80.872161, 35.114146</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/16/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, MECKLENBURG, CHARLOTTE, 8322 KNIGHTS BRIDGE RD</description><Point><coordinates>-80.872161, 35.114146</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/24/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, MECKLENBURG, CHARLOTTE, 12827 ATKINS CIR 201</description><Point><coordinates>-80.850585, 35.066469</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/18/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, MECKLENBURG, CHARLOTTE, 6616 RAEFIELD DR 3</description><Point><coordinates>-80.831790, 35.086016</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/25/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, MECKLENBURG, CHARLOTTE, 1220 PRESSLEY ROAD 12</description><Point><coordinates>-80.894534, 35.193679</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/7/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, MECKLENBURG, CHARLOTTE, 10416  JOHN PRICE ROAD 8C</description><Point><coordinates>-80.954192, 35.124678</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/7/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, MECKLENBURG, CHARLOTTE, 2214  LAKEVIEW LANE</description><Point><coordinates>-80.969253, 35.319369</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/24/2016</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, MECKLENBURG, CHARLOTTE, 10621  Mount Holly ROAD</description><Point><coordinates>-80.980248, 35.298592</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/10/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, MECKLENBURG, CORNELIUS, 20741 LAGOONA DR</description><Point><coordinates>-80.904649, 35.485175</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/9/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, MECKLENBURG, CORNELIUS, 21329 PINE STREET</description><Point><coordinates>-80.859802, 35.483856</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/19/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, MECKLENBURG, GIRARD, 7535  HOLLY GROVE COURT</description><Point><coordinates>-79.019300, 35.759573</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/4/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, MECKLENBURG, MINT HILL, 7844  MCWHIRTER DRIVE</description><Point><coordinates>-80.643784, 35.178194</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

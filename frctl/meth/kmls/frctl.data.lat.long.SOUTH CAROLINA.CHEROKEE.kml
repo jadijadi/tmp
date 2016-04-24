@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/20/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, CHEROKEE, COWPENS, 198 STARR CIRCLE</description><Point><coordinates>-81.763653, 35.022603</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/9/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, CHEROKEE, GAFFNEY, 146 BEAVER CREEK RD</description><Point><coordinates>-81.702453, 35.064382</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/18/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, CHEROKEE, GAFFNEY, 208 OVERBROOK DR C</description><Point><coordinates>-81.658724, 35.080421</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/11/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, CHEROKEE, GAFFNEY, 600 SOAP STONE ROAD</description><Point><coordinates>-81.753686, 34.963198</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/20/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, CHEROKEE, GAFFNEY, 150 LORI ROAD</description><Point><coordinates>-81.565511, 34.902144</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/22/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, CHEROKEE, GAFFNEY, 274 MCGINNI ROAD</description><Point><coordinates>-81.824343, 35.130227</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/28/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, CHEROKEE, GAFFNEY, 534  6TH STREET</description><Point><coordinates>-81.633243, 35.080832</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/18/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, CHEROKEE, GAFFNEY, 107  WALNUT STREET</description><Point><coordinates>-81.640781, 35.077365</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/14/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, CHEROKEE, PACOLET, 252 COLONY ROAD</description><Point><coordinates>-81.730335, 34.931837</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

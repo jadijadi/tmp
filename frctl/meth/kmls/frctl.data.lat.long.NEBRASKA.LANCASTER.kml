@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/14/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEBRASKA, LANCASTER, DAVEY, 13201 NORTH 40TH</description><Point><coordinates>-96.663863, 40.941702</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/14/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEBRASKA, LANCASTER, LINCOLN, 8323 SUNRIDGE ROAD 104</description><Point><coordinates>-96.608139, 40.818659</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/5/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEBRASKA, LANCASTER, LINCOLN, 1226 24 S B</description><Point><coordinates>-96.686301, 40.800846</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/13/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEBRASKA, LANCASTER, LINCOLN, 2129 65TH N ST</description><Point><coordinates>-96.632107, 40.833801</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/18/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEBRASKA, LANCASTER, LINCOLN, 1955 G STREET 6</description><Point><coordinates>-96.728541, 40.793624</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/2/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEBRASKA, LANCASTER, LINCOLN, 1020 NORTH 35TH STREET 8</description><Point><coordinates>-96.669587, 40.823590</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

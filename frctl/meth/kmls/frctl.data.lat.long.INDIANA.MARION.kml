@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 12/5/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MARION, BEECH GROVE, 2204  ALBANY 1/2 STREET</description><Point><coordinates>-85.682973, 40.589799</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/31/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MARION, CLERMONT, 9055 WEST CRAWFORDSVILLE</description><Point><coordinates>-86.322926, 39.815671</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/6/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MARION, INDIANAPOLIS, 3061 BENTWOOD DR 2B</description><Point><coordinates>-86.213789, 39.906419</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/23/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MARION, INDIANAPOLIS, 1367 SILVER</description><Point><coordinates>-86.178849, 39.748223</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MARION, INDIANAPOLIS, 1930 PARKER N</description><Point><coordinates>-86.113072, 39.793351</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MARION, INDIANAPOLIS, 6802 BITTERSWEET</description><Point><coordinates>-85.943199, 39.881757</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MARION, INDIANAPOLIS, 3705 VALLEY LAKE DR</description><Point><coordinates>-86.103003, 39.641775</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MARION, INDIANAPOLIS, 1029 BLAINE AVE</description><Point><coordinates>-86.188620, 39.753885</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MARION, INDIANAPOLIS, 3330 MERIDIAN N ST 212</description><Point><coordinates>-86.157433, 39.816320</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/23/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MARION, INDIANAPOLIS, 5206 MANN RD</description><Point><coordinates>-86.245451, 39.688455</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/4/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MARION, INDIANAPOLIS, 1162 (B) ENGLISH AVE</description><Point><coordinates>-86.138081, 39.759887</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/13/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MARION, INDIANAPOLIS, 2104 SOUTH DELAWARE</description><Point><coordinates>-86.155763, 39.739243</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/13/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MARION, INDIANAPOLIS, 2422 NORTH DEARBORN</description><Point><coordinates>-86.112308, 39.802379</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/23/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MARION, INDIANAPOLIS, 2330 SOUTH VILLA AVENUE</description><Point><coordinates>-86.126081, 39.738905</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/10/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MARION, INDIANAPOLIS, 3336 SOUTH RYBOLT AVENUE</description><Point><coordinates>-86.232434, 39.713898</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/28/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MARION, INDIANAPOLIS, 1117 HEATHERWOOD DRIVE</description><Point><coordinates>-86.273029, 39.750827</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/28/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MARION, INDIANAPOLIS, 511 EAST TROY AVENUE</description><Point><coordinates>-86.148608, 39.722355</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/3/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MARION, INDIANAPOLIS, 9625 EAST 30TH STREET</description><Point><coordinates>-85.997754, 39.811079</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/29/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MARION, INDIANAPOLIS, 542 NORTH EASTERN</description><Point><coordinates>-86.148947, 39.775319</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/24/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MARION, LAWRENCE, 10109 PEAR TREE LANE</description><Point><coordinates>-85.989664, 39.850057</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 9/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, PAGE, CLARINDA, 800 LINCOLN</description><Point><coordinates>-95.028804, 40.741430</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/12/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, PAGE, CLARINDA, 601 STATE E ST</description><Point><coordinates>-95.031262, 40.742123</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/6/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, PAGE, CLARINDA, 1001 EAST MAIN STREET</description><Point><coordinates>-95.026288, 40.738170</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/6/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, PAGE, SHENANDOAH, 305 ELM S ST 19</description><Point><coordinates>-95.373785, 40.763987</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

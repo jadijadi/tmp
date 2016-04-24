@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 7/7/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, WINNEBAGO, DURAND, 601 EAST MAIN</description><Point><coordinates>-89.323454, 42.436930</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/15/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, WINNEBAGO, MACHESNEY PARK, 924  GLEN FOREST</description><Point><coordinates>-89.028826, 42.388014</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/20/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, WINNEBAGO, ROCKFORD, 2954  LAPAY STREET</description><Point><coordinates>-89.093995, 42.271131</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/14/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, WINNEBAGO, ROCKFORD, 6924  RIVER</description><Point><coordinates>-89.072784, 42.359966</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

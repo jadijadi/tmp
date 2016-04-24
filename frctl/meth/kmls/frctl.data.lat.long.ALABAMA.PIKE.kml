@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/30/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, PIKE, BRUNDIDGE, COUNTY ROAD 3339 LOT1-2</description><Point><coordinates>-85.906608, 31.639285</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/11/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, PIKE, BRUNDIDGE, 937 CO RD 107</description><Point><coordinates>-85.871477, 31.600013</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, PIKE, TROY, 1101 SHELHORN RD 258</description><Point><coordinates>-85.969951, 31.808768</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/16/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, PIKE, TROY, 5376 1101 COUNTY RD 5376</description><Point><coordinates>-86.106722, 31.894065</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/29/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, PIKE, TROY, 131  CHILDS ROAD</description><Point><coordinates>-85.989039, 31.870413</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

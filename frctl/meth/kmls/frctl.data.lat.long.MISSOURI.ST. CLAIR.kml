@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/6/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, ST. CLAIR, APPLETON CITY, NORTHWEST 100TH ROAD</description><Point><coordinates>-93.935592, 38.041943</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/1/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, ST. CLAIR, OSCEOLA, 930 HIGHWAY WW LOT 2</description><Point><coordinates>-93.702952, 38.029951</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

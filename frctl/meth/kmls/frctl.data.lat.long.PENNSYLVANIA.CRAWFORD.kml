@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/25/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: PENNSYLVANIA, CRAWFORD, CENTERVILLE, 32926  STATE HIGHWAY 77</description><Point><coordinates>-79.889705, 41.742431</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/27/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: PENNSYLVANIA, CRAWFORD, CONNEAUTVILLE, 18329 RT 18</description><Point><coordinates>-80.339998, 41.724704</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/14/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: PENNSYLVANIA, CRAWFORD, MEADVILLE, 560  SMITH STREET</description><Point><coordinates>-80.149347, 41.647596</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/10/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: PENNSYLVANIA, CRAWFORD, MEADVILLE, 404 & 1/2 POPLAR STREET</description><Point><coordinates>-79.680562, 41.632549</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: PENNSYLVANIA, CRAWFORD, SPARTANSBURG, 19071 STATE HWY 89</description><Point><coordinates>-79.670968, 41.739527</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: PENNSYLVANIA, CRAWFORD, SPRINGBORO, 186 BEAVER ST</description><Point><coordinates>-80.377262, 41.800625</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/15/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: PENNSYLVANIA, CRAWFORD, TITUSVILLE, 820 ROCKWOOD DR 13</description><Point><coordinates>-79.657139, 41.634832</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: PENNSYLVANIA, CRAWFORD, TITUSVILLE, 322 LINDEN W ST</description><Point><coordinates>-79.682389, 41.631354</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: PENNSYLVANIA, CRAWFORD, TITUSVILLE, 117 N. WASHINGTON ST 3</description><Point><coordinates>-79.675211, 41.627550</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/14/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: PENNSYLVANIA, CRAWFORD, TITUSVILLE, 510 MAILLER ST</description><Point><coordinates>-79.681143, 41.633798</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: PENNSYLVANIA, CRAWFORD, TITUSVILLE, 1501 MEADVILLE RD</description><Point><coordinates>-79.789272, 41.610706</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/18/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: PENNSYLVANIA, CRAWFORD, TITUSVILLE, 330 HEMLOCK W ST</description><Point><coordinates>-79.681534, 41.630147</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/24/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: PENNSYLVANIA, CRAWFORD, TITUSVILLE, 14069 RTE 8</description><Point><coordinates>-79.674033, 41.627061</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/7/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: PENNSYLVANIA, CRAWFORD, TITUSVILLE, 126 MAIN E ST</description><Point><coordinates>-79.672341, 41.628318</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/3/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: PENNSYLVANIA, CRAWFORD, TITUSVILLE, 517 PERRY S ST</description><Point><coordinates>-79.676972, 41.621585</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/4/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: PENNSYLVANIA, CRAWFORD, TITUSVILLE, 45782 RTE 27 ROUTE</description><Point><coordinates>-79.673663, 41.627004</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/13/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: PENNSYLVANIA, CRAWFORD, TITUSVILLE, 106  BEECHWOOD DRIVE 301</description><Point><coordinates>-79.656393, 41.633808</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 130 EAST SPRUCE STREET  BOX APT</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: PENNSYLVANIA, CRAWFORD, TITUSVILLE</description><Point><coordinates>-79.673663, 41.627004</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/6/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: PENNSYLVANIA, CRAWFORD, TOWNVILLE, 35014 TRYONVILLE ROAD</description><Point><coordinates>-79.851240, 41.683597</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

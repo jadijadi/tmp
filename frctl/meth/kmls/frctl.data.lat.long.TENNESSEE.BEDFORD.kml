@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/1/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, BEDFORD, BELL BUCKLE, 2387 UNIONVILLE DEASON ROAD</description><Point><coordinates>-86.488435, 35.605311</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/23/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, BEDFORD, CHAPEL HILL, 1350 CEDAR GROVE RD.</description><Point><coordinates>-86.615171, 35.659049</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/12/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, BEDFORD, PETERSBURG, 148  COFFEY ROAD</description><Point><coordinates>-86.620772, 35.386351</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

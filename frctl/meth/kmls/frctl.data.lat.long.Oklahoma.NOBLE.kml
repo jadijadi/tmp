@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 7/25/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, NOBLE, GLENCOE, 2016  DENVER STREET</description><Point><coordinates>-82.929291, 39.973604</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/17/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, NOBLE, PERRY, 9862 SOUTH 24TH WEST STREET</description><Point><coordinates>-97.288098, 36.289485</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/29/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, NOBLE, PERRY, 414  JACKSON</description><Point><coordinates>-97.283038, 36.294173</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/21/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, NOBLE, RED ROCK, 509  CEMETARY ROAD</description><Point><coordinates>-97.178932, 36.459208</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/5/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, NOBLE, STILLWATER, 408  MILLARD STREET LOT 8</description><Point><coordinates>-97.092877, 35.007752</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/9/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, NOBLE, STILLWATER, 303 5TH  AVE</description><Point><coordinates>-97.378082, 36.148085</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

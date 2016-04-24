@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/14/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, VENTURA, FILLMORE, 2989 WEST W TELEGRAPH ROAD HIG</description><Point><coordinates>-118.972826, 34.382033</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/22/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, VENTURA, N/A, 5892 SANTA CLARA RD</description><Point><coordinates>-119.289453, 34.279544</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/9/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, VENTURA, OXNARD, 765 KOHALA STREET</description><Point><coordinates>-119.150998, 34.208868</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/20/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, VENTURA, THOUSAND OAKS, 982 EAST JANAS ROAD</description><Point><coordinates>-118.861735, 34.198967</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/4/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, VENTURA, VENTURA, 1300 SARATOGA STREET</description><Point><coordinates>-119.218921, 34.262510</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

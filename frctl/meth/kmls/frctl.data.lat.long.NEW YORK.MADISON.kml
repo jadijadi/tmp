@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/5/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, MADISON, BINGHAMTON, 8307  RT -79</description><Point><coordinates>-75.512122, 42.898958</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/29/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, MADISON, CANASTOTA, 218 NORTH MAIN STREET</description><Point><coordinates>-75.754159, 43.082534</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/8/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, MADISON, CANASTOTA, 200  KAY CIRCLE</description><Point><coordinates>-75.761325, 43.080684</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/18/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, MADISON, LENOX, 8283 NORTH MAIN STREET</description><Point><coordinates>-75.786442, 43.114547</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/19/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, MADISON, LENOX, 3174 PINE RIDGE ROAD</description><Point><coordinates>-75.785671, 43.118814</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/10/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, MADISON, MUNNSVILLE, 5643  STATE ROUTE 46</description><Point><coordinates>-75.600389, 42.991241</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/11/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, MADISON, NELSON, 3634  JONES ROAD</description><Point><coordinates>-75.721618, 42.898274</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/15/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, MADISON, ONEIDA, 127 FARRIER AVENUE</description><Point><coordinates>-75.652832, 43.094505</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/19/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, MADISON, ONEIDA, 109  NORTH MAIN STREET</description><Point><coordinates>-75.653271, 43.096430</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/14/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, MADISON, ONEIDA, 414 LENOX AVENUE,  APT. 3</description><Point><coordinates>-75.659991, 43.091642</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/28/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, MADISON, ONEIDA, 1080 PALMER DRIVE</description><Point><coordinates>-75.699710, 43.073637</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/20/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, MADISON, ONEIDA, 406  LENOX AVENUE</description><Point><coordinates>-75.659535, 43.091636</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/25/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, MADISON, ONEIDA, 146 MAIN STREET</description><Point><coordinates>-75.651863, 43.095001</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/4/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, MADISON, ONEIDA, 330 NORTH MAIN STREET</description><Point><coordinates>-75.657647, 43.101358</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/22/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, MADISON, ONEIDA, 207 GENESEE STREET</description><Point><coordinates>-75.645210, 43.078824</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/1/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, MADISON, STOCKBRIDGE, 6222  EAST HILL</description><Point><coordinates>-75.584946, 42.976732</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/31/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, MADISON, SULLIVAN, 1507  SMITHRIDGE</description><Point><coordinates>-75.892471, 43.137578</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/3/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, MADISON, SULLIVAN, 7826  BLACK CREEK ROAD</description><Point><coordinates>-75.895771, 43.099295</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

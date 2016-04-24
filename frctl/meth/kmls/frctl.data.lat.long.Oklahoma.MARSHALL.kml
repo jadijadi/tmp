@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/21/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, MARSHALL, ENOS, 21500 A CHARTER OAK E RD</description><Point><coordinates>-97.092877, 35.007752</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/31/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, MARSHALL, KINGSTON, 21500 B CHARTER OAK E RD</description><Point><coordinates>-96.719722, 33.998710</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/16/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, MARSHALL, KINGSTON, 1718 YOST E RD</description><Point><coordinates>-96.719722, 33.998710</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/17/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, MARSHALL, KINGSTON, 1202 DUNCAN S</description><Point><coordinates>-96.719722, 33.998710</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/19/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, MARSHALL, KINGSTON, 408 2ND E ST</description><Point><coordinates>-96.724163, 34.001458</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/24/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, MARSHALL, KINGSTON, 403 CREEK W</description><Point><coordinates>-96.714320, 33.887007</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, MARSHALL, OAK BROOK, 1589 PIN OAK  ST 17</description><Point><coordinates>-97.092877, 35.007752</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/22/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, MARSHALL, , 1778 BLACK BASS  LN</description><Point><coordinates>-96.621111, 33.934963</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

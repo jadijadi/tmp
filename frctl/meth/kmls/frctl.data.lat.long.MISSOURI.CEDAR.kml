@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/29/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CEDAR, CEDAR SPRINGS, 1570 SOUTH DD HIGHWAY</description><Point><coordinates>-93.893988, 37.872504</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CEDAR, EL DORADO SPRINGS, 2905 350 E RD</description><Point><coordinates>-93.930377, 37.845545</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/15/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CEDAR, EL DORADO SPRINGS, 4785 1260 E RD</description><Point><coordinates>-93.986121, 37.718142</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CEDAR, EL DORADO SPRINGS, 9820 HIGHWAY 97 S</description><Point><coordinates>-94.027372, 37.757095</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/7/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CEDAR, EL DORADO SPRINGS, 2998E 780</description><Point><coordinates>-94.017841, 37.785199</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/20/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CEDAR, EL DORADO SPRINGS, 504 EAST FIELDS STREET</description><Point><coordinates>-94.014838, 37.870089</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/5/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CEDAR, EL DORADO SPRINGS, 2500 SOUTH 601 ROAD</description><Point><coordinates>-93.957143, 37.860880</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/16/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CEDAR, EL DORADO SPRINGS, 2950 SOUTH HIGHWAY DD</description><Point><coordinates>-93.893630, 37.869994</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/2/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CEDAR, EL DORADO SPRINGS, 1550 SOUTH 75 ROAD</description><Point><coordinates>-94.053055, 37.876653</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/26/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CEDAR, EL DORADO SPRINGS, 2550  601 ROAD</description><Point><coordinates>-93.957143, 37.860880</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/16/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CEDAR, EL DORADO SPRINGS, 6550 SOUTH 425 ROAD</description><Point><coordinates>-93.996215, 37.730696</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/16/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CEDAR, EL DORADO SPRINGS, 108 WEST HAINLINE ROAD</description><Point><coordinates>-94.022719, 37.884799</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CEDAR, STOCKTON, 4785 1260 E RD</description><Point><coordinates>-93.986121, 37.718142</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/15/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CEDAR, STOCKTON, 507 SOUTH CHESTNUT STREET</description><Point><coordinates>-93.790254, 37.695236</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/27/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CEDAR, STOCKTON, 14810 SOUTH 676 ROAD</description><Point><coordinates>-93.795435, 37.794340</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

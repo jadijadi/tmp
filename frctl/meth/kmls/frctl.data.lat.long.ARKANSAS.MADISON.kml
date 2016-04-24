@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 10/5/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, MADISON, ELKINS, 495 MADISON AVENUE</description><Point><coordinates>-93.848540, 35.805653</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/11/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, MADISON, ELKINS, 22029 FERN ROAD</description><Point><coordinates>-93.950978, 36.069950</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/16/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, MADISON, ELKINS, 496 MADISON 7530</description><Point><coordinates>-93.943859, 36.088651</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/25/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, MADISON, FORUM, 33638  HWY 23</description><Point><coordinates>-93.730374, 36.154323</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/19/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, MADISON, HINDSVILLE, 1237 MADISON COUNTY 7220</description><Point><coordinates>-93.753899, 36.077801</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/24/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, MADISON, HINDSVILLE, 203 EAST VALLEY ROAD</description><Point><coordinates>-93.864982, 36.143980</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/23/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, MADISON, HINDSVILLE, 1546 MADISON 7400</description><Point><coordinates>-93.871489, 36.106361</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/27/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, MADISON, HUNTSVILLE, 1 FOX DR</description><Point><coordinates>-93.734457, 36.084659</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, MADISON, HUNTSVILLE, 3337 CO RD 2750</description><Point><coordinates>-93.575196, 36.047057</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/7/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, MADISON, HUNTSVILLE, 37086 HIGHWAY 23 N</description><Point><coordinates>-93.711883, 36.189441</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/8/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, MADISON, HUNTSVILLE, 114 REDWOOD COURT</description><Point><coordinates>-93.739784, 36.084249</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/15/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, MADISON, HUNTSVILLE, 9518 WEST HWY 74</description><Point><coordinates>-93.810823, 36.058553</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/26/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, MADISON, HUNTSVILLE, 853 MADISON CR 2215</description><Point><coordinates>-93.748345, 36.187875</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/12/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, MADISON, HUNTSVILLE, 990 MADISON 7795 ROAD</description><Point><coordinates>-93.798013, 36.078871</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/24/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, MADISON, HUNTSVILLE, 35641 HIGHWAY 23</description><Point><coordinates>-93.709308, 36.172405</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/2/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, MADISON, HUNTSVILLE, 185  HIGHWAY 127</description><Point><coordinates>-93.687836, 36.158205</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/15/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, MADISON, HUNTSVILLE, 2781  MADISON 8735</description><Point><coordinates>-93.782034, 36.149191</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/28/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, MADISON, PATRICK, 164 MADISON 5290</description><Point><coordinates>-90.722610, 35.013147</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, MADISON, WITTER, 594 MADISON COUNTY RD</description><Point><coordinates>-93.683523, 35.937578</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

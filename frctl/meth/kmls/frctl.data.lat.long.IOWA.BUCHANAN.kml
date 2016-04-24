@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, BUCHANAN, BRANDON, 2940 DANIEL AVE</description><Point><coordinates>-92.025759, 42.364797</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/17/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, BUCHANAN, HAZLETON, 207 NORTH 3RD STREET</description><Point><coordinates>-91.906993, 42.619464</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/7/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, BUCHANAN, INDEPENDENCE, 1300 NORTHWEST 3RD STREET</description><Point><coordinates>-91.908982, 42.470363</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, BUCHANAN, LAMONT, 635 PINE ST</description><Point><coordinates>-91.641364, 42.599977</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/4/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, BUCHANAN, LAMONT, 619 BUSH ST</description><Point><coordinates>-91.641854, 42.598783</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/16/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, BUCHANAN, LAMONT, 675 CONCORD ST</description><Point><coordinates>-91.640216, 42.599415</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/12/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, BUCHANAN, QUASQUETON, 310 3RD STREET LOT # 5</description><Point><coordinates>-91.758435, 42.392753</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

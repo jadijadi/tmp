@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/30/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, OTTAWA, BENNINGTON, 456 NORTH 150 ROAD</description><Point><coordinates>-97.649557, 39.026949</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/1/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, OTTAWA, MINNEAPOLIS, 1061 190TH N RD</description><Point><coordinates>-97.576022, 39.111805</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/3/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, OTTAWA, TESCOTT, 44 40TH ROAD</description><Point><coordinates>-97.854526, 38.964946</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

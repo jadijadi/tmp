@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/1/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CALDWELL, COLLETTSVILLE, 4400  COLLETTSVILLE ROAD</description><Point><coordinates>-81.681727, 35.929209</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/5/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CALDWELL, GRANITE FALLS, #5 DEERFIELD ACRES ROAD</description><Point><coordinates>-81.455856, 35.816120</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/2/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CALDWELL, GRANITE FALLS, 1478  WRONG WAY</description><Point><coordinates>-81.537539, 35.798137</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/2/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CALDWELL, GRANITE FALLS, 1486  WRONG WAY</description><Point><coordinates>-81.537395, 35.798069</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/7/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CALDWELL, GRANITE FALLS, 5023  ADDISON LANE</description><Point><coordinates>-81.338222, 35.806682</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/15/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CALDWELL, GRANITE FALLS, 2171-4  OAK TREE LANE</description><Point><coordinates>-81.482013, 35.821212</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/17/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CALDWELL, GRANITE FALLS, 114  FALLS AVENUE BOX 22</description><Point><coordinates>-81.416197, 35.802093</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/18/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CALDWELL, HICKORY, 4050 MORETZ-HALL LANE</description><Point><coordinates>-81.347057, 35.820651</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/25/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CALDWELL, HUDSON, 4294 HORSESHOE BEND RD</description><Point><coordinates>-81.497127, 35.819737</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/3/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CALDWELL, HUDSON, 200  WINTERHILL COURT 3</description><Point><coordinates>-81.506259, 35.838147</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CALDWELL, LENOIR, 3717 HOLLYWOOD RIDGE RD</description><Point><coordinates>-81.544236, 35.984456</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CALDWELL, LENOIR, 502 CEDAR PLACE ST</description><Point><coordinates>-81.455115, 35.833179</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/29/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CALDWELL, LENOIR, 4176 KIRBY MOUNTAIN RD</description><Point><coordinates>-81.636522, 36.035136</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/26/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CALDWELL, LENOIR, 3746 WHITETAIL DR</description><Point><coordinates>-81.580888, 35.832503</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/8/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CALDWELL, LENOIR, 2351 MORGANTON BOULEVARD</description><Point><coordinates>-81.570876, 35.891386</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/4/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CALDWELL, LENOIR, 2431  WOODRIDGE COURT</description><Point><coordinates>-81.573593, 35.843816</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/4/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CALDWELL, LENOIR, 4234  SCARLETT RIDGE WAY</description><Point><coordinates>-81.578021, 35.823788</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/18/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CALDWELL, LENOIR, 2455  COLLETTESVILLE ROAD</description><Point><coordinates>-81.573618, 35.948782</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/22/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CALDWELL, LENOIR, 1519 SOUTHWEST WALT ARNEY ROAD</description><Point><coordinates>-81.524880, 35.866781</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/25/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CALDWELL, LENOIR, 3362  GRASSY KNOB LANE</description><Point><coordinates>-81.614765, 35.928530</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/1/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CALDWELL, LENOIR, 2463  COLLETTSVILLE ROAD</description><Point><coordinates>-81.574001, 35.949075</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

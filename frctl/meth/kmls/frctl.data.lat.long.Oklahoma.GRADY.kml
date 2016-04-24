@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/25/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, GRADY, BLANCHARD, 2476 COUNTY ROAD 1339</description><Point><coordinates>-97.674994, 35.074978</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, GRADY, CHICKASHA, 2236  COUNTY ROAD 1236</description><Point><coordinates>-97.936433, 35.052565</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/11/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, GRADY, MINCO, 1616 EIGHT  ST</description><Point><coordinates>-97.952784, 35.309814</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/30/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, GRADY, MINCO, 1013 WASHINGTON W</description><Point><coordinates>-97.944491, 35.312837</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/13/2000</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, GRADY, NICUT, 3002 4 S ST</description><Point><coordinates>-97.092877, 35.007752</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/12/2000</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, GRADY, NINNEKAH, 615 9TH N ST</description><Point><coordinates>-97.944113, 35.043009</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/17/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, GRADY, RUSH SPRINGS, 1014 19TH S ST</description><Point><coordinates>-97.956985, 34.782572</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/10/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, GRADY, RUSH SPRINGS, 525 WASHINGTON W</description><Point><coordinates>-97.956985, 34.782572</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/23/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, GRADY, RUSH SPRINGS, 902 DELAWARE  AVE</description><Point><coordinates>-97.956985, 34.782572</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/15/2000</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, GRADY, TUTTLE, 1210 IDAHO W AVE</description><Point><coordinates>-97.812266, 35.290895</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/13/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, GRADY, TUTTLE, 1103 2ND NW</description><Point><coordinates>-97.814692, 35.283903</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/3/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, GRADY, TUTTLE, 1103 SECOND NW ST</description><Point><coordinates>-97.814692, 35.283903</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/3/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, GRADY, TUTTLE, 209 1/2 CEMETERY N RD</description><Point><coordinates>-97.760495, 35.291614</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

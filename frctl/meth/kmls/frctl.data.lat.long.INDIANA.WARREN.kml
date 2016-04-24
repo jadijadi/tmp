@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/14/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WARREN, NEWBURGH, 3299 NORTH BELL ROAD</description><Point><coordinates>-87.405107, 37.986863</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/8/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WARREN, PINE VILLAGE, 102  N MAIN STREET</description><Point><coordinates>-87.254368, 40.451262</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/23/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WARREN, STATE LINE, 212 MERIDIAN N ST</description><Point><coordinates>-87.523125, 40.199166</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/17/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WARREN, WEST LEBANON, 306 HIGH ST</description><Point><coordinates>-87.386637, 40.269109</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/17/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WARREN, WILLIAMSPORT, 4288 100 N W</description><Point><coordinates>-87.401939, 40.330787</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/17/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WARREN, WILLIAMSPORT, 867 SR 28 W</description><Point><coordinates>-87.289958, 40.302981</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/13/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WARREN, WILLIAMSPORT, 7722  COUNTY ROAD 100 NORTH ROAD</description><Point><coordinates>-87.282880, 40.254448</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/23/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WARREN, WILLIAMSPORT, 3198 NORTH JORDAN STREET</description><Point><coordinates>-87.510349, 40.362384</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

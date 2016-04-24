@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 9/1/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, WALTON, BRUCE, 330  BH REDDICK ROAD</description><Point><coordinates>-85.967424, 30.439860</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/17/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, WALTON, DE FUNIAK SPRINGS, 142 ROSE CIRCLE</description><Point><coordinates>-86.141771, 30.734745</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/1/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, WALTON, DE FUNIAK SPRINGS, 560  JOHN WHITE ROAD</description><Point><coordinates>-86.134088, 30.661597</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/25/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, WALTON, DE FUNIAK SPRINGS, 9222  US HIGHWAY 90</description><Point><coordinates>-93.114098, 30.232538</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/17/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, WALTON, DE FUNIAK SPRINGS, 685  ORANGE AVENUE</description><Point><coordinates>-86.132600, 30.724630</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/17/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, WALTON, DE FUNIAK SPRINGS, 209  MOSLEY LANE</description><Point><coordinates>-86.196761, 30.752499</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, WALTON, DEFUNIAK SPRINGS, 243 TOLEDO W ST</description><Point><coordinates>-86.119305, 30.724455</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, WALTON, DEFUNIAK SPRINGS, 119 JIM COTTON S DR</description><Point><coordinates>-86.162382, 30.768855</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/7/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, WALTON, DEFUNIAK SPRINGS, 102 CHEROKEE N CIR</description><Point><coordinates>-86.119298, 30.762950</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, WALTON, DEFUNIAK SPRINGS, 201 HEATHER S LN</description><Point><coordinates>-86.118658, 30.739033</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/23/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, WALTON, DEFUNIAK SPRINGS, 188 DAISY E LN</description><Point><coordinates>-86.256045, 30.757504</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/27/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, WALTON, DEFUNIAK SPRINGS, 10204 HWY 20</description><Point><coordinates>-86.115218, 30.721023</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, WALTON, DEFUNIAK SPRINGS, 503 BRUCE E AVE</description><Point><coordinates>-86.114037, 30.711870</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, WALTON, DEFUNIAK SPRINGS, 422 FOREMAN RD</description><Point><coordinates>-86.157183, 30.647083</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/23/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, WALTON, DEFUNIAK SPRINGS, 413 MARTIN RD</description><Point><coordinates>-86.160934, 30.770454</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/9/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, WALTON, DEFUNIAK SPRINGS, 1292 SEXTON RD</description><Point><coordinates>-86.267812, 30.832312</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/7/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, WALTON, DEFUNIAK SPRINGS, 175 FOX HILL ROAD</description><Point><coordinates>-86.297074, 30.821258</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/30/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, WALTON, DEFUNIAK SPRINGS, 2732 OAK GROVE ROAD</description><Point><coordinates>-86.143014, 30.787652</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/22/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, WALTON, DEFUNIAK SPRINGS, 330 EAST MAIN STREET</description><Point><coordinates>-86.104953, 30.719178</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/30/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, WALTON, DEFUNIAK SPRINGS, 9149  ALTON COURT</description><Point><coordinates>-86.115218, 30.721023</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/19/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, WALTON, DEFUNIAK SPRINGS, 193  SEMINOLE TERRACE</description><Point><coordinates>-86.194055, 30.777107</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/3/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, WALTON, DEFUNIAK SPRINGS, 935  CAMPBELL</description><Point><coordinates>-86.038162, 30.660359</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/3/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, WALTON, DEFUNIAK SPRINGS, 70  BENS</description><Point><coordinates>-86.234260, 30.748267</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/6/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, WALTON, DEFUNIAK SPRINGS, 173  LANCELOT ROAD</description><Point><coordinates>-86.290599, 30.752405</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, WALTON, FREEPORT, 20 APRIL CT</description><Point><coordinates>-86.143314, 30.481766</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/23/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, WALTON, FREEPORT, 23 MELVIN LN</description><Point><coordinates>-86.132243, 30.499611</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, WALTON, FREEPORT, 52 SCOTT'S LN</description><Point><coordinates>-86.128673, 30.496573</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, WALTON, FREEPORT, 142 EASTERN ST</description><Point><coordinates>-86.327461, 30.481144</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, WALTON, FREEPORT, 248 BOUNDARY LINE RD</description><Point><coordinates>-86.347487, 30.474418</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/14/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, WALTON, FREEPORT, 224 DON GRAFF</description><Point><coordinates>-86.036562, 30.507019</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/26/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, WALTON, FREEPORT, 164 ALAQUA COVE ROAD</description><Point><coordinates>-86.184976, 30.511147</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/15/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, WALTON, FREEPORT, 289 SPARKLEBERRY LANE</description><Point><coordinates>-86.132543, 30.474159</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/27/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, WALTON, FREEPORT, 241 OAKCREST DRIVE</description><Point><coordinates>-86.115483, 30.439099</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/11/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, WALTON, MOSSY HEAD, 14  LEISURE LAKE ROAD</description><Point><coordinates>-86.311690, 30.748642</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/19/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, WALTON, PAXTON, 63 ADAMS ST</description><Point><coordinates>-86.310021, 30.970620</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, WALTON, PONCE DE LEON, 9538 CR 183 S</description><Point><coordinates>-85.963619, 30.634001</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, WALTON, SANTA ROSA BEACH, 121 COUNTRY CLUB DR</description><Point><coordinates>-86.227586, 30.353811</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/28/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, WALTON, SANTA ROSA BEACH, 203 FOURTH S ST</description><Point><coordinates>-86.223394, 30.394181</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/16/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, WALTON, SANTA ROSA BEACH, 234 EAST NURSERY ROAD</description><Point><coordinates>-86.224434, 30.402914</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/15/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, WALTON, SANTA ROSA BEACH, 16 NORTH SPOOKY LANE</description><Point><coordinates>-86.225841, 30.347472</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/6/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, WALTON, SANTA ROSA BEACH, 103  SANTA ROSA STREET</description><Point><coordinates>-86.221795, 30.401189</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

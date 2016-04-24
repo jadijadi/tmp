@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/29/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, GUILFORD, GREENSBORO, 309 LAWRENCE STREET</description><Point><coordinates>-79.797357, 36.045264</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/15/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, GUILFORD, GREENSBORO, 301  ODELL STREET</description><Point><coordinates>-79.801407, 36.070474</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at </name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, GUILFORD, GREENSBORO, 312 W JJ DRIVE BOX 108</description><Point><coordinates>-79.791975, 36.072635</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, GUILFORD, HIGH POINT, 206 OLD WINSTON RD LOT 5</description><Point><coordinates>-80.024432, 35.991040</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/5/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, GUILFORD, HIGH POINT, 443 NORTHBRIDGE ROAD</description><Point><coordinates>-80.015196, 35.993292</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/15/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, GUILFORD, HIGH POINT, 2150  CHESTER RIDGE DRIVE  BOX A</description><Point><coordinates>-80.012532, 35.986601</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/14/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, GUILFORD, HIGH POINT, 3973  CLUBHOUSE COURT BOX 1-E</description><Point><coordinates>-79.968040, 36.034023</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, VAN BUREN, BEE BRANCH, 579 SHADYMEADOWS RD</description><Point><coordinates>-92.279718, 35.389354</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/27/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, VAN BUREN, BEE BRANCH, 697 LANKFORD CIR</description><Point><coordinates>-92.367656, 35.446695</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/21/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, VAN BUREN, BEE BRANCH, 957 HOLLY LEAF RD</description><Point><coordinates>-92.450447, 35.492342</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/29/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, VAN BUREN, BEE BRANCH, 3330 WEST STATE HWY 92</description><Point><coordinates>-92.444371, 35.433590</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/29/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, VAN BUREN, BEE BRANCH, 704 HOPEWELL ROAD</description><Point><coordinates>-92.436277, 35.425289</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, VAN BUREN, CHIMES, 1902 254 HWY</description><Point><coordinates>-91.831833, 35.201050</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, VAN BUREN, CLINTON, 8767 HOLLY MOUNTAIN RD</description><Point><coordinates>-92.423937, 35.714006</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, VAN BUREN, CLINTON, 633 RAZORBACK</description><Point><coordinates>-92.442960, 35.610684</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, VAN BUREN, CLINTON, 1173 HILL POINT RD</description><Point><coordinates>-92.494530, 35.486697</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/29/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, VAN BUREN, CLINTON, 7144 NORTH 65 7144</description><Point><coordinates>-92.489102, 35.676704</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/4/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, VAN BUREN, CLINTON, 354 RAZORBACK DRIVE 354</description><Point><coordinates>-92.446647, 35.610698</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/4/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, VAN BUREN, CLINTON, 451 RAZORBACK DRIVE 451</description><Point><coordinates>-92.445594, 35.610638</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/25/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, VAN BUREN, CLINTON, 6333 WEST HIGHWAY 9</description><Point><coordinates>-92.506815, 35.470104</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/16/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, VAN BUREN, CLINTON, 6333  HWY 9</description><Point><coordinates>-92.506815, 35.470104</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/10/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, VAN BUREN, CLINTON, 225  MCCASLIN</description><Point><coordinates>-92.452991, 35.602861</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/1/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, VAN BUREN, CLINTON, 341  DRIPPING SPRINGS</description><Point><coordinates>-92.537387, 35.487377</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/15/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, VAN BUREN, CLINTON, 4357  HWY 65</description><Point><coordinates>-92.442998, 35.533580</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/18/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, VAN BUREN, CLINTON, 263  FREELAND</description><Point><coordinates>-92.416705, 35.529356</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/24/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, VAN BUREN, FAIRFIELD BAY, 110  GREENWOOD</description><Point><coordinates>-92.298762, 35.575528</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/20/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, VAN BUREN, SHIRLEY, SHADY GROVE ROAD 1235</description><Point><coordinates>-92.362650, 35.647048</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/6/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, VAN BUREN, SHIRLEY, 746 SILLS PENINSULA ROAD</description><Point><coordinates>-92.368560, 35.559804</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/22/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, VAN BUREN, SHIRLEY, 149  SAM</description><Point><coordinates>-92.319632, 35.658847</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/15/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, VAN BUREN, SHIRLEY, 458  MAGPIE</description><Point><coordinates>-92.367100, 35.644955</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

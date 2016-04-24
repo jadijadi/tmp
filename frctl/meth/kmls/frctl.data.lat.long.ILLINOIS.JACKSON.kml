@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/7/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, JACKSON, CAMPBELL HILL, 204 SOUTH MAIN STREET</description><Point><coordinates>-89.549408, 37.929239</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/6/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, JACKSON, CARBONDALE, 1423 JULIANNE</description><Point><coordinates>-89.216750, 37.727273</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/8/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, JACKSON, CARBONDALE, 401  READY MIX</description><Point><coordinates>-89.224866, 37.742094</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/4/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, JACKSON, CARBONDALE, 501 S WASHINGTON</description><Point><coordinates>-89.214303, 37.722001</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/13/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, JACKSON, DE SOTO, 211 CHERRY N</description><Point><coordinates>-89.233099, 37.818100</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/8/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, JACKSON, DE SOTO, 1684 CRANE RD</description><Point><coordinates>-89.271995, 37.814915</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/7/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, JACKSON, DOWELL, 601 VOGEL</description><Point><coordinates>-89.241771, 37.937499</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/2/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, JACKSON, ELKVILLE, 2528 HALLIDAYBORO ROAD</description><Point><coordinates>-89.271652, 37.885036</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/10/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, JACKSON, ELKVILLE, 132 HALLIDAYBORO ROAD</description><Point><coordinates>-89.237024, 37.889718</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, JACKSON, GORHAM, 111 VAN BUREN</description><Point><coordinates>-89.482765, 37.720003</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/1/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, JACKSON, GRAND TOWER, 300 21 ST</description><Point><coordinates>-89.507545, 37.642237</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, JACKSON, GRAND TOWER, 306 MAIN ST</description><Point><coordinates>-89.500654, 37.626856</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, JACKSON, MURPHYSBORO, 1 THE PINE CREEK RD</description><Point><coordinates>-89.260456, 37.741930</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/9/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, JACKSON, MURPHYSBORO, 323  WELLS</description><Point><coordinates>-89.316733, 37.759814</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/18/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, JACKSON, POMONA, 63 PITBULL LANE</description><Point><coordinates>-89.336756, 37.628106</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

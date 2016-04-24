@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/16/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MINNESOTA, WASHINGTON, HUGO, 4964 NORTH EMMIT DRIVE</description><Point><coordinates>-93.004770, 45.174355</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MINNESOTA, WASHINGTON, LAKE ELMO, 3151 LAKE ELMO AVE</description><Point><coordinates>-92.878973, 44.994576</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/8/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MINNESOTA, WASHINGTON, LANDFALL, 12  IVY LANE</description><Point><coordinates>-92.974554, 44.951441</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

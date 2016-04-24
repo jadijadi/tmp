@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, YANCEY, BURNSVILLE, 439 US 19 W HWY</description><Point><coordinates>-82.648942, 35.549439</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/6/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, YANCEY, BURNSVILLE, 1 MAIN E ST</description><Point><coordinates>-82.300501, 35.917226</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/6/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, YANCEY, BURNSVILLE, 675 BLANKENSHIP CREEK RD</description><Point><coordinates>-82.373836, 35.862111</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/1/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, YANCEY, BURNSVILLE, 4916  HIGHWAY 19E HIGHWAY</description><Point><coordinates>-82.199982, 35.909817</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/10/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, YANCEY, BURNSVILLE, 79  SILVER SPRINGS ROAD</description><Point><coordinates>-82.300961, 35.917336</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/12/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, YANCEY, BURNSVILLE, 261  DEPOT STREET</description><Point><coordinates>-82.279973, 35.912896</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

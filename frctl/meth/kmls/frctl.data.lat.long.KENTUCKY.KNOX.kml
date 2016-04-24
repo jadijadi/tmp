@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/12/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, KNOX, BARBOURVILLE, 28  FULLMOON COURT</description><Point><coordinates>-83.888814, 36.866476</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/29/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, KNOX, BARBOURVILLE, 146  DAVENPORT LANE</description><Point><coordinates>-83.888814, 36.866476</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/7/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, KNOX, CORBIN, 480 MARBLE RD</description><Point><coordinates>-84.096876, 36.948699</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/13/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, KNOX, CORBIN, 553 WATCH AVE</description><Point><coordinates>-84.045933, 36.956807</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/3/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, KNOX, CORBIN, 553 WATCH ROAD</description><Point><coordinates>-84.045933, 36.956807</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/7/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, KNOX, CORBIN, 493  STANDARD AVENUE</description><Point><coordinates>-84.079286, 36.951028</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/17/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, KNOX, GRAY, 1248 HAZEL FK RD B</description><Point><coordinates>-84.016193, 36.956344</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/26/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, KNOX, GRAY, 488 SAM PARKER RD</description><Point><coordinates>-83.987149, 36.959169</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/17/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, KNOX, GRAY, 86  MT PLEASANT CHURCH ROAD</description><Point><coordinates>-83.930028, 36.909983</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/6/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, KNOX, GRAY, 1298  HAZEL FORK</description><Point><coordinates>-84.012935, 36.943163</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, KNOX, WOODBINE, 605 TOWER RD</description><Point><coordinates>-84.270018, 37.839333</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

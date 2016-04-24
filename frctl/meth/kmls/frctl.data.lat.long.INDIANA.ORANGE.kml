@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/16/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, ORANGE, FRENCH LICK, 8864 OLIVE STREET</description><Point><coordinates>-86.623580, 38.547999</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/26/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, ORANGE, FRENCH LICK, 4838 SOUTH 950</description><Point><coordinates>-86.632195, 38.485753</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/29/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, ORANGE, HARDINSBURG, 6050 CR 775 S. E</description><Point><coordinates>-86.346719, 38.443079</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, ORANGE, HARDINSBURG, 6501 CR 750 E S</description><Point><coordinates>-86.317478, 38.462642</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/5/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, ORANGE, MARENGO, 2130 EAST CR 910 SOUTH ROAD</description><Point><coordinates>-86.418835, 38.423558</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/5/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, ORANGE, PAOLI, 1997 DOE VALLEY N</description><Point><coordinates>-86.486042, 38.588966</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/23/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, ORANGE, PAOLI, 1390 WEST CR 200 N</description><Point><coordinates>-86.500745, 38.586399</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/21/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, ORANGE, PAOLI, 3015 WEST US HWY 150</description><Point><coordinates>-87.407193, 39.405213</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/9/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, ORANGE, PAOLI, 1449 SOUTH STATE ROAD 37 HIGHWAY</description><Point><coordinates>-86.459326, 38.574105</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/20/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, ORANGE, PAOLI, 1531  N COUNTRY RD 150 EAST</description><Point><coordinates>-86.469379, 38.561665</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

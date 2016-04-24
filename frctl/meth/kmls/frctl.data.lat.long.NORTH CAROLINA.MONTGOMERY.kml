@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/25/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, MONTGOMERY, BISCOE, 407  BLAKE STREET</description><Point><coordinates>-79.772018, 35.353840</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/11/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, MONTGOMERY, CANDOR, 112  RICHARDSON ROAD</description><Point><coordinates>-79.836166, 35.275141</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/26/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, MONTGOMERY, MOUNT GILEAD, 149 COLUMBUS DR</description><Point><coordinates>-79.973853, 35.244426</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/9/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, MONTGOMERY, STAR, 140 E BANK STREET</description><Point><coordinates>-79.782302, 35.401191</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/15/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, MONTGOMERY, TROY, 1052 N MAIN STREET</description><Point><coordinates>-79.884477, 35.378860</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

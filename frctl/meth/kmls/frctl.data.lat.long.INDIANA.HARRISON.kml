@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/1/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, HARRISON, CENTRAL, 7455 SOUTHWEST VALLEY CITY ROAD</description><Point><coordinates>-86.134902, 40.267194</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/20/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, HARRISON, CENTRAL, 8225 RIPPERDAN VALLEY ROAD</description><Point><coordinates>-86.193280, 38.081629</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/14/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, HARRISON, CENTRAL, 4970  NEW AMSTERDAM ROAD</description><Point><coordinates>-86.226176, 38.094156</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, HARRISON, CORYDON, 3100 LOCUST POINT RD</description><Point><coordinates>-86.067796, 38.177983</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/26/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, HARRISON, CORYDON, 2965 DIXIE RD</description><Point><coordinates>-86.212238, 38.160094</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/11/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, HARRISON, CORYDON, 5280 UNION CHAPEL RD</description><Point><coordinates>-86.127558, 38.125394</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/11/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, HARRISON, CORYDON, 90 OLD SR 135 2</description><Point><coordinates>-86.130002, 38.202533</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/12/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, HARRISON, CORYDON, 215 BIG INDIAN RD</description><Point><coordinates>-86.115730, 38.220494</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/18/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, HARRISON, CORYDON, 541 WALNUT E SR</description><Point><coordinates>-86.119118, 38.212051</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/6/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, HARRISON, CORYDON, 5140 FIVE OAKS ROAD</description><Point><coordinates>-86.224104, 38.152380</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/16/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, HARRISON, CORYDON, 309 BEECH STREET</description><Point><coordinates>-86.122762, 38.207983</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/27/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, HARRISON, CORYDON, 6660 JULIE LANE</description><Point><coordinates>-86.129255, 38.103697</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/4/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, HARRISON, CORYDON, 6905 JULIE LANE</description><Point><coordinates>-86.128804, 38.099554</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/30/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, HARRISON, CORYDON, 4450 MT SOLOMON #30</description><Point><coordinates>-86.185153, 38.217865</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/27/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, HARRISON, CORYDON, 2439 KANE ROAD</description><Point><coordinates>-86.080062, 38.152715</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/16/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, HARRISON, CORYDON, 930 PFRIMMERS CHAPEL ROAD</description><Point><coordinates>-86.055006, 38.186268</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/17/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, HARRISON, CORYDON, 819 LAKE ROAD</description><Point><coordinates>-86.146771, 38.128637</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/18/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, HARRISON, CORYDON, 2740 SOUTH PLEASANT ROAD</description><Point><coordinates>-86.105142, 38.159847</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/29/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, HARRISON, CORYDON, 2630  WHIPPOORWILL LANE</description><Point><coordinates>-86.174880, 38.162280</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/5/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, HARRISON, CORYDON, 754  BROWNS LANE</description><Point><coordinates>-86.111217, 38.211953</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/20/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, HARRISON, CORYDON, 260  SUMMIT VIEW DRIVE 105</description><Point><coordinates>-86.129715, 38.218943</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/27/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, HARRISON, CORYDON, 163  VALLEY ROAD</description><Point><coordinates>-86.124256, 38.208493</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/23/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, HARRISON, DEPAUW, 8400 DUKES ROAD</description><Point><coordinates>-86.249441, 38.321179</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, HARRISON, ELIZABETH, 8770 LOTTICKS CORNER RD</description><Point><coordinates>-85.961964, 38.170926</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/1/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, HARRISON, ELIZABETH, 7561 SR 111 S</description><Point><coordinates>-85.915253, 38.091245</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/22/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, HARRISON, ELIZABETH, 3955 O'BANNON RD</description><Point><coordinates>-85.974132, 38.121182</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/21/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, HARRISON, ELIZABETH, 5440 MAIN STREET</description><Point><coordinates>-85.973987, 38.121104</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/18/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, HARRISON, ELIZABETH, 2755 DOOLITTLE HILL ROAD</description><Point><coordinates>-85.919555, 38.162338</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/10/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, HARRISON, GREENVILLE, 11460  BRADFORD WOODS ROAD</description><Point><coordinates>-86.059447, 38.366709</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/14/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, HARRISON, LANESVILLE, 4995 SEVEN SPRINGS RD</description><Point><coordinates>-85.985801, 38.237013</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, HARRISON, LANESVILLE, 5410 OLD LANESVILLE N RD</description><Point><coordinates>-85.992362, 38.274163</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/18/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, HARRISON, LANESVILLE, 3341  CRANDEL LANESVILLE ROAD</description><Point><coordinates>-85.995975, 38.249766</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, HARRISON, MAUCKPORT, 9975 VALLEY CITY MAUCKPORT W</description><Point><coordinates>-86.213968, 38.058088</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/18/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, HARRISON, MAUCKPORT, 2380 HWY 11</description><Point><coordinates>-86.176034, 38.017382</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/16/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, HARRISON, MAUCKPORT, 11210 VALLEY CITY-MAUCKPORT ROAD</description><Point><coordinates>-86.203962, 38.038887</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/14/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, HARRISON, NEW SALISBURY, 845 NORTHEAST HANCOCK CHAPEL ROAD</description><Point><coordinates>-86.107998, 38.367038</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/24/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, HARRISON, NEW SALISBURY, 845 HANCOCK CHAPEL ROAD</description><Point><coordinates>-86.107998, 38.367038</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/16/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, HARRISON, NEW SALISBURY, 8230 THORNBURY DRIVE</description><Point><coordinates>-86.067299, 38.320145</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/20/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, HARRISON, NEW SALISBURY, 1606  CEMETERY ROAD</description><Point><coordinates>-86.094271, 38.338714</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/5/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, HARRISON, PALMYRA, 1767 DOGWOOD ESTATES</description><Point><coordinates>-86.155234, 38.399750</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

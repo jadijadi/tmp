@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 8/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, COOPER, BOONVILLE, 1635 SPORTSMAN RD</description><Point><coordinates>-92.773857, 38.948170</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/22/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, COOPER, BOONVILLE, 10451 FERRY ROAD</description><Point><coordinates>-92.854472, 38.961869</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, COOPER, BUNCETON, 3901 MONKS DR</description><Point><coordinates>-92.814458, 38.732156</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/1/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, COOPER, OTTERVILLE, 2347 HWY BB</description><Point><coordinates>-93.027784, 38.722369</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/15/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, COOPER, PRAIRIE HOME, 9238  HIGHWAY 87</description><Point><coordinates>-92.577623, 38.807050</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

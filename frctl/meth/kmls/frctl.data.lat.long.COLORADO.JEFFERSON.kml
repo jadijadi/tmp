@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, JEFFERSON, ARVADA, 11308 59TH W PL</description><Point><coordinates>-105.124856, 39.804945</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, JEFFERSON, ARVADA, 5690 80TH W AVE 87</description><Point><coordinates>-105.058696, 39.841716</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, JEFFERSON, ARVADA, 7825 ALLISON N WAY A308</description><Point><coordinates>-105.089569, 39.837549</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/6/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, JEFFERSON, ARVADA, 7487 GARLAND N ST</description><Point><coordinates>-105.102995, 39.832296</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, JEFFERSON, ARVADA, 6591 ZANG N CT</description><Point><coordinates>-105.146350, 39.816559</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/5/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, JEFFERSON, ARVADA, 8510 GRANDVIEW W AVE</description><Point><coordinates>-105.092957, 39.798158</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/11/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, JEFFERSON, ARVADA, 6395 53RD W AVE</description><Point><coordinates>-105.067084, 39.793202</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/19/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, JEFFERSON, ARVADA, 9660 WEST 63RD AVENUE</description><Point><coordinates>-105.106046, 39.810741</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/2/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, JEFFERSON, DENVER, 5580 WEST 10TH AVENUE</description><Point><coordinates>-105.057335, 39.732953</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/29/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, JEFFERSON, EDGEWATER, 6815 WEST 24TH AVENUE 211</description><Point><coordinates>-105.072886, 39.751811</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/11/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, JEFFERSON, LAKEWOOD, 1305 ESTES N ST 27</description><Point><coordinates>-105.096118, 39.736863</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, JEFFERSON, LAKEWOOD, 1050 PIERCE S ST 21</description><Point><coordinates>-105.072039, 39.697425</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/31/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, JEFFERSON, LAKEWOOD, 210 INGALLS S ST 2</description><Point><coordinates>-105.063575, 39.712989</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, JEFFERSON, LAKEWOOD, 10250 MISSISSIPPI W AVE 1204</description><Point><coordinates>-105.113258, 39.696132</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, JEFFERSON, LAKEWOOD, 6780 14TH W AVE</description><Point><coordinates>-105.071588, 39.738390</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, JEFFERSON, LAKEWOOD, 18997 KENDALL N ST</description><Point><coordinates>-105.066153, 39.701346</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, JEFFERSON, LAKEWOOD, 3228 GARRISON S ST 236</description><Point><coordinates>-105.099893, 39.657923</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, JEFFERSON, LAKEWOOD, 2899 ELDRIDGE S CT</description><Point><coordinates>-105.154057, 39.666043</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, JEFFERSON, LAKEWOOD, 7393 JEFFERSON W AVE 139</description><Point><coordinates>-105.079266, 39.650563</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/22/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, JEFFERSON, LAKEWOOD, 8001 10TH W AVE # 10</description><Point><coordinates>-105.086340, 39.733594</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/22/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, JEFFERSON, LAKEWOOD, 6652 HAMILTON W DR</description><Point><coordinates>-105.069067, 39.654222</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/17/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, JEFFERSON, LAKEWOOD, 8126 WEST 6TH AVENUE</description><Point><coordinates>-105.135845, 39.724816</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/25/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, JEFFERSON, LAKEWOOD, 370 ZANG STREET 302</description><Point><coordinates>-105.145185, 39.720294</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/10/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, JEFFERSON, LAKEWOOD, 3282 SOUTH NEWCOMBE STREET 15-202</description><Point><coordinates>-105.117961, 39.657692</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, JEFFERSON, LITTLETON, 4605 ROUTT S ST</description><Point><coordinates>-105.127236, 39.633615</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/23/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, JEFFERSON, MORRISON, 13444 SARATOGA W DR</description><Point><coordinates>-105.150930, 39.626713</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/7/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, JEFFERSON, WESTON, 10710 NORTH MOORE STREET</description><Point><coordinates>-117.467393, 47.718574</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/5/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, JEFFERSON, WHEAT RIDGE, 3275 NORTH AMES STREET</description><Point><coordinates>-105.054800, 39.763294</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

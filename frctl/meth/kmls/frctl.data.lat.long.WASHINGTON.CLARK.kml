@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, CLARK, AMBOY, 43207 NE 285TH AVE 23</description><Point><coordinates>-122.380066, 45.932973</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, CLARK, CAMAS, 31608 NE GEORGE RD</description><Point><coordinates>-122.348182, 45.649804</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, CLARK, VANCOUVER, 2122 NE 90TH AVE</description><Point><coordinates>-122.581009, 45.638528</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/27/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, CLARK, VANCOUVER, 9203 NE WARD RD</description><Point><coordinates>-122.497473, 45.687667</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, CLARK, VANCOUVER, 5009 HAZELDELL NE AVE</description><Point><coordinates>-122.666487, 45.658394</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, CLARK, VANCOUVER, 702 SE 141ST AVE</description><Point><coordinates>-122.528048, 45.615764</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/13/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, CLARK, VANCOUVER, 7108 117TH NE AVE</description><Point><coordinates>-122.553160, 45.674266</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/17/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, CLARK, VANCOUVER, 9208 NE 50TH CT</description><Point><coordinates>-122.620206, 45.688306</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/4/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, CLARK, VANCOUVER, 4004 NE 44TH ST</description><Point><coordinates>-122.630013, 45.653494</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/13/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, CLARK, VANCOUVER, 2800 NORTHEAST STAPLETON ROAD</description><Point><coordinates>-122.617498, 45.642559</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/13/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, CLARK, VANCOUVER, 5910 NORTHEAST 131ST AVENUE</description><Point><coordinates>-122.538040, 45.665841</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/4/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, CLARK, VANCOUVER, 6920 NE SAINT JOHNS ROAD</description><Point><coordinates>-122.635952, 45.674066</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, CLARK, WASHOUGAL, 2124 B ST 1</description><Point><coordinates>-122.374389, 45.595120</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

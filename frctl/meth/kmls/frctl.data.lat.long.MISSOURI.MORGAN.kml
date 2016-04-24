@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 11/26/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, MORGAN, GRAVOIS MILLS, 15563 WALNUT HILLS LP</description><Point><coordinates>-92.794966, 38.246496</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/24/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, MORGAN, GRAVOIS MILLS, 13341 TIFF MINE LANE</description><Point><coordinates>-92.834091, 38.308019</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/22/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, MORGAN, GRAVOIS MILLS, 32576 COMPROMISE ROAD</description><Point><coordinates>-92.778147, 38.212171</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/11/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, MORGAN, GRAVOIS MILLS, 719 N main STREET</description><Point><coordinates>-92.844063, 38.209664</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, MORGAN, OTTERVILLE, 4529 50 HWY</description><Point><coordinates>-92.988406, 38.682848</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/26/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, MORGAN, ROCKY MOUNT, 30469 BLUE RIDGE DRIVE</description><Point><coordinates>-92.720859, 38.241650</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/17/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, MORGAN, STOVER, 18437 MULBERRY LN</description><Point><coordinates>-93.045632, 38.426762</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/17/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, MORGAN, STOVER, 4601 PYRMOUNT</description><Point><coordinates>-92.985624, 38.498509</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/14/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, MORGAN, STOVER, 204 WEST FIFTH STREET</description><Point><coordinates>-92.990862, 38.444038</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/28/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, MORGAN, STOVER, 205 NORTH OAK STREET</description><Point><coordinates>-92.992069, 38.440753</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/14/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, MORGAN, STOVER, 2914 ADOBE ROAD</description><Point><coordinates>-93.032057, 38.401953</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/27/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, MORGAN, SYRACUSE, 11973  HIGHWAY 50</description><Point><coordinates>-85.692178, 41.466279</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, MORGAN, VERSAILLES, 7758 OZARK HEIGHTS RD</description><Point><coordinates>-92.924399, 38.324991</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, MORGAN, VERSAILLES, 422 OLD W RD</description><Point><coordinates>-92.836869, 38.427159</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, MORGAN, VERSAILLES, 200 VANBUREN S ST</description><Point><coordinates>-92.839176, 38.430071</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, MORGAN, VERSAILLES, 412 MONROE N</description><Point><coordinates>-92.841285, 38.436711</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/17/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, MORGAN, VERSAILLES, 702 SECOND E ST</description><Point><coordinates>-92.853061, 38.424631</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/21/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, MORGAN, VERSAILLES, 406 WEST CLARK</description><Point><coordinates>-92.845890, 38.435045</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/2/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, MORGAN, VERSAILLES, 14092 CARDNIAL ROAD</description><Point><coordinates>-92.888608, 38.480292</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

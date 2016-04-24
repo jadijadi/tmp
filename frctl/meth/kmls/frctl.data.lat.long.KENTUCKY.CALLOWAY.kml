@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/9/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, CALLOWAY, ALMO, 216  SADDLEBROOK LANE</description><Point><coordinates>-88.303864, 36.730117</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/10/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, CALLOWAY, DEXTERVILLE, 4591  RADIO ROAD</description><Point><coordinates>-84.270018, 37.839333</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, CALLOWAY, MURRAY, 200 FLEETWOOD CIR</description><Point><coordinates>-88.309155, 36.633818</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/29/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, CALLOWAY, MURRAY, 53 PARKSIDE DR</description><Point><coordinates>-88.080110, 36.647903</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/14/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, CALLOWAY, MURRAY, 1626  HAMILTON AVENUE</description><Point><coordinates>-88.328288, 36.613152</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/9/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, CALLOWAY, MURRAY, UTTERBACK ROAD</description><Point><coordinates>-88.317083, 36.638697</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/21/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, CALLOWAY, NEW CONCORD, 392  NEWMAN ROAD</description><Point><coordinates>-88.084682, 36.506812</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

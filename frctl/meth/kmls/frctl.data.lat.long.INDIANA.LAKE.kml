@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 7/21/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, LAKE, CROWN POINT, 3912 WEST 113TH AVENUE</description><Point><coordinates>-87.383057, 41.413571</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/15/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, LAKE, CROWN POINT, 776 EAST SOUTH STREET</description><Point><coordinates>-87.355034, 41.413235</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/31/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, LAKE, HAMMOND, 7207 NEW JERSEY AVE</description><Point><coordinates>-87.437645, 41.582469</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, LAKE, MERRILLVILLE, 8250 LOUISIANA ST</description><Point><coordinates>-87.321344, 41.469332</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/27/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, LAKE, MERRILLVILLE, 2007 89TH E AVE</description><Point><coordinates>-87.311175, 41.456213</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

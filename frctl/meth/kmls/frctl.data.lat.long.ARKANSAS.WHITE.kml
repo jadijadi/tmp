@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 12/7/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, WHITE, BALD KNOB, 640 STANLEY RD</description><Point><coordinates>-91.615928, 35.396142</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/9/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, WHITE, BALD KNOB, 310 EAST JONES DRIVE</description><Point><coordinates>-91.635405, 35.382807</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/20/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, WHITE, BALD KNOB, 640 STANLEY RD</description><Point><coordinates>-91.615928, 35.396142</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/24/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, WHITE, BALD KNOB, 603 SOUTH MAIN STREET</description><Point><coordinates>-91.565959, 35.309289</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/14/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, WHITE, BALD KNOB, 289 PINE CREEK ROAD</description><Point><coordinates>-91.597722, 35.423778</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/19/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, WHITE, BALD KNOB, 246 HUMES ROAD</description><Point><coordinates>-91.534212, 35.317985</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/1/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, WHITE, BALD KNOB, 113 FIRE TOWER ROAD</description><Point><coordinates>-91.568746, 35.405948</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/25/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, WHITE, BALD KNOB, 267 NEWELL ROAD</description><Point><coordinates>-91.553516, 35.356947</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/29/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, WHITE, BALD KNOB, 640  STANLEY ROAD</description><Point><coordinates>-91.615928, 35.396142</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/16/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, WHITE, BALD KNOB, 120  ALBERT HILL</description><Point><coordinates>-91.545876, 35.340888</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/3/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, WHITE, BALD KNOB, 515  STATE HWY 167</description><Point><coordinates>-91.565151, 35.356609</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/11/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, WHITE, BEEBE, 326 GILLHAM RD 326 326</description><Point><coordinates>-91.989121, 35.076759</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/19/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, WHITE, BEEBE, 471 SWINGING BRIDGE ROAD</description><Point><coordinates>-91.924608, 35.099437</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/16/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, WHITE, BEEBE, 1110 GREEN MEADOW DRIVE</description><Point><coordinates>-91.886244, 35.058613</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/7/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, WHITE, BEEBE, 313  GEORGIA</description><Point><coordinates>-91.876834, 35.070692</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/17/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, WHITE, BRADFORD, 402 EAST ELM STREET</description><Point><coordinates>-91.452271, 35.419350</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/15/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, WHITE, BRADFORD, 161  VELVET RIDGE</description><Point><coordinates>-91.569067, 35.428104</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/4/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, WHITE, JUDSONIA, 182 Y AND Y SALVAGE ROAD</description><Point><coordinates>-91.666062, 35.373632</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/5/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, WHITE, JUDSONIA, 181  SALVAGE ROAD</description><Point><coordinates>-91.670169, 35.374028</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/15/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, WHITE, KENSETT, 110 FIRST</description><Point><coordinates>-91.667504, 35.232749</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/30/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, WHITE, KENSETT, 214 2ND STREET</description><Point><coordinates>-91.669466, 35.232609</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/11/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, WHITE, ROMANCE, 103 BILLY MOON ROAD</description><Point><coordinates>-92.072998, 35.205949</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/28/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, WHITE, ROMANCE, 231  WADLEY</description><Point><coordinates>-92.067848, 35.265698</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/23/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, WHITE, RUSSELL, 150 OLD RUSSELL ROAD</description><Point><coordinates>-91.554914, 35.336896</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/21/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, WHITE, RUSSELLVILLE, 152 WOLF HOLLOW ROAD</description><Point><coordinates>-91.831833, 35.201050</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/9/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, WHITE, SEARCY, 110 COLLEGE S ST</description><Point><coordinates>-91.750491, 35.248320</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/13/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, WHITE, SEARCY, 2468 SOUTH 267 HIGHWAY</description><Point><coordinates>-91.786679, 35.196075</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/24/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, WHITE, SEARCY, 2470 SOUTH 267 HIGHWAY</description><Point><coordinates>-91.786766, 35.195995</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/28/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, WHITE, SEARCY, 506 RIVERSIDE</description><Point><coordinates>-91.714182, 35.277517</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/20/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, WHITE, SEARCY, 109 COLES</description><Point><coordinates>-91.799706, 35.292838</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/1/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, WHITE, SEARCY, 1210 WEST VINE STREET</description><Point><coordinates>-91.749592, 35.251999</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/24/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, WHITE, SEARCY, 105 ALLEN MOUNTAIN ROAD</description><Point><coordinates>-91.759515, 35.391969</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/21/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, WHITE, SEARCY, 134 DIAMOND LANE</description><Point><coordinates>-91.722817, 35.417054</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/20/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, WHITE, SEARCY, 303  CENTER STREET</description><Point><coordinates>-91.734930, 35.248515</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/4/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, WHITE, WEST POINT, 966  STATE HWY 36</description><Point><coordinates>-91.589668, 35.194797</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

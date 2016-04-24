@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 9/18/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, LEWIS, ENDWELL, 127  W WENDELL</description><Point><coordinates>-74.005941, 40.712784</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/13/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, LEWIS, GREIG, 7899  WOODCHUCK</description><Point><coordinates>-75.354623, 43.681458</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/21/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, LEWIS, NEW BREMEN, 8353  MEADOW ROAD</description><Point><coordinates>-75.467941, 43.849258</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/10/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, LEWIS, PORT LEYDEN, 7153 E MAIN STREET</description><Point><coordinates>-75.342675, 43.582821</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

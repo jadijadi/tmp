@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/8/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, ST. CLAIR, BELLEVILLE, 1  RUSTY WIL</description><Point><coordinates>-89.964650, 38.502844</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/7/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, ST. CLAIR, BELLEVILLE, 112 WEST B</description><Point><coordinates>-89.986350, 38.515331</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/3/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, ST. CLAIR, BELLEVILLE, 607 EAST MCKINLEY</description><Point><coordinates>-89.976280, 38.507179</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/22/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, ST. CLAIR, CASEYVILLE, 446 SOUTH 7TH</description><Point><coordinates>-90.035738, 38.636896</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/13/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, ST. CLAIR, DUPO, 1300 NORTH MAIN</description><Point><coordinates>-90.203585, 38.533832</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/13/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, ST. CLAIR, DUPO, 1332 NORTH MAIN</description><Point><coordinates>-90.203219, 38.534755</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/2/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, ST. CLAIR, DUPO, 2336  MULLINS CREEK</description><Point><coordinates>-90.141173, 38.537113</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/9/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, ST. CLAIR, DUPO, 1300 NORTH MAIN</description><Point><coordinates>-90.203585, 38.533832</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/11/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, ST. CLAIR, DUPO, 800 BLOCK  ADAMS</description><Point><coordinates>-90.209463, 38.529316</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/1/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, ST. CLAIR, DUPO, 511  FALLINGSPRINGS</description><Point><coordinates>-90.194151, 38.543438</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/20/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, ST. CLAIR, DUPO, 1612  FALLING SPRINGS</description><Point><coordinates>-90.187237, 38.532997</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/26/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, ST. CLAIR, EAST CARONDELET, 809  ADAMS</description><Point><coordinates>-90.209941, 38.529318</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/9/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, ST. CLAIR, FAIRMONT CITY, 2546 NORTH 34TH</description><Point><coordinates>-90.112922, 38.643660</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/26/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, ST. CLAIR, FAIRMONT CITY, 2625  BELT</description><Point><coordinates>-90.089143, 38.649065</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/26/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, ST. CLAIR, FAIRMONT CITY, 2625  BELT</description><Point><coordinates>-90.089143, 38.649065</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, ST. CLAIR, FAIRVIEW HEIGHTS, 1916 NORTH 89TH STREET</description><Point><coordinates>-90.047591, 38.608473</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

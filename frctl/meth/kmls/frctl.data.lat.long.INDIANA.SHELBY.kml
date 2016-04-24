@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/19/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, SHELBY, FLAT ROCK, 1503 VANDALIA RD</description><Point><coordinates>-85.749280, 39.396865</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/6/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, SHELBY, FLAT ROCK, 34  E. 900 SOUITH ROAD</description><Point><coordinates>-85.777839, 39.393591</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, SHELBY, FOUNTAINTOWN, 205 IVY N ST</description><Point><coordinates>-85.783132, 39.694920</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/23/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, SHELBY, MORRISTOWN, 340 NORTH ST</description><Point><coordinates>-85.693916, 39.673964</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/7/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, SHELBY, MORRISTOWN, 2776 EAST FREEPORT ROAD</description><Point><coordinates>-85.729778, 39.659023</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, SHELBY, SHELBYVILLE, 212 PENNSYLVANIA E</description><Point><coordinates>-85.772268, 39.527083</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, SHELBY, SHELBYVILLE, 436 600 S W</description><Point><coordinates>-85.787723, 39.438422</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, SHELBY, SHELBYVILLE, 556 BROADWAY E ST</description><Point><coordinates>-85.765715, 39.522848</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/11/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, SHELBY, SHELBYVILLE, 3183 LITTLE BLUE N RD</description><Point><coordinates>-85.712109, 39.573278</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/20/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, SHELBY, SHELBYVILLE, 17 WEST LOCUST STREET</description><Point><coordinates>-85.777768, 39.518771</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/29/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, SHELBY, SHELBYVILLE, 911  HALE ROAD 30</description><Point><coordinates>-85.796260, 39.515025</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/16/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, SHELBY, SHELBYVILLE, 596  CHESTNUT STREET 75</description><Point><coordinates>-85.767022, 39.520473</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/27/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, SHELBY, SHELBYVILLE, 1103  STATE STREET</description><Point><coordinates>-85.787400, 39.514239</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/19/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, SHELBY, SHELBYVILLE, 203  WASHINGTON</description><Point><coordinates>-85.781980, 39.524119</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/29/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, SHELBY, WALDRON, 108 MAIN N ST</description><Point><coordinates>-85.666642, 39.454045</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

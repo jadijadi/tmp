@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 10/11/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, SAN JOAQUIN, LATHROP, 15523 SIXTH STREET</description><Point><coordinates>-121.276891, 37.821253</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/20/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, SAN JOAQUIN, MANTECA, 481 SOUTH UNION ROAD</description><Point><coordinates>-121.234716, 37.794020</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/12/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, SAN JOAQUIN, MANTECA, 250 N UNION</description><Point><coordinates>-121.234403, 37.800274</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, SAN JOAQUIN, STOCKTON, 7790 N ASHLEY LN</description><Point><coordinates>-121.224861, 38.028403</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, SAN JOAQUIN, STOCKTON, 9800 E EIGHT MILE RD</description><Point><coordinates>-121.196773, 38.056859</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, SAN JOAQUIN, STOCKTON, 5708 N HIGHWAY 99</description><Point><coordinates>-121.257092, 38.015425</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, SAN JOAQUIN, STOCKTON, 1560 SILVER CREEK</description><Point><coordinates>-121.327216, 37.998915</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, SAN JOAQUIN, STOCKTON, 10285 HILDRETH LN</description><Point><coordinates>-121.226337, 38.050951</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/31/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, SAN JOAQUIN, STOCKTON, 2717 W MARCH LN</description><Point><coordinates>-121.345148, 37.985568</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, SAN JOAQUIN, STOCKTON, 2654 W MARCH LN 304</description><Point><coordinates>-121.341631, 37.983915</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, SAN JOAQUIN, STOCKTON, 3416 FARMINGTON E RD 2</description><Point><coordinates>-121.235374, 37.939576</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/25/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, SAN JOAQUIN, STOCKTON, 2274 E FREMONT</description><Point><coordinates>-121.260639, 37.963378</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/25/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, SAN JOAQUIN, STOCKTON, 2071 LA JOLLA DR</description><Point><coordinates>-121.331338, 37.979109</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/1/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, SAN JOAQUIN, STOCKTON, 2553 MICHAELANGELO DRIVE</description><Point><coordinates>-121.338767, 37.981446</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/19/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, SAN JOAQUIN, STOCKTON, 301 MORADA</description><Point><coordinates>-121.314559, 38.035735</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/3/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, SAN JOAQUIN, TRACY, 14703 FINCK ROAD</description><Point><coordinates>-121.489650, 37.796827</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/14/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, SAN JOAQUIN, TRACY, 11422 WEST LARCH ROAD</description><Point><coordinates>-121.445972, 37.764065</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

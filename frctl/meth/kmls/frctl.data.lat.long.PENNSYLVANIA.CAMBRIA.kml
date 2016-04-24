@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 12/18/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: PENNSYLVANIA, CAMBRIA, NANTY GLO, 41  FULTON DRIVE</description><Point><coordinates>-78.833291, 40.482973</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/9/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: PENNSYLVANIA, CAMBRIA, PATTON, 314  ASHCROFT ROAD</description><Point><coordinates>-78.650301, 40.633956</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

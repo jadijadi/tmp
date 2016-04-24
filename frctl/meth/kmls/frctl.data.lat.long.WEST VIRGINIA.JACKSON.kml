@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 9/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WEST VIRGINIA, JACKSON, COTTAGEVILLE, 34 PINELL ST</description><Point><coordinates>-81.848151, 38.875575</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/9/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WEST VIRGINIA, JACKSON, KENNA, 1930 FISHER RIDGE RD</description><Point><coordinates>-81.622686, 38.589316</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/25/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WEST VIRGINIA, JACKSON, KENNA, 517 WATTS CHAPEL RD</description><Point><coordinates>-81.664092, 38.642603</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/25/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WEST VIRGINIA, JACKSON, MURRAYSVILLE, 1085 SKULL RUN RD</description><Point><coordinates>-80.454903, 38.597626</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/20/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WEST VIRGINIA, JACKSON, RAVENSWOOD, 706 RITCHIE S AVE</description><Point><coordinates>-81.756269, 38.953239</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/26/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WEST VIRGINIA, JACKSON, RIPLEY, 427  BULLFROG ROAD</description><Point><coordinates>-81.725505, 38.832014</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/26/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WEST VIRGINIA, JACKSON, SANDYVILLE, 3  STONEGATE ROAD</description><Point><coordinates>-81.689320, 38.880994</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

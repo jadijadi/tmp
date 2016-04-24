@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 10/26/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, RANDOLPH, CLARK, 1117 COUNTY ROAD 2695</description><Point><coordinates>-92.373683, 39.292417</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/22/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, RANDOLPH, CLARK, 1295 COUNTY ROAD 2950</description><Point><coordinates>-92.388533, 39.272901</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, RANDOLPH, MOBERLY, 309 6TH S ST</description><Point><coordinates>-92.442528, 39.416504</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, RANDOLPH, MOBERLY, 833 WESTEND</description><Point><coordinates>-92.447380, 39.422054</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/12/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, RANDOLPH, MOBERLY, 910 END W PL</description><Point><coordinates>-92.448286, 39.421711</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/22/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, RANDOLPH, MOBERLY, 3219  COUNTY ROAD 1330</description><Point><coordinates>-92.440083, 39.482832</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/30/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, RANDOLPH, MOBERLY, 1025  HENRY STREET</description><Point><coordinates>-92.449776, 39.426456</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/16/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, RANDOLPH, MOBERLY, 1328  HURLEY AVENUE</description><Point><coordinates>-92.455217, 39.432308</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, RANDOLPH, RENICK, 300 DAVIS W ST</description><Point><coordinates>-92.412223, 39.340348</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

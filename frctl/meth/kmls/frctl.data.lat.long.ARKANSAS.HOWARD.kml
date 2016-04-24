@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/3/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, HOWARD, DIERKS, 308 MOUNT CARMEL ROAD</description><Point><coordinates>-94.024467, 34.026505</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, HOWARD, MINERAL SPRINGS, 100 STONE RD</description><Point><coordinates>-93.891129, 33.854355</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, HOWARD, NASHVILLE, 11327 278 HWY</description><Point><coordinates>-93.946854, 34.030405</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

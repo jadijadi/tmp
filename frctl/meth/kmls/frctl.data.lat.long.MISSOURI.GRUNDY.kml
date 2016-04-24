@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/8/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, GRUNDY, LAREDO, 311  3RD STREET</description><Point><coordinates>-93.444220, 40.024868</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, GRUNDY, SPICKARD, 905 CORAL ST</description><Point><coordinates>-93.591963, 40.239297</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/6/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, GRUNDY, TRENTON, 71301 CARON N DR</description><Point><coordinates>-93.722179, 40.109509</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/20/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, GRUNDY, TRENTON, 509 MONROE</description><Point><coordinates>-93.619008, 40.071631</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/7/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, GRUNDY, TRENTON, 506 WEST CROWDER</description><Point><coordinates>-93.622313, 40.078708</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

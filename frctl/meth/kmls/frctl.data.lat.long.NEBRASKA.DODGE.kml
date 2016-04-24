@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 7/27/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEBRASKA, DODGE, DODGE, 300 CEDAR STREET</description><Point><coordinates>-96.885805, 41.722431</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/6/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEBRASKA, DODGE, FREMONT, 5776 WESY HWY 30</description><Point><coordinates>-96.569676, 41.452018</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/17/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEBRASKA, DODGE, FREMONT, 310 23RD W ST</description><Point><coordinates>-96.499036, 41.451780</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEBRASKA, DODGE, FREMONT, 810 16TH E ST</description><Point><coordinates>-96.487399, 41.444302</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/21/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEBRASKA, DODGE, FREMONT, 825 MILITARY W ST</description><Point><coordinates>-96.506583, 41.436092</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/4/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEBRASKA, DODGE, SCRIBNER, 1489  F ROAD</description><Point><coordinates>-96.638657, 41.669444</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 8/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, SAINT JOSEPH, BURR OAK, 29738 WITT LAKE RD</description><Point><coordinates>-85.375916, 41.823897</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/7/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, SAINT JOSEPH, BURR OAK, 64718 MAPLE LN</description><Point><coordinates>-85.318506, 41.859384</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/1/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, SAINT JOSEPH, BURR OAK, 64643 MAPLE LANE</description><Point><coordinates>-85.318466, 41.860170</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/17/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, SAINT JOSEPH, CENTREVILLE, 16 PLUM CT</description><Point><coordinates>-85.529387, 41.926192</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/7/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, SAINT JOSEPH, COLON, 123 CANAL ST</description><Point><coordinates>-85.325734, 41.957849</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/13/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, SAINT JOSEPH, COLON, 31271 FRANCIS STREET</description><Point><coordinates>-85.345015, 41.918377</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, SAINT JOSEPH, CONSTANTINE, 1200 WASHINGTON S ST 14</description><Point><coordinates>-85.664947, 41.830272</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/26/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, SAINT JOSEPH, LEONIDAS, 31093 M 60 HWY</description><Point><coordinates>-85.350257, 42.024414</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, SAINT JOSEPH, STURGIS, 122 NOTTOWA N ST</description><Point><coordinates>-85.419124, 41.800334</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/28/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, SAINT JOSEPH, STURGIS, 1035 CATO LANE</description><Point><coordinates>-85.431597, 41.788314</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/14/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, SAINT JOSEPH, STURGIS, 206 WEST WEST</description><Point><coordinates>-85.420560, 41.801198</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, SAINT JOSEPH, THREE RIVERS, 21266 MICHIGAN AVE</description><Point><coordinates>-85.543013, 42.042354</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, SAINT JOSEPH, THREE RIVERS, 16917 SUNSET LN</description><Point><coordinates>-85.625938, 41.970391</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/9/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, SAINT JOSEPH, THREE RIVERS, 61436 WOOD LAKE RD</description><Point><coordinates>-85.779685, 41.911161</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/28/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, SAINT JOSEPH, THREE RIVERS, 51378 PARKVILLE RD</description><Point><coordinates>-85.548328, 42.048770</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/4/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, SAINT JOSEPH, THREE RIVERS, 617 14TH ST LOT 34</description><Point><coordinates>-85.617351, 41.936675</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/29/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, SAINT JOSEPH, THREE RIVERS, 19350 M-86</description><Point><coordinates>-85.576694, 41.925781</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/3/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, SAINT JOSEPH, THREE RIVERS, 514 MAIN N ST</description><Point><coordinates>-85.634718, 41.951883</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/13/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, SAINT JOSEPH, THREE RIVERS, 10251  BALD HILL STREET</description><Point><coordinates>-86.489546, 42.093858</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/9/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, SAINT JOSEPH, THREE RIVERS, 225 E MICHIGAN STREET</description><Point><coordinates>-85.626589, 41.944678</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/23/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, SAINT JOSEPH, WHITE PIGEON, 19013 FAWN RIVER RD LOT 7</description><Point><coordinates>-85.583743, 41.779883</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, SAINT JOSEPH, WHITE PIGEON, 10842 RIVERSIDE DR</description><Point><coordinates>-85.750528, 41.802086</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/3/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, SAINT JOSEPH, WHITE PIGEON, 1108 GREEN LAWN</description><Point><coordinates>-86.489546, 42.093858</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/14/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, SAINT JOSEPH, WHITE PIGEON, 69520 THOMAS ST</description><Point><coordinates>-85.750176, 41.787063</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/14/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, SAINT JOSEPH, WHITE PIGEON, 107 HOTCHIN E ST</description><Point><coordinates>-85.642093, 41.795807</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/16/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, SAINT JOSEPH, WHITE PIGEON, 10259 JOHN STREET</description><Point><coordinates>-85.755689, 41.798867</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, SAINT JOSEPH, , 15378 PARKVILLE RD</description><Point><coordinates>-85.547894, 42.017954</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

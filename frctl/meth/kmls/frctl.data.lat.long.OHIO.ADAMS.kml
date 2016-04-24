@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/8/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, ADAMS, BLUE CREEK, 21805 STATE ROUTE 125</description><Point><coordinates>-83.329177, 38.776630</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/19/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, ADAMS, LYNX, 99 WILLIAM TAYLOR ROAD</description><Point><coordinates>-83.441005, 38.763412</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/28/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, ADAMS, MANCHESTER, 202 EAST FIFTH STREET</description><Point><coordinates>-83.608319, 38.689370</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/21/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, ADAMS, MANCHESTER, 923 PUMPKIN RIDGE ROAD</description><Point><coordinates>-83.555666, 38.736537</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/24/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, ADAMS, MANCHESTER, 1764  136</description><Point><coordinates>-83.600852, 38.712930</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/2/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, ADAMS, PEEBLES, 350 FIELDS HOLLOW RD</description><Point><coordinates>0, 0</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/15/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, ADAMS, PEEBLES, 2600 PARKER RIDGE RD</description><Point><coordinates>-83.386761, 39.036778</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/15/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, ADAMS, PEEBLES, 32505 STATE ROUTE 41</description><Point><coordinates>-83.381908, 39.026531</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/4/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, ADAMS, PEEBLES, 18 SMALLEY ROAD</description><Point><coordinates>-83.462906, 38.965870</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/9/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, ADAMS, PEEBLES, 4910 LAWSHE ROAD</description><Point><coordinates>-83.467573, 38.957018</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/20/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, ADAMS, SEAMAN, 304 VINE ST</description><Point><coordinates>-83.576176, 38.940061</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, ADAMS, SEAMAN, 386A MARK TILGER ROAD</description><Point><coordinates>-83.603729, 38.975246</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, ADAMS, SEAMAN, 386 (b) MARK TILGER RD</description><Point><coordinates>-83.603729, 38.975246</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/12/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, ADAMS, SEAMAN, 26  LEWIS</description><Point><coordinates>-83.564657, 38.937005</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/24/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, ADAMS, WEST UNION, 210 RICE DR 19</description><Point><coordinates>-83.565183, 38.777030</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/27/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, ADAMS, WEST UNION, 466 CHAPARRAL RD</description><Point><coordinates>-83.608151, 38.838268</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/8/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, ADAMS, WEST UNION, 222 RICE DR 3</description><Point><coordinates>-83.565035, 38.775793</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/26/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, ADAMS, WEST UNION, 147 OVER DR</description><Point><coordinates>-83.530476, 38.817507</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/12/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, ADAMS, WEST UNION, 100 CHESLEY</description><Point><coordinates>-83.528870, 38.801519</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/12/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, ADAMS, WEST UNION, 992 EAGLE CREEK ROAD</description><Point><coordinates>-83.613672, 38.764140</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/11/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, ADAMS, WEST UNION, 409 PLUM STREET</description><Point><coordinates>-83.542710, 38.797705</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/1/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, ADAMS, WINCHESTER, 191(a) WINCHESTER RUSSELLVILLE RD</description><Point><coordinates>-83.680234, 38.909907</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/25/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, ADAMS, WINCHESTER, 1365MATHIAS ROAD</description><Point><coordinates>-83.594461, 38.901908</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

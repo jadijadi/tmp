@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/31/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MINNESOTA, JACKSON, HERON LAKE, 37722 410TH ST</description><Point><coordinates>-95.260535, 43.876363</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/28/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MINNESOTA, JACKSON, JACKSON, 51339 830TH ST</description><Point><coordinates>-95.048390, 43.695322</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/5/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MINNESOTA, JACKSON, JACKSON, 808 (B) HILLS AVE 101</description><Point><coordinates>-95.008661, 43.624256</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/8/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MINNESOTA, JACKSON, ROUND LAKE, 73564 365TH AVENUE</description><Point><coordinates>-95.339834, 43.554624</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/30/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MINNESOTA, JACKSON, WILDER, 52 MAIN ST</description><Point><coordinates>-95.199212, 43.830918</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

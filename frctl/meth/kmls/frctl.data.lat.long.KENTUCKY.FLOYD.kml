@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/19/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, FLOYD, DRIFT, 108 AKERS BRANCH RD</description><Point><coordinates>-82.750448, 37.480477</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, FLOYD, DWALE, 466 MONUMENT DR C-4</description><Point><coordinates>-82.724037, 37.628025</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/26/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, FLOYD, PRESTONSBURG, 68 BURKE STREET</description><Point><coordinates>-82.781949, 37.680984</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/20/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, FLOYD, PRESTONSBURG, 3935  KY ROUTE 321/KY-321/COUNTRY MUSIC HWY  1</description><Point><coordinates>-82.771549, 37.665653</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/12/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, JACKSON, JACKSON, 9290 STATE 776 RT</description><Point><coordinates>-82.684443, 39.024396</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/5/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, JACKSON, OAK HILL, 147 SCENIC DR</description><Point><coordinates>-82.598505, 38.894522</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/1/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, JACKSON, WELLSTON, 249 13TH W ST 54</description><Point><coordinates>-82.545967, 39.114822</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/14/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, JACKSON, WELLSTON, 217 NORTH WISCONSIN AVENUE</description><Point><coordinates>-82.540250, 39.126500</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

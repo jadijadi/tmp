@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 11/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, BENTON, BOSWELL, 307 OLD US 41 S 3</description><Point><coordinates>-87.377599, 40.516268</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/15/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, BENTON, FOWLER, 7595 EAST 400 N</description><Point><coordinates>-87.181425, 40.670044</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/11/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, BENTON, OTTERBEIN, 2198 CR 1100 E S</description><Point><coordinates>-87.123082, 40.573803</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/9/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, BENTON, OXFORD, 403 EAST MCCONNEL STREET</description><Point><coordinates>-87.246320, 40.519954</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

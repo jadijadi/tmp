@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 9/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, SARASOTA, NOKOMIS, 504 TAMIAMI S TRL</description><Point><coordinates>-82.444374, 27.091783</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/19/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, SARASOTA, NOKOMIS, 605 SHORE RD</description><Point><coordinates>-82.466232, 27.132059</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/24/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, SARASOTA, NOKOMIS, 3590 LAUREL ROAD</description><Point><coordinates>-82.376394, 27.137240</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/13/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, SARASOTA, NOKOMIS, 200 SOUTH SIERRA STREET</description><Point><coordinates>-82.435950, 27.123849</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/1/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, SARASOTA, SARASOTA, 2049 DOUD ST</description><Point><coordinates>-82.506487, 27.242895</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/17/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, HARNETT, ANGIER, 182  YOUNG ROAD</description><Point><coordinates>-78.669254, 35.472019</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/19/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, HARNETT, ANGIER, 632  CHINABERRY LANE</description><Point><coordinates>-78.765615, 35.496546</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/7/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, HARNETT, ANGIER, 1716  YOUNG ROAD</description><Point><coordinates>-78.666838, 35.493478</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/4/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, HARNETT, ANGIER, 39  OAKWOOD DRIVE</description><Point><coordinates>-78.742924, 35.503991</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/17/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, HARNETT, CAMERON, 1197 CLAUDE WHITE RD</description><Point><coordinates>-79.158717, 35.311012</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/26/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, HARNETT, CAMERON, 176 HOLLOW TREE COURT</description><Point><coordinates>-79.103673, 35.297805</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/22/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, HARNETT, COATS, 287 BENNETT ROAD</description><Point><coordinates>-78.677255, 35.392793</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/26/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, HARNETT, COATS, 2693 BAILEY ROAD</description><Point><coordinates>-78.617010, 35.425476</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/9/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, HARNETT, COATS, 1605 OLD STAGE ROAD</description><Point><coordinates>-78.701566, 35.434984</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, HARNETT, DUNN, 2937 BUD HAWKINS RD</description><Point><coordinates>-78.622731, 35.256798</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/1/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, HARNETT, DUNN, 595 SADLER ROAD</description><Point><coordinates>-78.569196, 35.324289</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/19/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, HARNETT, DUNN, 3603 ASHE AVENUE</description><Point><coordinates>-78.640189, 35.335952</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/24/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, HARNETT, DUNN, 14 ALLSPICE LANE</description><Point><coordinates>-78.620450, 35.271825</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/26/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, HARNETT, DUNN, 105 LILLY STREET</description><Point><coordinates>-78.611151, 35.286560</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/15/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, HARNETT, DUNN, 196  JERNIGAN ROAD</description><Point><coordinates>-78.595925, 35.331253</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/5/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, HARNETT, DUNN, 590  JACKSON STREET</description><Point><coordinates>-78.648061, 35.320601</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/4/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, HARNETT, DUNN, 702  GREENFIELD DRIVE</description><Point><coordinates>-78.588825, 35.315923</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/13/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, HARNETT, DUNN, 300  JACKSON ROAD</description><Point><coordinates>-78.609244, 35.292677</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/9/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, HARNETT, DUNN, 1375  WEEKS ROAD</description><Point><coordinates>-78.568672, 35.326578</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/20/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, HARNETT, DUNN, 1019 EAST EDGERTON STREET</description><Point><coordinates>-78.598213, 35.302752</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/8/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, HARNETT, DUNN, 15  MAY LANE</description><Point><coordinates>-78.598989, 35.371253</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/18/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, HARNETT, DUNN, 185  ROCK HOLLOW LANE</description><Point><coordinates>-78.518716, 35.278154</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/20/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, HARNETT, ERWIN, 110 3RD STREET</description><Point><coordinates>-78.659689, 35.324450</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/8/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, HARNETT, ERWIN, 864  MAYNARD LAKE ROAD</description><Point><coordinates>-78.666995, 35.348443</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/22/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, HARNETT, ERWIN, 9875  US 421 HIGHWAY</description><Point><coordinates>-78.691738, 35.350761</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/18/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, HARNETT, ERWIN, 4432 EAST NC 55 HIGHWAY</description><Point><coordinates>-78.667643, 35.350156</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/8/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, HARNETT, ERWIN, 109  PRINCE STREET</description><Point><coordinates>-78.648613, 35.318032</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/2/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, HARNETT, ERWIN, 810  RAIFORD ROAD</description><Point><coordinates>-78.658256, 35.310831</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/11/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, HARNETT, ERWIN, 202  MASONIC DRIVE</description><Point><coordinates>-78.662486, 35.326767</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/13/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, HARNETT, ERWIN, 240  FRANK COLVILLE LANE</description><Point><coordinates>-78.702933, 35.357930</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/21/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, HARNETT, ERWIN, 147  CURTIS ROAD</description><Point><coordinates>-78.710705, 35.364602</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/28/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, HARNETT, LILLINGTON, 363 JAMES TART RD</description><Point><coordinates>-78.769037, 35.344671</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/24/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, HARNETT, LILLINGTON, 65  TFIJ LANE</description><Point><coordinates>-78.729829, 35.422292</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/5/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, HARNETT, LINDEN, 228  JEROME LANE</description><Point><coordinates>-78.831591, 35.273530</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/1/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, HARNETT, SPRING LAKE, 63 SARAH CIR</description><Point><coordinates>-78.912970, 35.254835</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/8/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, HARNETT, [Unspecified], 14048 W 27 HIGHWAY</description><Point><coordinates>-78.792500, 35.345280</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

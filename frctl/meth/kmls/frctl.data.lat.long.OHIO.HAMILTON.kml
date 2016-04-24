@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 11/20/2000</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, HAMILTON, CINCINNATI, 4769 HART AVE</description><Point><coordinates>-84.543150, 39.179082</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/21/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, HAMILTON, CINCINNATI, 4250 VIRGINIA AVE</description><Point><coordinates>-84.549078, 39.166537</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/19/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, HAMILTON, CINCINNATI, 905 RODSEMONT RD</description><Point><coordinates>-84.583825, 39.108651</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/8/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, HAMILTON, CINCINNATI, 3223 CLENDORA AVE</description><Point><coordinates>-84.510760, 39.138876</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, HAMILTON, CINCINNATI, 8690 LAWRENCEBURG AVE</description><Point><coordinates>-84.512020, 39.103118</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/15/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, HAMILTON, CINCINNATI, 11474 GRESHAM PL</description><Point><coordinates>-84.506876, 39.286965</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/22/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, HAMILTON, CINCINNATI, 25 LORI LANE</description><Point><coordinates>-84.512020, 39.103118</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/19/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, HAMILTON, CINCINNATI, 3675 LAWRENCEBURG ROAD</description><Point><coordinates>-84.512020, 39.103118</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/20/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, HAMILTON, CINCINNATI, 10087 FLORA ROAD</description><Point><coordinates>-84.524505, 39.126392</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/11/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, HAMILTON, CINCINNATI, 6100 BLUE ROCK ROAD 228</description><Point><coordinates>-84.644625, 39.242619</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/22/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, HAMILTON, CINCINNATI, 3603 MCHENRY AVENUE</description><Point><coordinates>-84.563082, 39.149854</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/31/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, HAMILTON, CINCINNATI, 3093 FIDDLERS GREEN ROAD</description><Point><coordinates>-84.694281, 39.148237</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/14/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, HAMILTON, CINCINNATI, 126 REVERE AVENUE 7</description><Point><coordinates>-84.687003, 39.107779</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/17/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, HAMILTON, CINCINNATI, 5834 PANAMA AVENUE</description><Point><coordinates>-84.429239, 39.065235</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/4/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, HAMILTON, CINCINNATI, 8314  JADWIN ST STREET</description><Point><coordinates>-84.475723, 39.213743</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/20/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, HAMILTON, CINCINNATI, 1330  MANSS AVE HARBOR</description><Point><coordinates>-84.577530, 39.118055</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/11/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, HAMILTON, CINCINNATI, 2512  ROOSEVELT AVENUE</description><Point><coordinates>-84.569162, 39.273942</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/17/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, HAMILTON, FOREST PARK, 11474 GRESHAM AVE</description><Point><coordinates>-84.506876, 39.286965</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/14/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, HAMILTON, HARRISON, 133 FLINTSTONE DR</description><Point><coordinates>-84.814652, 39.249925</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/1/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, HAMILTON, HARRISON, 9140 LAWRENCEBURG RD</description><Point><coordinates>-84.812512, 39.237777</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/20/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, HAMILTON, HARRISON, 7066 LAWRENCEBURG RD</description><Point><coordinates>-84.797017, 39.218384</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/7/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, HAMILTON, HARRISON, 8789 LAWRENCEBURG RD</description><Point><coordinates>-84.813929, 39.237661</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/10/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, HAMILTON, HARRISON, 125 CAMPBELL ROAD</description><Point><coordinates>-84.816052, 39.249663</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/4/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, HAMILTON, HARRISON, 300 N SYCAMORE STREET</description><Point><coordinates>-84.816740, 39.264691</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/17/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, HAMILTON, LOVELAND, 816 GLENDEN DRIVE</description><Point><coordinates>-84.281328, 39.260304</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/3/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, HAMILTON, SHARONVILLE, 308 TENERITON DR</description><Point><coordinates>-84.413275, 39.268114</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/8/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, HAMILTON, SPRINGDALE, 196  HARTER STREET</description><Point><coordinates>-84.475667, 39.289068</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

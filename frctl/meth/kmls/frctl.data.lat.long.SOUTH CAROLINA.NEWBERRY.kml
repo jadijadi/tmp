@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/10/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, NEWBERRY, NEWBERRY, 83 ADAM TESENIAR ROAD</description><Point><coordinates>-81.608879, 34.347296</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/12/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, NEWBERRY, NEWBERRY, 2420  wilson ROAD</description><Point><coordinates>-81.616796, 34.304951</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/15/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, NEWBERRY, NEWBERRY, 2400  MAIN STREET</description><Point><coordinates>-81.603962, 34.280621</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/12/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, NEWBERRY, NEWBERRY, 2420  WILSON ROAD</description><Point><coordinates>-81.616796, 34.304951</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/31/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, NEWBERRY, WHITMIRE, 704 1/2 BROOME STREET</description><Point><coordinates>-81.611493, 34.502915</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/12/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, NEWBERRY, WHITMIRE, 372  JACK WILSON ROAD</description><Point><coordinates>-81.636327, 34.465437</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/7/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, NEWBERRY, WHITMIRE, 0  EAVES ROAD</description><Point><coordinates>-81.614166, 34.568010</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

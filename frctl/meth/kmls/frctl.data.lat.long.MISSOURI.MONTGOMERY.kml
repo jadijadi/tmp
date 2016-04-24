@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/23/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, MONTGOMERY, BELLFLOWER, 50 BAPTIST RD</description><Point><coordinates>-91.305271, 38.981710</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/13/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, MONTGOMERY, BELLFLOWER, 87 TRUXTON RD</description><Point><coordinates>-91.317788, 38.988493</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/2/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, MONTGOMERY, BELLFLOWER, 303 SOUTH ELM</description><Point><coordinates>-91.356146, 39.005872</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/23/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, MONTGOMERY, BELLFLOWER, 910  MONITEAU</description><Point><coordinates>-91.351853, 38.998123</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/10/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, MONTGOMERY, HIGH HILL, 1054 TREE FARM ROAD</description><Point><coordinates>-91.358657, 38.867298</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/17/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, MONTGOMERY, HIGH HILL, 1158 BOONESLICK ROAD</description><Point><coordinates>-91.377349, 38.876515</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, MONTGOMERY, JONESBURG, 53 MISSOURI ROUTE 'V'</description><Point><coordinates>-91.305989, 38.853377</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/23/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, MONTGOMERY, JONESBURG, 214 LYON W ST</description><Point><coordinates>-91.305989, 38.853377</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/12/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, MONTGOMERY, JONESBURG, 215 BOONSLICK AVENUE</description><Point><coordinates>-91.303502, 38.852182</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/23/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, MONTGOMERY, JONESBURG, 603 SOUTH GLADSTONE</description><Point><coordinates>-91.310746, 38.848998</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/24/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, MONTGOMERY, JONESBURG, 229 EAST BOONESLICK</description><Point><coordinates>-91.303686, 38.852230</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/8/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, MONTGOMERY, MONTGOMERY CITY, 144  MITCHELL ROAD</description><Point><coordinates>-91.484163, 38.929408</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/21/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, MONTGOMERY, MONTGOMERY CITY, 177  HAFFLINGERS ROAD</description><Point><coordinates>-91.543236, 38.933410</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/25/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, MONTGOMERY, MONTGOMERY CITY, 211  3RD STREET</description><Point><coordinates>-91.504711, 38.978888</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/3/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, MONTGOMERY, MONTGOMERY CITY, 363  MEADOWLARK ROAD</description><Point><coordinates>-91.438438, 39.034588</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/9/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, MONTGOMERY, NEW FLORENCE, 217 NORTH 4TH STREET</description><Point><coordinates>-91.445704, 38.913654</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/30/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, MONTGOMERY, RHINELAND, 734 RIVER TRAIL ROAD</description><Point><coordinates>-91.517388, 38.717544</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/22/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, MONTGOMERY, WELLSVILLE, 602  CLAY STREET</description><Point><coordinates>-91.567207, 39.075051</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/28/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, MONTGOMERY, WELLSVILLE, 508 NORTH MADISON</description><Point><coordinates>-91.568936, 39.075444</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

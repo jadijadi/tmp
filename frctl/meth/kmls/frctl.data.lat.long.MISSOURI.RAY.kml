@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/1/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, RAY, EXCELSIOR ESTATES, 20214 PERRY RD</description><Point><coordinates>-94.207722, 39.390283</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/25/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, RAY, HARDIN, 202 ELM E ST</description><Point><coordinates>-93.832327, 39.270574</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/14/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, RAY, LAWSON, 1007 BRIAR N LN</description><Point><coordinates>-94.208460, 39.443130</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/21/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, RAY, RAYVILLE, 15573 M HWY</description><Point><coordinates>-94.062998, 39.348342</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/25/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, RAY, RICHMOND, 413 FARRIS ST</description><Point><coordinates>-93.981606, 39.273678</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

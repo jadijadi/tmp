@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, DALLAS, DALLAS, 2251 FAROLA AVE</description><Point><coordinates>-96.673702, 32.849112</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/11/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, DALLAS, DALLAS, 136363 GOLDMARK 1602</description><Point><coordinates>-96.755825, 32.935186</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, DALLAS, DALLAS, 17919 BRENT DR</description><Point><coordinates>-96.862275, 32.995174</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/13/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, DALLAS, DALLAS, 5435 LEWIS ST</description><Point><coordinates>-96.771730, 32.812259</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/11/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, DALLAS, DALLAS, 7575 FRANKFORD DR</description><Point><coordinates>-96.771731, 32.998945</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, DALLAS, DALLAS, 11360 CARISSA DR</description><Point><coordinates>-96.683868, 32.862322</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/23/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, DALLAS, DALLAS, 101 PHILLIPS</description><Point><coordinates>-97.002472, 32.724292</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/1/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, DALLAS, DALLAS, 1611 M PLACE DR</description><Point><coordinates>-96.688205, 32.926964</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/19/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, DALLAS, DALLAS, 8615 RUSTOWN DR</description><Point><coordinates>-96.677730, 32.811576</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/25/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, DALLAS, DALLAS, 2053 CITADEL</description><Point><coordinates>-96.655704, 32.747023</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/9/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, DALLAS, DALLAS, 5307 GASTON AVE</description><Point><coordinates>-96.765409, 32.803970</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/21/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, DALLAS, DALLAS, 8023 NIMROD TRL</description><Point><coordinates>-96.726496, 32.868430</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/10/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, DALLAS, DALLAS, 242 WEST DAVIS STREET 7</description><Point><coordinates>-96.826235, 32.749231</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/9/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, DALLAS, DALLAS, 9450  FOREST SPRINGS STREET 1607</description><Point><coordinates>-96.733929, 32.907668</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/9/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, DALLAS, DALLAS, 100 NORTH RANDOLPH DRIVE 232</description><Point><coordinates>-96.889430, 32.745575</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/17/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, DALLAS, DALLAS, 7335  O'DELL AVENUE #2</description><Point><coordinates>-96.716925, 32.645874</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/3/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, DALLAS, DALLAS, 3719  CASA DEL SOL LANE</description><Point><coordinates>-96.658072, 32.852289</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/3/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, DALLAS, DALLAS, 10628  SYLVIA DRIVE</description><Point><coordinates>-96.682311, 32.839672</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, DALLAS, GARLAND, 455 OATES E DR 12</description><Point><coordinates>-96.604652, 32.856542</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/5/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, DALLAS, GARLAND, 1529 ELIZABETH DR</description><Point><coordinates>-96.655065, 32.902047</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/11/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, DALLAS, GARLAND, 2725 COVINGTON DR B</description><Point><coordinates>-96.610505, 32.941565</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/22/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, DALLAS, GARLAND, 1500 HILLTOP DRIVE</description><Point><coordinates>-96.656330, 32.903488</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/24/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, DALLAS, GARLAND, 1810 WYNN JOYCE ROAD</description><Point><coordinates>-96.602965, 32.866017</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, DALLAS, GRAND PRAIRIE, 3510 HARD ROCK RD #9</description><Point><coordinates>-97.013019, 32.836155</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, DALLAS, GRAND PRAIRIE, 800 32ND NE</description><Point><coordinates>-96.956837, 32.758130</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/27/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, DALLAS, IRVING, 500 6TH W ST 34</description><Point><coordinates>-96.952931, 32.807956</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/6/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, DALLAS, IRVING, 7825  HEATHROW DRIVE 316</description><Point><coordinates>-97.014538, 32.916620</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/3/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, DALLAS, IRVING, 1813 SOUTH STORY ROAD</description><Point><coordinates>-96.977468, 32.794167</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/30/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, DALLAS, IRVING, 1209  ELWOOD DRIVE</description><Point><coordinates>-96.932016, 32.820816</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/7/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, DALLAS, LANCASTER, 822 DONLEE RD</description><Point><coordinates>-96.771740, 32.610394</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/16/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, DALLAS, MESQUITE, 1620 NEW MARKET ROAD</description><Point><coordinates>-96.621746, 32.755555</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, DALLAS, SEAGOVILLE, 301 MODENE LOT 5</description><Point><coordinates>-96.572149, 32.667068</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

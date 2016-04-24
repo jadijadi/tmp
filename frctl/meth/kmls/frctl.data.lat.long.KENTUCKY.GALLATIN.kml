@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, GALLATIN, GHENT, 200 CORDA LN</description><Point><coordinates>-84.975163, 38.768606</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, GALLATIN, GHENT, 4127 WALNUT VALLEY RD</description><Point><coordinates>-84.960562, 38.726778</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/14/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, GALLATIN, GHENT, 3335 WALNUT LICK ROAD</description><Point><coordinates>-84.270018, 37.839333</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/18/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, GALLATIN, NAPOLEON, 465  WILDWOOD COURT ROAD</description><Point><coordinates>-84.760504, 38.773934</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/28/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, GALLATIN, WARSAW, 901 EAST MAIN STREET</description><Point><coordinates>-84.889285, 38.786755</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/13/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, GALLATIN, WARSAW, 212  RIVERVIEW ROAD LOT 2</description><Point><coordinates>-84.890282, 38.788247</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/20/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, GALLATIN, WARSAW, 200 WEST HIGH STREET</description><Point><coordinates>-84.904229, 38.783364</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

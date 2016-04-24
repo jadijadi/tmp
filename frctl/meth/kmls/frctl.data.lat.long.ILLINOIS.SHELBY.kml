@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/10/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, SHELBY, COWDEN, 130 LOCUST E</description><Point><coordinates>-88.860739, 39.250202</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/19/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, SHELBY, OCONEE, 21296 LITZ RD</description><Point><coordinates>-89.153809, 39.317733</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/21/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, SHELBY, OCONEE, RR1  BOX 138</description><Point><coordinates>-89.107579, 39.285598</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, SHELBY, SHELBYVILLE, 606 MORGAN N</description><Point><coordinates>-88.792268, 39.411861</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/31/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, SHELBY, SHELBYVILLE, 201 WASHINGTON S</description><Point><coordinates>-88.790657, 39.405565</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/27/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, SHELBY, SHELBYVILLE, 111 LONG N</description><Point><coordinates>-88.797370, 39.406769</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, SHELBY, SIGEL, 201 FRONT E ST</description><Point><coordinates>-88.496546, 39.225032</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/10/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, SHELBY, SIGEL, 201 FRONT W ST</description><Point><coordinates>-88.496613, 39.226870</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/23/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, SHELBY, TOWER HILL, 203 EAST CLEVELAND STREET</description><Point><coordinates>-88.957790, 39.383932</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/31/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, SHELBY, WINDSOR, 1516 MAINE STREET</description><Point><coordinates>-88.600664, 39.436727</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/2/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, SHELBY, WINDSOR, 206  SYCAMORE</description><Point><coordinates>-88.587478, 39.440729</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

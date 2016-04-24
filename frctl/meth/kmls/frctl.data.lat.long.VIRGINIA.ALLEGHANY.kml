@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/4/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, ALLEGHANY, CLIFTON FORGE, 318  ROXBURY STREET</description><Point><coordinates>-79.829837, 37.817514</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/28/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, ALLEGHANY, COVINGTON, 111  KARNS RD/KARNES RD ROAD</description><Point><coordinates>-80.031136, 37.788220</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/4/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, ALLEGHANY, COVINGTON, 611 NORTH GREENBRIER AVENUE</description><Point><coordinates>-79.985785, 37.798822</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

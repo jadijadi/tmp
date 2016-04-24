@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/15/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, METCALFE, CENTER, 230 PAUL JONES E RD 230</description><Point><coordinates>-85.693025, 37.142278</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/27/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, METCALFE, EDMONTON, 934 SOCIETY HILL ROAD</description><Point><coordinates>-85.570443, 36.990897</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/9/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, METCALFE, EDMONTON, 840  SOCIETY HILL ROAD</description><Point><coordinates>-85.569960, 36.992036</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/15/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, METCALFE, EDMONTON, 875  RUSSELL SMITH ROAD</description><Point><coordinates>-85.612191, 36.980056</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/15/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, METCALFE, EDMONTON, 206 NORTH 1ST STREET</description><Point><coordinates>-85.613955, 36.982579</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 7/13/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, WRIGHT, CLARION, 2288  QUINCY AVENUE</description><Point><coordinates>-93.656717, 42.718529</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/7/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, WRIGHT, EAGLE GROVE, 721 3RD NW ST</description><Point><coordinates>-93.910769, 42.667205</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/15/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, WRIGHT, EAGLE GROVE, 609 LINCOLN N AVE</description><Point><coordinates>-93.908923, 42.669726</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/31/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, WRIGHT, EAGLE GROVE, 207 3RD NE ST</description><Point><coordinates>-93.900248, 42.667182</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/11/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, DADE, ARCOLA, 102 PEARL W 11</description><Point><coordinates>-93.876290, 37.550466</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/29/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, DADE, DADEVILLE, 1255 1 RR</description><Point><coordinates>-93.673817, 37.480321</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/8/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, DADE, EVERTON, 109 WEST RAILROAD STREET</description><Point><coordinates>-93.702428, 37.342548</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/5/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, DADE, EVERTON, 118 SOUTH CLARK STREET</description><Point><coordinates>-93.702230, 37.341827</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/5/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, DADE, EVERTON, 591 HIGHWAY K</description><Point><coordinates>-93.702428, 37.342548</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/26/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, DADE, GREENFIELD, 1234 EAST HIGHWAY 245</description><Point><coordinates>-93.841045, 37.415324</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/24/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, DADE, GREENFIELD, 334 SOUTH DADE</description><Point><coordinates>-93.836801, 37.397944</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/2/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, DADE, GREENFIELD, 214  BOISSEAU STREET</description><Point><coordinates>-93.838265, 37.411544</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/16/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, DADE, LOCKWOOD, 505  SPRUCE STREET</description><Point><coordinates>-93.950475, 37.389930</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/15/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, CLARK, BORDEN, 23205 NICHOLSON KNOB RD</description><Point><coordinates>-85.989076, 38.435852</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/5/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, CLARK, BORDEN, 22916 NICHOLSON KNOB</description><Point><coordinates>-85.982128, 38.434089</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/20/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, CLARK, BORDEN, 14914  BEYL ROAD</description><Point><coordinates>-85.797217, 38.481707</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/23/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, CLARK, CHARLESTOWN, 4706 BLUE RIDGE</description><Point><coordinates>-85.509293, 38.491042</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/21/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, CLARK, CHARLESTOWN, 1015 HARRY HUGHES RD</description><Point><coordinates>-85.681920, 38.497762</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/5/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, CLARK, CHARLESTOWN, 4507 TUNNEL MILL RD</description><Point><coordinates>-85.611822, 38.488056</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/1/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, CLARK, CLARKSVILLE, 1470 BROADWAY 127</description><Point><coordinates>-85.756117, 38.321168</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/28/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, CLARK, CLARKSVILLE, 2321 BROOKWOOD DRIVE</description><Point><coordinates>-85.778875, 38.327887</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/29/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, CLARK, CLARKSVILLE, 147 NORTH OAK STREET</description><Point><coordinates>-85.760159, 38.288137</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/23/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, CLARK, CLARKSVILLE, 313  LAKEVIEW DRIVE</description><Point><coordinates>-85.778690, 38.303758</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/10/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, CLARK, CLARKSVILLE, 413 EAST CARTER AVENUE</description><Point><coordinates>-85.762347, 38.300094</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/14/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, CLARK, CLARKSVILLE, 200  HOMESTEAD DRIVE</description><Point><coordinates>-85.754194, 38.285433</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, CLARK, HENRYVILLE, 1310 MT. ZION RD 7</description><Point><coordinates>-85.775542, 38.537182</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/8/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, CLARK, HENRYVILLE, 305 FRONT N ST</description><Point><coordinates>-85.766175, 38.544481</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/26/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, CLARK, HENRYVILLE, 339 VEST RD</description><Point><coordinates>-85.772433, 38.534540</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/19/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, CLARK, HENRYVILLE, 1821  OLD STATE ROAD</description><Point><coordinates>-85.757308, 38.571328</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/13/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, CLARK, JEFFERSONVILLE, 1319 UTICA SELLERSBURG</description><Point><coordinates>-85.745286, 38.389357</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/22/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, CLARK, JEFFERSONVILLE, 3909 UTICA SELLERSBURG ROAD</description><Point><coordinates>-85.704491, 38.353207</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/5/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, CLARK, JEFFERSONVILLE, 4805  NEW CHAPEL ROAD</description><Point><coordinates>-85.702507, 38.347470</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/24/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, CLARK, JEFFERSONVILLE, 3105  CLEARSTREAM WAY</description><Point><coordinates>-85.742208, 38.313211</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/2/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, CLARK, JEFFERSONVILLE, 824  SANDRA DRIVE Q</description><Point><coordinates>-85.718728, 38.293752</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/25/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, CLARK, MEMPHIS, 208 EBENEZER CHURCH ROAD</description><Point><coordinates>-85.763816, 38.482166</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, CLARK, NABB, 18411 MICHIGAN RD</description><Point><coordinates>-86.134902, 40.267194</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/1/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, CLARK, SELLERSBURG, 638 GEORGIAN AVE</description><Point><coordinates>-85.766934, 38.401942</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/26/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, CLARK, SELLERSBURG, 2122  JEFFERSON BOULEVARD</description><Point><coordinates>-85.762676, 38.364066</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

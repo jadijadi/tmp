@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 9/21/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, LEE, BALDWYN, 1212 WEST CLEARVIEW DRIVE</description><Point><coordinates>-88.664326, 34.523490</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/1/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, LEE, GUNTOWN, 127  BOOTH STREET</description><Point><coordinates>-88.664547, 34.447642</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/31/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, LEE, SHANNON, 113  PINE DRIVE</description><Point><coordinates>-88.680050, 34.105133</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/11/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, LEE, SHANNON, 2   DRIVE</description><Point><coordinates>-88.711718, 34.116220</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        
