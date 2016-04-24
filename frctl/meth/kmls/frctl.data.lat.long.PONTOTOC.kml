@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 10/15/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, PONTOTOC, ALGOMA, 1557 ALGOMA ROAD</description><Point><coordinates>-89.035715, 34.182527</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/21/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, PONTOTOC, BLUE SPRINGS, 406  BETHEL ROAD</description><Point><coordinates>-88.898391, 34.333362</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/22/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, PONTOTOC, BLUE SPRINGS, 4299  TUSCUMBIA ROAD</description><Point><coordinates>-88.896461, 34.361967</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/27/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, PONTOTOC, ECRU, 240 STEPP DRIVE</description><Point><coordinates>-89.037731, 34.378144</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/7/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, PONTOTOC, ECRU, 52 CENTRAL AVENUE</description><Point><coordinates>-89.024764, 34.351021</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/5/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, PONTOTOC, ECRU, 211  CENTRAL AVENIDA</description><Point><coordinates>-89.025344, 34.353866</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/29/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, PONTOTOC, PONTOTOC, 113 MCLAUGHIN RD</description><Point><coordinates>-89.125317, 34.363827</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/1/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, PONTOTOC, PONTOTOC, 371 COLLUMS RD</description><Point><coordinates>-88.917054, 34.083671</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/15/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, PONTOTOC, PONTOTOC, 13300 HIGHWAY 346 HIGHWAY</description><Point><coordinates>-89.137440, 34.352427</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/28/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, PONTOTOC, PONTOTOC, 4 HALETOWN ROAD</description><Point><coordinates>-89.139923, 34.350532</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/12/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, PONTOTOC, PONTOTOC, 213  CATES COVE</description><Point><coordinates>-88.971415, 34.207087</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/22/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, PONTOTOC, PONTOTOC, 119  POE LOOP</description><Point><coordinates>-88.851749, 34.113642</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/28/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, PONTOTOC, PONTOTOC, 566  MCFREGERY CHAPPELL ROAD</description><Point><coordinates>-88.998673, 34.247883</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/1/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, PONTOTOC, PONTOTOC, 1639  PICKENS ROAD</description><Point><coordinates>-89.127326, 34.219491</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/11/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, PONTOTOC, PONTOTOC, 1183  PITTS LOOP</description><Point><coordinates>-88.952121, 34.317306</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/4/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, PONTOTOC, PONTOTOC, 3496  HIGHWAY 9</description><Point><coordinates>-88.969873, 34.293982</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/29/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, PONTOTOC, PONTOTOC, 375  MATTHEWS BEND</description><Point><coordinates>-89.051013, 34.307567</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/5/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, PONTOTOC, PONTOTOC, 80  HARDIN CIRCLE</description><Point><coordinates>-89.059636, 34.259675</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/16/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, PONTOTOC, PONTOTOC, 105  AYCOCK DRIVE</description><Point><coordinates>-88.982614, 34.198073</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/4/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, PONTOTOC, PONTOTOC, 7904  MACEDONIA ROAD</description><Point><coordinates>-89.059209, 34.149448</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, PONTOTOC, SHERMAN, 97 FIRST AVENUE</description><Point><coordinates>-88.845182, 34.363649</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/13/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, PONTOTOC, THAXTON, 2309  WELLS ROAD</description><Point><coordinates>-89.200707, 34.341445</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/14/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, PONTOTOC, THAXTON, 1665  CHENEY ROAD</description><Point><coordinates>-89.181054, 34.299830</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, PONTOTOC, ADA, 411 WEST MIAMI STREET</description><Point><coordinates>-96.678345, 34.774531</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, PONTOTOC, ALLEN, 1208 2ND N ST</description><Point><coordinates>-96.419908, 34.872229</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/4/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, PONTOTOC, ALLEN, RURAL ROUTE 1  2432</description><Point><coordinates>-96.412507, 34.878977</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/22/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, PONTOTOC, STONEWALL, 2  RURAL ROUTE 13</description><Point><coordinates>-96.526116, 34.652590</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, PONTOTOC, STONEWALL, 7 DEVILS & ADAMSON  RD</description><Point><coordinates>-96.526116, 34.652590</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

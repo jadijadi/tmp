@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/13/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, CHATHAM, BLOOMINGDALE, 85 GODLEY ROAD</description><Point><coordinates>-81.294654, 32.165275</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/7/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, CHATHAM, GARDEN CITY, 59 LEISURE DRIVE</description><Point><coordinates>-81.153914, 32.098483</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/7/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, CHATHAM, GARDEN CITY, 4833  OLD LOUISVILLE ROAD</description><Point><coordinates>-81.186059, 32.095216</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/13/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, CHATHAM, PORT WENTWORTH, 6556 HIGHWAY 21</description><Point><coordinates>-81.181635, 32.168058</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/25/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, CHATHAM, SAVANNAH, 5103  GARRARDO AVENUE</description><Point><coordinates>-81.099834, 32.083541</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/19/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, CHATHAM, SAVANNAH, 4800  BUTLER AVENUE</description><Point><coordinates>-81.055513, 32.025666</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/22/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, CHATHAM, SAVANNAH, 1814 EAST 39TH STREET</description><Point><coordinates>-81.070482, 32.047818</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/8/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CHATHAM, BEAR CREEK, 50 ALLEN POND ROAD</description><Point><coordinates>-79.384743, 35.616812</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/11/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CHATHAM, BEAR CREEK, 12410  SILER CITY GLENDON ROAD</description><Point><coordinates>-79.445240, 35.538542</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/12/2016</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CHATHAM, BEAR CREEK, 5808  Bonlee Bennett ROAD</description><Point><coordinates>-79.511108, 35.628328</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/16/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CHATHAM, GULF, 20  ALTON KING ROAD</description><Point><coordinates>-79.286491, 35.563053</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CHATHAM, PITTSBORO, 155 SILK HOPE GUM SPRINGS RD</description><Point><coordinates>-79.235095, 35.760972</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/21/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CHATHAM, PITTSBORO, 576  LAURA JOHNSON ROAD</description><Point><coordinates>-79.317352, 35.746348</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/15/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CHATHAM, PITTSBORO, 120  HONEYSUCKLE DRIVE 1015</description><Point><coordinates>-79.185954, 35.725969</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/25/2016</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CHATHAM, PITTSBORO, 115  Rocks Spring Church ROAD</description><Point><coordinates>-79.153023, 35.766323</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/2/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CHATHAM, SILER CITY, 208  HAL CLARK ROAD</description><Point><coordinates>-79.519923, 35.674403</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/2/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CHATHAM, SILER CITY, 315  HOPE FARM ROAD</description><Point><coordinates>-79.392926, 35.751960</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/15/2016</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CHATHAM, SILER CITY, 907  Driftwood DRIVE</description><Point><coordinates>-79.480463, 35.729307</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

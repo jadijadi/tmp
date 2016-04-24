@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/23/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, OTERO, LA JUNTA, 401 SEELEY</description><Point><coordinates>-103.521525, 37.997476</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/2/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, OTERO, LA JUNTA, 711 EDISON AVE</description><Point><coordinates>-103.536994, 37.981245</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/29/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, OTERO, ROCKY FORD, 25201 COUNTY RD 18 APT</description><Point><coordinates>-103.747996, 37.999991</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/13/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW MEXICO, OTERO, ALAMOGORDO, 72 DULCE</description><Point><coordinates>-105.992246, 32.829343</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/17/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW MEXICO, OTERO, ALAMOGORDO, 13 SAGE</description><Point><coordinates>-105.982163, 32.805835</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/12/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW MEXICO, OTERO, TULAROSA, 30 WHITE MOUNTAIN ROAD</description><Point><coordinates>-106.050990, 33.050350</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

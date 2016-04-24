@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 9/27/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, BERKELEY, GOOSE CREEK, 65 TANBARK COURT</description><Point><coordinates>-80.030152, 33.037836</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/13/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, BERKELEY, GOOSE CREEK, 105 GARY STREET</description><Point><coordinates>-80.037412, 32.992445</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/18/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, BERKELEY, GOOSE CREEK, 122 MELLARD DRIVE</description><Point><coordinates>-80.009469, 32.957581</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/21/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, BERKELEY, LADSON, 747 TREELAND DRIVE RM313</description><Point><coordinates>-80.093118, 33.000775</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/5/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, BERKELEY, LADSON, 109 COVENEY CT</description><Point><coordinates>-80.119036, 33.025631</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/18/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, BERKELEY, LADSON, 512 COLLEGE PARK ROAD</description><Point><coordinates>-80.087037, 33.005935</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/14/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, BERKELEY, LADSON, 221 TREELAND DRIVE</description><Point><coordinates>-80.121566, 33.017737</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/11/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, BERKELEY, MACEDONIA, 1196 CHURCH OF GOD ROAD</description><Point><coordinates>-81.163725, 33.836081</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/20/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, BERKELEY, MONCKS CORNER, 329 WINDING RD</description><Point><coordinates>-80.101990, 33.111212</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/6/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, BERKELEY, MONCKS CORNER, 101 OAK CREST DR</description><Point><coordinates>-80.076563, 33.100681</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/6/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, BERKELEY, MONCKS CORNER, 406 COMPTON DR</description><Point><coordinates>-80.087067, 33.100739</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/3/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, BERKELEY, MONCKS CORNER, 606  LEVEE DRIVE</description><Point><coordinates>-80.029609, 33.216884</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/4/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, BERKELEY, SIMMONSVILLE, 8  CLOVERDALE COURT</description><Point><coordinates>-81.163725, 33.836081</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, BERKELEY, SUMMERVILLE, 109 COVENEY CIR</description><Point><coordinates>-80.119036, 33.025631</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/17/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, BERKELEY, SUMMERVILLE, 1761 STATE RD</description><Point><coordinates>-80.132595, 33.104750</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/4/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, BERKELEY, SUMMERVILLE, 432 TURTLE POND RD</description><Point><coordinates>-80.139516, 33.041745</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/1/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, BERKELEY, SUMMERVILLE, 423-2 TURTLE POND ROAD</description><Point><coordinates>-80.131287, 33.042992</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/19/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, BERKELEY, SUMMERVILLE, 112 ABERDEEN COURT</description><Point><coordinates>-80.109802, 33.039980</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/8/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, BERKELEY, SUMMERVILLE, 1147 COLLEGE PARK ROAD LOT 94</description><Point><coordinates>-80.099247, 33.039936</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/1/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, BERKELEY, SUMMERVILLE, 1129  FELIX LANE</description><Point><coordinates>-80.207412, 33.069988</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/10/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, BERKELEY, SUMMERVILLE, 819  BEAUREGARD ROAD</description><Point><coordinates>-80.124289, 33.032109</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/11/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, BERKELEY, SUMMERVILLE, 1103  T.J. LANE</description><Point><coordinates>-80.097405, 33.037638</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/10/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, BERKELEY, SUMMERVILLE, 213  DENNIS FORT LANE</description><Point><coordinates>-80.084926, 33.040053</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

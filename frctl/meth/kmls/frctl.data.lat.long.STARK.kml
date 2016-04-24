@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, STARK, BRADFORD, 2720 WYANET-WALNUT RD</description><Point><coordinates>0, 0</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, STARK, BRADFORD, 2720 WYANET & WALNUT RD</description><Point><coordinates>-89.657598, 41.177259</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/19/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, STARK, ALLIANCE, 9555 ST PETER'S CHURCH RD</description><Point><coordinates>-81.215052, 40.950360</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/19/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, STARK, ALLIANCE, 259 NORTH UNION AVENUE 1</description><Point><coordinates>-81.105615, 40.924153</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/27/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, STARK, ALLIANCE, 2360 ANSLEY</description><Point><coordinates>-81.148907, 40.900187</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/26/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, STARK, ALLIANCE, 111  GLAMORGAN STREET B 10</description><Point><coordinates>-81.108123, 40.912942</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/4/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, STARK, ALLIANCE, 946 SOUTH FREEDOM AVENUE DOWN</description><Point><coordinates>-81.098210, 40.912382</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/14/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, STARK, ALLIANCE, 759 S LINCOLN AVENUE</description><Point><coordinates>-81.112164, 40.914532</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/14/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, STARK, ALLIANCE, 181 W ELY STREET</description><Point><coordinates>-81.108898, 40.924608</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/17/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, STARK, ALLIANCE, 1444  PARKWAY BOULEVARD</description><Point><coordinates>-81.116699, 40.907645</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/12/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, STARK, ALLIANCE, 13955 NE BAYTON STREET</description><Point><coordinates>-81.135335, 40.872965</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/17/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, STARK, CANTON, 162 SARATOGA SW ST</description><Point><coordinates>-81.442815, 40.791343</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/24/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, STARK, CANTON, 1109 OAK NW AVE</description><Point><coordinates>-81.410122, 40.809104</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/29/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, STARK, CANTON, 1451 NORTHWEST RACHEL STREET 58</description><Point><coordinates>-81.387480, 40.834816</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/5/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, STARK, CANTON, 344 NORTHEAST FENTON AVENUE</description><Point><coordinates>-81.343670, 40.794812</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/1/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, STARK, CANTON, 1422 NORTHEAST SHRIVER AVENUE</description><Point><coordinates>-81.358791, 40.811828</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/4/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, STARK, CANTON, 4904 NW SOUTH BOULEVARD BOX 9, 10</description><Point><coordinates>-81.378447, 40.798947</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/22/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, STARK, CANTON, 3639 NE ELLIS AVENUE</description><Point><coordinates>-81.319341, 40.835913</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/22/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, STARK, CANTON, 2442 NE WINFIELD WAY BOX UPPER</description><Point><coordinates>-81.341642, 40.811333</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/1/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, STARK, CANTON, 1453 NW RACHEL WOODS DRIVE BOX 32</description><Point><coordinates>-81.378447, 40.798947</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/3/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, STARK, CANTON, 32 S 10th STREET</description><Point><coordinates>-81.404216, 40.885749</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/6/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, STARK, GREEN, 4831  MASSILLON ROAD BOX C</description><Point><coordinates>-82.907123, 40.417287</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/6/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, STARK, KENDALL HEIGHTS, 250 SOUTH RIVER STREET A3</description><Point><coordinates>-82.907123, 40.417287</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/29/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, STARK, LOUISVILLE, 203 DEPOT N ST</description><Point><coordinates>-81.261729, 40.838657</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/5/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, STARK, MASSILLON, 821 NORTHEAST 1ST STREET</description><Point><coordinates>-81.523641, 40.805190</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/14/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, STARK, MINERVA, 9171 NW ARROW ROAD</description><Point><coordinates>-81.104457, 40.713951</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, STARK, NORTH CANTON, 121 HOLL NE RD</description><Point><coordinates>-81.403572, 40.887738</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/6/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, STARK, NORTH LAWRENCE, 14844 NORTHWEST CHURCHFIELD STREET</description><Point><coordinates>-81.630257, 40.841070</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/6/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, STARK, UNIONTOWN, 3604 KIMMEL DRIVE</description><Point><coordinates>-81.425640, 40.963101</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

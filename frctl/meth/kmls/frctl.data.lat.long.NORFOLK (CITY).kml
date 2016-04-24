@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/23/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, NORFOLK (CITY), NORFOLK, 123 MAPLE AVE</description><Point><coordinates>-76.259530, 36.947005</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/17/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, NORFOLK (CITY), NORFOLK, 308 NAVAL BASE RD A</description><Point><coordinates>-76.265488, 36.913741</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/3/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, NORFOLK (CITY), NORFOLK, 1276 WEST OCEAN VIEW AVE AVENUE E</description><Point><coordinates>-76.287396, 36.967497</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/24/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, NORFOLK (CITY), NORFOLK, 404  FORREST AVE AVENUE</description><Point><coordinates>-76.309783, 36.929038</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/3/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, NORFOLK (CITY), NORFOLK, 528  EILERS STREET</description><Point><coordinates>-76.310818, 36.923996</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/5/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, NORFOLK (CITY), NORFOLK, 9624  10TH BAY ST STREET  BOX 4</description><Point><coordinates>-76.285873, 36.850769</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/25/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, NORFOLK (CITY), NORFOLK, 1459  BAYVILLE ST STREET</description><Point><coordinates>-76.293455, 36.965714</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/4/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, NORFOLK (CITY), NORFOLK, 8810  PLYMOUTH ST STREET</description><Point><coordinates>-76.243000, 36.937528</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

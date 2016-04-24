@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/11/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, ST JOSEPH, OSCEOLA, 1012  VISTULA</description><Point><coordinates>-86.086030, 41.672794</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/26/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, ST JOSEPH, SOUTH BEND, 23252  LAWRENCE STREET</description><Point><coordinates>-86.316938, 41.688699</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/13/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, ST JOSEPH, SOUTH BEND, 1315  LONGFELLOW</description><Point><coordinates>-86.229476, 41.668625</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/8/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, ST JOSEPH, STURGIS, 701  ST.JOSEPH STREET</description><Point><coordinates>-85.427155, 41.802304</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

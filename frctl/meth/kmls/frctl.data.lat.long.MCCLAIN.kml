@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 7/22/2000</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, MCCLAIN, BLANCHARD, 210 WHITAKER N ST</description><Point><coordinates>-97.658094, 35.137844</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/15/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, MCCLAIN, BLANCHARD, 245 NORTH 438 ROAD</description><Point><coordinates>-97.658094, 35.137844</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/7/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, MCCLAIN, BLANCHARD, 5525 SOUTH 427</description><Point><coordinates>-97.659835, 35.150924</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/11/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, MCCLAIN, COLE, 710 SALTWELL N ST</description><Point><coordinates>-97.572813, 35.102290</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/1/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, MCCLAIN, MAYSVILLE, 207 COLVARD W ST</description><Point><coordinates>-97.092877, 35.007752</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/7/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, MCCLAIN, NEWCASTLE, 444414 CENTERLANE  DR</description><Point><coordinates>-97.599760, 35.247287</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, MCCLAIN, PURCELL, 1045 HAMOND HEIGHTS</description><Point><coordinates>-97.361139, 35.013683</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

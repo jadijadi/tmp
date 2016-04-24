@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/7/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, STE. GENEVIEVE, BLOOMSDALE, 8438 TERRY LEE DRIVE</description><Point><coordinates>-90.293304, 38.054052</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/25/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, STE. GENEVIEVE, BLOOMSDALE, 8090 JACKSON SCHOOL ROAD</description><Point><coordinates>-90.316908, 38.009470</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/24/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, STE. GENEVIEVE, BLOOMSDALE, 5562 VALLEY VIEW DRIVE</description><Point><coordinates>-90.273438, 38.048201</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/6/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, STE. GENEVIEVE, FARMINGTON, 27002 COFFMAN</description><Point><coordinates>-90.270368, 37.723444</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/11/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, STE. GENEVIEVE, FARMINGTON, 21879  GORDON ROAD</description><Point><coordinates>-90.331088, 37.806630</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/18/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, STE. GENEVIEVE, FESTUS, 6676 OLD BILLY FARM ROAD</description><Point><coordinates>-90.359591, 38.033289</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/13/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, STE. GENEVIEVE, FESTUS, 6619 EL FOREST ACRES</description><Point><coordinates>-91.831833, 37.964253</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/15/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, STE. GENEVIEVE, SAINTE GENEVIEVE, 803 NORTH FOURTH STREET</description><Point><coordinates>-90.051479, 37.986759</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/5/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, STE. GENEVIEVE, SAINTE GENEVIEVE, 72 THIRD STREET</description><Point><coordinates>-90.046082, 37.979026</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/11/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, STE. GENEVIEVE, SAINTE GENEVIEVE, 52 NORTH SECOND STREET</description><Point><coordinates>-90.044601, 37.980433</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/24/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, STE. GENEVIEVE, SAINTE GENEVIEVE, 791 BILTMORE</description><Point><coordinates>-90.051285, 37.986495</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/30/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, STE. GENEVIEVE, SAINTE GENEVIEVE, 17268 LAKE BRANDS ROAD</description><Point><coordinates>-90.142864, 37.808673</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/6/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, STE. GENEVIEVE, SAINTE GENEVIEVE, 19993 GORE ROAD</description><Point><coordinates>-90.305348, 37.832502</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/6/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, STE. GENEVIEVE, SAINTE GENEVIEVE, 9222 KOCHER ROAD</description><Point><coordinates>-90.289645, 37.850778</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/2/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, STE. GENEVIEVE, SAINTE GENEVIEVE, 511  ST. MARY'S ROAD</description><Point><coordinates>-90.037958, 37.969177</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/28/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, STE. GENEVIEVE, SAINTE GENEVIEVE, 19993  GORE ROAD</description><Point><coordinates>-90.305348, 37.832502</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

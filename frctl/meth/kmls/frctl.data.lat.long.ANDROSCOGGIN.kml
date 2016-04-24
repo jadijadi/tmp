@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/25/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MAINE, ANDROSCOGGIN, LEWISTON, 37 GOFF ST 3RD FLOOR</description><Point><coordinates>-70.196676, 44.076402</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/25/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MAINE, ANDROSCOGGIN, LEWISTON, 624 SABATTUS ST 2ND FLOOR</description><Point><coordinates>-70.183107, 44.102464</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/5/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MAINE, ANDROSCOGGIN, LEWISTON, 8  OMER STREET STREET</description><Point><coordinates>-70.196789, 44.119995</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/6/2016</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MAINE, ANDROSCOGGIN, LEWISTON, 938  Sabattus Street STREET</description><Point><coordinates>-70.168960, 44.102800</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at </name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MAINE, ANDROSCOGGIN, LEWISTON, 333  Lisbon Street STREET BOX apt. 203</description><Point><coordinates>-70.215396, 44.093119</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

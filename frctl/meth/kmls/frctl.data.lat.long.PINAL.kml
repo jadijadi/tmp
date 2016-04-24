@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 10/5/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARIZONA, PINAL, APACHE JUNCTION, 1460 SOUTH DENIZA</description><Point><coordinates>-111.540713, 33.401768</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARIZONA, PINAL, APACHE JUNCTION, 292 PALO VERDE N DR 5</description><Point><coordinates>-111.566795, 33.417895</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/5/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARIZONA, PINAL, APACHE JUNCTION, 4326 DESERT VIEW N DR</description><Point><coordinates>-111.574783, 33.454287</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARIZONA, PINAL, APACHE JUNCTION, 4632 MAIN N DR</description><Point><coordinates>-111.568825, 33.457014</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARIZONA, PINAL, APACHE JUNCTION, 917 KANIKSU W</description><Point><coordinates>-111.556423, 33.454523</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/21/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARIZONA, PINAL, APACHE JUNCTION, 980 IRONWOOD N DR #50</description><Point><coordinates>-111.564484, 33.423711</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARIZONA, PINAL, APACHE JUNCTION, 9841 EAST LA PALMA AVENUE 4</description><Point><coordinates>-111.439945, 33.359265</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/17/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARIZONA, PINAL, CASA GRANDE, 406 PASCO DE PAULA E ST</description><Point><coordinates>-111.757352, 32.879502</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/1/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARIZONA, PINAL, MARICOPA, 2839 KATHLEEN E RD 103</description><Point><coordinates>-111.654932, 33.389502</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

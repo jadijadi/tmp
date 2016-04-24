@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH DAKOTA, BURLEIGH, BISMARCK, 116 NORTHEAST AVE</description><Point><coordinates>-100.783739, 46.808327</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH DAKOTA, BURLEIGH, BISMARCK, 129 ARIKARA E 3</description><Point><coordinates>-100.788866, 46.818956</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH DAKOTA, BURLEIGH, BISMARCK, 8301 12TH SE ST</description><Point><coordinates>-100.774133, 46.714135</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/31/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH DAKOTA, BURLEIGH, BISMARCK, 507 STRATFORD</description><Point><coordinates>-100.799440, 46.779072</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/14/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH DAKOTA, BURLEIGH, BISMARCK, 61 SWEET W AVE 33</description><Point><coordinates>-100.798242, 46.803116</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/29/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH DAKOTA, BURLEIGH, BISMARCK, 518 1/2 5TH N ST</description><Point><coordinates>-100.784978, 46.810324</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH DAKOTA, BURLEIGH, BISMARCK, 4005 19TH N ST 201</description><Point><coordinates>-100.762147, 46.850825</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH DAKOTA, BURLEIGH, BISMARCK, 4005 19TH N ST 101</description><Point><coordinates>-100.762147, 46.850825</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/13/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH DAKOTA, BURLEIGH, BISMARCK, 927 1/2 11TH N ST</description><Point><coordinates>-100.774875, 46.814897</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/21/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH DAKOTA, BURLEIGH, BISMARCK, 600 9TH S ST #45</description><Point><coordinates>-100.779413, 46.799922</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH DAKOTA, BURLEIGH, BISMARCK, 304 1/2 4TH NE AVE</description><Point><coordinates>-100.786115, 46.807713</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/22/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH DAKOTA, BURLEIGH, BISMARCK, 2500 CENTENNIAL RD</description><Point><coordinates>-100.736261, 46.833115</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/30/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH DAKOTA, BURLEIGH, BISMARCK, 1827 CAPITOL E AVE 8</description><Point><coordinates>-100.763422, 46.828447</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/8/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH DAKOTA, BURLEIGH, BISMARCK, 5520 NORTHEAST 17TH AVENUE</description><Point><coordinates>-100.706091, 46.823547</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/6/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH DAKOTA, BURLEIGH, BISMARCK, 725 SOUTH 12TH STREET</description><Point><coordinates>-100.773396, 46.798080</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/20/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH DAKOTA, BURLEIGH, BISMARCK, 315 NORTH 25TH ST  12</description><Point><coordinates>-100.753730, 46.807757</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

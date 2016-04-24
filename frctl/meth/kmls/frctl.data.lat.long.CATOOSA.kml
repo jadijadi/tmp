@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/17/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, CATOOSA, RINGGOLD, 60 KEN LN</description><Point><coordinates>-85.138319, 34.956508</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, CATOOSA, RINGGOLD, 320 TEEMS E RD</description><Point><coordinates>-85.202119, 34.807242</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/14/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, CATOOSA, RINGGOLD, 152 HANNAH LN</description><Point><coordinates>-85.157784, 34.846583</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, CATOOSA, RINGGOLD, 2553 41 HWY 2553</description><Point><coordinates>-85.109117, 34.915910</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, CATOOSA, RINGGOLD, 162 L Q WARE LN</description><Point><coordinates>-85.118877, 34.889422</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, CATOOSA, RINGGOLD, 934 ROACH HOLLOW RD</description><Point><coordinates>-85.138525, 34.951081</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/22/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, CATOOSA, RINGGOLD, 195 LINDSEY DRIVE</description><Point><coordinates>-85.182077, 34.880522</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/5/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, CATOOSA, RINGGOLD, CONDRA RD 652</description><Point><coordinates>-85.019841, 34.939309</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/16/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, CATOOSA, RINGGOLD, 4070 HWY 41</description><Point><coordinates>-85.128258, 34.920992</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/24/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, CATOOSA, RINGGOLD, 2675 NORTH HWY 41</description><Point><coordinates>-85.109117, 34.915910</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/3/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, CATOOSA, RINGGOLD, 164 AMY LANE</description><Point><coordinates>-85.170275, 34.953511</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/7/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, CATOOSA, RINGGOLD, 130 GILBERT DRIVE</description><Point><coordinates>-85.136956, 34.922181</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/14/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, CATOOSA, ROSSVILLE, 1304 LAKE VIEW DR</description><Point><coordinates>-85.251612, 34.979023</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, CATOOSA, ROSSVILLE, 46 FISHER ST</description><Point><coordinates>-85.218417, 34.985230</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/13/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, CATOOSA, ROSSVILLE, 880 STATELINE RD. W</description><Point><coordinates>-85.241447, 34.985289</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/20/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, CATOOSA, ROSSVILLE, 938 STEELE ROAD</description><Point><coordinates>-85.221375, 34.972783</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/17/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, CATOOSA, ROSSVILLE, 294 WARREN STREET 294</description><Point><coordinates>-85.261136, 34.970437</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

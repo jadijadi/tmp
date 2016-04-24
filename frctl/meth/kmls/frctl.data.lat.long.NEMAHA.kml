@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 7/20/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, NEMAHA, ONEIDA, 505 MONROE</description><Point><coordinates>-95.940970, 39.864150</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEBRASKA, NEMAHA, AUBURN, 1102 14TH ST</description><Point><coordinates>-95.840276, 40.390723</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/21/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEBRASKA, NEMAHA, AUBURN, 1915 M ST</description><Point><coordinates>-95.842853, 40.384942</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/28/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEBRASKA, NEMAHA, AUBURN, 2315 16TH ST</description><Point><coordinates>-95.857319, 40.388849</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEBRASKA, NEMAHA, BROCK, 1409 MAIN S</description><Point><coordinates>-95.959539, 40.474595</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEBRASKA, NEMAHA, PERU, 210 CALIFORNIA ST</description><Point><coordinates>-95.726858, 40.480570</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

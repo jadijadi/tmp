@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/3/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, OLDHAM, CRESTWOOD, 5305 OLD HERRING PL</description><Point><coordinates>-85.473752, 38.346094</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/31/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, OLDHAM, CRESTWOOD, 2315 CREEKSIDE CIRCLE</description><Point><coordinates>-85.400526, 38.355026</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/6/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, OLDHAM, LA GRANGE, 230 YAGER AVE</description><Point><coordinates>-85.381417, 38.403265</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/27/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, OLDHAM, LA GRANGE, 701 WEST MADISON STREET</description><Point><coordinates>-85.390578, 38.406725</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, SMYTH, ATKINS, 471 STONEWAY</description><Point><coordinates>-81.442789, 36.865131</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/3/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, SMYTH, ATKINS, 120 OLD TANNERY RD</description><Point><coordinates>-81.384812, 36.877820</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, SMYTH, CHILHOWIE, 1051 CHESTNUT RIDGE DR</description><Point><coordinates>-81.636392, 36.790903</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, SMYTH, CHILHOWIE, 579 OVERLOOK DR</description><Point><coordinates>-81.670116, 36.798924</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/19/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, SMYTH, CHILHOWIE, 680 NEED MORE RD</description><Point><coordinates>-81.682341, 36.798448</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/27/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, SMYTH, CHILHOWIE, 409  WHITETOP ROAD</description><Point><coordinates>-81.681078, 36.795579</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/30/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, SMYTH, CHILHOWIE, 232  HOLIDAY DRIVE</description><Point><coordinates>-81.645619, 36.768673</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/8/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, SMYTH, CHILHOWIE, 565  MILL CREEK ROAD</description><Point><coordinates>-81.651383, 36.704771</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, SMYTH, GROSCLOSE, 263 KNIGHT RD</description><Point><coordinates>-78.656894, 37.431573</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, SMYTH, MARION, 245 SPRING HOLLOW RD</description><Point><coordinates>-81.557446, 36.757068</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, SMYTH, MARION, 1732 HWY 16 A</description><Point><coordinates>-81.480368, 36.823077</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/11/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, SMYTH, MARION, 431 PORTER VALLEY RD</description><Point><coordinates>-81.636193, 36.828638</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, SMYTH, MARION, 696 MIDDLE FORK RD</description><Point><coordinates>-81.643556, 36.827483</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/3/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, SMYTH, MARION, 455 DOUGLAS ST C</description><Point><coordinates>-81.522880, 36.825765</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/23/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, SMYTH, MARION, 731 OLIVE ST</description><Point><coordinates>-81.515388, 36.825293</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/11/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, SMYTH, MARION, 610 WALKERS CREED RD</description><Point><coordinates>-81.543365, 36.866433</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/25/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, SMYTH, MARION, 213 TRIMBLE DR</description><Point><coordinates>-81.558487, 36.817018</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/6/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, SMYTH, MARION, 395 SUGAR ST</description><Point><coordinates>-81.576483, 36.752063</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/24/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, SMYTH, MARION, 213 TREMBLE</description><Point><coordinates>-81.558487, 36.817018</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/5/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, SMYTH, MARION, 1578  WALKERS CREEK ROAD</description><Point><coordinates>-81.563946, 36.873814</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/12/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, SMYTH, MARION, 206  WALKERS CREEK ROAD</description><Point><coordinates>-81.531819, 36.857754</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/13/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, SMYTH, MARION, 341  FIRESTONE LANE</description><Point><coordinates>-81.461834, 36.805343</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/12/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, SMYTH, MARION, 422  SPRUCE STREET</description><Point><coordinates>-81.514226, 36.830842</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/18/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, SMYTH, MARION, 233  DEANS BRANCH ROAD</description><Point><coordinates>-81.553590, 36.768932</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/8/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, SMYTH, MARION, 3031 BROOKSIDE DRIVE</description><Point><coordinates>-81.600824, 36.848496</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/8/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, SMYTH, MARION, 416 SOUTH CHURCH STREET</description><Point><coordinates>-81.517063, 36.829251</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/18/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, SMYTH, MARION, 801  HUTTON BRANCH ROAD</description><Point><coordinates>-81.455489, 36.838468</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/19/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, SMYTH, MARION, 237 WEST CHERRY STREET</description><Point><coordinates>-81.522473, 36.830685</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/19/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, SMYTH, MARION, 459  DOUGLAS STREET C</description><Point><coordinates>-81.522836, 36.825765</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/2/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, SMYTH, MARION, 2194  HIGHWAY 16</description><Point><coordinates>-81.527450, 36.867297</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/21/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, SMYTH, MARION, 281  HARRIS LANE</description><Point><coordinates>-81.529106, 36.848934</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/17/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, SMYTH, MARION, 604  HUME PLACE</description><Point><coordinates>-81.521086, 36.825038</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, SMYTH, SALTVILLE, 2208 SALTVILLE HWY</description><Point><coordinates>-81.722044, 36.910326</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/12/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, SMYTH, SALTVILLE, 205 DOANE HOLLOW RD</description><Point><coordinates>-81.655606, 36.890914</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/26/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, SMYTH, SALTVILLE, 1037  WORTHY BOULEVARD</description><Point><coordinates>-81.743853, 36.861035</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/12/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, SMYTH, SALTVILLE, 219 FRYE TOWN LANE</description><Point><coordinates>-81.736517, 36.906799</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/24/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, SMYTH, SALTVILLE, 300  DAVIDSON ST STREET</description><Point><coordinates>-81.757185, 36.890361</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/27/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, SMYTH, SALTVILLE, 1075  UPPER POORE VALLEY RD ROAD</description><Point><coordinates>-81.714773, 36.923071</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/29/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, SMYTH, SALTVILLE, 219  FRYE TOWN LN ROAD</description><Point><coordinates>-81.736517, 36.906799</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, SMYTH, SUGAR GROVE, 5005 BETTER HOMES DR 11</description><Point><coordinates>-81.405521, 36.786523</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/8/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, SMYTH, SUGAR GROVE, 4996 SUGAR GROVE HWY</description><Point><coordinates>-81.404450, 36.786340</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/15/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, HICKMAN, BON AQUA, 1016 BY BLVD</description><Point><coordinates>-87.250074, 35.918560</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/24/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, HICKMAN, BON AQUA, 10515  MOSS BRANCH RD.</description><Point><coordinates>-87.269544, 35.958104</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/15/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, HICKMAN, CENTERVILLE, 2381 GRAYS BEND ROAD</description><Point><coordinates>-87.409169, 35.824813</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/8/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, HICKMAN, CENTERVILLE, 964 GRINDERS SWITCH RD</description><Point><coordinates>-87.487211, 35.788596</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/8/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, HICKMAN, LYLES, 3900 NORTH HWY. 100</description><Point><coordinates>-87.347174, 35.877637</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/13/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, HICKMAN, LYLES, 7797  GROVER VAUGHN ROAD</description><Point><coordinates>-87.346109, 35.899157</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/10/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, HICKMAN, NUNNELLY, 7277  PINEWOOD RD.</description><Point><coordinates>-87.420271, 35.916340</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/16/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, HICKMAN, PRIMM SPRINGS, 8058  NORTH BAKER RD.</description><Point><coordinates>-87.223068, 35.822557</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

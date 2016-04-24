@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, GENEVA, CHANCELLOR, 629 COUNTY 729 RD</description><Point><coordinates>-85.833434, 31.218183</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/30/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, GENEVA, CHANCELLOR, 9730 AL N ST</description><Point><coordinates>-85.877159, 31.181563</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, GENEVA, GENEVA, 405 PURVIS W ST</description><Point><coordinates>-85.880097, 31.041750</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/7/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, GENEVA, GENEVA, 2131 GOATHILL W RD</description><Point><coordinates>-85.927961, 31.037748</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, GENEVA, GENEVA, 2837 COUNTY RD</description><Point><coordinates>-85.863824, 31.032957</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/16/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, GENEVA, GENEVA, 2615 STATE HWY 85 N</description><Point><coordinates>-85.852547, 31.076975</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/17/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, GENEVA, HARTFORD, 971 T. PEACOCK RD</description><Point><coordinates>-85.654673, 31.151507</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/5/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, GENEVA, HARTFORD, 198 WHEAT LANE</description><Point><coordinates>-85.688900, 31.003200</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/13/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, GENEVA, SAMSON, 123 FINK FARM RD</description><Point><coordinates>-86.176600, 31.051500</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, GENEVA, SAMSON, 403 EWING W ST</description><Point><coordinates>-86.054927, 31.110589</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/1/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, GENEVA, SAMSON, 3163 ALAFLO RD</description><Point><coordinates>-86.104700, 30.994300</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/6/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, GENEVA, SAMSON, 6388 STATE HWY 54</description><Point><coordinates>-86.183600, 31.065500</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, GENEVA, SLOCOMB, 1813 PATES RD</description><Point><coordinates>-85.613500, 31.192300</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/7/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, GENEVA, SLOCOMB, 103 EWELL S RD</description><Point><coordinates>-85.530840, 31.029911</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 11/28/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, FRESNO, CARUTHERS, 14594 SOUTH ELM AVENUE</description><Point><coordinates>-119.784602, 36.524933</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/26/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, FRESNO, CLOVIS, 287 WEST BARSTOW AVENUE 125B</description><Point><coordinates>-119.715580, 36.816606</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, FRESNO, COALINGA, 47932 LOST HILLS RD</description><Point><coordinates>-120.180101, 36.037685</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/15/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, FRESNO, DOS PALOS, 43186  MERRILL AVENUE</description><Point><coordinates>-120.566870, 36.954512</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/15/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, FRESNO, DOS PALOS, 43186  MERRILL AVENUE</description><Point><coordinates>-120.566870, 36.954512</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/21/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, FRESNO, FOWLER, 6424 SOUTH FOWLER AVENUE</description><Point><coordinates>-119.679863, 36.642749</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/15/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, FRESNO, FRESNO, 12884 S ELM AVE</description><Point><coordinates>-119.790421, 36.548570</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/15/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, FRESNO, FRESNO, 1315 E CORNELL</description><Point><coordinates>-119.794645, 36.777966</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/29/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, FRESNO, FRESNO, 7090 N FRUIT AVE 140</description><Point><coordinates>-119.816590, 36.839430</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/9/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, FRESNO, FRESNO, 4822 E MONO ST</description><Point><coordinates>-119.735393, 36.736626</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/24/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, FRESNO, FRESNO, 2540 NORTH FLOYD AVENUE</description><Point><coordinates>-119.997276, 36.774301</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/13/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, FRESNO, FRESNO, 8971 MOUNTAIN VIEW</description><Point><coordinates>-119.796924, 36.904008</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/16/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, FRESNO, FRESNO, 4409 EAST HEDGES AVENUE A</description><Point><coordinates>-119.751985, 36.759809</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/6/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, FRESNO, FRESNO, 3001 WEST SWIFT AVE AVENUE 104</description><Point><coordinates>-119.844323, 36.796691</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4851 NORTH N CEDAR AVE AVENUE</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, FRESNO, FRESNO</description><Point><coordinates>-119.772587, 36.746842</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/14/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, FRESNO, FRESNO, 3852 EAST E OLIVE AVE AVENUE 201</description><Point><coordinates>-119.760061, 36.757453</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/21/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, FRESNO, FRESNO, 3025 EAST E GETTYSBURG AVE AVENUE 102</description><Point><coordinates>-119.773893, 36.801527</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/6/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, FRESNO, FRESNO, 7675 N FIRST STREET BOX 203</description><Point><coordinates>-119.775502, 36.849902</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/24/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, FRESNO, FRESNO, 4102 E north AVENUE</description><Point><coordinates>-119.716635, 36.693645</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/3/2016</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, FRESNO, FRESNO, 2715 N Millbrook AVENUE</description><Point><coordinates>-119.763306, 36.775462</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/15/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, FRESNO, REEDLEY, 22134 E HOGAN AVE</description><Point><coordinates>-119.393303, 36.672670</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/8/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, FRESNO, REEDLEY, 20069 CLAYTON AVENUE</description><Point><coordinates>-119.429391, 36.638508</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/10/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, FRESNO, SAN JOAQUIN, 2243 ELDORADO S B</description><Point><coordinates>-120.206769, 36.610362</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/18/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, FRESNO, SQUAW VALLEY, 46992  CREEKSIDE ROAD</description><Point><coordinates>-119.137689, 36.686211</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

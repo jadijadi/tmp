@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 8/23/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, TILLMAN, FREDERICK, 7 CADDO N ST</description><Point><coordinates>-99.018409, 34.392026</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/11/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, TILLMAN, MANITOU, 815 8TH W ST</description><Point><coordinates>-98.983409, 34.507578</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

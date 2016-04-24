@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 10/5/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, BERRIEN, NASHVILLE, 212 BAY ST</description><Point><coordinates>-83.251947, 31.200689</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/13/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, BERRIEN, NASHVILLE, 703  COLLEGE ST STREET</description><Point><coordinates>-83.254363, 31.200076</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/11/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BERRIEN, BENTON HARBOR, 478 GARY AVE</description><Point><coordinates>-86.464791, 42.080087</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/10/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BERRIEN, BENTON HARBOR, 3398 RIVERSIDE ROAD</description><Point><coordinates>-86.388803, 42.173427</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/11/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BERRIEN, BENTON HARBOR, 438 MILLBURG DRIVE</description><Point><coordinates>-86.335277, 42.115577</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/9/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BERRIEN, BENTON HARBOR, 2699 SOUTH M-139 HIGHWAY 140</description><Point><coordinates>-86.434576, 42.070769</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/21/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BERRIEN, BENTON HARBOR, 4739  NORTH STREET</description><Point><coordinates>-86.342500, 42.123754</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/15/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BERRIEN, BENTON HARBOR, 2390 EAST EUCLID AVENUE</description><Point><coordinates>-86.401133, 42.142990</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/24/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BERRIEN, BENTON HARBOR, 2026  HATCH STREET</description><Point><coordinates>-86.410862, 42.133331</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/27/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BERRIEN, BENTON HARBOR, 573  MIDWAY  2</description><Point><coordinates>-86.418678, 42.124109</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/12/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BERRIEN, BENTON HARBOR, 846 N BENTON CENTER ROAD</description><Point><coordinates>-86.381166, 42.129703</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/18/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BERRIEN, BRIDGMAN, 9240 JERICHO RD</description><Point><coordinates>-86.534118, 41.951243</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/26/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BERRIEN, BUCHANAN, 803 NORTH RED BUD TRAIL</description><Point><coordinates>-86.358187, 41.835290</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/11/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BERRIEN, BUCHANAN, 609 WEST 4TH STREET 28</description><Point><coordinates>-86.374291, 41.832635</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/16/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BERRIEN, BUCHANAN, 2980 OAK FOREST ROAD</description><Point><coordinates>-86.387203, 41.766546</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/18/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BERRIEN, BUCHANAN, 406 WEST ROE STREET</description><Point><coordinates>-86.369219, 41.826154</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/1/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BERRIEN, BUCHANAN, 1005  VICTORY STREET</description><Point><coordinates>-86.355724, 41.837509</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/1/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BERRIEN, BUCHANAN, 105  FULTON</description><Point><coordinates>-86.360581, 41.835056</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/25/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BERRIEN, COLOMA, 5632 JILL ANNE DRIVE</description><Point><coordinates>-86.321757, 42.173361</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/29/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BERRIEN, COLOMA, 4241 EAST THAR ROAD</description><Point><coordinates>-86.355694, 42.201207</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/1/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BERRIEN, COLOMA, 5394  PAW PAW LAKE ROAD</description><Point><coordinates>-86.287210, 42.208392</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/13/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BERRIEN, COLOMA, 5949 NORTH COLOMA ROAD</description><Point><coordinates>-86.301326, 42.219321</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/15/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BERRIEN, COLOMA, 7180  ARIES LANE</description><Point><coordinates>-86.358110, 42.241650</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/19/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BERRIEN, COLOMA, 7142  ARIES LANE</description><Point><coordinates>-86.358495, 42.241303</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/25/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BERRIEN, COLOMA, 6275  CENTRAL AVENUE 3</description><Point><coordinates>-86.373973, 42.225911</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/21/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BERRIEN, EAU CLAIRE, 6220  APPLE STREET</description><Point><coordinates>-86.306427, 41.986295</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/12/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BERRIEN, EAU CLAIRE, 5534  PARKWAY DRIVE</description><Point><coordinates>-86.323981, 42.075959</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/3/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BERRIEN, EAU CLAIRE, 5582  TOUSLEY DRIVE</description><Point><coordinates>-86.322845, 42.076869</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/22/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BERRIEN, EAU CLAIRE, 7076  BEAVER DRIVE</description><Point><coordinates>-86.286718, 41.984889</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/24/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BERRIEN, NILES, 1010 FERRY STREET</description><Point><coordinates>-86.247419, 41.831489</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/7/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BERRIEN, NILES, 1027 HERBERT</description><Point><coordinates>-86.227782, 41.817427</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/14/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BERRIEN, NILES, 301 17TH STREET C</description><Point><coordinates>-86.234237, 41.830722</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/21/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BERRIEN, NILES, 902  OAK STREET</description><Point><coordinates>-86.249020, 41.826706</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/2/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BERRIEN, NILES, 904  SYCAMORE STREET</description><Point><coordinates>-86.248889, 41.830555</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/25/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BERRIEN, NILES, 1101.5  CEDAR STREET</description><Point><coordinates>-86.246487, 41.829125</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/1/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BERRIEN, NILES, 1610 N 5TH STREET</description><Point><coordinates>-86.251560, 41.843675</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/16/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BERRIEN, NILES, 1610 N 5TH STREET</description><Point><coordinates>-86.251560, 41.843675</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/24/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BERRIEN, SAINT JOSEPH, 819  HIGHLAND AVENUE</description><Point><coordinates>-86.483495, 42.085637</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BERRIEN, SODUS, 3101 RIVER RD 09</description><Point><coordinates>-86.395895, 42.060656</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/8/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BERRIEN, STEVENSVILLE, 604 WEST JOHN REERR ROAD</description><Point><coordinates>-86.519465, 42.014487</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/19/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BERRIEN, STEVENSVILLE, 604 WEST JOHN BEERS ROAD</description><Point><coordinates>-86.467552, 42.009063</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/5/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BERRIEN, WATERVLIET, 5355 M-140 N</description><Point><coordinates>-86.244556, 42.207523</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

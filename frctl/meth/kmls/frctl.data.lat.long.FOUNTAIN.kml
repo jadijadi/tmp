@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/18/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, FOUNTAIN, ATTICA, 407 NORTH 5TH STREET</description><Point><coordinates>-87.245134, 40.296149</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/12/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, FOUNTAIN, HILLSBORO, 387 NORTH STATE ROAD 341</description><Point><coordinates>-87.156697, 40.106562</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, FOUNTAIN, KINGMAN, 304 2ND N ST</description><Point><coordinates>-87.278012, 39.970306</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, FOUNTAIN, KINGMAN, 1672 LAKE HIDEWAY W RD</description><Point><coordinates>-87.340883, 39.996727</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/3/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, FOUNTAIN, KINGMAN, 189 EAST ST RD 234</description><Point><coordinates>-87.263557, 39.967366</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/29/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, FOUNTAIN, TANGIER, 10384 MELON N RD</description><Point><coordinates>-86.134902, 40.267194</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, FOUNTAIN, VEEDERSBURG, 200 LIBERTY ST</description><Point><coordinates>-87.251336, 40.113307</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

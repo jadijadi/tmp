@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/20/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, PLATTE, KANSAS CITY, 6446 WAUKOMIS NW DR</description><Point><coordinates>-94.612946, 39.211410</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/26/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, PLATTE, KANSAS CITY, 10312 NORTH LUCERNE AVENUE</description><Point><coordinates>-94.652671, 39.281347</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/23/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, PLATTE, PARKVILLE, 10009 LIMA DRIVE</description><Point><coordinates>-94.682181, 39.195003</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/9/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, PLATTE, PLATTE CITY, 409  VINE STREET</description><Point><coordinates>-94.778760, 39.371990</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/5/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, PLATTE, RIVERSIDE, 4800 NORTHWEST NORTHWOOD</description><Point><coordinates>-94.634701, 39.183464</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/17/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, PLATTE, RIVERSIDE, 4598 NORTHWEST GATEWAY ST</description><Point><coordinates>-94.614138, 39.178098</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEBRASKA, PLATTE, COLUMBUS, 37355 197 ST</description><Point><coordinates>-97.570835, 41.431313</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/11/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEBRASKA, PLATTE, COLUMBUS, 3919 23RD ST 221</description><Point><coordinates>-97.376712, 41.438286</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/2/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WYOMING, PLATTE, WHEATLAND, 954  WALNUT STREET  BOX 2</description><Point><coordinates>-104.954308, 42.056231</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

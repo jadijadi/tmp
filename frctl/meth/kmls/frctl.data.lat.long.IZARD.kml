@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/30/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, IZARD, CALICO ROCK, 363 HC 62 ROAD 363</description><Point><coordinates>-92.135987, 36.119514</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/5/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, IZARD, DOLPH, 39 NORTH 51</description><Point><coordinates>-92.112738, 36.230926</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/6/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, IZARD, DOLPH, 39 NORTH HC69 8</description><Point><coordinates>-92.112653, 36.228401</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, IZARD, FRANKLIN, 135 MAIN S ST</description><Point><coordinates>-91.775347, 36.169284</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/14/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, IZARD, HORSESHOE BEND, 1231 BEND CIR</description><Point><coordinates>-91.771944, 36.242204</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

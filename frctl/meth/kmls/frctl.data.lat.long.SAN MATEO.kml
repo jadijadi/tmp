@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/21/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, SAN MATEO, BELMONT, 926 SOUTH ROAD</description><Point><coordinates>-122.278766, 37.518679</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/14/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, SAN MATEO, DALY CITY, 439  BONNIE STREET</description><Point><coordinates>-122.456914, 37.695535</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/4/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, SAN MATEO, EAST PALO ALTO, 1894 BAY ROAD</description><Point><coordinates>-122.132463, 37.472376</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

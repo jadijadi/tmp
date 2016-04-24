@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/11/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: UTAH, WEBER, MARRIOTT-SLATERVILLE, 3100 1173 N</description><Point><coordinates>-112.034302, 41.264083</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: UTAH, WEBER, OGDEN, 740 25TH ST 4</description><Point><coordinates>-111.960812, 41.220526</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/6/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: UTAH, WEBER, OGDEN, 1658 20TH E ST</description><Point><coordinates>-111.935188, 41.230944</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: UTAH, WEBER, OGDEN, 743 23RD ST 3 OGDEN</description><Point><coordinates>-111.960752, 41.224338</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/15/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: UTAH, WEBER, OGDEN, 855 CARNEY S ST</description><Point><coordinates>-111.959591, 41.192124</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/20/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: UTAH, WEBER, OGDEN, 625 OGDEN AVE</description><Point><coordinates>-111.968762, 41.252553</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/31/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: UTAH, WEBER, OGDEN, 2832 MADISON AVENUE</description><Point><coordinates>-111.961833, 41.213456</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/9/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, WEBER, OGDEN, 1325 LINCOLN 47</description><Point><coordinates>-78.656894, 37.431573</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

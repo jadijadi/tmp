@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 9/11/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MINNESOTA, OLMSTED, ORONOCO, 1197 NORTHWEST 115TH STREET</description><Point><coordinates>-92.479284, 44.166169</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MINNESOTA, OLMSTED, ROCHESTER, 3873 WILLOW RIDGE SW DR</description><Point><coordinates>-92.468958, 43.968783</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/29/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MINNESOTA, OLMSTED, ROCHESTER, 1230 BROADWAY S 324</description><Point><coordinates>-92.461773, 44.005359</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/25/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MINNESOTA, OLMSTED, ROCHESTER, 322 NORTHWEST 36TH AVENUE</description><Point><coordinates>-92.517371, 44.027257</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/5/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MINNESOTA, OLMSTED, ROCHESTER, 1119 SOUTHWEST 7 AVENUE</description><Point><coordinates>-92.472834, 44.008277</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/5/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MINNESOTA, OLMSTED, ROCHESTER, 805 NORTHWEST 4 AVENUE</description><Point><coordinates>-92.468566, 44.031679</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 11/13/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, MCCURTAIN, BROKEN ARROW, 223 MAIN N ST 3</description><Point><coordinates>-94.970789, 35.149820</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/13/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, MCCURTAIN, BROKEN BOW, 519 BRULE W ST</description><Point><coordinates>-94.739104, 34.029276</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/19/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, MCCURTAIN, BROKEN BOW, 110 BLANCHARD</description><Point><coordinates>-94.739104, 34.029276</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/17/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, MCCURTAIN, BROKEN BOW, 401 HUFFMAN  RD</description><Point><coordinates>-94.732325, 34.024162</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, MCCURTAIN, BROKEN BOW, 109 MINOR CIRCLE</description><Point><coordinates>-94.730107, 34.032936</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/17/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, MCCURTAIN, BROKEN BOW, 704 DIERKS</description><Point><coordinates>-94.734660, 34.033389</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/12/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, MCCURTAIN, BROKEN BOW, 901 DIERKS N</description><Point><coordinates>-94.734693, 34.035309</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/23/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, MCCURTAIN, BROKEN BOW, 409 1/2 PARK N DR</description><Point><coordinates>-94.739598, 34.030949</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/22/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, MCCURTAIN, BROKEN BOW, GIBSON  RD 107</description><Point><coordinates>-94.730980, 34.011456</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/7/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, MCCURTAIN, EAGLETOWN, 702 CHOCTAW W</description><Point><coordinates>-94.572408, 34.033964</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, MCCURTAIN, EAGLETOWN, 11  VAUGHN DRIVE</description><Point><coordinates>-94.574935, 34.034278</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/7/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, MCCURTAIN, HAWORTH, 299 CAMP  ST</description><Point><coordinates>-94.652711, 33.846500</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/13/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, MCCURTAIN, IDABEL, 403  OAK STREET</description><Point><coordinates>-94.800443, 33.897414</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/30/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, MCCURTAIN, IDABEL, 5 PARK SE DR</description><Point><coordinates>-94.825440, 33.882768</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/6/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, MCCURTAIN, MILLERTON, 5 PARLE SE DR</description><Point><coordinates>-95.013558, 33.985941</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/23/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, MCCURTAIN, MT HERMAN COMMUNITY, 1400 14TH SE ST</description><Point><coordinates>-94.970789, 35.149820</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/17/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, MCCURTAIN, RINGOLD, 14 CENTRAL N</description><Point><coordinates>-95.090474, 34.176882</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/1/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, MCCURTAIN, RINGOLD, 1604 HERRON  ST</description><Point><coordinates>-95.125119, 34.174946</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/15/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, RENO, HUTCHINSON, 310 5TH W AVE</description><Point><coordinates>-97.938100, 38.058800</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/29/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, RENO, HUTCHINSON, 922 16TH E AVE</description><Point><coordinates>-97.911600, 38.070800</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, RENO, HUTCHINSON, 322 4TH E AVE</description><Point><coordinates>-97.934299, 38.032826</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/11/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, RENO, HUTCHINSON, 424 CRESCENT</description><Point><coordinates>-97.923400, 38.072300</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, RENO, HUTCHINSON, 109 MAPLE S ST</description><Point><coordinates>-97.926600, 38.050400</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/6/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, RENO, HUTCHINSON, 230 BIGGER E</description><Point><coordinates>-97.926690, 38.042083</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, RENO, HUTCHINSON, 922 MAIN N ST</description><Point><coordinates>-97.940323, 38.038494</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, RENO, HUTCHINSON, 1717 24TH E D</description><Point><coordinates>-97.891600, 38.080800</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, RENO, HUTCHINSON, 1420 LORRAINE N</description><Point><coordinates>-97.903211, 38.069976</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, RENO, HUTCHINSON, 703 A E AVE</description><Point><coordinates>-97.917200, 38.050500</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, RENO, HUTCHINSON, 1400 6TH E AVE</description><Point><coordinates>-97.903700, 38.059900</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/4/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, RENO, HUTCHINSON, 103 STAR N ST</description><Point><coordinates>-97.893100, 38.054600</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/7/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, RENO, HUTCHINSON, 3 SUNSET DR</description><Point><coordinates>-97.951000, 38.072100</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/11/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, RENO, HUTCHINSON, 832 4TH E AVE</description><Point><coordinates>-97.913700, 38.057800</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/2/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, RENO, HUTCHINSON, 714 A E AVE</description><Point><coordinates>-97.916500, 38.051400</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/25/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, RENO, HUTCHINSON, 615 16TH W ST</description><Point><coordinates>-97.943100, 38.070600</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/6/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, RENO, HUTCHINSON, 629 HENDRICKS N ST</description><Point><coordinates>-97.960000, 38.060600</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/18/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, RENO, HUTCHINSON, 10307 4TH E AVE C</description><Point><coordinates>-97.770033, 38.057379</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/11/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, RENO, HUTCHINSON, 1707 BLANCHARD E ST 21</description><Point><coordinates>-97.961453, 38.027953</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/2/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, RENO, HUTCHINSON, 219 REFORMATORY STREET</description><Point><coordinates>-97.912000, 38.048900</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/26/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, RENO, HUTCHINSON, 23 EAST F AVENUE</description><Point><coordinates>-97.938793, 38.020565</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/15/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, RENO, HUTCHINSON, 204 HOAGLAND STREET</description><Point><coordinates>-97.901500, 38.056000</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/2/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, RENO, HUTCHINSON, 3 NORTH KENT ROAD</description><Point><coordinates>-97.812100, 38.051800</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/12/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, RENO, HUTCHINSON, 124 EAST 10TH AVENUE</description><Point><coordinates>-97.928600, 38.064100</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/25/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, RENO, HUTCHINSON, 1604 NORTH COCHRAN</description><Point><coordinates>-97.907600, 38.070900</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/24/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, RENO, HUTCHINSON, 805 EAST A AVENUE</description><Point><coordinates>-97.914800, 38.050600</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/13/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, RENO, HUTCHINSON, 501 GREEN GARDEN DRIVE</description><Point><coordinates>-97.952600, 38.058800</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/25/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, RENO, HUTCHINSON, 5300 EAST 4TH AVENUE</description><Point><coordinates>-97.841500, 38.058500</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/25/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, RENO, HUTCHINSON, 7204 BACKACRES ROAD</description><Point><coordinates>-97.814000, 38.062500</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/2/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, RENO, HUTCHINSON, 8100 WEST 30TH AVENUE</description><Point><coordinates>-97.801434, 38.086522</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/15/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, RENO, HUTCHINSON, 700 SOUTH PEACE ROAD</description><Point><coordinates>-98.234272, 38.042634</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/16/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, RENO, HUTCHINSON, 100 WEST 13 AVENUE</description><Point><coordinates>-97.933700, 38.067600</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/16/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, RENO, HUTCHINSON, 200 WEST 2ND AVENUE</description><Point><coordinates>-97.936000, 38.055100</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/18/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, RENO, HUTCHINSON, 711 NORTH SEVERANCE STREET</description><Point><coordinates>-97.913201, 38.061396</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/20/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, RENO, HUTCHINSON, 716 WEST A AVENUE</description><Point><coordinates>-97.946200, 38.051300</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, RENO, LANGDON, 118 FRONT ST</description><Point><coordinates>-98.324628, 37.854882</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/22/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, RENO, NICKERSON, 7910 ROY L. SMITH ROAD</description><Point><coordinates>-98.071600, 38.141100</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/10/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, RENO, PARTRIDGE, 5307 SOUTH RIVERTON ROAD</description><Point><coordinates>-98.073400, 37.991300</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/16/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, RENO, SOUTH HUTCHINSON, 12 WARREN DR</description><Point><coordinates>-97.932800, 38.018800</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/1/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, RENO, SOUTH HUTCHINSON, 318 EAST E AVENUE</description><Point><coordinates>-97.934312, 38.021876</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/23/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, RENO, SYLVIA, 36616 4TH W ST</description><Point><coordinates>-98.456300, 38.058000</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, RENO, YODER, 3104 SWITZER E</description><Point><coordinates>-97.875125, 37.942189</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

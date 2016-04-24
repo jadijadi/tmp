@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 7/16/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, MIDLAND, COLEMAN, 4384  LEWIS ROAD</description><Point><coordinates>-84.566812, 43.738996</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/17/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, MIDLAND, COLEMAN, 4045 NORTH GENEVA ROAD</description><Point><coordinates>-84.547025, 43.729051</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/11/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, MIDLAND, MIDLAND, 5898 NORTH STURGEON ROAD</description><Point><coordinates>-84.267080, 43.782166</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/10/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, MIDLAND, MIDLAND, 610 VILLAGE CIRCLE D</description><Point><coordinates>-84.220014, 43.658931</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/1/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, MIDLAND, MIDLAND, 1397 W GORDONVILLE AVENUE</description><Point><coordinates>-84.424251, 43.567696</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/18/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, MIDLAND, PORT HURON, 3241  ALAMANDO ROAD</description><Point><coordinates>-85.602364, 44.314844</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, MIDLAND, MIDLAND, 3903 CR 1130 N</description><Point><coordinates>-101.994297, 32.056401</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/2/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, MIDLAND, MIDLAND, 5509  DEAUVILLE BOULEVARD BOX RM #334</description><Point><coordinates>-102.154451, 31.991642</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

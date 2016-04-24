@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/13/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, LAGRANGE, HOWE, 4225 SR 9 N 100</description><Point><coordinates>-85.425864, 41.702347</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/12/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, LAGRANGE, HOWE, 4285 NORTH SR 9</description><Point><coordinates>-85.425495, 41.705255</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/12/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, LAGRANGE, HOWE, 7425 NORTH 50 EAST #7</description><Point><coordinates>-85.418132, 41.728842</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/29/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, LAGRANGE, HOWE, 4285 NORTH SR 9 55</description><Point><coordinates>-85.425495, 41.705255</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/25/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, LAGRANGE, HOWE, 5300 NORTH SR 3</description><Point><coordinates>-85.311631, 41.719136</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/10/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, LAGRANGE, HOWE, 3145 EAST 695 N</description><Point><coordinates>-85.366120, 41.742717</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/14/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, LAGRANGE, HOWE, 7715 EAST 750 NORTH</description><Point><coordinates>-85.280020, 41.754397</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/11/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, LAGRANGE, LAGRANGE, 205 NURSERY ST</description><Point><coordinates>-85.416593, 41.651495</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/9/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, LAGRANGE, LAGRANGE, 7510 EAST 625 S</description><Point><coordinates>-85.426386, 41.645076</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/1/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, LAGRANGE, LAGRANGE, 4020 EAST 175 N</description><Point><coordinates>-85.348624, 41.670461</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/22/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, LAGRANGE, LAGRANGE, 701 HAWPATCH STREET</description><Point><coordinates>-85.420532, 41.638085</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/3/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, LAGRANGE, LAGRANGE, 400 NORTH WALNUT STREET 2</description><Point><coordinates>-85.415065, 41.647024</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/2/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, LAGRANGE, LAGRANGE, 4985 EAST US 20</description><Point><coordinates>-85.521255, 41.640595</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/7/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, LAGRANGE, LAGRANGE, 2880 EAST 050 NORTH</description><Point><coordinates>-85.372057, 41.648935</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/19/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, LAGRANGE, MONGO, 6270 EAST 250 NORTH</description><Point><coordinates>-85.304954, 41.677506</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/18/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, LAGRANGE, ORLAND, 7855 NORTH 1050 E</description><Point><coordinates>-85.225437, 41.755787</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/18/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, LAGRANGE, SHIPSHEWANA, 8200 1150 W N</description><Point><coordinates>-85.652762, 41.758261</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/22/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, LAGRANGE, SHIPSHEWANA, 2775 NORTH 910 W</description><Point><coordinates>-85.601394, 41.680158</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/28/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, LAGRANGE, SHIPSHEWANA, 5885 NORTH 1080 WEST</description><Point><coordinates>-85.635901, 41.724210</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/12/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, LAGRANGE, SHIPSHEWANA, 7620 NORTH 900 W</description><Point><coordinates>-85.602093, 41.749951</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/30/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, LAGRANGE, SHIPSHEWANA, 7985 NORTH 1200 WEST ROAD</description><Point><coordinates>-85.659413, 41.747476</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/26/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, LAGRANGE, SHIPSHEWANA, 6550 WEST 600 N</description><Point><coordinates>-85.553234, 41.726576</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/12/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, LAGRANGE, SHIPSHEWANA, 10650 NORTH 555 W</description><Point><coordinates>-85.633289, 41.719090</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/30/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, LAGRANGE, SOUTH MILFORD, 6530 SOUTH CR 900 EAST</description><Point><coordinates>-85.255592, 41.546957</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/30/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, LAGRANGE, SOUTH MILFORD, 7430 SOUTH SR3</description><Point><coordinates>-85.271610, 41.533709</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/27/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, LAGRANGE, STROH, 3910 SOUTH 1175 E</description><Point><coordinates>-85.200786, 41.586041</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/20/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, LAGRANGE, TOPEKA, 335 EAST NORTH STREET</description><Point><coordinates>-85.534055, 41.542620</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/10/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, LAGRANGE, TOPEKA, 215  MICHIGAN STREET</description><Point><coordinates>-85.540999, 41.534114</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/16/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, LAGRANGE, WOLCOTTVILLE, 1230 690 S E</description><Point><coordinates>-85.400829, 41.542786</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/29/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, LAGRANGE, WOLCOTTVILLE, 131 NORTH MAIN STREET</description><Point><coordinates>-85.366733, 41.527423</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/30/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, LAGRANGE, WOLCOTTVILLE, 9695 SOUTH 800</description><Point><coordinates>-85.236644, 41.527152</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/31/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, LAGRANGE, WOLCOTTVILLE, 7125 SOUTH 200 E HIGHWAY</description><Point><coordinates>-85.386166, 41.538587</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/3/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, LAGRANGE, WOLCOTTVILLE, 103 NORTH 2ND STREET 2</description><Point><coordinates>-85.369183, 41.526630</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/14/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, LAGRANGE, WOLCOTTVILLE, 655 EAST 800 S LOT 18</description><Point><coordinates>-85.410788, 41.526633</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/30/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, LAGRANGE, WOLCOTTVILLE, 8980 EAST 500 S</description><Point><coordinates>-85.252908, 41.569841</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/18/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, LAGRANGE, WOLCOTTVILLE, 9315 EAST 535 S CIRCLE</description><Point><coordinates>-85.250359, 41.565622</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/22/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, LAGRANGE, WOLCOTTVILLE, 206  BOOTH STREET</description><Point><coordinates>-85.369140, 41.531644</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/28/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, LAGRANGE, WOLCOTTVILLE, 11990 EAST 650 S LOT 11</description><Point><coordinates>-85.286369, 41.547736</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/1/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, LAGRANGE, WOLCOTTVILLE, 3600 N 600 EAST</description><Point><coordinates>-85.309487, 41.590693</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

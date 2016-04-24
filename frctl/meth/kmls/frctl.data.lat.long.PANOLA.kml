@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 9/27/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, PANOLA, BATESVILLE, 3881 SARDIS LAKE DRIVE</description><Point><coordinates>-89.728453, 34.394096</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/11/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, PANOLA, BATESVILLE, 1758  SARDIS LAKE DRIVE</description><Point><coordinates>-89.733866, 34.367043</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/7/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, PANOLA, COURTLAND, 10353  HIGHWAY 51</description><Point><coordinates>-89.938893, 34.269079</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/27/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, PANOLA, SARAH, 901 SARAH LP</description><Point><coordinates>-90.201394, 34.554420</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, PANOLA, SARDIS, 194 OAK GROVE ROAD</description><Point><coordinates>-89.849390, 34.431547</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/5/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, PANOLA, SARDIS, 440  SHADY GROVE</description><Point><coordinates>-89.747430, 34.334080</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, PANOLA, STRAYHORN, 842 BROWNLEE</description><Point><coordinates>-90.125270, 34.614689</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/19/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, PANOLA, , 7520 WEST HWY 3</description><Point><coordinates>-90.197555, 34.547728</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

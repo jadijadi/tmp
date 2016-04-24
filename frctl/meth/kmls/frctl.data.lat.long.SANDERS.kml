@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/24/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MONTANA, SANDERS, THOMPSON FALLS, 418 WASHINGTON STREET</description><Point><coordinates>-115.345683, 47.599532</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/29/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MONTANA, SANDERS, THOMPSON FALLS, 58 MOSQUITO CREEK ROAD</description><Point><coordinates>-115.419297, 47.663026</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

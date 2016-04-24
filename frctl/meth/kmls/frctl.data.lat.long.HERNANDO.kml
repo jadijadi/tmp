@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/28/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, HERNANDO, BROOKSVILLE, 11475  ESKIMO CURLEW RD ROAD</description><Point><coordinates>-82.506575, 28.595758</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, HERNANDO, RIDGE MANOR, 34233 PARK SQUARE</description><Point><coordinates>-82.180506, 28.513275</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/26/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, HERNANDO, SPRING HILL, 4275  ELWOOD ROAD</description><Point><coordinates>-82.522285, 28.492138</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/4/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, HERNANDO, SPRING HILL, 1201  TRELLIS AVENUE</description><Point><coordinates>-82.612223, 28.450159</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/13/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, HERNANDO, SPRING HILL, 11349  ELGIN BLVD</description><Point><coordinates>-82.533880, 28.512746</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/9/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, HERNANDO, SPRING HILL, 1085  MARLOW AVENUE</description><Point><coordinates>-82.602398, 28.447627</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

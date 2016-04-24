@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 7/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, LANE, COBURG, 33100 VAN DUYN RD 121</description><Point><coordinates>-123.047404, 44.137101</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, LANE, COTTAGE GROVE, 333 MONROE AVE</description><Point><coordinates>-123.064711, 43.793059</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, LANE, CRESWELL, 298 E OREGON B</description><Point><coordinates>-123.015161, 43.919533</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/3/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, LANE, CRESWELL, 34120 E CLOVERDALE RD</description><Point><coordinates>-123.001418, 43.915688</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/25/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, LANE, ELMIRA, 25107 LAMB RD</description><Point><coordinates>-123.352851, 44.096688</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/27/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, LANE, EUGENE, 4085 E 18TH AVE</description><Point><coordinates>-123.033930, 44.040619</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/13/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, LANE, EUGENE, 258 W 18TH AVE</description><Point><coordinates>-123.096434, 44.039831</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, LANE, EUGENE, 34345 ROW RIVER RD</description><Point><coordinates>-123.129266, 44.098635</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/1/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, LANE, EUGENE, 4780 CODY</description><Point><coordinates>-123.180704, 44.089101</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, LANE, EUGENE, 394 1/2 BLAIR</description><Point><coordinates>-123.112844, 44.059242</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, LANE, EUGENE, 1300 QUAKER ST</description><Point><coordinates>-123.144016, 44.045618</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, LANE, EUGENE, 85213 S WILLAMETTE ST</description><Point><coordinates>-123.102205, 43.976084</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/14/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, LANE, EUGENE, 255 HIGH ST 231</description><Point><coordinates>-123.087370, 44.057063</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, LANE, EUGENE, 2063 AMIRANTE</description><Point><coordinates>-123.189976, 44.086800</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/17/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, LANE, EUGENE, 1840 AGATE ST 14</description><Point><coordinates>-123.070172, 44.039562</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/23/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, LANE, EUGENE, 1045 CINNAMON</description><Point><coordinates>-123.152670, 44.109014</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/26/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, LANE, EUGENE, 1637 FERRY STREET</description><Point><coordinates>-123.084758, 44.041859</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/15/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, LANE, EUGENE, 1774 PATTERSON</description><Point><coordinates>-123.083681, 44.040338</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/15/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, LANE, EUGENE, 1013 CINNAMON AVE</description><Point><coordinates>-123.151928, 44.108990</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/31/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, LANE, EUGENE, 86126 DRUMMOND DRIVE</description><Point><coordinates>-122.994346, 44.001635</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/14/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, LANE, EUGENE, 795  RED CEDAR</description><Point><coordinates>-123.165070, 44.069754</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/21/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, LANE, JUNCTION CITY, 93667 RIVER RD</description><Point><coordinates>-123.172084, 44.206590</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/26/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, LANE, JUNCTION CITY, 25471 LAVELLE ROAD</description><Point><coordinates>-123.205648, 44.219290</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/27/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, LANE, SPRINGFIELD, 1747 MAIN 9</description><Point><coordinates>-122.999451, 44.045583</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, LANE, SPRINGFIELD, 1863 11TH PL</description><Point><coordinates>-123.009433, 44.063281</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/31/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, LANE, SPRINGFIELD, 3332 MAIN ST 12</description><Point><coordinates>-122.978772, 44.046282</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, LANE, VENETA, 88243 ELLMAKER</description><Point><coordinates>-123.317919, 44.053859</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

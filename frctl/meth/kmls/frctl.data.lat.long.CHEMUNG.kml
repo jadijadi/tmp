@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 12/19/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, CHEMUNG, ASHLAND, 2782  SOUTH BROADWAY  LOT 16</description><Point><coordinates>-76.786733, 42.008442</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/9/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, CHEMUNG, BATH, NORTH DANSVILLE</description><Point><coordinates>-76.623837, 42.008407</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/28/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, CHEMUNG, BEAVER DAMS, 44 CAMPGROUND ROAD</description><Point><coordinates>-76.960867, 42.262271</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/7/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, CHEMUNG, CAMDEN, 75  MAIN STREET</description><Point><coordinates>-76.623837, 42.008407</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, CHEMUNG, CHEMUNG, 198 ELSTON RD</description><Point><coordinates>-76.718678, 42.095730</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/1/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, CHEMUNG, CHEMUNG, 5464 NORTH STREET</description><Point><coordinates>-76.613244, 42.011504</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/29/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, CHEMUNG, CHEMUNG, 1731 COUNTY ROUTE 60</description><Point><coordinates>-76.705221, 42.027088</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/3/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, CHEMUNG, CHEMUNG, 560 CLARK ROAD</description><Point><coordinates>-76.610731, 42.047732</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/15/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, CHEMUNG, ELMIRA, 825 ERIE STREET</description><Point><coordinates>-76.794150, 42.074763</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, CHEMUNG, ELMIRA, 313 CENTER E ST</description><Point><coordinates>-76.810812, 42.108417</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/1/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, CHEMUNG, ELMIRA, 1316  HALL STREET</description><Point><coordinates>-76.808073, 42.110234</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/4/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, CHEMUNG, ELMIRA, ELMIRA</description><Point><coordinates>-76.798990, 42.036282</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/23/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, CHEMUNG, ELMIRA, 200  HARMON STREET</description><Point><coordinates>-76.807266, 42.082892</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/8/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, CHEMUNG, ELMIRA, 1010  NORTH MAIN STREET</description><Point><coordinates>-76.814641, 42.102243</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/11/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, CHEMUNG, ELMIRA HEIGHTS, 135  HORSEHEADS BOULEVARD</description><Point><coordinates>-76.815400, 42.124426</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/15/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, CHEMUNG, ERIN, 1493 BREESPORT ROAD</description><Point><coordinates>-76.666750, 42.185107</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/15/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, CHEMUNG, JAMESTOWN, 20  COWDEN PLACE</description><Point><coordinates>-79.244165, 42.086513</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/18/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, CHEMUNG, SOUTHPORT, 2439 SOUTH BROADWAY STREET</description><Point><coordinates>-76.808127, 42.032664</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/15/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, CHEMUNG, SOUTHPORT, 1695  PENNSYLVANIA AVENUE</description><Point><coordinates>-76.890382, 42.019708</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/10/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, CHEMUNG, SOUTHPORT, 12  FERNWOOD AVENUE</description><Point><coordinates>-76.872192, 42.084670</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/11/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, CHEMUNG, SOUTHPORT, 1154  RICHARD STREET</description><Point><coordinates>-76.796818, 42.062019</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/27/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, CHEMUNG, VETERAN, 4031 WATKINS RD</description><Point><coordinates>-76.839548, 42.249327</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/10/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, CHEMUNG, VETERAN, 131 STEWART ROAD</description><Point><coordinates>-76.803708, 42.293460</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

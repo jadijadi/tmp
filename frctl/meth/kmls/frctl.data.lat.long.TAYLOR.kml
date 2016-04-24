@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 9/14/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, TAYLOR, BUTLER, 501 MAIN E ST</description><Point><coordinates>-84.229294, 32.555939</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/5/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, TAYLOR, BEDFORD, 602 RANDOLPH STREET</description><Point><coordinates>-94.730508, 40.667167</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/26/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, TAYLOR, CAMPBELLSVILLE, 933  HAMILTON STREET</description><Point><coordinates>-85.354246, 37.350115</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/11/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WEST VIRGINIA, TAYLOR, GRAFTON, 605 WATKINS ST</description><Point><coordinates>-80.024687, 39.333389</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

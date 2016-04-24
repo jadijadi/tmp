@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW MEXICO, VALENCIA, BELEN, 94 PAGEANT ST</description><Point><coordinates>-106.714608, 34.653788</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/29/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW MEXICO, VALENCIA, BELEN, 546 GABALDON RD</description><Point><coordinates>-106.760920, 34.666539</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/7/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW MEXICO, VALENCIA, BELEN, 911 WEST DELGADO</description><Point><coordinates>-106.779147, 34.661451</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/2/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW MEXICO, VALENCIA, BELEN, 314 HORIZON VISTA</description><Point><coordinates>-106.731132, 34.643657</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW MEXICO, VALENCIA, LOS LUNAS, 690 a MEADOWLAKE RD</description><Point><coordinates>-106.555401, 34.803584</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW MEXICO, VALENCIA, LOS LUNAS, 06 BACA GRANDE ST</description><Point><coordinates>-106.652772, 34.768259</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW MEXICO, VALENCIA, LOS LUNAS, 08 MANZANO RD</description><Point><coordinates>-106.539228, 34.807545</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW MEXICO, VALENCIA, LOS LUNAS, 690 a MEADOWLAKE RD</description><Point><coordinates>-106.555401, 34.803584</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW MEXICO, VALENCIA, LOS LUNAS, 1077 LAMB CT</description><Point><coordinates>-106.733061, 34.792567</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/25/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW MEXICO, VALENCIA, LOS LUNAS, 19 ALGODONES RD</description><Point><coordinates>-106.698430, 34.817805</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/13/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW MEXICO, VALENCIA, LOS LUNAS, 23 CALLE MEDIO</description><Point><coordinates>-106.580290, 34.799917</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/17/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW MEXICO, VALENCIA, LOS LUNAS, 27 WHITEHOUSE RD</description><Point><coordinates>-106.725119, 34.755816</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/30/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW MEXICO, VALENCIA, LOS LUNAS, 1057 CORTEZ STREET</description><Point><coordinates>-106.726411, 34.801812</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/18/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW MEXICO, VALENCIA, LOS LUNAS, 20 EL CERRO ROAD</description><Point><coordinates>-106.707521, 34.799431</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/31/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW MEXICO, VALENCIA, LOS LUNAS, 1725 SICHLER ROAD</description><Point><coordinates>-106.761207, 34.794894</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/11/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW MEXICO, VALENCIA, LOS LUNAS, 22 CONSTANCIA ROAD</description><Point><coordinates>-106.638058, 34.757815</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/22/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW MEXICO, VALENCIA, LOS LUNAS, 10 NORTHWEST EDEAL ROAD 1</description><Point><coordinates>-106.713325, 34.801762</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/19/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW MEXICO, VALENCIA, LOS LUNAS, 428  EL CERRO LOOP</description><Point><coordinates>-106.707558, 34.773034</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/7/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW MEXICO, VALENCIA, LOS LUNAS, 1150  FESTIVAL ROAD</description><Point><coordinates>-106.743710, 34.824486</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW MEXICO, VALENCIA, PERALTA, 14 ZAMORA LN</description><Point><coordinates>-106.688902, 34.836666</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/26/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW MEXICO, VALENCIA, PERALTA, 135 PERALTA BOULEVARD</description><Point><coordinates>-106.672387, 34.845032</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

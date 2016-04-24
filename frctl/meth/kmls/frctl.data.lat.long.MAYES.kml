@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/14/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, MAYES, ADAIR, 205 MAYTUBBY N</description><Point><coordinates>-95.271358, 36.436757</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/3/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, MAYES, ADAIR, 206 MAYTUBBY S</description><Point><coordinates>-95.271358, 36.436757</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/3/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, MAYES, ADAIR, 1106 GAYE  ST</description><Point><coordinates>-95.271358, 36.436757</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/14/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, MAYES, ADAIR, 1864 TWIN OAK  ST</description><Point><coordinates>-95.271358, 36.436757</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/11/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, MAYES, CHOUTEAU, 103 GUNTER E</description><Point><coordinates>-95.343024, 36.185930</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/30/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, MAYES, LANGLEY, 4005 WEST 380 ROAD</description><Point><coordinates>-95.047740, 36.463974</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/25/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, MAYES, LOCUST GROVE, 109 NORTH HOWEY STREET</description><Point><coordinates>-95.167740, 36.200094</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/15/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, MAYES, LOCUST GROVE, 603 EAST 8TH STREET</description><Point><coordinates>-78.489277, 38.035266</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/26/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, MAYES, PRYOR, 34203 SOUTH 4505 ROAD</description><Point><coordinates>-95.316914, 36.308428</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/19/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, MAYES, PRYOR, 318 MAGNOLIA</description><Point><coordinates>-95.318818, 36.289794</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/26/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, MAYES, PRYOR, 638 EAST PAWNEE AVENUE</description><Point><coordinates>-95.316914, 36.308428</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/21/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, MAYES, PRYOR, 407 MAYS  ST</description><Point><coordinates>-95.324750, 36.303486</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/5/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, MAYES, PRYOR, 405 RADCLIFF E</description><Point><coordinates>-95.316914, 36.308428</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/24/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, MAYES, SALINA, 305 DELAWARE S ST</description><Point><coordinates>-95.153297, 36.292869</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/21/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, MAYES, VINITA, 28 COTTON WOOD  ST</description><Point><coordinates>-97.092877, 35.007752</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

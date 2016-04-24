@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/28/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, COLLIN, ALLEN, 802 LEADING LN</description><Point><coordinates>-96.652452, 33.098053</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/2/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, COLLIN, ALLEN, 160  LUCAS STREET</description><Point><coordinates>-96.576976, 33.084264</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, COLLIN, FRISCO, 11726 GREEKWOOD DR</description><Point><coordinates>-96.777365, 33.143113</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/7/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, COLLIN, MCKINNEY, 2003 SKYLINE 1208</description><Point><coordinates>-96.654139, 33.220153</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/5/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, ST. LUCIE, FORT PIERCE, 3401 SOUTH 7TH STREET</description><Point><coordinates>-80.329742, 27.403455</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/23/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, ST. LUCIE, FORT PIERCE, 5514  SPRUCE DRIVE</description><Point><coordinates>-80.301764, 27.363923</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

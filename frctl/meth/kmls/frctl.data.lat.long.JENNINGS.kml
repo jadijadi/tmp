@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 11/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JENNINGS, BUTLERVILLE, 750 CR 650 E N</description><Point><coordinates>-85.492299, 38.996654</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/9/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JENNINGS, BUTLERVILLE, 750 650 E N</description><Point><coordinates>-85.492299, 38.996654</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/4/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JENNINGS, BUTLERVILLE, 5325 EAST US50</description><Point><coordinates>-85.513391, 39.032563</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/12/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JENNINGS, BUTLERVILLE, 1435 NORTH CR 750 EAST</description><Point><coordinates>-85.473001, 39.006794</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JENNINGS, ELIZABETHTOWN, 11880 SR 7 E</description><Point><coordinates>-85.791110, 39.138547</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/23/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JENNINGS, ELIZABETHTOWN, 9508 NORTH PRIVATE ROAD 820 N</description><Point><coordinates>-85.769668, 39.122039</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/14/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JENNINGS, NORTH VERNON, 200 CR 250 W. S</description><Point><coordinates>-85.659551, 38.982177</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JENNINGS, NORTH VERNON, 1850 350 NORTH W</description><Point><coordinates>-85.646426, 39.036943</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/1/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JENNINGS, NORTH VERNON, 610 CR 250 EAST S</description><Point><coordinates>-85.569008, 38.976276</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/7/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JENNINGS, NORTH VERNON, 3677 WELLINGTON CT</description><Point><coordinates>-85.676773, 39.037781</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JENNINGS, NORTH VERNON, 8466 CR 500W N</description><Point><coordinates>-85.518218, 39.109757</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/31/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JENNINGS, NORTH VERNON, 4030 CR 500 E S</description><Point><coordinates>-85.538083, 38.912239</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/1/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JENNINGS, NORTH VERNON, 675 CR 60 S W</description><Point><coordinates>-85.624556, 38.975803</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/14/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JENNINGS, NORTH VERNON, 1745 CR 150 S E</description><Point><coordinates>-85.578765, 38.962651</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/11/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JENNINGS, NORTH VERNON, 6485 NORTH CR 5 W</description><Point><coordinates>-85.612653, 39.084592</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/13/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JENNINGS, NORTH VERNON, 1185 GREENWOOD PLACE</description><Point><coordinates>-85.702888, 39.036236</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/9/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JENNINGS, NORTH VERNON, 2364 BUCKINGHAM DRIVE</description><Point><coordinates>-85.689614, 39.046349</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/17/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JENNINGS, NORTH VERNON, 3585 EAST US 50</description><Point><coordinates>-85.546603, 39.021434</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/16/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JENNINGS, NORTH VERNON, 780 NORTH CR 650 W</description><Point><coordinates>-85.731022, 38.994158</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/5/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JENNINGS, NORTH VERNON, 1555 EAST 100 SOUTH</description><Point><coordinates>-85.582709, 38.970404</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/16/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JENNINGS, NORTH VERNON, 4135 SOUTH C.R. 350 WEST</description><Point><coordinates>-85.677397, 38.924167</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/29/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JENNINGS, NORTH VERNON, 29 WEST MAIN STREET</description><Point><coordinates>-85.628421, 39.003541</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/16/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JENNINGS, NORTH VERNON, 23 HIDDEN COVE DRIVE</description><Point><coordinates>-85.646293, 39.019835</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/16/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JENNINGS, NORTH VERNON, 304 HOOSIER STREET</description><Point><coordinates>-85.625925, 39.008117</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/16/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JENNINGS, NORTH VERNON, 5575 EAST C.R. 100 NORTH</description><Point><coordinates>-85.661001, 38.999503</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/25/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JENNINGS, NORTH VERNON, 123  HOOSIER</description><Point><coordinates>-85.629089, 39.007759</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/12/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JENNINGS, PARIS CROSSING, 10605 SOUTH CR 410 W</description><Point><coordinates>-85.686272, 38.829142</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JENNINGS, SCIPIO, 7105 CR 500 N. W</description><Point><coordinates>-85.743708, 39.057226</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/27/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JENNINGS, SCIPIO, 6695 NORTH CR 575 W</description><Point><coordinates>-85.719698, 39.082381</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/27/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JENNINGS, SCIPIO, 8195 NORTH C.R. 380 WEST</description><Point><coordinates>-85.687790, 39.104266</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/25/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JENNINGS, VERNON, 5 1/2 PIKE N</description><Point><coordinates>-85.609284, 38.985109</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/10/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JENNINGS, VERNON, 65 WEST WASHINGTON STREET</description><Point><coordinates>-85.612864, 38.983739</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/20/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JENNINGS, VERNON, 265 BROWN STREET</description><Point><coordinates>-85.606578, 38.985094</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/27/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JENNINGS, WESTPORT, 9970 BASE RD</description><Point><coordinates>-85.611604, 39.131483</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

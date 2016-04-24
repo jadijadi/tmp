@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/28/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, MITCHELL, PELHAM, 6257 CHASON ROAD</description><Point><coordinates>-84.253081, 31.096107</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/24/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, MITCHELL, MCINTIRE, 4811 RAMPART AVENUE</description><Point><coordinates>-92.692713, 43.459210</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/4/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, MITCHELL, SAINT ANSGAR, 5053  BEECH AVENUE</description><Point><coordinates>-93.005651, 43.494174</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/22/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, MITCHELL, BELOIT, 210 WEST 5TH STREET</description><Point><coordinates>-98.108887, 39.463167</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/15/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, MITCHELL, ARTEMUS, 36  APPALOOSA TRAIL</description><Point><coordinates>-84.270018, 37.839333</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/11/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, MITCHELL, BAKERSVILLE, 25 BROAD BRANCH RD</description><Point><coordinates>-82.198807, 36.092232</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, MITCHELL, BAKERSVILLE, 129 WILSON RD</description><Point><coordinates>-82.136199, 35.971693</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/8/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, MITCHELL, BAKERSVILLE, 318 MINE CREEK ROAD</description><Point><coordinates>-82.161916, 35.989687</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/15/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, MITCHELL, SPRUCE PINE, 296 CRABTREE ACRES RD</description><Point><coordinates>-82.140330, 35.903340</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/17/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, MITCHELL, SPRUCE PINE, 32  DUNCAN STREET</description><Point><coordinates>-82.053926, 35.909032</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/4/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, MITCHELL, SPRUCE PINE, 378  TWIN OAKS ROAD</description><Point><coordinates>-82.139043, 35.900550</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

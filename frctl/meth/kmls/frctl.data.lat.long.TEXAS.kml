@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 12/25/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, TEXAS, CABOOL, 1303 63 N HWY</description><Point><coordinates>-92.090677, 37.129279</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/11/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, TEXAS, CABOOL, COUNTRY AIRE 5</description><Point><coordinates>-92.162164, 37.140839</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/12/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, TEXAS, CABOOL, COUNTRY AIRE LANE</description><Point><coordinates>-92.162164, 37.140839</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/30/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, TEXAS, CABOOL, 1303 NORTH 63 HIGHWAY</description><Point><coordinates>-92.090677, 37.129279</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/27/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, TEXAS, CABOOL, 1303  HIGHWAY 63</description><Point><coordinates>-92.090677, 37.129279</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/8/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, TEXAS, CABOOL, 618  SPRUCE STREET</description><Point><coordinates>-92.099326, 37.124505</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/7/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, TEXAS, HARTSHORN, 22528 PIN OAKS RD</description><Point><coordinates>-91.681940, 37.243239</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/8/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, TEXAS, HOUSTON, 8487 HIGHWAY 63 N</description><Point><coordinates>-91.920549, 37.358047</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/23/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, TEXAS, LICKING, 15158 BOILING SPRINGS RD</description><Point><coordinates>-92.023495, 37.455591</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, TEXAS, LICKING, 11987 137 HWY</description><Point><coordinates>-91.850658, 37.481719</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/30/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, TEXAS, LICKING, 108 KIRK ST</description><Point><coordinates>-91.850315, 37.497541</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/4/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, TEXAS, LICKING, 10398 SACKETT ROAD</description><Point><coordinates>-91.795474, 37.434968</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/18/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, TEXAS, LICKING, 14445 HIGHWAY C</description><Point><coordinates>-91.993117, 37.569370</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/6/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, TEXAS, LICKING, 109  BETH STREET</description><Point><coordinates>-91.859211, 37.495690</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/14/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, TEXAS, MOUNTAIN VIEW, 20910 & Y HIGHWAY</description><Point><coordinates>-91.831833, 37.964253</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/3/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, TEXAS, RAYMONDVILLE, 1665 HIGHWAY 137 S</description><Point><coordinates>-91.830549, 37.347118</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/21/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, TEXAS, HOOKER, 900 RAILROAD S ST</description><Point><coordinates>-101.072485, 36.758439</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/3/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, HENDERSON, LOMAX, 958  4TH</description><Point><coordinates>-91.074169, 40.676819</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, HENDERSON, CORYDON, 75 6TH ST</description><Point><coordinates>-87.709704, 37.740226</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, HENDERSON, HENDERSON, 4112 HWY 136 W</description><Point><coordinates>-87.716154, 37.810743</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/13/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, HENDERSON, HENDERSON, 698 BARREN CHURCH S RD</description><Point><coordinates>-87.486146, 37.759418</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/7/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, HENDERSON, HENDERSON, 1759 GREEN S ST 122</description><Point><coordinates>-87.616389, 37.815745</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/11/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, HENDERSON, HENDERSON, 1759 GREEN ST 101</description><Point><coordinates>-87.616389, 37.815745</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/1/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, HENDERSON, HENDERSON, 3083 DRIVE</description><Point><coordinates>-87.590013, 37.836154</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, HENDERSON, HENDERSON, 2310 ADAMS LN</description><Point><coordinates>-87.567758, 37.805382</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/22/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, HENDERSON, HENDERSON, 9100 FROG ISLAND RD</description><Point><coordinates>-87.539926, 37.757619</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/31/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, HENDERSON, HENDERSON, 133 HARDING ST</description><Point><coordinates>-87.578422, 37.852230</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/14/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, HENDERSON, HENDERSON, 892 MCGUIRE ST A</description><Point><coordinates>-87.555063, 37.871211</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/30/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, HENDERSON, HENDERSON, 355 RACETRACK RD</description><Point><coordinates>-87.566104, 37.884691</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/29/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, HENDERSON, HENDERSON, 22 NUGENT DR</description><Point><coordinates>-87.547153, 37.917070</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/2/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, HENDERSON, HENDERSON, 601 CHERRY ST</description><Point><coordinates>-87.595523, 37.827670</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/17/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, HENDERSON, HENDERSON, 914 HOMESTEAD TRL</description><Point><coordinates>-87.552087, 37.869449</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/17/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, HENDERSON, HENDERSON, 134 BRICKYARD ST</description><Point><coordinates>-87.708555, 37.740953</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/3/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, HENDERSON, HENDERSON, 992 VILLAGEBROOK DRIVE</description><Point><coordinates>-87.541366, 37.868050</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/21/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, HENDERSON, HENDERSON, 6595 COTTINGHAM LANE</description><Point><coordinates>-87.647741, 37.707354</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/26/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, HENDERSON, HENDERSON, 7648 GREEN RIVER ROAD</description><Point><coordinates>-87.543046, 37.876228</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/30/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, HENDERSON, HENDERSON, 3814 OLD ROBARDS ROAD</description><Point><coordinates>-87.538349, 37.756298</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/16/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, HENDERSON, HENDERSON, 5921  41A HIGHWAY 13</description><Point><coordinates>-87.616448, 37.779186</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, HENDERSON, ROBARDS, 9380 PETERSBURG ROAD</description><Point><coordinates>-87.629390, 37.656571</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/21/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, HENDERSON, ROBARDS, 8616 JOHN STEELE RD</description><Point><coordinates>-87.619105, 37.658242</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/13/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, HENDERSON, SPOTTSVILLE, 8868 OLD US 60 E HWY</description><Point><coordinates>-87.417341, 37.852587</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/7/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, HENDERSON, FLETCHER, 99 SOUTHER ROAD</description><Point><coordinates>-82.461093, 35.435335</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/25/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, HENDERSON, HENDERSONVILLE, 59 HORSESHOE LOOP LN</description><Point><coordinates>-82.400255, 35.399870</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/3/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, HENDERSON, HENDERSONVILLE, 529-A WHITTED STREET</description><Point><coordinates>-82.472481, 35.317518</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/2/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, HENDERSON, HENDERSONVILLE, 2918 NORTH RUGBY ROAD</description><Point><coordinates>-82.515247, 35.402684</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/23/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, HENDERSON, HENDERSONVILLE, 89  DOTSON HALF LOOP</description><Point><coordinates>-82.431108, 35.294753</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/14/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, HENDERSON, HENDERSONVILLE, 564  GYPSY LANE</description><Point><coordinates>-82.418394, 35.349343</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/29/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, HENDERSON, HENDERSONVILLE, 112  WREN DRIVE</description><Point><coordinates>-82.447139, 35.336812</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/28/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, HENDERSON, CEDAR GROVE, 145  WHITE CEMETERY ROAD</description><Point><coordinates>-88.422938, 35.800415</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/22/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, HENDERSON, LEXINGTON, 0  NORTH MAIN ST. EXTENDED</description><Point><coordinates>-88.393380, 35.650903</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/9/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, HENDERSON, LEXINGTON, 4570  STEGALL ROAD</description><Point><coordinates>-88.460671, 35.559653</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/21/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, HENDERSON, LEXINGTON, 192  DAVIS ROAD</description><Point><coordinates>-88.333332, 35.656104</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/4/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, HENDERSON, LEXINGTON, 3122  POPLAR SPRINGS BARGERTON ROAD</description><Point><coordinates>-88.537764, 35.726819</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, HENDERSON, SCOTTS HILL, 2340 MIDDLETON RD</description><Point><coordinates>-88.245316, 35.515073</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, HENDERSON, MABANK, 17929 CHERRY LN</description><Point><coordinates>-96.082838, 32.243085</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

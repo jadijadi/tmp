@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/11/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, BOURBON, FORT SCOTT, 1420 OAK E</description><Point><coordinates>-94.689697, 37.842931</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, BOURBON, FORT SCOTT, 115 CALDWELL N</description><Point><coordinates>-94.692719, 37.843618</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, BOURBON, FORT SCOTT, 423 1/2 CRAWFORD S</description><Point><coordinates>-94.709592, 37.837318</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/7/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, BOURBON, FORT SCOTT, 212 CALDWELL N ST</description><Point><coordinates>-94.692999, 37.844404</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, BOURBON, FORT SCOTT, 1443 215TH ST</description><Point><coordinates>-94.713529, 37.868933</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, BOURBON, FORT SCOTT, 1705 OAK E</description><Point><coordinates>-94.684825, 37.842923</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, BOURBON, FORT SCOTT, 604 JUDSON S</description><Point><coordinates>-94.708484, 37.835500</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/15/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, BOURBON, FORT SCOTT, 716 WILSON S</description><Point><coordinates>-94.700465, 37.834017</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, BOURBON, FORT SCOTT, 1491 212 TER</description><Point><coordinates>-94.708295, 37.839763</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, BOURBON, FORT SCOTT, 203 SCOTT S</description><Point><coordinates>-94.704975, 37.839700</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/17/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, BOURBON, FORT SCOTT, 1415 MAIN S</description><Point><coordinates>-94.706134, 37.824854</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/1/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, BOURBON, FORT SCOTT, 736 SOUTH LITTLE STREET</description><Point><coordinates>-94.695894, 37.833473</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/16/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, BOURBON, FORT SCOTT, 1418  OAK</description><Point><coordinates>-94.689725, 37.842931</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

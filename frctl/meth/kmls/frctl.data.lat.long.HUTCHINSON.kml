@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/13/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, HUTCHINSON, BORGER, 4821 WILSON W</description><Point><coordinates>-101.462005, 35.647960</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/12/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, HUTCHINSON, BORGER, 700 MCPHERSON</description><Point><coordinates>-101.397388, 35.667820</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/11/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, HUTCHINSON, BORGER, 101 NORTH SIDE DR</description><Point><coordinates>-101.403661, 35.691410</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/13/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, HUTCHINSON, BORGER, 909 WEST DR</description><Point><coordinates>-101.400184, 35.681083</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/27/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, HUTCHINSON, BORGER, 312 MADISON E</description><Point><coordinates>-101.392675, 35.659960</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/19/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, HUTCHINSON, BORGER, 703 DELAWARE</description><Point><coordinates>-101.381962, 35.672947</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/30/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, HUTCHINSON, BORGER, 202 RANCH RD</description><Point><coordinates>-101.579035, 35.629739</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/21/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, HUTCHINSON, BORGER, 114 SERINDAD</description><Point><coordinates>-101.605866, 35.724224</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/26/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, HUTCHINSON, FRITCH, 141 COZART</description><Point><coordinates>-101.607264, 35.655666</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/1/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, HUTCHINSON, FRITCH, 607 HOLMES S</description><Point><coordinates>-101.602454, 35.632956</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/10/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, HUTCHINSON, FRITCH, 308 ROBEY N</description><Point><coordinates>-101.606078, 35.640665</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/13/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, HUTCHINSON, FRITCH, 304 SOUTH HOYNE</description><Point><coordinates>-101.603566, 35.636878</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/15/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, HUTCHINSON, SANFORD, FM 687& FM 1319 S</description><Point><coordinates>-101.534614, 35.701986</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/2/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, HUTCHINSON, STINNETT, HWY 687</description><Point><coordinates>-101.499570, 35.769484</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/9/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, HUTCHINSON, STINNETT, HODGES HILL RD</description><Point><coordinates>-101.442943, 35.826984</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/18/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, HUTCHINSON, STINNETT, 8000  SWAN STREET</description><Point><coordinates>-101.442943, 35.826984</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 9/6/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, ST JOHNS, ST AUGUSTINE, 6481  SAN PIETRO ISLE</description><Point><coordinates>-81.365010, 29.996468</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/19/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, ST JOHNS, ST AUGUSTINE, 57  CROOKSHANK DRIVE</description><Point><coordinates>-81.342719, 29.907675</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/26/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, ST JOHNS, ST AUGUSTINE, 818  VISCAYA BOULEVARD</description><Point><coordinates>-81.310134, 29.812335</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/6/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, ST JOHNS, ST AUGUSTINE, 530  COLEE STREET BOX K</description><Point><coordinates>-81.347613, 29.920961</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

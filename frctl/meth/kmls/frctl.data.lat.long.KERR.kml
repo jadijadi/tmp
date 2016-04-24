@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/15/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, KERR, INGRAM, 319 CAROLYN SR</description><Point><coordinates>-99.240321, 30.077431</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, KERR, INGRAM, 107 CYPRESS FALLS</description><Point><coordinates>-99.224725, 30.070785</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

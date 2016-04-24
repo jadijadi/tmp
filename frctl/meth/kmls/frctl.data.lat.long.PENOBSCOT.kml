@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 11/20/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MAINE, PENOBSCOT, BANGOR, 34  WINTER STREET</description><Point><coordinates>-68.781517, 44.810077</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/28/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MAINE, PENOBSCOT, BANGOR, 603  essex street STREET</description><Point><coordinates>-68.769711, 44.822694</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/12/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MAINE, PENOBSCOT, BREWER, 441  SOUTH MAIN STREET BOX 4</description><Point><coordinates>-68.778863, 44.775776</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/17/2016</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MAINE, PENOBSCOT, BANGOR, 149  Pine street STREET</description><Point><coordinates>-68.767205, 44.805652</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/13/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MAINE, PENOBSCOT, E MILLINOCKET, 81  MAIN STREET</description><Point><coordinates>-68.577281, 45.626102</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/21/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MAINE, PENOBSCOT, MILLINOCKET, 81  MAIN STREET</description><Point><coordinates>-68.577281, 45.626102</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/28/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MAINE, PENOBSCOT, VEAZIE, 1237 STATE STREET</description><Point><coordinates>-68.717571, 44.826527</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/27/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, PENOBSCOT, BANGOR, 177 HAMMOND ST 1</description><Point><coordinates>-85.602364, 44.314844</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

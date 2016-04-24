@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/10/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, KITSAP, BAINBRIDGE ISLAND, 2229 EASTVIEW AVE</description><Point><coordinates>-122.607591, 47.580552</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/13/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, KITSAP, BREMERTON, 2150 NE WINTERS</description><Point><coordinates>-122.621135, 47.636202</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/15/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, KITSAP, OLALLA, 13238 HADFIELD RD</description><Point><coordinates>-122.606803, 47.430244</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/13/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, KITSAP, OLALLA, 10105 OLALLA VALLEY</description><Point><coordinates>-122.570187, 47.460246</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, KITSAP, PORT ORCHARD, 425 S 321ST PL D6</description><Point><coordinates>-122.636249, 47.540373</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, KITSAP, PORT ORCHARD, 5523 PETERSON SE RD</description><Point><coordinates>-122.532344, 47.498008</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, KITSAP, PORT ORCHARD, 1145 SW J H RD</description><Point><coordinates>-122.665138, 47.462460</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, KITSAP, PORT ORCHARD, 1274 SHERMAN AVE</description><Point><coordinates>-122.647322, 47.529324</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/23/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, KITSAP, PORT ORCHARD, 15895 SW GLENWOOD RD</description><Point><coordinates>-122.689145, 47.404829</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/3/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, KITSAP, PORT ORCHARD, 2553 FIRCREST DR</description><Point><coordinates>-122.595949, 47.525616</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/11/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, KITSAP, PORT ORCHARD, 1440 DEKALB ST</description><Point><coordinates>-122.626687, 47.539313</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/16/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, KITSAP, PORT ORCHARD, 2816 SOUTHEAST SALMONBERRY ROAD</description><Point><coordinates>-122.615790, 47.511833</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/21/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, KITSAP, PORT ORCHARD, 6904 GARFIELD</description><Point><coordinates>-122.561020, 47.529986</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/28/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, KITSAP, PORT ORCHARD, 2593  GRIFFITH</description><Point><coordinates>-122.617592, 47.505431</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/24/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, KITSAP, POULSBO, 18470 9TH</description><Point><coordinates>-122.637523, 47.730729</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, KITSAP, SEABECK, 1154 STAVIS NW DR</description><Point><coordinates>-122.891090, 47.576813</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, KITSAP, SEABECK, 2851 KOMICHAN NW LN</description><Point><coordinates>-122.916693, 47.590618</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

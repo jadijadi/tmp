@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/13/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, UMATILLA, ATHENA, 124 HIGH STREET</description><Point><coordinates>-118.492434, 45.814503</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, UMATILLA, ECHO, 141 DALE ST</description><Point><coordinates>-119.194058, 45.741272</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/17/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, UMATILLA, ECHO, 806 COLLEGE ST</description><Point><coordinates>-119.188912, 45.739670</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/3/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, UMATILLA, ECHO, 141 DALE ST</description><Point><coordinates>-119.194058, 45.741272</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/5/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, UMATILLA, ECHO, 41 PRESCOTT ROAD</description><Point><coordinates>-119.192122, 45.743245</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, UMATILLA, HERMISTON, 2050 NORTHEAST 18TH STREET</description><Point><coordinates>-119.254648, 45.858592</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, UMATILLA, HERMISTON, 648 E GLADYS AVE</description><Point><coordinates>-119.280838, 45.841252</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, UMATILLA, HERMISTON, 280 NORTHWEST 12TH STREET</description><Point><coordinates>-119.312768, 45.842150</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, UMATILLA, HERMISTON, 78689 DOHERTY ROAD</description><Point><coordinates>-119.332140, 45.820877</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/23/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, UMATILLA, HERMISTON, 1905 NW GEER RD</description><Point><coordinates>-119.300530, 45.858795</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, UMATILLA, HERMISTON, 200 NW 6TH</description><Point><coordinates>-119.297989, 45.841454</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/21/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, UMATILLA, HERMISTON, 32311 BENJAMIN LN</description><Point><coordinates>-119.236166, 45.848847</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/4/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, UMATILLA, HERMISTON, 79426 SOUTH EDWARDS ROAD</description><Point><coordinates>-119.203064, 45.868119</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/8/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, UMATILLA, HERMISTON, 559 EAST AUTUMN ROAD</description><Point><coordinates>-119.283389, 45.856407</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, UMATILLA, MILTON FREEWATER, 51744 332 HIGHWAY</description><Point><coordinates>-118.489827, 45.976644</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/17/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, UMATILLA, MILTON FREEWATER, 1420 SOUTH MAIN STREET</description><Point><coordinates>-118.381627, 45.922966</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/7/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, UMATILLA, MILTON FREEWATER, 53752 APPLETON ROAD</description><Point><coordinates>-118.388924, 45.969112</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, UMATILLA, MILTON-FREEWATER, 914 S MILL ST</description><Point><coordinates>-118.382833, 45.927022</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/14/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, UMATILLA, MILTON-FREEWATER, 420 S MAIN ST</description><Point><coordinates>-118.386832, 45.931070</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/21/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, UMATILLA, MILTON-FREEWATER, 633 COUNTY RD</description><Point><coordinates>-118.411376, 45.942885</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/16/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, UMATILLA, MILTON-FREEWATER, 104 N COLUMBIA 18</description><Point><coordinates>-118.387284, 45.938350</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, UMATILLA, PENDLETON, 612 SOUTHEAST DORION AVENUE</description><Point><coordinates>-118.780614, 45.673425</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/7/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, UMATILLA, PENDLETON, 245 SE 3RD ST</description><Point><coordinates>-118.784269, 45.672918</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, UMATILLA, PENDLETON, 127 SOUTHWEST EMIGRANT AVENUE</description><Point><coordinates>-118.787837, 45.670254</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/31/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, UMATILLA, PENDLETON, 416 SW HAILEY AVE 1</description><Point><coordinates>-118.788771, 45.665988</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/19/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, UMATILLA, PENDLETON, 327 SOUTHWEST 2ND STREET</description><Point><coordinates>-118.788677, 45.670619</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/11/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, UMATILLA, PENDLETON, 1902 SOUTHWEST GOODWIN AVENUE</description><Point><coordinates>-118.802795, 45.663071</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/16/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, UMATILLA, PENDLETON, 338 14TH NW ST</description><Point><coordinates>-118.799494, 45.666928</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/28/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, UMATILLA, PENDLETON, 306 SE 9TH 1</description><Point><coordinates>-118.778186, 45.673841</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/29/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, UMATILLA, PENDLETON, 308 9TH SE ST</description><Point><coordinates>-118.778148, 45.673778</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/29/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, UMATILLA, PENDLETON, 76515 MCCORMACH ROAD</description><Point><coordinates>-118.788597, 45.672075</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/14/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, UMATILLA, STANFIELD, 370 W FURNISH</description><Point><coordinates>-119.220937, 45.779726</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/14/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, UMATILLA, STANFIELD, 455 WEST WOOD</description><Point><coordinates>-119.222009, 45.781374</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, UMATILLA, UMATILLA, 1370 6TH ST 107</description><Point><coordinates>-119.335599, 45.917981</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/29/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, UMATILLA, UMATILLA, 81840 N 395 HWY</description><Point><coordinates>-118.795938, 45.523094</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, UMATILLA, UMATILLA, 1370 6TH STREET</description><Point><coordinates>-119.335599, 45.917981</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/3/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, UMATILLA, UMATILLA, 142 COLUMBIA ST M2</description><Point><coordinates>-119.293235, 45.919014</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, UMATILLA, UMATILLA, 149 CASA CT</description><Point><coordinates>-119.294023, 45.921380</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, UMATILLA, UMATILLA, 1885 CHERRY ST</description><Point><coordinates>-119.325878, 45.920244</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/3/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, UMATILLA, UMATILLA, 30125 SCAPLEHORN RD</description><Point><coordinates>-119.311016, 45.919857</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/22/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, UMATILLA, UMATILLA, 1885 CHERRY STREET</description><Point><coordinates>-119.325878, 45.920244</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/22/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, UMATILLA, UMATILLA, 29563 BONNEY LN</description><Point><coordinates>-119.321480, 45.904557</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/6/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, UMATILLA, WESTON, 58587 HIGHWAY 204</description><Point><coordinates>-118.243445, 45.789299</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 10/8/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MASSACHUSETTS, ESSEX, AMESBURY, 22  LINWOOD PLACE</description><Point><coordinates>-70.930519, 42.859823</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/3/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MASSACHUSETTS, ESSEX, GLOUCESTER, 18 TAYLOR ST</description><Point><coordinates>-70.655984, 42.617291</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/17/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MASSACHUSETTS, ESSEX, HAVERHILL, 127  WNTER STREET  BOX</description><Point><coordinates>-71.077280, 42.776201</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/7/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MASSACHUSETTS, ESSEX, LYNN, 8 NASH TERRACE</description><Point><coordinates>-70.972048, 42.464138</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/8/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, ESSEX, PORT HENRY, 6 SECOND STREET</description><Point><coordinates>-73.462730, 44.045591</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/19/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, ESSEX, SCHROON LAKE, 1496 ROUTE 9</description><Point><coordinates>-73.753006, 43.864428</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/16/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, ESSEX, WATERTOWN, 843  SUPERIOR STREET</description><Point><coordinates>-75.919558, 43.987331</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

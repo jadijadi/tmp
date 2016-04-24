@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 10/14/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CANADIAN, CALUMET, 13508 ELM W</description><Point><coordinates>-98.104908, 35.523104</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/25/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CANADIAN, CALUMET, 19915 WEST HWY 270</description><Point><coordinates>-98.178940, 35.617070</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/28/2000</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CANADIAN, EL RENO, 201 HOFF N ST</description><Point><coordinates>-97.949783, 35.534159</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/9/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CANADIAN, EL RENO, 412 EVANS S ST</description><Point><coordinates>-97.956417, 35.529651</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/10/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CANADIAN, EL RENO, 520 CHOCTAW S  B</description><Point><coordinates>-97.955301, 35.528480</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/29/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CANADIAN, EL RENO, 500 HADDEN S</description><Point><coordinates>-97.961703, 35.529383</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/12/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CANADIAN, EL RENO, 139 EL RENO N ST</description><Point><coordinates>-97.945148, 35.534591</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/27/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CANADIAN, EL RENO, 2400 SUNSET S  LOT 7</description><Point><coordinates>-97.981925, 35.537602</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/17/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CANADIAN, EL RENO, 1725 DILLIE S</description><Point><coordinates>-97.957851, 35.517123</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/18/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CANADIAN, EL RENO, 520 SOUTH CHOCTAW AVENUE</description><Point><coordinates>-97.955301, 35.528480</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/13/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CANADIAN, EL RENO, 701 NORTH CHOCTAW AVENUE</description><Point><coordinates>-97.955302, 35.538857</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/11/2000</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CANADIAN, MUSTANG, 11730 MUSTANG S RD</description><Point><coordinates>-97.724572, 35.350218</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/17/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CANADIAN, MUSTANG, 616 HIGHLAND S</description><Point><coordinates>-97.733662, 35.386056</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/5/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CANADIAN, MUSTANG, 317 CAROL N TER</description><Point><coordinates>-97.696256, 35.394012</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/31/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CANADIAN, MUSTANG, 319 HILLCREST E LN</description><Point><coordinates>-97.718676, 35.386604</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/23/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CANADIAN, MUSTANG, 219 HILLCREST E LN</description><Point><coordinates>-97.721526, 35.386370</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/31/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CANADIAN, MUSTANG, 2347 HIGHWAY 152 E</description><Point><coordinates>-97.674143, 35.392654</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CANADIAN, MUSTANG, 5800 ALOHA  CT</description><Point><coordinates>-97.720424, 35.409162</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/3/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CANADIAN, OKLAHOMA CITY, 5306 MUSTANG S RD</description><Point><coordinates>-97.724556, 35.411681</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/5/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CANADIAN, OKLAHOMA CITY, 10500 23RD NW</description><Point><coordinates>-97.704477, 35.493231</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/16/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CANADIAN, OKLAHOMA CITY, 9717 10 NW ST 339</description><Point><coordinates>-97.686789, 35.479382</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/31/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CANADIAN, UNION CITY, 112 GRAND  ST</description><Point><coordinates>-97.940986, 35.390598</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/18/2000</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CANADIAN, YUKON, 12026 16TH SW</description><Point><coordinates>-97.737732, 35.448658</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/6/2000</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CANADIAN, YUKON, 1008 ELM  ST</description><Point><coordinates>-97.759299, 35.506578</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/29/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CANADIAN, YUKON, 105 CEDAR</description><Point><coordinates>-97.744570, 35.509203</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/27/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CANADIAN, YUKON, 220 7TH S ST</description><Point><coordinates>-97.753732, 35.505380</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/21/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CANADIAN, YUKON, 12025 ASHFORD  DR</description><Point><coordinates>-97.720509, 35.591789</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/23/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CANADIAN, YUKON, 911 2ND S ST</description><Point><coordinates>-97.745622, 35.498053</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/27/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CANADIAN, YUKON, 106 CORNWELL S  1</description><Point><coordinates>-97.742206, 35.506524</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CANADIAN, YUKON, 10309 BIRKENHEAD  RD</description><Point><coordinates>-97.700637, 35.453993</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

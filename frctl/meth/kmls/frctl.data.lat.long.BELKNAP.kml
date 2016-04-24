@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 7/25/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW HAMPSHIRE, BELKNAP, GILFORD, 32 NORTHWEST DORIS DRIVE</description><Point><coordinates>-71.403358, 43.534382</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/6/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW HAMPSHIRE, BELKNAP, LACONIA, 188  UNION STREET</description><Point><coordinates>-71.465783, 43.529717</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

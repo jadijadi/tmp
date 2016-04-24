@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 10/26/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GUAM, UNKNOWN, MAITE, 727 ROBAT ST Apt 203</description><Point><coordinates>144.793731, 13.444304</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/11/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GUAM, UNKNOWN, SINAJANA, 355 CALLE ANGEL FLORES ST</description><Point><coordinates>144.793731, 13.444304</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

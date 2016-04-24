@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/13/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, STE. Genevieve, BLOOMSDALE, 8438 TERRY LEE DR</description><Point><coordinates>-90.293304, 38.054052</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, STE. Genevieve, BLOOMSDALE, 5891 FORK S DR</description><Point><coordinates>-90.217896, 38.009498</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, STE. Genevieve, BLOOMSDALE, 7201 BIELLER RD</description><Point><coordinates>-90.217896, 38.009498</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, STE. Genevieve, BLOOMSDALE, 3390 U.S. 61 HWY</description><Point><coordinates>-90.242965, 38.032933</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/14/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, STE. Genevieve, BLOOMSDALE, 4433 61 HWY</description><Point><coordinates>-90.217896, 38.009498</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/17/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, STE. Genevieve, BLOOMSDALE, 664 US 61 HWY</description><Point><coordinates>-90.243014, 38.033021</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/23/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, STE. Genevieve, BLOOMSDALE, 6437 NEWMAN RD</description><Point><coordinates>-90.217896, 38.009498</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/9/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, STE. Genevieve, SAINT MARY, 542 4TH ST</description><Point><coordinates>-89.951001, 37.878770</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/27/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, STE. Genevieve, SAINTE GENEVIEVE, 20257 BROWN RD</description><Point><coordinates>-90.291992, 37.831555</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/10/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, STE. Genevieve, SAINTE GENEVIEVE, 20002 GORE RD</description><Point><coordinates>-90.305310, 37.832313</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/9/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, STE. Genevieve, SAINTE GENEVIEVE, 645 LEFLUER ST</description><Point><coordinates>-90.042279, 37.967725</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/21/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, STE. Genevieve, SAINTE GENEVIEVE, 20638 LAKELAND DR</description><Point><coordinates>-90.316239, 37.823740</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/8/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, STE. Genevieve, SAINTE GENEVIEVE, 10719 US HWY 61 B</description><Point><coordinates>-90.175425, 37.967747</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

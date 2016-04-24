@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 10/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MINNESOTA, HUBBARD, LAPORTE, 39255 257TH AVE</description><Point><coordinates>-94.828729, 47.224384</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/10/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MINNESOTA, HUBBARD, NEVIS, 21706 STATE HIGHWAY 34</description><Point><coordinates>-94.918182, 46.931514</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/14/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MINNESOTA, HUBBARD, PARK RAPIDS, 18515 209TH AVE</description><Point><coordinates>-94.932039, 46.930942</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

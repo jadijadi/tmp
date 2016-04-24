@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/4/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, ROANOKE, ABINGDON, 9945  SLINGS GAP ROAD</description><Point><coordinates>-79.941427, 37.270970</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/24/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, ROANOKE, ELLISTON, 1960  BURKETT ROAD</description><Point><coordinates>-79.941427, 37.270970</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/27/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, ROANOKE, ELLISTON, 169  WEAVER DRIVE</description><Point><coordinates>-80.214740, 37.218605</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/17/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, ROANOKE, ELLISTON, 2351  GARDNER STREET</description><Point><coordinates>-80.213800, 37.234700</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/30/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, ROANOKE, ROANOKE, 2890  RIVERVIEW ROAD</description><Point><coordinates>-79.881259, 37.256239</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/19/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, ROANOKE, ROANOKE, 3544  BUCK MOUNTAIN ROAD</description><Point><coordinates>-79.956747, 37.205252</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/5/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, ROANOKE, ROANOKE, 4548  BONSACK ROAD</description><Point><coordinates>-79.870465, 37.322012</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/15/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, ROANOKE, ROANOKE, 2022 SOUTHEAST KING CHARLES AVENUE</description><Point><coordinates>-79.913673, 37.253466</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/21/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, ROANOKE, VINTON, 109 WEST MADISON AVENUE A</description><Point><coordinates>-79.897923, 37.281447</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

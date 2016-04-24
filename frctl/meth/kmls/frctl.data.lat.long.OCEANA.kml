@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/9/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, OCEANA, HESPERIA, 7990  WHITE ROAD</description><Point><coordinates>-86.095385, 43.533092</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/4/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, OCEANA, HESPERIA, 2909  LAKEVIEW DRIVE</description><Point><coordinates>-86.152189, 43.591341</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/23/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, OCEANA, HESPERIA, 8950  NEWFIELD DRIVE</description><Point><coordinates>-86.055290, 43.566411</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

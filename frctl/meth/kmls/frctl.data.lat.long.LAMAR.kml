@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/8/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, LAMAR, BEAVERTON, 12901  HIGHWAY 278</description><Point><coordinates>-88.019151, 33.932146</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/22/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, LAMAR, DETROIT, 111 ROBERTSON AVENUE</description><Point><coordinates>-88.170704, 34.027749</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/29/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, LAMAR, MILLPORT, 367 BURGESS ROAD</description><Point><coordinates>-88.037205, 33.633732</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/5/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, LAMAR, MILLPORT, 196 FERNBANK ROAD</description><Point><coordinates>-88.087437, 33.582147</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/6/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, LAMAR, MILLPORT, 11373 FENBANK ROAD</description><Point><coordinates>-88.254783, 33.578668</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/14/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, LAMAR, MILLPORT, 555 FENBANK ROAD</description><Point><coordinates>-88.088229, 33.582223</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/14/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, LAMAR, MILLPORT, 1727  MOUNT PLEASANT CHURCH ROAD</description><Point><coordinates>-88.048767, 33.600395</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/14/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, LAMAR, MILLPORT, 1727  MOUNT PLEASANT CHURCH ROAD</description><Point><coordinates>-88.048767, 33.600395</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/31/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, LAMAR, SULLIGENT, 2904 WEST 18 HIGHWAY</description><Point><coordinates>-88.122421, 33.751514</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/16/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, LAMAR, SULLIGENT, 3765 DINKY LINE ROAD</description><Point><coordinates>-88.111047, 34.011066</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/29/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, LAMAR, SULLIGENT, 746 MILITARY GROVE ROAD</description><Point><coordinates>-88.138058, 33.842230</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/31/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, LAMAR, VERNON, 345 HARRISON CT 189</description><Point><coordinates>-88.108045, 33.749001</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/10/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, LAMAR, VERNON, 1381 NORTHWEST 11TH STREET</description><Point><coordinates>-88.127512, 33.768752</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/6/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, LAMAR, VERNON, 2448 BEAVER CREEK ROAD</description><Point><coordinates>-88.102452, 33.782412</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/9/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, LAMAR, HATTIESBURG, 57  WILLOW LAKE LANE</description><Point><coordinates>-89.395276, 31.315338</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/19/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, LAMAR, PURVIS, 586 CORINTH ROUTE</description><Point><coordinates>-89.473635, 31.112575</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/15/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, LAMAR, PURVIS, 1023  HIGHWAY 589</description><Point><coordinates>-89.435451, 31.178291</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/24/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, LAMAR, PURVIS, 134  COOPER ROAD</description><Point><coordinates>-89.457367, 31.213474</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/28/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, LAMAR, PURVIS, 14  MORRIS DRIVE</description><Point><coordinates>-89.410192, 31.156167</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/6/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, LAMAR, PURVIS, 242  DOC JOHNSON ROAD</description><Point><coordinates>-89.478934, 31.159264</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/6/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, LAMAR, PURVIS, 98  TIMBERLAND DRIVE</description><Point><coordinates>-89.422499, 31.153949</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/24/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, LAMAR, PURVIS, 702  MAIN STREET</description><Point><coordinates>-89.411272, 31.148712</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/12/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, LAMAR, SUMRALL, 760  MILLCREEK LOOP</description><Point><coordinates>-89.570281, 31.379175</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/12/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, LAMAR, SUMRALL, 760  MILLCREEK LOOP</description><Point><coordinates>-89.570281, 31.379175</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, LAMAR, PARIS, 345 13TH SW</description><Point><coordinates>-95.569319, 33.658322</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, LAMAR, PARIS, ROUTE 2 197</description><Point><coordinates>-95.554540, 33.662772</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

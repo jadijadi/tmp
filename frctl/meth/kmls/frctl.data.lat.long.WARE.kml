@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/14/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, WARE, WAYCROSS, 2283 KATIE LANE</description><Point><coordinates>-82.388241, 31.278825</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/2/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, WARE, WAYCROSS, 2592  SWEAT ROAD</description><Point><coordinates>-82.397195, 31.133803</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 10/4/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, SANGAMON, AUBURN, 504 W NORTH</description><Point><coordinates>-89.746464, 39.595839</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/29/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, SANGAMON, CHATHAM, 707 MULBURY E ST 6</description><Point><coordinates>-89.696026, 39.675431</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/25/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, SANGAMON, GRANDVIEW, 2112 CINCINNATI E ST</description><Point><coordinates>-89.624505, 39.814327</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/7/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, SANGAMON, NEW BERLIN, 1687 NEW SALEM CHURCH RD</description><Point><coordinates>-89.780390, 39.775458</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/27/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, SANGAMON, SPAULDING, 1077 RRAYLOT E</description><Point><coordinates>-89.540376, 39.866161</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, SANGAMON, SPRINGFIELD, 1315 1/2 RESERVOIR E ST</description><Point><coordinates>-89.637465, 39.815392</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/14/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, SANGAMON, SPRINGFIELD, 1620 MELROSE</description><Point><coordinates>-89.632968, 39.775105</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, SANGAMON, SPRINGFIELD, 3401 GAINES MILL RD</description><Point><coordinates>-89.679940, 39.758294</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, SANGAMON, SPRINGFIELD, 1516 SEVEN PINES RD 1</description><Point><coordinates>-89.678029, 39.760371</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, SANGAMON, SPRINGFIELD, 7094 MECHANICSBURG E RD LOT 4</description><Point><coordinates>-89.518734, 39.802689</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/1/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, SANGAMON, SPRINGFIELD, 1236 OAK LANE N RD 135</description><Point><coordinates>-89.579411, 39.761791</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/1/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, SANGAMON, SPRINGFIELD, 423 ADELIA ST</description><Point><coordinates>-89.676682, 39.798058</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, SANGAMON, SPRINGFIELD, 1426 RESERVOIR E ST</description><Point><coordinates>-89.635765, 39.815303</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, SANGAMON, SPRINGFIELD, 48 ANCHOR RD</description><Point><coordinates>-89.589131, 39.846799</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/2/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, SANGAMON, SPRINGFIELD, 928 N DIRKSEN</description><Point><coordinates>-89.605320, 39.811873</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

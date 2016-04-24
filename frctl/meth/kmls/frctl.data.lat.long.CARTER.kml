@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/13/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, CARTER, GRAYSON, 36  STUMP RUN</description><Point><coordinates>-83.008519, 38.397372</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/28/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, CARTER, OLIVE HILL, 131  COLD SPRINGS ROAD 3</description><Point><coordinates>-83.163444, 38.303342</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/29/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, CARTER, OLIVE HILL, 421  OAKLAND RIDGE</description><Point><coordinates>-83.179285, 38.303862</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/16/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, CARTER, OLIVE HILL, 175  TOM T. HALL BOULEVARD 2A</description><Point><coordinates>-83.179970, 38.296733</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/1/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, CARTER, OLIVE HILL, 199  RACHEL STREET</description><Point><coordinates>-83.187175, 38.293456</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/27/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, CARTER, OLIVE HILL, 553 BIGRUN ROAD</description><Point><coordinates>-83.199344, 38.410722</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/8/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, CARTER, SOLDIER, 15  HAMM LANE</description><Point><coordinates>-83.313339, 38.267150</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/5/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CARTER, ELLSINORE, CO ROAD 334 (A)</description><Point><coordinates>-90.789054, 36.965726</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/3/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CARTER, ARDMORE, 1426 RUTLEDGE SE ST</description><Point><coordinates>-97.127120, 34.151885</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/25/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CARTER, LONE GROVE, SUE MILLER  RD  291</description><Point><coordinates>-97.262795, 34.175372</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/26/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CARTER, LONE GROVE, 11700  PRAIRIE VALLEY ROAD</description><Point><coordinates>-97.311971, 34.201962</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/30/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CARTER, WILSON, 301 ASH W</description><Point><coordinates>-97.428433, 34.162727</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/13/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, CARTER, ELIZABETHTON, 212 COTTAGE E AVE</description><Point><coordinates>-82.221802, 36.351292</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/11/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, CARTER, ELIZABETHTON, 147 EAST MUDDY BRANCH ROAD</description><Point><coordinates>-82.089752, 36.403728</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/7/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, CARTER, ELIZABETHTON, 836  BLUE SPRINGS ROAD</description><Point><coordinates>-82.112027, 36.361643</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/17/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, CARTER, ELIZABETHTON, 191 CASH HOLLOW ROAD</description><Point><coordinates>-82.246503, 36.293180</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/5/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, CARTER, HAMPTON, 5111  US HWY 19 E</description><Point><coordinates>-82.172548, 36.284398</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/14/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, CARTER, JOHNSON CITY, 1103 IDLEWYLDE CIRCLE</description><Point><coordinates>-82.293284, 36.268486</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

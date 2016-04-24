@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/11/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, NEW HANOVER, CAROLINA BEACH, 104  WINNER AVENUE BOX APT 2</description><Point><coordinates>-77.894446, 34.040613</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, NEW HANOVER, WILMINGTON, 422 DAVIE ST</description><Point><coordinates>-77.935317, 34.188729</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/1/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, NEW HANOVER, WILMINGTON, 6701 BATSONWOOD COURT</description><Point><coordinates>-77.840217, 34.266884</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/16/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, NEW HANOVER, WILMINGTON, 4309  CEDARWOOD LANE</description><Point><coordinates>-77.887798, 34.224300</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/22/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, NEW HANOVER, WILMINGTON, 805  STRICKLAND PLACE 6</description><Point><coordinates>-77.878159, 34.216126</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/9/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, NEW HANOVER, WILMINGTON, 7402  TREYBURN DRIVE</description><Point><coordinates>-77.822170, 34.278037</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/24/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, NEW HANOVER, WILMINGTON, 4423  ROBIN DALE COURT</description><Point><coordinates>-77.882539, 34.266952</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/26/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, NEW HANOVER, WILMINGTON, 5550  CAROLINA BEACH ROAD BOX 136</description><Point><coordinates>-77.896409, 34.139102</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/21/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, NEW HANOVER, WILMINGTON, 5012  HUNTERS TRAIL</description><Point><coordinates>-77.880349, 34.253762</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/20/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, NEW HANOVER, WILMINGTON, 207  S. 11TH STREET</description><Point><coordinates>-77.934857, 34.233541</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/18/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, NEW HANOVER, WILMINGTON, 4926  MARKET STREET</description><Point><coordinates>-77.884327, 34.243239</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/3/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, NEW HANOVER, WILMINGTON, 310  TOUCH ME NOT DRIVE</description><Point><coordinates>-77.859241, 34.255818</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/15/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, NEW HANOVER, WILMINGTON, 925  WORDSWORTH DRIVE</description><Point><coordinates>-77.863342, 34.261832</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

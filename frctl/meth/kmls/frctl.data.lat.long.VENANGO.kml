@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/3/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: PENNSYLVANIA, VENANGO, CRANBERRY, 952 WHITEHILL RD</description><Point><coordinates>-79.586539, 41.282866</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/12/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: PENNSYLVANIA, VENANGO, OIL CITY, 109  WASHINGTON AVENUE</description><Point><coordinates>-79.703459, 41.431116</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/10/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: PENNSYLVANIA, VENANGO, ROUSEVILLE, 102 MAIN ST</description><Point><coordinates>-79.691693, 41.469031</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: PENNSYLVANIA, VENANGO, TITUSVILLE, 1038 STONE SPRINGHOUSE RD</description><Point><coordinates>-79.756524, 41.601630</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/8/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: PENNSYLVANIA, VENANGO, TITUSVILLE, 530 DUTCH HILL RD</description><Point><coordinates>-79.666589, 41.608958</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/5/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: PENNSYLVANIA, VENANGO, TITUSVILLE, 1501 MEADVILLE RD</description><Point><coordinates>-79.789272, 41.610706</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/4/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: PENNSYLVANIA, VENANGO, TITUSVILLE, 152 SPEER LN</description><Point><coordinates>-79.695938, 41.553464</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

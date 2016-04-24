@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/27/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, LAPORTE, LAPORTE, 410  LINCOLNWAY STREET 5</description><Point><coordinates>-86.717757, 41.612651</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/20/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, LAPORTE, LAPORTE, 1083 EAST STATE  2 408 ROAD</description><Point><coordinates>-86.790023, 41.536709</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/3/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, LAPORTE, MICHIGAN CITY, 10303 US 12 NE</description><Point><coordinates>-86.805706, 41.755684</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/21/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, LAPORTE, MICHIGAN CITY, 207 MAY</description><Point><coordinates>-86.897034, 41.703416</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/26/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, LAPORTE, MICHIGAN CITY, 5310 600 WEST N</description><Point><coordinates>-86.816416, 41.683837</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/29/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, LAPORTE, MICHIGAN CITY, 8115  EASTLAND DRIVE</description><Point><coordinates>-86.915247, 41.677264</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

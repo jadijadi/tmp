@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 12/2/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, SAN DIEGO, ALPINE, 404  SUMMERHILL TERRACE</description><Point><coordinates>-116.806977, 32.839068</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/7/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, SAN DIEGO, BOULEVARD, 2605 PASEO ALTA CT</description><Point><coordinates>-116.319969, 32.685206</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/8/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, SAN DIEGO, CARLSBAD, 382  ACACIA</description><Point><coordinates>-117.344909, 33.152990</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/8/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, SAN DIEGO, CARLSBAD, 847  LAGUNA</description><Point><coordinates>-117.347805, 33.165003</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/23/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, SAN DIEGO, ESCONDIDO, 1306 RONDA AVE</description><Point><coordinates>-117.068446, 33.138380</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/31/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, SAN DIEGO, ESCONDIDO, 431 4TH E AVE 1B</description><Point><coordinates>-117.084292, 33.116550</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/3/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, SAN DIEGO, ESCONDIDO, 16975 GUEJITO RD</description><Point><coordinates>-116.964803, 33.163814</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/6/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, SAN DIEGO, ESCONDIDO, 1825 EAST VALLEY WAY</description><Point><coordinates>-117.054466, 33.134915</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/20/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, SAN DIEGO, ESCONDIDO JUNCTION, 1531  MONTIEL</description><Point><coordinates>-117.086421, 33.119207</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, SAN DIEGO, FALLBROOK, 422 CATALPA LN</description><Point><coordinates>-117.243311, 33.385128</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/10/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, SAN DIEGO, LA PUENTE, 1254 BANNON</description><Point><coordinates>-117.161084, 32.715738</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, SAN DIEGO, LAKESIDE, 11441 EL NOPAL</description><Point><coordinates>-116.949043, 32.861772</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/20/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, SAN DIEGO, OCEANSIDE, 3965 BROWN STREET</description><Point><coordinates>-117.297625, 33.187710</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, SAN DIEGO, SAN DIEGO, 875 HOTEL S CIR</description><Point><coordinates>-117.170411, 32.759281</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/21/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, SAN DIEGO, SAN DIEGO, 6173 FAUNA DRIVE</description><Point><coordinates>-117.062172, 32.739461</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, SAN DIEGO, SAN DIEGO, 4242 34TH ST D</description><Point><coordinates>-117.120381, 32.754118</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/20/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, SAN DIEGO, SAN DIEGO, 3835 MIDWAY #203 DRIVE</description><Point><coordinates>-117.264602, 32.813214</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/12/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, SAN DIEGO, SAN DIEGO, 9777  DE LA AMISTAD VIADUCT</description><Point><coordinates>-116.935827, 32.551753</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, SAN DIEGO, SAN YSIDRO, 905 HWY CALIENTE RD</description><Point><coordinates>-117.054770, 32.568139</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, SAN DIEGO, SANTEE, 8593 MAGNOLIA AVE</description><Point><coordinates>-116.962996, 32.830954</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/7/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, SAN DIEGO, VALLEY CENTER, 30118 MILLER ROAD</description><Point><coordinates>-117.022931, 33.256499</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, SAN DIEGO, VISTA, 1280 HACIENDA DR G6</description><Point><coordinates>-117.266820, 33.191737</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/14/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, SAN DIEGO, VISTA, 1710 AVOCADO DRIVE</description><Point><coordinates>-117.223363, 33.177084</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/3/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, SAN DIEGO, VISTA, 663 EUCALYPTUS</description><Point><coordinates>-117.233757, 33.201693</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/29/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, SAN DIEGO, VISTA, 526 MAR VISTA DRIVE</description><Point><coordinates>-117.232782, 33.180389</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/9/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, SAN DIEGO, VISTA, 1610 N SANTA FE</description><Point><coordinates>-117.247246, 33.223496</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

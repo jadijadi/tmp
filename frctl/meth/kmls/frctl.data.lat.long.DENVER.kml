@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, DENVER, DENVER, 1106 CLARKSON S ST A</description><Point><coordinates>-104.977793, 39.696300</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/3/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, DENVER, DENVER, 2570 DAYTON S WAY D307</description><Point><coordinates>-104.873858, 39.670693</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, DENVER, DENVER, 4146 GRAND W AVE</description><Point><coordinates>-105.040786, 39.629320</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/11/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, DENVER, DENVER, 8199 WELBY RD 210A</description><Point><coordinates>-104.990251, 39.739236</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/1/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, DENVER, DENVER, 1101 ALAMEDA W AVE 209</description><Point><coordinates>-105.001171, 39.712445</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, DENVER, DENVER, 455 COLORADO S BLVD 512</description><Point><coordinates>-104.941291, 39.708000</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, DENVER, DENVER, 55 GALAPAGO N ST</description><Point><coordinates>-104.996687, 39.717604</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/6/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, DENVER, DENVER, 1060 PARKER S RD 10</description><Point><coordinates>-104.900733, 39.698138</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, DENVER, DENVER, 3409 1/2 ALASKA W PL</description><Point><coordinates>-105.031375, 39.708807</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, DENVER, DENVER, 2283 FOX S ST</description><Point><coordinates>-104.995136, 39.675258</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, DENVER, DENVER, 3700 MARIN N ST 6 & 8</description><Point><coordinates>-104.971782, 39.729065</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/17/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, DENVER, DENVER, 4440 JASON N ST</description><Point><coordinates>-104.999060, 39.777258</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/23/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, DENVER, DENVER, 838 EUDORA N ST</description><Point><coordinates>-104.930112, 39.729956</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/27/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, DENVER, DENVER, 799 CHERRY N ST</description><Point><coordinates>-104.934119, 39.729088</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/29/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, DENVER, DENVER, 3121 NORTH YORK STREET</description><Point><coordinates>-104.960091, 39.761208</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/30/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, DENVER, DENVER, 4625 WEST 46TH AVENUE</description><Point><coordinates>-105.046578, 39.780241</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/6/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, DENVER, DENVER, 10025 EAST GIRARD AVENUE</description><Point><coordinates>-104.870594, 39.655707</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/30/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, DENVER, DENVER, 4885 SOUTH QUEBEC STREET</description><Point><coordinates>-104.904572, 39.626085</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/31/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, DENVER, DENVER, 2237 EAST 14TH AVENUE</description><Point><coordinates>-104.959970, 39.738605</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/24/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, DENVER, DENVER, 1059 NORTH CORONA STREET</description><Point><coordinates>-104.974120, 39.733128</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/19/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, DENVER, DENVER, 593 SOUTH QUITMAN STREET</description><Point><coordinates>-105.041069, 39.707004</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/12/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, DENVER, DENVER, 4610 EAST 8TH AVENUE</description><Point><coordinates>-104.933721, 39.729224</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/13/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, DENVER, DENVER, 3314 WEST 33RD AVENUE</description><Point><coordinates>-105.030447, 39.763812</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/10/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, DENVER, DENVER, 103 SOUTH ZENOBIA STREET</description><Point><coordinates>-105.052133, 39.714850</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/18/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, DENVER, DENVER, 3106 NORTH UMATILLA STREET</description><Point><coordinates>-105.011695, 39.761041</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/10/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, DENVER, DENVER, 732 NORTH KNOX COURT</description><Point><coordinates>-105.032136, 39.728454</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/9/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, DENVER, DENVER, 1029 EAST 8TH AVENUE 505</description><Point><coordinates>-104.974508, 39.729294</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/3/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, DENVER, DENVER, 2570 SOUTH DAYTON STREET I-306</description><Point><coordinates>-104.873858, 39.670693</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/28/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, DENVER, DENVER, 50 SOUTH ALCOTT STREET 5</description><Point><coordinates>-105.016721, 39.715806</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/8/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, DENVER, DENVER, 1471 NORTH ZENOBIA STREET 1475</description><Point><coordinates>-105.052316, 39.739786</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

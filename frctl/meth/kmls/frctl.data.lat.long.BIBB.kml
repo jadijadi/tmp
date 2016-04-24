@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/6/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, BIBB, WEST BLOCTON, 386  CAMILLIA LANE</description><Point><coordinates>-87.124843, 33.119592</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/9/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, BIBB, MACON, 250 MARGARET COURT</description><Point><coordinates>-83.743607, 32.757996</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/21/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, BIBB, MACON, 2154 RIVERSIDE DRIVE</description><Point><coordinates>-83.649713, 32.860345</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/7/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, BIBB, MACON, 2170 ALLEN ROAD</description><Point><coordinates>-83.651987, 32.740138</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/14/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, BIBB, MACON, 354 ROGERS AVENUE</description><Point><coordinates>-83.655229, 32.852662</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/5/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, BIBB, MACON, 5975 COLUMBUS ROAD</description><Point><coordinates>-83.750100, 32.811686</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/23/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, BIBB, MACON, 575 BAXTER AVENUE 802</description><Point><coordinates>-83.643352, 32.852553</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/4/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, BIBB, MACON, 2170  ST. CLARA DRIVE</description><Point><coordinates>-83.620569, 32.672074</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/28/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, BIBB, MACON, 2035  LIBERTY CHURCH ROAD</description><Point><coordinates>-83.641762, 32.723695</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/9/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, BIBB, MACON, 857  TRINITY PLACE</description><Point><coordinates>-83.601621, 32.852446</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

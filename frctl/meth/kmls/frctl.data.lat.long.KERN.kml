@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, KERN, BAKERSFIELD, 8614 FULLER</description><Point><coordinates>-118.908599, 35.300436</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, KERN, BAKERSFIELD, 2600 NORMAN AVE</description><Point><coordinates>-119.031529, 35.335692</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, KERN, BAKERSFIELD, 8614 FULLER</description><Point><coordinates>-118.908599, 35.300436</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/15/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, KERN, BAKERSFIELD, 321 OAKDALE DR</description><Point><coordinates>-119.040637, 35.359799</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/22/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, KERN, BAKERSFIELD, 2714 ALLEN RD</description><Point><coordinates>-119.145259, 35.384613</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/19/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, KERN, BAKERSFIELD, 2314 CENTER ST</description><Point><coordinates>-118.965498, 35.372222</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/28/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, KERN, BAKERSFIELD, 200 MIRAFLORES</description><Point><coordinates>-119.004606, 35.295576</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/20/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, KERN, BAKERSFIELD, 101 AGARNSEY LN</description><Point><coordinates>-119.046139, 35.355953</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/26/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, KERN, BAKERSFIELD, 109 CLYDE STREET</description><Point><coordinates>-118.987469, 35.356210</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/18/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, KERN, BAKERSFIELD, 200 MIRAFLORES AVENUE</description><Point><coordinates>-119.004606, 35.295576</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/22/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, KERN, BAKERSFIELD, 8TH STREET</description><Point><coordinates>-119.010686, 35.364587</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/3/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, KERN, BAKERSFIELD, 3801  NEWCOMBE COURT</description><Point><coordinates>-119.044684, 35.315053</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/3/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, KERN, BAKERSFIELD, 3804  LA TONIA COURT</description><Point><coordinates>-119.043664, 35.310000</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/8/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, KERN, BAKERSFIELD, 218  EL TEJON AVENUE</description><Point><coordinates>-119.025274, 35.418440</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/13/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, KERN, BAKERSFIELD, 7601  REDBANK</description><Point><coordinates>-118.919649, 35.339425</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, KERN, DELANO, 1305 20TH AVE</description><Point><coordinates>-119.241559, 35.783366</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/9/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, KERN, JOHANNESBURG, 405 BROADWAY AVENUE</description><Point><coordinates>-117.634217, 35.372204</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/21/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, KERN, LAKE ISABELLA, 3105 WENYOR</description><Point><coordinates>-118.466219, 35.633224</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/11/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, KERN, LAMONT, 10224 SAN EMIDIO STREET</description><Point><coordinates>-118.922137, 35.262195</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/19/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, KERN, LAMONT, 8008 MIDDLETON LANE</description><Point><coordinates>-118.915277, 35.242183</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, KERN, RIDGECREST, 709 W ATKINS AVE</description><Point><coordinates>-117.683901, 35.650498</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/4/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, KERN, RIDGECREST, 345 WEST MOYER AVENUE</description><Point><coordinates>-117.676422, 35.645023</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/23/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, KERN, SHAFTER, 18478 S SHAFTER AVE</description><Point><coordinates>-119.278543, 35.480127</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, KERN, SHAFTER, 31396 BURBANK AVE</description><Point><coordinates>-119.235276, 35.470944</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, KERN, TAFT, 412 KERN ST</description><Point><coordinates>-119.457188, 35.142693</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/20/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, KERN, TAFT, 217 LIERLY ST</description><Point><coordinates>-119.462562, 35.134922</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, CHEYENNE, SAINT FRANCIS, 321 FIRST W ST</description><Point><coordinates>-101.798546, 39.771038</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/23/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, CHEYENNE, SAINT FRANCIS, 408 SOUTH COLLEGE</description><Point><coordinates>-101.795926, 39.770554</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/22/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, CHEYENNE, , RR 2 44</description><Point><coordinates>-104.827902, 41.210436</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

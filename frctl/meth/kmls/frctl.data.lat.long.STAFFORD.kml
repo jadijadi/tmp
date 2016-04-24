@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/28/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, STAFFORD, SAINT JOHN, 624 NORTHEAST 10 AVENUE</description><Point><coordinates>-98.728466, 37.890026</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/21/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, STAFFORD, SEWARD, 719 MAIN</description><Point><coordinates>-98.794682, 38.181266</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/21/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, STAFFORD, , 631 NORTHEAST 140 AVENUE</description><Point><coordinates>-98.490688, 38.012984</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/30/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, STAFFORD, STAFFORD, 3 SAINT VINCENT COURT</description><Point><coordinates>-77.487276, 38.475493</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

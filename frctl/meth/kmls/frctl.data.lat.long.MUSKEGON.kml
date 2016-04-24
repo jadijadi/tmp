@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 7/20/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, MUSKEGON, CASNOVIA, 345 MOON CT</description><Point><coordinates>-85.813479, 43.258518</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/4/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, MUSKEGON, DALTON, 5842  DANC DRIVE</description><Point><coordinates>-86.264325, 43.363935</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/9/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, MUSKEGON, HOLTON, 11639 NICHOLS ROAD</description><Point><coordinates>-86.193262, 43.465387</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/6/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, MUSKEGON, HOLTON, 7364  BRICKYARD ROAD</description><Point><coordinates>-86.059149, 43.387302</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/26/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, MUSKEGON, MUSKEGON, 1160 HARVEY</description><Point><coordinates>-86.203757, 43.231162</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/7/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, MUSKEGON, MUSKEGON, 1826  RAY</description><Point><coordinates>-86.225657, 43.219030</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/17/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, MUSKEGON, MUSKEGON, 1239  FLEMING</description><Point><coordinates>-86.213358, 43.224885</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/3/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, MUSKEGON, MUSKEGON, 1860 E ISBELLA</description><Point><coordinates>-86.197708, 43.232575</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/7/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, MUSKEGON, NORTH MUSKEGON, 243  RUDDIMAN ROAD</description><Point><coordinates>-86.299391, 43.244057</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/23/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, MUSKEGON, NORTON SHORES, 2917 BRUNSWICK</description><Point><coordinates>-86.217776, 43.199537</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/23/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, MUSKEGON, NORTON SHORES, 3120  SHEFFIELD</description><Point><coordinates>-86.262107, 43.196144</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

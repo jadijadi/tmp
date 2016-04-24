@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 10/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW MEXICO, RIO ARRIBA, LLAVES, 1721 COUNTY RD 41</description><Point><coordinates>-106.866706, 36.372794</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

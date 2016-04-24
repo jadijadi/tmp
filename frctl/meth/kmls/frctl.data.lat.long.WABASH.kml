@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/25/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, WABASH, BELLMONT, 212 PERSIMMON S ST</description><Point><coordinates>-87.910286, 38.385911</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/20/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, WABASH, MOUNT CARMEL, 1210 E LN</description><Point><coordinates>-87.759010, 38.459185</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/22/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, WABASH, MOUNT CARMEL, 11794 960 E LN</description><Point><coordinates>-87.805735, 38.392996</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/15/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, WABASH, MOUNT CARMEL, 16240 1150 E RD</description><Point><coordinates>-87.764294, 38.458473</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/8/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WABASH, LA FONTAINE, 101  THOMAS ROAD</description><Point><coordinates>-85.723800, 40.670319</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WABASH, LAGRO, 7174 SCHMALZREID RD</description><Point><coordinates>-85.656384, 40.841598</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/11/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WABASH, LAGRO, 200 DAVIS ST</description><Point><coordinates>-85.728696, 40.836509</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/27/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WABASH, NORTH MANCHESTER, 500 EAST STATE ROAD 13</description><Point><coordinates>-85.764317, 41.016317</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WABASH, WABASH, 4987 OLD STATE ROAD 24 W</description><Point><coordinates>-85.820541, 40.797821</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/26/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WABASH, WABASH, 78 CANAL W ST 1/2</description><Point><coordinates>-85.821852, 40.796141</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/27/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WABASH, WABASH, 4665 WEST 100S 10</description><Point><coordinates>-85.883076, 40.808880</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/7/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WABASH, WABASH, 171 EAST MAIN STREET</description><Point><coordinates>-85.818144, 40.798085</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/9/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WABASH, WABASH, 80 WEST SINCLAIR STREET</description><Point><coordinates>-85.822397, 40.799928</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/16/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WABASH, WABASH, 1664  CHURCH</description><Point><coordinates>-85.832892, 40.781902</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

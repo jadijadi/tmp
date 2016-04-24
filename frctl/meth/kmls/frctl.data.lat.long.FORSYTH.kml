@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, FORSYTH, CUMMING, 3617 DR. BRAMBLETT RD</description><Point><coordinates>-84.171677, 34.282338</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/24/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, FORSYTH, CLEMMONS, 6910 HANESBROOK CIRCLE 101</description><Point><coordinates>-80.391609, 36.046814</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/11/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, FORSYTH, KERNERSVILLE, 111 KING STREET</description><Point><coordinates>-80.070078, 36.123007</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/11/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, FORSYTH, KERNERSVILLE, 119 KING STREET</description><Point><coordinates>-80.069612, 36.122610</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/23/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, FORSYTH, LEWISVILLE, 5920  CUTTERS CREEK COURT</description><Point><coordinates>-80.389843, 36.119430</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, FORSYTH, PFAFFTOWN, 7180 SOUTHERN HILLS RD</description><Point><coordinates>-80.424388, 36.184906</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/18/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, FORSYTH, WINSTON SALEM, 535  OLD HOLLOW ROAD</description><Point><coordinates>-80.257536, 36.195491</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

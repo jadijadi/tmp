@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/21/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, WELD, FORT LUPTON, 7898  RICHA4RD STREET B</description><Point><coordinates>-104.764891, 40.114752</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/22/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, WELD, FT LUPTON, 913 ELM COURT</description><Point><coordinates>-104.794931, 40.088556</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, WELD, GREELEY, 200 35 N AVE 168</description><Point><coordinates>-104.732591, 40.435835</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/12/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, WELD, GREELEY, 1322 7TH ST</description><Point><coordinates>-104.694350, 40.425833</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/22/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, WELD, GREELEY, 1014 33RD AVE</description><Point><coordinates>-104.732467, 40.421605</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/26/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, WELD, GREELEY, 815 SOUTH 30TH AVENUE</description><Point><coordinates>-104.728410, 40.425066</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/15/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, WELD, GREELEY, 2008  68 AVENUE</description><Point><coordinates>-104.790691, 40.406081</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/17/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, WELD, GREELEY, 3021  43 AVENUE</description><Point><coordinates>-104.751357, 40.386235</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/21/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, WELD, GREELEY, 1804 WEST 30TH STREET 202</description><Point><coordinates>-104.708206, 40.388080</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/23/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, WELD, KEENESBURG, 33291 HWY 52</description><Point><coordinates>-104.427924, 40.073410</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/27/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, WELD, ORCHARD, 43670 WEST COUNTY ROAD 42 1/2</description><Point><coordinates>-104.235616, 40.291109</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/25/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, WELD, WINDSOR, </description><Point><coordinates>-104.901362, 40.477482</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/14/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, COLUMBIA, MAGNOLIA, 434 MAIN E ST</description><Point><coordinates>-93.234839, 33.267120</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/21/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, COLUMBIA, FORT WHITE, 1069 SOUTHWEST FAULKNER ROAD</description><Point><coordinates>-82.755092, 30.004484</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/3/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, COLUMBIA, FORT WHITE, 168 SOUTHWEST FEEEDOM COURT</description><Point><coordinates>-82.755080, 29.962407</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/1/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, COLUMBIA, LAKE CITY, 448 NORTHEAST TAMMY LANE</description><Point><coordinates>-82.633930, 30.229198</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/13/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, COLUMBIA, LAKE CITY, 247 NORTHEAST JACKSONVILLE LOOP</description><Point><coordinates>-82.616108, 30.190362</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/16/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, COLUMBIA, LAKE CITY, 943 NORTHWEST BROWN ROAD</description><Point><coordinates>-82.716318, 30.200406</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/24/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, COLUMBIA, LAKE CITY, 276 SOUTHEAST MORNING GLORY COURT</description><Point><coordinates>-82.693771, 30.137844</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/11/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, COLUMBIA, LAKE CITY, 306 SOUTHWEST SUNSET GLEN</description><Point><coordinates>-82.705417, 30.151783</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/12/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, COLUMBIA, LAKE CITY, 953 SOUTHWEST SEBASTIAN CIRCLE</description><Point><coordinates>-82.703360, 30.190448</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/14/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, COLUMBIA, LAKE CITY, 167 SOUTHWEST FANTASY GLEN</description><Point><coordinates>-82.710833, 30.141440</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/13/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, COLUMBIA, LAKE CITY, 1210 NORTHEAST DOUBLE RUN ROAD</description><Point><coordinates>-82.626635, 30.223214</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/3/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, COLUMBIA, LAKE CITY, 641 SOUTHWEST MAYHALL TERRACE</description><Point><coordinates>-82.586179, 30.093906</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/26/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, COLUMBIA, LAKE CITY, 276 SOUTHEAST MORNING GLORY COURT</description><Point><coordinates>-82.693771, 30.137844</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/3/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, COLUMBIA, EVANS, 136 POND VIEW</description><Point><coordinates>-82.194552, 33.584187</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/27/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, COLUMBIA, GROVETOWN, 100 HARLEM ROAD</description><Point><coordinates>-82.207598, 33.454151</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/9/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, COLUMBIA, GROVETOWN, 1036 CARLENE</description><Point><coordinates>-82.270851, 33.433886</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/13/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, COLUMBIA, MARTINEZ, 607  THOMAS DRIVE</description><Point><coordinates>-82.131802, 33.503478</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/5/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, COLUMBIA, MARTINEZ, 3905  ALMON DRIVE</description><Point><coordinates>-82.096098, 33.506005</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/1/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, COLUMBIA, SAINT HELENS, 454 NORTH 10TH STREET</description><Point><coordinates>-122.810381, 45.868590</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/11/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, COLUMBIA, SCAPPOOSE, 54406 DAHLGREN ROAD</description><Point><coordinates>-122.895751, 45.785461</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: PENNSYLVANIA, COLUMBIA, BERWICK, 1200 SUSAVEHANNA AVE</description><Point><coordinates>-76.252340, 41.044976</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: PENNSYLVANIA, COLUMBIA, BERWICK, 414 EVANSVILLE RD</description><Point><coordinates>-76.298684, 41.082084</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/7/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: PENNSYLVANIA, COLUMBIA, BERWICK, 28  YOST HOLLOW ROAD</description><Point><coordinates>-76.304314, 41.063182</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/15/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: PENNSYLVANIA, COLUMBIA, BERWICK, 1026  7TH AVENUE</description><Point><coordinates>-76.252720, 41.063049</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/10/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: PENNSYLVANIA, COLUMBIA, BERWICK, 519  EAST 9TH STREET</description><Point><coordinates>-76.232702, 41.062337</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/4/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: PENNSYLVANIA, COLUMBIA, MILLVILLE, 136  MOREHEAD AVENUE</description><Point><coordinates>-76.529563, 41.118612</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/15/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WISCONSIN, COLUMBIA, TOWNSHIP OF COURTLAN, 2179 WEST WINGERS ROAD</description><Point><coordinates>-88.787868, 43.784440</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/25/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WISCONSIN, COLUMBIA, WISCONSIN DELLS, 918 CAPITOL ST</description><Point><coordinates>-89.767575, 43.629670</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/15/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WISCONSIN, COLUMBIA, WISCONSIN DELLS, 729 RACE ST 5</description><Point><coordinates>-89.763471, 43.626767</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

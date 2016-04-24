@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MINNESOTA, ST. Louis, HIBBING, 3425 4TH W AVE</description><Point><coordinates>-92.946134, 47.409960</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/5/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, ST. Louis, SAINT LOUIS, 2810 OHIO ST</description><Point><coordinates>-90.225434, 38.603249</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, ST. Louis, SAINT LOUIS, 8441 TENNESSEE ST B</description><Point><coordinates>-90.273940, 38.546890</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/15/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, ST. Louis, SAINT LOUIS, 1405 PINE 304</description><Point><coordinates>-90.200694, 38.629817</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/27/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, ST. Louis, SAINT LOUIS, 1001 ANN</description><Point><coordinates>-90.206940, 38.606192</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/27/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, ST. Louis, SAINT LOUIS, 1003 ANN</description><Point><coordinates>-90.207101, 38.606043</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/27/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, ST. Louis, SAINT LOUIS, 300 POTOMAC E</description><Point><coordinates>-90.216736, 38.590457</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/10/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, ST. Louis, SAINT LOUIS, 1045 TAMM AVE</description><Point><coordinates>-90.292810, 38.630179</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 7/8/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, TIPTON, TIPTON, 1624 NORTH 25TH WEST</description><Point><coordinates>-86.023382, 40.281387</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/16/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, TIPTON, TIPTON, 941 EAST MARKET STREET</description><Point><coordinates>-86.056266, 40.296943</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/26/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, TIPTON, TIPTON, 211 EAST ADAMS STREET</description><Point><coordinates>-86.039059, 40.279647</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/18/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, TIPTON, WINDFALL, 312  CANAL</description><Point><coordinates>-85.953264, 40.364088</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/12/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, TIPTON, WINDFALL, 901  INDEPENDENCE</description><Point><coordinates>-85.955623, 40.356033</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

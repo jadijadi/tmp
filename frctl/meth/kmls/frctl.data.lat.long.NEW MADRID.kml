@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 7/6/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, NEW MADRID, GIDEON, 1238 COUNTY 278 RD</description><Point><coordinates>-89.902702, 36.422708</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/5/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, NEW MADRID, MARSTON, 210 MITCHELL ST</description><Point><coordinates>-89.609586, 36.515762</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/5/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, NEW MADRID, MATTHEWS, 205 NORTH RAILROAD STREET</description><Point><coordinates>-89.585195, 36.759069</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/1/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, NEW MADRID, NEW MADRID, 863  ST. JOHNS LANE</description><Point><coordinates>-89.537171, 36.590750</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/9/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, NEW MADRID, NEW MADRID, 30  BLADES DRIVE</description><Point><coordinates>-89.535768, 36.597226</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/8/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, NEW MADRID, NEW MADRID, 781  ST ANN STREET</description><Point><coordinates>-89.544014, 36.591848</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/10/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, NEW MADRID, PORTAGEVILLE, 4510 STATE HIGHWAY F</description><Point><coordinates>-89.701484, 36.482988</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/2/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, NEW MADRID, PORTAGEVILLE, 1  WILLOW DRIVE</description><Point><coordinates>-89.646971, 36.424588</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/2/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, NEW MADRID, PORTAGEVILLE, 424 WEST 8TH STREET</description><Point><coordinates>-89.707076, 36.431527</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/29/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, NEW MADRID, PORTAGEVILLE, 306 WEST 3RD STREET</description><Point><coordinates>-89.705545, 36.426467</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, NEW MADRID, SIKESTON, 821 SOUTH WEST ST D</description><Point><coordinates>-89.597595, 36.865441</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

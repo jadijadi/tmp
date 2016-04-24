@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/27/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, MISSISSIPPI, BASSETT, 2206 COUNTY ROAD 1020</description><Point><coordinates>-90.129582, 35.553785</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/6/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, MISSISSIPPI, BASSETT, 301  BLACKWELL</description><Point><coordinates>-90.128450, 35.535235</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/26/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, MISSISSIPPI, BLYTHEVILLE, 700 NORTH FIRST STREET</description><Point><coordinates>-89.902293, 35.933845</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/18/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, MISSISSIPPI, BLYTHEVILLE, 808  DELMAR</description><Point><coordinates>-89.899279, 35.935144</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/4/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, MISSISSIPPI, BLYTHEVILLE, 5009  STATE HIGHWAY 312</description><Point><coordinates>-90.000312, 35.878177</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/10/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, MISSISSIPPI, BLYTHEVILLE, 1003  DIVISION</description><Point><coordinates>-89.919366, 35.917778</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/24/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, MISSISSIPPI, BLYTHEVILLE, 1102  RUDDLE</description><Point><coordinates>-89.890722, 35.916177</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/29/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, MISSISSIPPI, DYESS, 2970 WEST COUNTY ROAD 940</description><Point><coordinates>-90.162464, 35.589517</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/27/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, MISSISSIPPI, DYESS, 4325 SOUTH COUNTY ROAD 175</description><Point><coordinates>-90.195741, 35.603618</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/30/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, MISSISSIPPI, DYESS, 4177  ST. HWY 14</description><Point><coordinates>-90.218498, 35.611627</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/18/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, MISSISSIPPI, LEACHVILLE, 120 MCNAMEE ST</description><Point><coordinates>-90.259503, 35.939553</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/17/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, MISSISSIPPI, LEACHVILLE, 609 EAST 3RD STREET</description><Point><coordinates>-90.249584, 35.933901</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, MISSISSIPPI, LUXORA, 3892 STATE HIGHWAY 120 E HWY</description><Point><coordinates>-89.874345, 35.797960</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/30/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, MISSISSIPPI, LUXORA, 816 567 RD 816 816</description><Point><coordinates>-89.981157, 35.781648</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/28/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, MISSISSIPPI, MANILA, 600 NORTH DUNKIN</description><Point><coordinates>-90.164101, 35.883887</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/8/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, MISSISSIPPI, MANILA, 202  HAYWOOD</description><Point><coordinates>-90.164745, 35.883877</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/3/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, MISSISSIPPI, MANILA, 3821  COUNTY RD 378</description><Point><coordinates>-90.200499, 35.844059</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/26/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, MISSISSIPPI, MANILA, 119  HAYWOOD</description><Point><coordinates>-90.165378, 35.883668</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/19/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, MISSISSIPPI, OSCEOLA, 1136 SOUTH COUNTRY CLUB RD.</description><Point><coordinates>-90.017543, 35.697803</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/1/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, MISSISSIPPI, OSCEOLA, 105 MOCKINGBIRD LANE</description><Point><coordinates>-89.994987, 35.699560</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/30/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, MISSISSIPPI, OSCEOLA, 709  VILLAGE</description><Point><coordinates>-89.975394, 35.708109</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/27/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, MISSISSIPPI, WEST RIDGE, 5324  HWY140</description><Point><coordinates>-90.269608, 35.676415</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/8/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, MISSISSIPPI, BERTRAND, 207 WEST JOBE STREET</description><Point><coordinates>-89.444622, 36.908996</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/17/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, MISSISSIPPI, EAST PRAIRIE, 109 IRENE ST</description><Point><coordinates>-89.383162, 36.769159</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/21/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, MISSISSIPPI, EAST PRAIRIE, 1675 SOUTH 423RD ROAD</description><Point><coordinates>-89.385630, 36.779778</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

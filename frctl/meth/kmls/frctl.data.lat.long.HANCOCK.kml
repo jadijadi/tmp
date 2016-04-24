@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/23/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, HANCOCK, CARTHAGE, 1035 NORTH HWY 94/336</description><Point><coordinates>-91.126825, 40.416128</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/10/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, HANCOCK, NIOTA, LEISURELAND TRAILER COURT LOT 17</description><Point><coordinates>-91.287927, 40.617542</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/16/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, HANCOCK, GREENFIELD, 123 EICKENBERRY STREET</description><Point><coordinates>-85.765617, 39.797717</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/21/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, HANCOCK, GREENFIELD, 1395 SOUTH COUNTY 150 WEST ROAD</description><Point><coordinates>-85.769423, 39.785043</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/16/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, HANCOCK, GREENFIELD, 121  PIERSON STREET BOX 2</description><Point><coordinates>-85.770686, 39.781233</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/21/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, HANCOCK, LEWISPORT, 257 CURTIS STREET</description><Point><coordinates>-86.899334, 37.934712</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/13/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, HANCOCK, PELLVILLE, US 31 N MONCRIEF N ST 185</description><Point><coordinates>-86.813600, 37.752275</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/14/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, HANCOCK, REYNOLDS STATION, 1950 ZION CHURCH E RD</description><Point><coordinates>-86.761741, 37.668378</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/5/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MAINE, HANCOCK, BAR HARBOR, 169  GILBERT FARM ROAD</description><Point><coordinates>-68.332958, 44.410882</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/5/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MAINE, HANCOCK, ELLSWORTH, 18  HANCOCK STREET</description><Point><coordinates>-68.421826, 44.541153</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/27/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, HANCOCK, BAY SAINT LOUIS, 4071 ATLANTIC AVENUE</description><Point><coordinates>-89.395145, 30.311804</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/8/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, HANCOCK, BAY SAINT LOUIS, 7021 WEST FORREST STREET</description><Point><coordinates>-89.444603, 30.293596</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/11/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, HANCOCK, BAY SAINT LOUIS, 6091 EAST DESOTO STREET</description><Point><coordinates>-89.430633, 30.292994</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/15/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, HANCOCK, DIAMONDHEAD, 6810 AWINI STREET</description><Point><coordinates>-89.350566, 30.384132</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/7/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, HANCOCK, KILN, 6082 APACHE DRIVE</description><Point><coordinates>-89.443351, 30.394697</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/21/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, HANCOCK, KILN, 24500  STANDARD CEMETERY ROAD</description><Point><coordinates>-89.364766, 30.529075</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/23/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, HANCOCK, KILN, 17216  GARDINIA STREET</description><Point><coordinates>-89.403804, 30.421046</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/18/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, HANCOCK, KILN, 22060  RD. 357</description><Point><coordinates>-89.395097, 30.497822</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/21/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, HANCOCK, KILN, 5500  REAMS ROAD</description><Point><coordinates>-89.423883, 30.455778</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/22/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, HANCOCK, KILN, 26360  STANDARD DEDEAUX ROAD</description><Point><coordinates>-89.384408, 30.549571</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/25/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, HANCOCK, KILN, 20613  HIGHWAY 603</description><Point><coordinates>-89.432601, 30.470507</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/8/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, HANCOCK, PELAHATCHIE, 602  GADDIS MYERS ROAD</description><Point><coordinates>-89.796176, 32.204302</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/8/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, HANCOCK, PELAHATCHIE, 602  GADDIS MYERS ROAD</description><Point><coordinates>-89.796176, 32.204302</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/26/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, HANCOCK, PICAYUNE, 11289  OLD KILN ROAD</description><Point><coordinates>-89.521218, 30.533006</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/9/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, HANCOCK, MOUNT BLANCHARD, 16305  TOWNSHIP ROAD 150</description><Point><coordinates>-83.559596, 40.861989</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/23/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, HANCOCK, KYLES FORD, 103  GRAVES ROAD</description><Point><coordinates>-83.043496, 36.570927</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/6/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, HANCOCK, KYLES FORD, LOT 8,  PARK ROAD (HIRAM TRAILER PARK)</description><Point><coordinates>-83.043496, 36.570927</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/17/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, HANCOCK, SNEEDVILLE, 182 BOWLIN ST. E</description><Point><coordinates>-83.217459, 36.526656</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

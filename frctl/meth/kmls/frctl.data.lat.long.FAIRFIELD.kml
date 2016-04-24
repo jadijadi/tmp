@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/18/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CONNECTICUT, FAIRFIELD, NORWALK, 5 COVENTRY PLACE</description><Point><coordinates>-73.448376, 41.106634</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/16/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, FAIRFIELD, AMANDA, 10527 GARRETT ROAD</description><Point><coordinates>-82.764945, 39.577414</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/5/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, FAIRFIELD, AMANDA, 7521  CIRCLEVILLE STREET</description><Point><coordinates>-82.771596, 39.556963</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/1/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, FAIRFIELD, BALTIMORE, 1835  BLACKLICK-EASTERN ROAD</description><Point><coordinates>-82.619841, 39.900166</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, FAIRFIELD, BREMEN, 5285 MARIETTA RD</description><Point><coordinates>-82.467820, 39.718168</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/29/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, FAIRFIELD, BREMEN, 411 NEW STREET</description><Point><coordinates>-82.427506, 39.708404</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/10/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, FAIRFIELD, LANCASTER, 537 1/2 MAIN E ST</description><Point><coordinates>-82.592280, 39.713846</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/22/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, FAIRFIELD, LANCASTER, 637 1/2 6TH E ST</description><Point><coordinates>-82.589387, 39.719765</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/5/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, FAIRFIELD, LANCASTER, 200 TENANT S ST</description><Point><coordinates>-82.595413, 39.717199</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/1/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, FAIRFIELD, LANCASTER, 123 WEST WALNUT STREET</description><Point><coordinates>-82.603144, 39.711401</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/1/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, FAIRFIELD, LANCASTER, 352 WITTE STREET</description><Point><coordinates>-82.612277, 39.707453</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/19/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, FAIRFIELD, LANCASTER, 14 NORTHWEST LAKE ROAD</description><Point><coordinates>-82.497346, 39.720065</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/23/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, FAIRFIELD, LANCASTER, 136 NORTH EWING STREET</description><Point><coordinates>-82.576394, 39.715855</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/11/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, FAIRFIELD, LANCASTER, 1006  MEDA AVENUE</description><Point><coordinates>-82.618907, 39.726661</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/9/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, FAIRFIELD, LANCASTER, 310  MILLER AVENUE</description><Point><coordinates>-82.622147, 39.717258</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/12/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, FAIRFIELD, LANCASTER, 207  PERRY STREET 6</description><Point><coordinates>-82.601082, 39.710314</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/6/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, FAIRFIELD, LANCASTER, 228  PERRY STREET</description><Point><coordinates>-82.600106, 39.710231</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/11/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, FAIRFIELD, LANCASTER, 6099  CHILLICOTHE-LANCASTER ROAD</description><Point><coordinates>-82.700264, 39.668584</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/5/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, FAIRFIELD, LANCASTER, 118 SOUTH S BAKER AVE AVENUE</description><Point><coordinates>-82.622111, 39.713751</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/13/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, FAIRFIELD, LANCASTER, 302 WEST W FAIR AVE AVENUE</description><Point><coordinates>-82.606064, 39.723847</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/5/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, FAIRFIELD, LANCASTER, 2165  CLEARCREEK RD SW/CR-69 ROAD</description><Point><coordinates>-82.656016, 39.611491</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/16/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, FAIRFIELD, LANCASTER, 417 SOUTH S COLUMBUS ST STREET</description><Point><coordinates>-82.603133, 39.709513</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/13/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, FAIRFIELD, LANCASTER, 928  WASHINGTON AVE AVENUE  BOX A</description><Point><coordinates>-82.615575, 39.725269</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/16/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, FAIRFIELD, LANCASTER, 417 SOUTH S COLUMBUS ST STREET</description><Point><coordinates>-82.603133, 39.709513</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/13/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, FAIRFIELD, LANCASTER, 928  WASHINGTON AVE AVENUE  BOX A</description><Point><coordinates>-82.615575, 39.725269</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/2/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, FAIRFIELD, LANCASTER, 524 EAST LOCUST ST.</description><Point><coordinates>-82.592879, 39.709944</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/23/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, FAIRFIELD, LANCASTER, 100  WILLIAMSBURG</description><Point><coordinates>-82.626486, 39.705083</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/15/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, FAIRFIELD, LANCASTER, 320 S BROAD STREET BOX D</description><Point><coordinates>-82.601636, 39.710679</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/3/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, FAIRFIELD, LANCASTER, 180  SELLS ROAD BOX B-8</description><Point><coordinates>-82.554465, 39.717105</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/9/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, FAIRFIELD, LANCASTER, 141 W 5TH AVENUE</description><Point><coordinates>-82.603354, 39.719082</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/2/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, FAIRFIELD, LANCASTER, 215 S MOUNT PLEASANT AVENUE</description><Point><coordinates>-82.591335, 39.711777</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/16/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, FAIRFIELD, LANCASTER, 180  SELLS ROAD BOX B8</description><Point><coordinates>-82.554465, 39.717105</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/11/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, FAIRFIELD, LANCASTER, 222  WASHINGTON AVE</description><Point><coordinates>-82.616317, 39.716167</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/19/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, FAIRFIELD, PLEASANTVILLE, 7480 GRUBB RD</description><Point><coordinates>-82.522103, 39.809786</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/6/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, FAIRFIELD, REYNOLDSBURG, 2786 JOHN STEVENS WAY</description><Point><coordinates>-82.807594, 39.928908</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

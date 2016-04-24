@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 12/15/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, HIGHLANDS, AVON PARK, 1549 BERWYN AVE</description><Point><coordinates>-81.500362, 27.615008</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/13/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, HIGHLANDS, AVON PARK, 402 WALKER ROAD</description><Point><coordinates>-81.537857, 27.601622</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

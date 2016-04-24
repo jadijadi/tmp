@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 8/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, DAVIS, BLOOMFIELD, 26368 ICE AVE</description><Point><coordinates>-92.489385, 40.662582</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/4/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, DAVIS, BLOOMFIELD, 405 DAVIS S ST</description><Point><coordinates>-92.417655, 40.748582</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/15/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, DAVIS, FLORIS, 14318 WHEAT AVE</description><Point><coordinates>-92.207449, 40.813230</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: UTAH, DAVIS, BOUNTIFUL, 3431 575 WEST S D</description><Point><coordinates>-111.894796, 40.852167</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/21/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: UTAH, DAVIS, BOUNTIFUL, 990 NORTH 500 WEST</description><Point><coordinates>-111.890514, 40.898820</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/16/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: UTAH, DAVIS, KAYSVILLE, 170 200 W 47</description><Point><coordinates>-111.941928, 41.037634</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/26/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: UTAH, DAVIS, WOODS CROSS, 440 1730 SOUTH W 8</description><Point><coordinates>-111.890838, 40.872806</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

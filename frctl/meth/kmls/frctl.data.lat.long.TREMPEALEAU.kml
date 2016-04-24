@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 9/2/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WEST VIRGINIA, TREMPEALEAU, BLAIR, 34022 URLAIN N RD</description><Point><coordinates>-80.454903, 38.597626</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/25/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WISCONSIN, TREMPEALEAU, GALESVILLE, 23727 COX W RD</description><Point><coordinates>-91.391154, 44.049210</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

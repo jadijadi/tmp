@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 11/15/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, STEPHENSON, FREEPORT, 1279 WEST LOGAN STREET</description><Point><coordinates>-89.644336, 42.291404</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/5/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, STEPHENSON, FREEPORT, 225 D AVENUE</description><Point><coordinates>-89.649879, 42.305232</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/18/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, STEPHENSON, FREEPORT, 116 N GREEN</description><Point><coordinates>-89.627567, 42.297325</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

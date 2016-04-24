@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/30/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, RICHLAND, CALHOUN, 1532 NORTH SHELL</description><Point><coordinates>-88.003625, 38.626706</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/23/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, RICHLAND, DUNDAS, 2809 EAST LIBERTY LANE</description><Point><coordinates>-88.166536, 38.839583</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/16/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, RICHLAND, NOBLE, 3402 NORTH GLENWOOD ROAD</description><Point><coordinates>-88.257530, 38.694015</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/16/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, RICHLAND, OLNEY, 208 WEST N</description><Point><coordinates>-88.094437, 38.732779</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/26/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, RICHLAND, OLNEY, 330 WALNUT N</description><Point><coordinates>-88.085250, 38.732830</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/15/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, RICHLAND, OLNEY, 1002 EAST CHESTNUT STREET</description><Point><coordinates>-88.073179, 38.729946</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/9/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, RICHLAND, OLNEY, 6724 EAST MONTCLARE STREET</description><Point><coordinates>-87.988753, 38.706750</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/29/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, RICHLAND, OLNEY, 6720 EAST ELBOW LANE</description><Point><coordinates>-87.988071, 38.643811</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/10/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, RICHLAND, OLNEY, 203 WEST NORTH AVENUE</description><Point><coordinates>-88.086181, 38.726409</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/13/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, RICHLAND, OLNEY, 4375 EAST KINCADE</description><Point><coordinates>-88.095265, 38.763458</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/4/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, RICHLAND, OLNEY, 220 S GRANT</description><Point><coordinates>-88.072047, 38.729149</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/4/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, RICHLAND, OLNEY, 720 E LAFAYETTE</description><Point><coordinates>-88.074955, 38.723314</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/10/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, RICHLAND, OLNEY, 515 N WASHINGTON</description><Point><coordinates>-88.074797, 38.735425</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/15/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH DAKOTA, RICHLAND, COLFAX, 6675 164 SE AVE</description><Point><coordinates>-96.988592, 46.442317</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/4/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, RICHLAND, MANSFIELD, 460.5 NORTH STEWART ROAD</description><Point><coordinates>-82.474634, 40.768941</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/1/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, RICHLAND, MANSFIELD, 173  GORDON PLACE   BOX 1/2</description><Point><coordinates>-82.508530, 40.767865</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/10/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, RICHLAND, MANSFIELD, 185 S FRANKLIN STREET</description><Point><coordinates>-82.513240, 40.753287</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/19/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, RICHLAND, MANSFIELD, 479  WAYNE STREET</description><Point><coordinates>-82.507029, 40.771179</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/28/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, RICHLAND, BLYTHEWOOD, 817  SWYGERT ROAD</description><Point><coordinates>-81.028604, 34.164704</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/3/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, RICHLAND, BLYTHEWOOD, 348  GROVER WILSON ROAD</description><Point><coordinates>-80.901555, 34.256817</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/17/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, RICHLAND, BLYTHEWOOD, 1229  ANDREW JACKSON ROAD</description><Point><coordinates>-81.056881, 34.206109</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/3/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, RICHLAND, COLUMBIA, 25  BUXTON DRIVE</description><Point><coordinates>-80.911089, 34.127732</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/7/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, RICHLAND, COLUMBIA, 1326  BRENNEN ROAD A</description><Point><coordinates>-80.973386, 34.002411</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

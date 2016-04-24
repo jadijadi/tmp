@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 9/15/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, CHESTERFIELD, CHESTERFIELD, 310 WILBERT DONAHUE RD</description><Point><coordinates>-80.299568, 34.648898</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/4/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, CHESTERFIELD, CHESTERFIELD, 4965 WEST JACKSON ROAD</description><Point><coordinates>-80.133875, 34.800152</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/17/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, CHESTERFIELD, LANDRUM, 4971 WEST JACKSON ROAD</description><Point><coordinates>-82.103987, 35.189062</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/15/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, CHESTERFIELD, MCBEE, 75 HELMS LN</description><Point><coordinates>-80.255903, 34.469042</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/23/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, CHESTERFIELD, PAGELAND, 511  HATCHERY ROAD</description><Point><coordinates>-80.347296, 34.739634</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/14/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, CHESTERFIELD, PAGELAND, 998 EAST MAYNARD STREET</description><Point><coordinates>-80.374501, 34.772958</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/12/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, CHESTERFIELD, PATRICK, 100  BBB CIRCLE</description><Point><coordinates>-80.064309, 34.559156</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/21/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, CHESTERFIELD, MATOACA, 21619  STUART AVENUE</description><Point><coordinates>-77.480077, 37.227935</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

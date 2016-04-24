@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/16/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, KINGS, HANFORD, 11111 9 3/4 AVENUE</description><Point><coordinates>-119.628848, 36.311741</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/21/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, KINGS, UNINCORPORATED CITY, 6260 BARSTOW AVE</description><Point><coordinates>-119.417932, 36.778261</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/26/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, KINGS, BROOKLYN, 181 BAY 28TH STREET</description><Point><coordinates>-73.998888, 40.599033</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

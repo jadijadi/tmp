@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/3/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, COWETA, NEWNAN, 23 HILL E ST</description><Point><coordinates>-84.773882, 33.352017</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, COWETA, NEWNAN, 65 FULLER GORDON RD</description><Point><coordinates>-84.866914, 33.462024</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/15/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, COWETA, NEWNAN, 7 MURPHY E ST</description><Point><coordinates>-84.771272, 33.351728</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/1/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, COWETA, NEWNAN, 24 REBEL ROAD</description><Point><coordinates>-84.861641, 33.297526</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

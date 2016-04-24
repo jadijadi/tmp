@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 12/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, IOWA, AMANA, 5204 C ST</description><Point><coordinates>-91.850671, 41.810286</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/8/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, IOWA, HOMESTEAD, 4301 V STREET</description><Point><coordinates>-91.877220, 41.761221</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/20/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, IOWA, MARENGO, 723  HILTON</description><Point><coordinates>-92.059487, 41.798569</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/18/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, IOWA, WILLIAMSBURG, 550 HAWKEYE DR 7</description><Point><coordinates>-92.009729, 41.681110</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

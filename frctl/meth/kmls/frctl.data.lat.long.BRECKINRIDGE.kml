@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/18/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, BRECKINRIDGE, CLOVERPORT, 410 VEREDEN STREET</description><Point><coordinates>-86.639648, 37.832113</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/24/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, BRECKINRIDGE, HARDINSBURG, 107 KINGSWOOD CEMETARY RD</description><Point><coordinates>-86.409679, 37.716826</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/31/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, BRECKINRIDGE, IRVINGTON, 230 WOODLAWN N AVE</description><Point><coordinates>-86.285233, 37.883080</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/6/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, BRECKINRIDGE, LEITCHFIELD, 650 MERCER BEND ROAD</description><Point><coordinates>-86.332642, 37.595712</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/10/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, BRECKINRIDGE, MCDANIELS, 831 CAMBRONS POINT ROAD</description><Point><coordinates>-86.424978, 37.606723</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/21/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, BRECKINRIDGE, WEBSTER, 445  JACK CHAPPELL LANE</description><Point><coordinates>-86.336997, 37.935525</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/24/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, BRECKINRIDGE, WESTVIEW, 431 WILSONS WILDERNESS</description><Point><coordinates>-86.429838, 37.670863</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

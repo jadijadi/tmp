@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/15/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, SEMINOLE, ALTAMONTE SPRINGS, 224 WEST S.R. 436</description><Point><coordinates>-81.391752, 28.661412</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/17/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, SEMINOLE, ALTAMONTE SPRINGS, 911  GREAT BEND CIRCLE</description><Point><coordinates>-81.398965, 28.682130</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, SEMINOLE, CASSELBERRY, 1875 CASSELWOOD ST</description><Point><coordinates>-81.308667, 28.615290</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/12/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, SEMINOLE, CHULUOTA, 561 EAST 3RD STREET</description><Point><coordinates>-81.117858, 28.644450</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/12/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, SEMINOLE, GENEVA, 2330  WACCASSA STREET</description><Point><coordinates>-81.079937, 28.770076</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/27/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, SEMINOLE, LAKE MARY, LAKE MARY BLVD AND RIDGE DRIVE</description><Point><coordinates>-81.296670, 28.756419</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/26/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, SEMINOLE, SANFORD, 8 CARRIAGE COVE WAY</description><Point><coordinates>-81.277407, 28.751311</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/17/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, SEMINOLE, SANFORD, 3827  ELDER SPRINGS CIRCLE</description><Point><coordinates>-81.276378, 28.752388</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/1/2016</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, SEMINOLE, SANFORD, 1206  LIMESTONE RUN</description><Point><coordinates>-81.327221, 28.791825</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/26/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, SEMINOLE, WINTER PARK, 298 LEWIFIELD CIRCLE</description><Point><coordinates>-82.791213, 27.839747</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/20/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, SEMINOLE, DONALSONVILLE, 8170 HILL DR APT</description><Point><coordinates>-84.849813, 30.776608</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/8/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, SEMINOLE, DONALSONVILLE, 2078  SOUTHSIDE DRIVE</description><Point><coordinates>-84.853973, 30.804000</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/18/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, SEMINOLE, EARLSBORO, 12310 NORTH 152ND AVENUE</description><Point><coordinates>-96.670573, 35.224520</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/23/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, SEMINOLE, KONAWA, 12310  N 152ND E AVE</description><Point><coordinates>-96.752796, 34.959526</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/26/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, SEMINOLE, KONAWA, 19024 TRACY E RD</description><Point><coordinates>-96.752796, 34.959526</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/8/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, SEMINOLE, SASAKWA, 18644 95TH E</description><Point><coordinates>-96.525289, 34.948695</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/20/2000</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, SEMINOLE, SEMINOLE, 3045 ALLEN POINT   20</description><Point><coordinates>-96.670573, 35.224520</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

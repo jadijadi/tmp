@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/13/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, SAMPSON, AUTRYVILLE, 1434 HAYNES STRETCH ROAD</description><Point><coordinates>-78.581874, 34.971958</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/27/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, SAMPSON, AUTRYVILLE, 3786  AUTRYVILLE ROAD</description><Point><coordinates>-78.598081, 35.014516</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/23/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, SAMPSON, AUTRYVILLE, 1920  LEROY AUTRY ROAD</description><Point><coordinates>-78.584384, 35.037546</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/30/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, SAMPSON, CLINTON, 210 HOG HOUSE LANE</description><Point><coordinates>-78.371889, 35.121280</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/21/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, SAMPSON, CLINTON, 4851 HOBBTON HIGHWAY</description><Point><coordinates>-78.326507, 35.072015</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/23/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, SAMPSON, CLINTON, 8130 NORTH 421 HIGHWAY</description><Point><coordinates>-78.346134, 35.020005</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/21/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, SAMPSON, CLINTON, 79  JUNK YARD LANE</description><Point><coordinates>-78.347609, 35.096229</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/11/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, SAMPSON, CLINTON, 735  FAISON HIGHWAY</description><Point><coordinates>-78.300629, 35.010552</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/16/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, SAMPSON, CLINTON, 2411  HUNTER ROAD</description><Point><coordinates>-78.293313, 35.145996</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/2/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, SAMPSON, CLINTON, 100  BURGESS LANE</description><Point><coordinates>-78.273923, 34.992757</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/19/2016</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, SAMPSON, CLINTON, 3105  Highway 421</description><Point><coordinates>-78.356316, 35.037375</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/14/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, SAMPSON, DUNN, 74 LEWIS ILEY TEW RD</description><Point><coordinates>-78.555280, 35.250925</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/19/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, SAMPSON, DUNN, 17 ELMORE ROAD</description><Point><coordinates>-78.545896, 35.236063</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/30/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, SAMPSON, DUNN, 2376 LEE CHAPEL CHURCH ROAD</description><Point><coordinates>-78.536265, 35.267928</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/26/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, SAMPSON, DUNN, 1770 EUGENE JERNIGAN ROAD</description><Point><coordinates>-78.578888, 35.235014</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/14/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, SAMPSON, DUNN, 95  ARTESIAN SPRING LANE</description><Point><coordinates>-78.423276, 35.250129</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/12/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, SAMPSON, DUNN, 95  ARTESIAN SPRING LANE</description><Point><coordinates>-78.423276, 35.250129</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/24/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, SAMPSON, FAISON, 9230 FAISON HWY</description><Point><coordinates>-78.217040, 35.105275</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/10/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, SAMPSON, GODWIN, 81 GALE LANE</description><Point><coordinates>-79.019300, 35.759573</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/20/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, SAMPSON, NEWTON GROVE, 987 KENAN WEEKS RD</description><Point><coordinates>-78.312467, 35.191381</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/16/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, SAMPSON, NEWTON GROVE, 1560  JUNIPER ROAD</description><Point><coordinates>-78.376582, 35.171020</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/23/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, SAMPSON, ROSEBORO, 166  MANDOLIN LANE</description><Point><coordinates>-78.441550, 34.969110</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/5/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, SAMPSON, ROSEBORO, 214  WOODLAND LANE</description><Point><coordinates>-78.558497, 34.936132</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, SAMPSON, SALEMBURG, 565 FANN SCHOOL RD</description><Point><coordinates>-78.499363, 35.091992</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/29/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, SAMPSON, TURKEY, 3328 CABIN MUSEUM ROAD</description><Point><coordinates>-78.195692, 35.037515</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

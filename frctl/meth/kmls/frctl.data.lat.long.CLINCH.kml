@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/12/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, CLINCH, ARGYLE, 3074  JESSIE STEEDLEY HIGHWAY</description><Point><coordinates>-82.648473, 31.074100</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/3/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, CLINCH, HOMERVILLE, 211 PINEVIEW AVE</description><Point><coordinates>-82.742364, 31.032799</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/26/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, CLINCH, HOMERVILLE, 55 MCCASHIN DR</description><Point><coordinates>-82.747085, 31.036598</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

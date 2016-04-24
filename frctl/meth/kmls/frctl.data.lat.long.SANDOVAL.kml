@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/13/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW MEXICO, SANDOVAL, BERNALILLO, 1249 CAMINO DEL PUEBLO</description><Point><coordinates>-106.552561, 35.297815</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/29/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW MEXICO, SANDOVAL, BERNALILLO, 907  CALLE LAGUNA</description><Point><coordinates>-106.556885, 35.304825</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW MEXICO, SANDOVAL, RIO RANCHO, 550 VANCOUVER SE RD</description><Point><coordinates>-106.731066, 35.248668</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/17/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW MEXICO, SANDOVAL, RIO RANCHO, 3424 19TH SE AVE</description><Point><coordinates>-106.667429, 35.224721</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW MEXICO, SANDOVAL, RIO RANCHO, 4515 ARROWHEAD RIDGE SE D</description><Point><coordinates>-106.646578, 35.255883</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/23/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW MEXICO, SANDOVAL, RIO RANCHO, 2608 THE AMERICAN NW RD</description><Point><coordinates>-106.659063, 35.212883</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/31/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW MEXICO, SANDOVAL, RIO RANCHO, 1385 SUNSET SE RD</description><Point><coordinates>-106.708470, 35.259741</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/16/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW MEXICO, SANDOVAL, RIO RANCHO, 6979 CLARK HILLS NE DR</description><Point><coordinates>-106.595679, 35.340712</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/9/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW MEXICO, SANDOVAL, RIO RANCHO, 938 SOUTHWEST SUNFLOWER</description><Point><coordinates>-106.737184, 35.242716</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/7/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW MEXICO, SANDOVAL, RIO RANCHO, 1861 SOUTHEAST CARINA COU</description><Point><coordinates>-106.698968, 35.248354</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/29/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW MEXICO, SANDOVAL, RIO RANCHO, 2001 NORTHEAST EUCALYPTU</description><Point><coordinates>-106.644265, 35.288864</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

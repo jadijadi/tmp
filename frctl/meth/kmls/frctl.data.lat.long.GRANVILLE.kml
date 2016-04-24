@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/9/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, GRANVILLE, BULLOCK, 4110  BUCKHORN ROAD</description><Point><coordinates>-78.538895, 36.491021</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/7/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, GRANVILLE, OXFORD, 6694  MATT CURRIN DRIVE</description><Point><coordinates>-78.570099, 36.386129</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/7/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, GRANVILLE, OXFORD, 7005  MATT CURRIN DRIVE</description><Point><coordinates>-78.571694, 36.388480</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/6/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, GRANVILLE, STEM, 3147 BROGDEN RD</description><Point><coordinates>-78.720064, 36.179781</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/22/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, GRANVILLE, YOUNGSVILLE, 574 WOODLAND CHURCH RD</description><Point><coordinates>-78.562700, 36.039636</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

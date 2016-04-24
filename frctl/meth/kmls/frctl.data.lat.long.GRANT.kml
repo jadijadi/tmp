@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/27/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, GRANT, HENSLEY, 2227 GRANT 53</description><Point><coordinates>-92.351835, 34.473240</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/4/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, GRANT, LEOLA, 608 MAIN ST</description><Point><coordinates>-92.591147, 34.172288</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/23/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, GRANT, SHERIDAN, 1320 270 E HWY</description><Point><coordinates>-92.417613, 34.311978</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, GRANT, SHERIDAN, 205 46 HWY</description><Point><coordinates>-92.385673, 34.309355</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/17/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, GRANT, SHERIDAN, 1338 GRANT C.R. 13</description><Point><coordinates>-92.420385, 34.193344</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, GRANT, SHERIDAN, 100 TWIN OAKS DR 1</description><Point><coordinates>-92.420087, 34.311959</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/3/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, GRANT, SHERIDAN, 4632 GRANT 58</description><Point><coordinates>-92.245936, 34.351249</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/6/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, GRANT, SHERIDAN, 4055 NORTH HWY 35</description><Point><coordinates>-92.399406, 34.252959</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/22/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, GRANT, SHERIDAN, 2227 GRANT 53</description><Point><coordinates>-92.350870, 34.464912</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/23/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, GRANT, SHERIDAN, 280 GRANT 52</description><Point><coordinates>-92.357340, 34.450901</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/11/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, GRANT, FAIRMOUNT, 118 NORTH WALNUT STREET</description><Point><coordinates>-85.574381, 40.409764</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/29/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, GRANT, FAIRMOUNT, 504  LOCKERBIE PLACE</description><Point><coordinates>-85.654524, 40.380698</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/18/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, GRANT, MARION, 1421 NORTH BOOTS STREET</description><Point><coordinates>-85.660696, 40.570341</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/22/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, GRANT, MARION, 514 EAST 7TH STREET</description><Point><coordinates>-85.656143, 40.555088</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/23/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, GRANT, MARION, 214 EAST 4TH STREET</description><Point><coordinates>-85.658360, 40.557860</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/23/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, GRANT, MARION, 332 EAST GRANT STREET</description><Point><coordinates>-85.655890, 40.562915</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/30/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, GRANT, MARION, 1313 NORTH CARROLL STREET</description><Point><coordinates>-85.652654, 40.577615</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/25/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, GRANT, MARION, 619 WEST 3RD STREET  BOX UNIT 103</description><Point><coordinates>-85.666720, 40.558330</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/11/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, GRANT, UPLAND, 957  HOPE B</description><Point><coordinates>-85.492320, 40.465787</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/6/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, GRANT, UPLAND, 319 EAST 6TH STREET</description><Point><coordinates>-85.491799, 40.386235</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/25/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, GRANT, UPLAND, 282 EAST BERRY AVENUE D</description><Point><coordinates>-85.493463, 40.466233</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/29/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, GRANT, CORINTH, 1550 OWENTON RD</description><Point><coordinates>-84.595787, 38.485263</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/7/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, GRANT, CORINTH, 340 MCFARLAND DRIVE</description><Point><coordinates>-84.576994, 38.503601</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/7/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, GRANT, CRITTENDEN, 150 EAST HARLAN STREET 5</description><Point><coordinates>-84.603449, 38.780774</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/4/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, GRANT, CRITTENDEN, 4060  GARDNERSVILLE RD</description><Point><coordinates>-84.555762, 38.774891</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/2/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, GRANT, DRY RIDGE, 3220 KELLY</description><Point><coordinates>-84.598337, 38.749586</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/3/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, GRANT, DRY RIDGE, 255  RIDGE ROAD 2</description><Point><coordinates>-84.527758, 38.684009</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/11/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, GRANT, DRY RIDGE, 195  GOUGE DRIVE</description><Point><coordinates>-84.584320, 38.722950</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/31/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, GRANT, JONESVILLE, 14415 JONESVILLE RD</description><Point><coordinates>-84.776624, 38.636806</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/4/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, GRANT, JONESVILLE, 310 WHITE CHAPEL</description><Point><coordinates>-84.775503, 38.639789</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/6/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: LUISIANA, GRANT, COLFAX, 20 LARRY BAXLEY RD</description><Point><coordinates>-92.595788, 31.533323</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/1/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: LUISIANA, GRANT, DRY PRONG, 1137 1241 HWY</description><Point><coordinates>-92.523681, 31.447163</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/17/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: LUISIANA, GRANT, DRY PRONG, 876 HUDSON CREEK RD</description><Point><coordinates>-92.533562, 31.453578</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/20/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: LUISIANA, GRANT, DRY PRONG, 433 SLAYTER NICHOLS RD</description><Point><coordinates>-92.604808, 31.574037</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/29/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: LUISIANA, GRANT, POLLOCK, 114 ALLEN RD</description><Point><coordinates>-92.397787, 31.549084</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/7/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MINNESOTA, GRANT, ELBOW LAKE, 1411 STATE 79 E HWY LOT 9</description><Point><coordinates>-95.961062, 45.992189</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/17/2000</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, GRANT, NASH, 708 KIOWA W</description><Point><coordinates>-98.050341, 36.666141</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/25/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH DAKOTA, GRANT, MILBANK, 404 JOHNSON E</description><Point><coordinates>-96.796492, 45.099522</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/25/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH DAKOTA, GRANT, MILBANK, 912 MIDDLE BROOK 6</description><Point><coordinates>-96.623147, 45.222598</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/14/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, GRANT, MOSES LAKE, 12037 HERITAGE LN</description><Point><coordinates>-119.235294, 47.084843</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/11/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, GRANT, MOSES LAKE, 4647 STAR DR</description><Point><coordinates>-119.302734, 47.151088</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/26/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, GRANT, SOAP LAKE, 19415 DIVISION N RD</description><Point><coordinates>-119.489777, 47.375465</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/12/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WISCONSIN, GRANT, CUBA CITY, 515 NORTH MAIN STREET</description><Point><coordinates>-90.430942, 42.611038</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/13/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WISCONSIN, GRANT, LIVINGSTON, 410 WEST JACKSON STREET 2C</description><Point><coordinates>-90.431016, 42.898029</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

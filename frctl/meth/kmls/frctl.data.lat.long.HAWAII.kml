@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 9/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: HAWAII, HAWAII, HAWI, 15-2676 MAIKOIKO ST</description><Point><coordinates>-155.832778, 20.241389</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/15/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: HAWAII, HAWAII, HONOLULU, 823 PELTIER</description><Point><coordinates>-157.903831, 21.341676</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: HAWAII, HAWAII, PAHOA, 15-2676 MAIKOIKO ST</description><Point><coordinates>-154.908225, 19.548417</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

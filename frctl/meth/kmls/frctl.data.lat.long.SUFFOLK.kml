@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/8/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, SUFFOLK, FARMINGVILLE, 187 BERKSHIRE DR</description><Point><coordinates>-73.027015, 40.836770</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/22/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, SUFFOLK, PATCHOGUE, 124 MAPLE AVENUE</description><Point><coordinates>-73.012104, 40.770881</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/12/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, SUFFOLK, RIDGE, 15 TARKILL TRAIL</description><Point><coordinates>-74.005941, 40.712784</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/6/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, SUFFOLK, STONY BROOK, 188 SYCAMORE CIRCLE</description><Point><coordinates>-73.108259, 40.891182</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

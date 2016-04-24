@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/20/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MACON, NOTASULGA, 320 MAIN E ST</description><Point><coordinates>-85.669963, 32.560614</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/4/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, MACON, BIBB CITY, 2649 ST CLARA DRIVE</description><Point><coordinates>-83.632402, 32.840695</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/20/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, MACON, MARSHALLVILLE, 8468  AKRON ROAD</description><Point><coordinates>-83.940186, 32.456262</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/20/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, MACON, DECATUR, 1621 EAST CLEVELAND STREET</description><Point><coordinates>-88.934963, 39.831403</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/7/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, MACON, DECATUR, 108 NORTH TIFFANY TERRACE</description><Point><coordinates>-88.913573, 39.894331</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/7/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, MACON, DECATUR, 1221 EAST MAIN</description><Point><coordinates>-88.939930, 39.841654</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, MACON, ATLANTA, 415 MARION W ST</description><Point><coordinates>-92.485059, 39.898251</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/25/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, MACON, FRANKLIN, 1729 CRAWFORD RD</description><Point><coordinates>-83.486475, 35.147629</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/6/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, MACON, FRANKLIN, 258 GREEN KNOB RD</description><Point><coordinates>-83.413849, 35.176113</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/25/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, MACON, FRANKLIN, 36  RALPH TAYLOR ROAD</description><Point><coordinates>-83.303131, 35.168012</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/8/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, MACON, FRANKLIN, 1111  LAKEEMORY ROAD</description><Point><coordinates>-83.369077, 35.207569</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/19/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, MACON, FRANKLIN, 323  EAST ROGERS ROAD</description><Point><coordinates>-83.353384, 35.180201</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/31/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, MACON, FRANKLIN, 36  RALPH TAYLOR ROAD</description><Point><coordinates>-83.303131, 35.168012</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/23/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, MACON, FRANKLIN, 400  ORCHARD VIEW DRIVE H</description><Point><coordinates>-83.396383, 35.162631</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

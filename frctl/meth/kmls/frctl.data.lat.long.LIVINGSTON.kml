@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/24/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, LIVINGSTON, LEDBETTER, 331 GOLDEN MEADOW DR</description><Point><coordinates>-88.511946, 37.042145</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: LUISIANA, LIVINGSTON, ALBANY, 34479 HWY 43 N</description><Point><coordinates>-90.585206, 30.560505</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/21/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: LUISIANA, LIVINGSTON, DENHAM SPRINGS, 30905 BURGESS RD</description><Point><coordinates>-90.900680, 30.513696</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: LUISIANA, LIVINGSTON, DENHAM SPRINGS, 30262 ABEL ST</description><Point><coordinates>-90.920188, 30.491076</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/3/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: LUISIANA, LIVINGSTON, DENHAM SPRINGS, 12405 BRANDON AVE</description><Point><coordinates>-90.904092, 30.424599</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/7/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: LUISIANA, LIVINGSTON, DENHAM SPRINGS, 21395 BONNIE</description><Point><coordinates>-90.865081, 30.381549</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/29/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: LUISIANA, LIVINGSTON, DENHAM SPRINGS, 10468  THIBODEAUX ROAD</description><Point><coordinates>-90.912864, 30.551190</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/17/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: LUISIANA, LIVINGSTON, DENHAM SPRINGS, 11124  JUDALON DRIVE</description><Point><coordinates>-90.902611, 30.505639</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/10/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: LUISIANA, LIVINGSTON, DENHAM SPRINGS, 412  EDGEWOOD DRIVE 12</description><Point><coordinates>-90.949011, 30.474694</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/10/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: LUISIANA, LIVINGSTON, DENHAM SPRINGS, 412  EDGEWOOD DRIVE 12</description><Point><coordinates>-90.949011, 30.474694</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: LUISIANA, LIVINGSTON, HOLDEN, 25080 DORIS HUTCHINSON RD</description><Point><coordinates>-90.666247, 30.541051</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/1/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: LUISIANA, LIVINGSTON, HOLDEN, 26195 PIERSON RD</description><Point><coordinates>-90.647738, 30.511233</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/1/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: LUISIANA, LIVINGSTON, HOLDEN, 25414A ONELLION ROAD</description><Point><coordinates>-90.664083, 30.540396</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/27/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: LUISIANA, LIVINGSTON, LIVINGSTON, 12030 FLORIDA BLVD</description><Point><coordinates>-90.772542, 30.503081</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/30/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: LUISIANA, LIVINGSTON, LIVINGSTON, 17045 RANDELL DR</description><Point><coordinates>-90.803009, 30.488475</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: LUISIANA, LIVINGSTON, SPRINGFIELD, 30058 LEMN LN 2</description><Point><coordinates>-90.548701, 30.429082</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/6/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: LUISIANA, LIVINGSTON, SPRINGFIELD, 25231 GILES RD</description><Point><coordinates>-90.561327, 30.436588</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/6/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: LUISIANA, LIVINGSTON, WALKER, 15640 SPRINGFIELD RD</description><Point><coordinates>-90.827671, 30.615152</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/6/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: LUISIANA, LIVINGSTON, WALKER, 16020  JUDGE DRIVE</description><Point><coordinates>-90.819640, 30.590192</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/11/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LIVINGSTON, CHILLICOTHE, 555 MOHAWK W 22</description><Point><coordinates>-93.551269, 39.818808</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/23/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LIVINGSTON, CHILLICOTHE, 508 WALNUT N ST</description><Point><coordinates>-93.556092, 39.792834</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/11/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LIVINGSTON, CHILLICOTHE, 929 ELM 1</description><Point><coordinates>-93.555636, 39.788024</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/11/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LIVINGSTON, CHILLICOTHE, 213 LIBERIA</description><Point><coordinates>-93.549808, 39.785071</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/15/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LIVINGSTON, CHILLICOTHE, 437  VINE STREET</description><Point><coordinates>-93.550127, 39.791512</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/7/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, LIVINGSTON, DANSVILLE, 6432 STONG HILL RD</description><Point><coordinates>-77.661723, 42.595874</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

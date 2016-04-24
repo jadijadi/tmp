@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 10/13/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, St. Joseph, GRANGER, 29771 CR 2</description><Point><coordinates>-86.038626, 41.753796</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/23/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, St. Joseph, MISHAWAKA, 515 MERIDIAN STREET</description><Point><coordinates>-86.200940, 41.656256</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/17/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, St. Joseph, MISHAWAKA, 220 WEST TENTH STREET</description><Point><coordinates>-86.182893, 41.653707</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/19/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, St. Joseph, MISHAWAKA, 11233 ARCHER STREET</description><Point><coordinates>-86.084318, 41.629557</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/20/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, St. Joseph, MISHAWAKA, 1530 SOUTH COBBLESTONE COURT</description><Point><coordinates>-86.153030, 41.644490</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/11/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, St. Joseph, SOUTH BEND, 60855 US 31 29</description><Point><coordinates>-86.252398, 41.615145</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, St. Joseph, SOUTH BEND, 138 ALTGELD E</description><Point><coordinates>-86.248146, 41.649754</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

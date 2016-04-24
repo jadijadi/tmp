@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/10/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, PEARL RIVER, CARRIERE, 93 OZONA ROAD</description><Point><coordinates>-89.664491, 30.580611</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/30/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, PEARL RIVER, CARRIERE, 463 WHITE CHAPPLE ROAD</description><Point><coordinates>-89.657212, 30.650039</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/1/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, PEARL RIVER, CARRIERE, 118  REESE ROAD</description><Point><coordinates>-89.612836, 30.601710</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/8/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, PEARL RIVER, CARRIERE, 42  OAKMONT DRIVE</description><Point><coordinates>-89.673425, 30.628865</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/7/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, PEARL RIVER, CARRIERE, 402  JOE SMITH ROAD</description><Point><coordinates>-89.657435, 30.690143</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, PEARL RIVER, PICAYUNE, 174 HARVEY BURKS</description><Point><coordinates>-89.755614, 30.588016</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/26/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, PEARL RIVER, PICAYUNE, 174 HARVEY BURKS RD</description><Point><coordinates>-89.755614, 30.588016</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/7/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, PEARL RIVER, PICAYUNE, 999 COOPER UNIT 224</description><Point><coordinates>-89.650903, 30.544832</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/5/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, PEARL RIVER, PICAYUNE, 133  LUTHER DAVIS ROAD</description><Point><coordinates>-89.711583, 30.504379</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, PEARL RIVER, POPLARVILLE, 55 BLACKBIRD RD</description><Point><coordinates>-89.476464, 30.780618</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, PEARL RIVER, POPLARVILLE, 17 KANDICE SUE RD</description><Point><coordinates>-89.598048, 30.750770</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/15/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, PEARL RIVER, POPLARVILLE, 67-B CHARLES MITCHELL</description><Point><coordinates>-89.595117, 30.768400</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/27/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, PEARL RIVER, POPLARVILLE, 30 JOHN AMACKER RD</description><Point><coordinates>-89.661217, 30.767043</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/6/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, PEARL RIVER, POPLARVILLE, 95 JEFF SMITH RD</description><Point><coordinates>-89.436633, 30.663868</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, PEARL RIVER, POPLARVILLE, 2091 HIGHWAY 53 S</description><Point><coordinates>-89.429611, 30.657141</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/18/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, PEARL RIVER, POPLARVILLE, 1375 JOHN AMACKER RD</description><Point><coordinates>-89.657830, 30.797857</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/20/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, PEARL RIVER, POPLARVILLE, 193 ROY BURGE ROAD</description><Point><coordinates>-89.466629, 30.819948</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/4/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, PEARL RIVER, POPLARVILLE, 144 FRANK SMITH ROAD</description><Point><coordinates>-89.635978, 30.764801</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/8/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, PEARL RIVER, POPLARVILLE, 9 CANEY FORD E</description><Point><coordinates>-89.439724, 30.762292</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/13/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, PEARL RIVER, POPLARVILLE, 98 WILDFLOWER LANE</description><Point><coordinates>-89.534231, 30.840186</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/9/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, PEARL RIVER, POPLARVILLE, 84  MCNEILL MCHENRY ROAD</description><Point><coordinates>-89.463250, 30.705996</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/17/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, PEARL RIVER, POPLARVILLE, 512 NORTH MAIN STREET</description><Point><coordinates>-89.535528, 30.853036</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/11/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, PEARL RIVER, POPLARVILLE, 2385  MCNEIL-STEEPHOLLOW ROAD</description><Point><coordinates>-89.466786, 30.699064</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/9/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, PEARL RIVER, POPLARVILLE, 2385  MCNEIL-STEEPHOLLOW ROAD</description><Point><coordinates>-89.466786, 30.699064</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/9/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, PEARL RIVER, POPLARVILLE, 2385  MCNEIL-STEEPHOLLOW ROAD</description><Point><coordinates>-89.466786, 30.699064</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/9/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, PEARL RIVER, POPLARVILLE, 2399  MCNEIL-STEEPHOLLOW ROAD</description><Point><coordinates>-89.464164, 30.700930</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/9/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, PEARL RIVER, POPLARVILLE, 2399  MCNEIL-STEEPHOLLOW ROAD</description><Point><coordinates>-89.464164, 30.700930</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

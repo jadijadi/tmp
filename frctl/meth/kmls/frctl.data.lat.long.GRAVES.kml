@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, GRAVES, BOAZ, 1754 STATE ROUTE 1684</description><Point><coordinates>-88.577380, 36.899025</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/6/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, GRAVES, BOAZ, 12401 HOPEWELL RD</description><Point><coordinates>-88.610585, 36.927912</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, GRAVES, FANCY FARM, 180 WILSON HILL RD</description><Point><coordinates>-88.821712, 36.722390</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/16/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, GRAVES, FULTON, 10890 ST RT 129 S</description><Point><coordinates>-84.270018, 37.839333</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, GRAVES, MAYFIELD, 1860 RT 80 E ST RM 103</description><Point><coordinates>-88.636715, 36.741723</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, GRAVES, MAYFIELD, 1452 RT 1213 S ST</description><Point><coordinates>-88.636715, 36.741723</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, GRAVES, MAYFIELD, 3365 RT 58 ST</description><Point><coordinates>-88.636715, 36.741723</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, GRAVES, MAYFIELD, 2971 DAVE MILLER RD</description><Point><coordinates>-88.516058, 36.743388</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/11/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, GRAVES, SYMSONIA, 285  SAWMILL RD.</description><Point><coordinates>-88.520048, 36.920326</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 8/7/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MINNESOTA, ISANTI, CAMBRIDGE, 560 CALHOUN PLACE</description><Point><coordinates>-93.220410, 45.577357</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/14/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MINNESOTA, ISANTI, ISANTI, 24782 LINCOLN N CT</description><Point><coordinates>-93.238982, 45.421016</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/7/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MINNESOTA, ISANTI, ISANTI, 28625 LAKEWOOD DR</description><Point><coordinates>-93.339329, 45.488172</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/1/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MINNESOTA, ISANTI, ISANTI, 102 SOUTH DAHLIN AVENUE</description><Point><coordinates>-93.245370, 45.490125</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/29/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MINNESOTA, ISANTI, ISANTI, 3982 NORTHWEST 253RD STREET</description><Point><coordinates>-93.367516, 45.428208</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

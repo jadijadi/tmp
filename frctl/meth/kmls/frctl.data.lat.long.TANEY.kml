@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/23/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, TANEY, BRANSON, 3400 76 W HWY 216</description><Point><coordinates>-93.285357, 36.639109</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/13/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, TANEY, BRANSON, 153 HOPE ST</description><Point><coordinates>-93.208402, 36.642539</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, TANEY, BRANSON, 616 DARIA DR</description><Point><coordinates>-93.218514, 36.643673</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, TANEY, BRANSON, 3005 76 W HWY 311</description><Point><coordinates>-93.275974, 36.638231</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/17/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, TANEY, BRANSON, 5435 248 W HWY</description><Point><coordinates>-93.274736, 36.731634</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/18/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, TANEY, BRANSON, 626 THISTLE ROAD</description><Point><coordinates>-93.200580, 36.671584</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/1/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, TANEY, FORSYTH, 595 CONCORD AVE</description><Point><coordinates>-83.952732, 33.188538</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/23/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, TANEY, FORSYTH, 532 STATE HIGHWAY T</description><Point><coordinates>-93.125670, 36.733490</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/7/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, TANEY, HOLLISTER, 506 OLD MILL RD</description><Point><coordinates>-93.213384, 36.616256</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/16/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, TANEY, HOLLISTER, 476 SHELTON DR</description><Point><coordinates>-93.215883, 36.535261</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/11/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, TANEY, HOLLISTER, 192 MOUNTAIN VIEW TRAIL</description><Point><coordinates>-93.276485, 36.557742</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/14/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, TANEY, RIDGEDALE, 4086 RIDGEDALE RD</description><Point><coordinates>-93.244876, 36.525898</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, TANEY, RIDGEDALE, 208 BRUNSWICK RD</description><Point><coordinates>-93.228286, 36.500456</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/22/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, TANEY, RIDGEDALE, 182 5TH AVE</description><Point><coordinates>-93.310696, 36.527212</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/5/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, TANEY, TANEYVILLE, 444 7TH STREET</description><Point><coordinates>-93.033413, 36.736814</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/27/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, TANEY, WALNUT SHADE, 6657 160 W HWY</description><Point><coordinates>-93.220233, 36.748342</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

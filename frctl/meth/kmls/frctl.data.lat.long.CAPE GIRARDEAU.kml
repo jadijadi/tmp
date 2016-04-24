@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 8/17/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CAPE GIRARDEAU, CAPE GIRARDEAU, 35 FREDERICK N</description><Point><coordinates>-89.525406, 37.305036</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CAPE GIRARDEAU, CAPE GIRARDEAU, 1033 MIDDLE N</description><Point><coordinates>-89.522501, 37.317646</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/13/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CAPE GIRARDEAU, CAPE GIRARDEAU, 1531 GOOD HOPE ST</description><Point><coordinates>-89.539735, 37.300778</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/30/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CAPE GIRARDEAU, CAPE GIRARDEAU, 509 ALBERT</description><Point><coordinates>-89.546333, 37.299087</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/14/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CAPE GIRARDEAU, CAPE GIRARDEAU, 1927 NORTH KINGSHIGHWAY 20</description><Point><coordinates>-89.580286, 37.333188</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/2/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CAPE GIRARDEAU, CAPE GIRARDEAU, 2598B COUNTY ROAD 227</description><Point><coordinates>-89.708371, 37.267931</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/4/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CAPE GIRARDEAU, CAPE GIRARDEAU, 614 TERRY LANE</description><Point><coordinates>-89.549823, 37.314876</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/17/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CAPE GIRARDEAU, CAPE GIRARDEAU, 808 SOUTH SPRIGG STREET</description><Point><coordinates>-89.528372, 37.292520</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/3/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CAPE GIRARDEAU, CAPE GIRARDEAU, 3334  STATE HIGHWAY F</description><Point><coordinates>-89.575616, 37.302325</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/3/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CAPE GIRARDEAU, CAPE GIRARDEAU, 3655  STATE HIGHWAY F</description><Point><coordinates>-89.587007, 37.303291</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/21/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CAPE GIRARDEAU, CAPE GIRARDEAU, 3439  WILLIAM</description><Point><coordinates>-89.585929, 37.301050</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/8/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CAPE GIRARDEAU, CAPE GIRARDEAU, 1927  KINGSHIGHWAY</description><Point><coordinates>-89.580286, 37.333188</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/20/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CAPE GIRARDEAU, CAPE GIRARDEAU, 1124  COUSIN STREET</description><Point><coordinates>-89.534502, 37.298882</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/11/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CAPE GIRARDEAU, CAPE GIRARDEAU, 1119  BLOOMFIELD</description><Point><coordinates>-89.534288, 37.299251</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/13/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CAPE GIRARDEAU, CAPE GIRARDEAU, 600  TIMON WAY</description><Point><coordinates>-89.515514, 37.331663</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/26/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CAPE GIRARDEAU, CAPE GIRARDEAU, 1467  KINGSWAY DRIVE</description><Point><coordinates>-89.563040, 37.328363</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/16/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CAPE GIRARDEAU, CAPE GIRARDEAU, 1024  WEST MOUNT</description><Point><coordinates>-89.562337, 37.321291</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/10/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CAPE GIRARDEAU, CAPE GIRARDEAU, 2830  WHITENER STREET BOX 3</description><Point><coordinates>-89.563606, 37.309838</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/10/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CAPE GIRARDEAU, JACKSON, 2627 MANSFIELD</description><Point><coordinates>-89.636747, 37.385442</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/24/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CAPE GIRARDEAU, JACKSON, 1334 CR 468</description><Point><coordinates>-89.748211, 37.427794</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CAPE GIRARDEAU, OAK RIDGE, 154 RED PINE LN</description><Point><coordinates>-89.731289, 37.501848</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CAPE GIRARDEAU, PERRYVILLE, 730 MAIN N ST</description><Point><coordinates>-89.518148, 37.305884</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CAPE GIRARDEAU, PERRYVILLE, 1116 GRAND AVE</description><Point><coordinates>-89.878744, 37.728842</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CAPE GIRARDEAU, PERRYVILLE, 2654 MISSOURI 51 N D</description><Point><coordinates>-89.559151, 37.348190</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/29/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CAPE GIRARDEAU, PERRYVILLE, 15 SHELBY S</description><Point><coordinates>-89.518148, 37.305884</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/25/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CAPE GIRARDEAU, , 525  COUNTY ROAD</description><Point><coordinates>-89.546455, 37.503798</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

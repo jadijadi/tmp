@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/28/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, SAC, EARLY, 2650  IRA AVENUE</description><Point><coordinates>-95.186824, 42.409721</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

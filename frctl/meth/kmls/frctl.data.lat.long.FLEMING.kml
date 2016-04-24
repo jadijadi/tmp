@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 12/26/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, FLEMING, EWING, 3147 NORTH MT. TABOR ROAD</description><Point><coordinates>-83.933853, 38.432689</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/3/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, FLEMING, WALLINGFORD, 720 SPRING STREET</description><Point><coordinates>-83.583377, 38.414475</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/13/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, FLEMING, WALLINGFORD, 1859  SUGAR TREE ROAD</description><Point><coordinates>-83.501346, 38.384512</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

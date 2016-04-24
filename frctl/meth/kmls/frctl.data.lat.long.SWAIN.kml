@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/1/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, SWAIN, BRYSON CITY, 530 JENKINS BRANCH</description><Point><coordinates>-83.455106, 35.409166</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, SWAIN, BRYSON CITY, 8814 ALARKA RD</description><Point><coordinates>-83.391469, 35.337718</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/30/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, SWAIN, BRYSON CITY, 25 RATHBONE DRIVE</description><Point><coordinates>-83.408664, 35.416256</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/28/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, SWAIN, BRYSON CITY, 50  HILLSIDE ROAD</description><Point><coordinates>-83.468906, 35.380472</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/11/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, SWAIN, CHEROKEE, 240  SOGGY HILL ROAD</description><Point><coordinates>-83.271020, 35.550264</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/7/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, SWAIN, WHITTIER, 170  WHITTIER DEPOT STREET</description><Point><coordinates>-83.361213, 35.434730</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/29/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, SWAIN, WHITTIER, 4511  CONLEYS CREEK ROAD</description><Point><coordinates>-83.345739, 35.381270</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

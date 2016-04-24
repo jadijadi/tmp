@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/27/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, POSEY, CYNTHIANA, 10652 MAIN ST</description><Point><coordinates>-87.713472, 38.187608</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/14/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, POSEY, EVANSVILLE, 11800 DENZER ROAD</description><Point><coordinates>-87.701579, 38.028511</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/25/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, POSEY, GRIFFIN, 9501 GRIFFIN ROAD</description><Point><coordinates>-87.911100, 38.178905</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/5/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, POSEY, MOUNT VERNON, 3320 LOWER NEW HARMONY RD</description><Point><coordinates>-87.952627, 37.989270</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/28/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, POSEY, MOUNT VERNON, 3980 HWY 69 S HWY</description><Point><coordinates>-87.896276, 37.980657</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/7/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, POSEY, MOUNT VERNON, 1411 O'DONELL RD LOT 27</description><Point><coordinates>-87.911926, 37.936209</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/8/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, POSEY, MOUNT VERNON, 2711 GRADDY ROAD</description><Point><coordinates>-87.976825, 37.824091</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/30/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, POSEY, MOUNT VERNON, 10032 WOLFINGER ROAD</description><Point><coordinates>-87.735234, 37.948917</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/1/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, POSEY, MOUNT VERNON, 3931 DAVIS ROAD</description><Point><coordinates>-87.775464, 37.980771</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/10/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, POSEY, MOUNT VERNON, 1409 O'DONNELL STREET</description><Point><coordinates>-87.911891, 37.936210</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/28/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, POSEY, MOUNT VERNON, 2003 MACKEY FERRY ROAD LOT 3</description><Point><coordinates>-87.919916, 37.922277</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/12/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, POSEY, MOUNT VERNON, 3921 DAVIS ROAD</description><Point><coordinates>-87.775464, 37.980771</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/14/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, POSEY, MOUNT VERNON, 411 WEST 8TH STREET</description><Point><coordinates>-87.901674, 37.935058</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/22/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, POSEY, MOUNT VERNON, 209  LOCUST G</description><Point><coordinates>-87.891369, 37.931218</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/29/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, POSEY, MOUNT VERNON, 221  NETTLETON</description><Point><coordinates>-87.904087, 37.928547</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/15/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, POSEY, MOUNT VERNON, 2705  GRADDY ROAD</description><Point><coordinates>-87.978926, 37.819499</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/4/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, POSEY, MOUNT VERNON, 811  ZOAR CHURCH ROAD</description><Point><coordinates>-87.942431, 37.892603</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/10/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, POSEY, MOUNT VERNON, 5412  UPTON COURT</description><Point><coordinates>-87.960616, 37.959917</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/6/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, POSEY, MT VERNON, 1019  E 2ND</description><Point><coordinates>-87.883295, 37.933172</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/24/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, POSEY, NEW HARMONY, 10002  BETHSAIDA CHURCH ROAD</description><Point><coordinates>-87.864594, 38.185698</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/6/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, POSEY, POSEYVILLE, 6910 MIDWAY DRIVE</description><Point><coordinates>-87.789044, 38.139300</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 11/24/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, POSEY, WADESVILLE, 10617 DOWNEN ROAD</description><Point><coordinates>-87.722878, 38.047590</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/8/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, POSEY, WINSLOW, 7449  STATE ROAD 56</description><Point><coordinates>-86.128587, 38.605661</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

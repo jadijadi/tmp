@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/18/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, CLARKE, CLARKE, 641 RURAL ROAD</description><Point><coordinates>-86.902298, 32.318231</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/15/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, CLARKE, JACKSON, 302 DUBASE LANE</description><Point><coordinates>-87.921977, 31.539917</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/7/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, CLARKE, OSCEOLA, 314 VALE S</description><Point><coordinates>-93.775221, 41.031283</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/14/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, CLARKE, OSCEOLA, 263 MANOR DR</description><Point><coordinates>-93.756322, 41.020516</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/11/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, CLARKE, OSCEOLA, 322 MAIN N ST</description><Point><coordinates>-93.765700, 41.038203</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/3/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, CLARKE, OSCEOLA, 1888 OSAGE ST</description><Point><coordinates>-93.848456, 41.110686</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/19/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, CLARKE, OSCEOLA, 425  TEMPLE</description><Point><coordinates>-93.770468, 41.029891</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/22/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, CLARKE, OSCEOLA, 217 EAST WEBSTER STREET 1</description><Point><coordinates>-93.762716, 41.036704</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 7/27/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, CLARKE, OSCEOLA, 616 NORTH PARK STREET</description><Point><coordinates>-93.764275, 41.041366</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, CLARKE, MERIDIAN, 262 TANNER LN</description><Point><coordinates>-88.753560, 32.191565</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/13/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, CLARKE, QUITMAN, 232  CR 5110</description><Point><coordinates>-88.657308, 32.038191</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        
