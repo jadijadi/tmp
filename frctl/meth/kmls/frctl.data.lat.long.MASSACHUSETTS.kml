@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 10/8/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MASSACHUSETTS, ESSEX, AMESBURY, 22  LINWOOD PLACE</description><Point><coordinates>-70.930519, 42.859823</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/3/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MASSACHUSETTS, ESSEX, GLOUCESTER, 18 TAYLOR ST</description><Point><coordinates>-70.655984, 42.617291</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 12/17/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MASSACHUSETTS, ESSEX, HAVERHILL, 127  WNTER STREET  BOX</description><Point><coordinates>-71.077280, 42.776201</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/7/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MASSACHUSETTS, ESSEX, LYNN, 8 NASH TERRACE</description><Point><coordinates>-70.972048, 42.464138</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/11/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MASSACHUSETTS, MIDDLESEX, CHELMSFORD, 56 GROTON RD</description><Point><coordinates>-71.388333, 42.638734</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/8/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MASSACHUSETTS, MIDDLESEX, FRAMINGHAM, 70 HOWE STREET</description><Point><coordinates>-71.403690, 42.288841</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/4/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MASSACHUSETTS, MIDDLESEX, LOWELL, 800 BROADWAY 7</description><Point><coordinates>-71.332254, 42.642103</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/10/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MASSACHUSETTS, WEBSTER, SPRINGHILL, 278 SMITHVILLE RD</description><Point><coordinates>-93.415568, 32.975389</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/4/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MASSACHUSETTS, WORCESTER, SOUTHBRIDGE, 148  HAMILTON STREET BOX</description><Point><coordinates>-72.034643, 42.078936</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

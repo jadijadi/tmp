@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/11/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MARYLAND, BALTIMORE, WOODSTOCK, 10600  DAVIS AVENUE</description><Point><coordinates>-76.852225, 39.332158</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/5/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MARYLAND, CAROLINE, DENTON, 25595 GAREY RD</description><Point><coordinates>-75.815433, 38.917654</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/12/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MARYLAND, CARROLL, MOUNT AIRY, 1206 LOCKSLEY DRIVE</description><Point><coordinates>-77.128769, 39.375383</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/10/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MARYLAND, CECIL, ELKTON, 36 ST. MICHAELS LN</description><Point><coordinates>-75.874151, 39.604119</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/11/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MARYLAND, GARRETT, FRIENDSVILLE, 643 NEWTON SAVAGE RD</description><Point><coordinates>-79.476963, 39.614976</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/2/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MARYLAND, ST. MARY'S, LEXINGTON PARK, 23195 EAST TWO CREEK</description><Point><coordinates>-76.465772, 38.339931</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/20/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MARYLAND, WASHINGTON, HAGERSTOWN, 118  SUNDOWN COURT BOX 1D</description><Point><coordinates>-77.683016, 39.607425</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        
