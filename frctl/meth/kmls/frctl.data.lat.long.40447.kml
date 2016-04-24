@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 4/4/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, JACKSON, ANNVILLE, 693 HILLARD ROAD</description><Point><coordinates>-83.979968, 37.334139</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/4/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, JACKSON, ANNVILLE, 693 HILLARD ROAD</description><Point><coordinates>-83.979968, 37.334139</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, JACKSON, GRAY HAWK, 148 D YOUNG S RD</description><Point><coordinates>-83.945851, 37.382861</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/23/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, JACKSON, GRAY HAWK, 100 D YOUNG RD</description><Point><coordinates>-83.945851, 37.382861</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/25/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, JACKSON, MC KEE, 2049  CATALPA LOOP</description><Point><coordinates>-83.997983, 37.430364</coordinates></Point></Placemark>

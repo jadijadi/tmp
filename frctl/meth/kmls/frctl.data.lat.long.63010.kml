@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, JEFFERSON, ARNOLD, 3610 OUTER W RD 310</description><Point><coordinates>-90.390708, 38.414563</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, JEFFERSON, ARNOLD, 3610 OUTER W RD 310</description><Point><coordinates>-90.390708, 38.414563</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, JEFFERSON, ARNOLD, 1471 HILL DR</description><Point><coordinates>-90.404988, 38.448422</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, JEFFERSON, ARNOLD, 2494 STARLING AIRPORT RD</description><Point><coordinates>-90.351942, 38.443069</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/17/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, JEFFERSON, ARNOLD, 102 FRISCO ST</description><Point><coordinates>-90.341212, 38.450553</coordinates></Point></Placemark>

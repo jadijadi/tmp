@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 4/26/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, PIERCE, BONNEY LAKE, 24316 EAST 117TH STREET</description><Point><coordinates>-122.105178, 47.150401</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/26/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, PIERCE, BONNEY LAKE, 24316 EAST 117TH STREET</description><Point><coordinates>-122.105178, 47.150401</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/3/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, PIERCE, BUCKLEY, 25215 149TH E ST</description><Point><coordinates>-122.098063, 47.120076</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/11/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, PIERCE, BUCKLEY, 22406 112TH E ST</description><Point><coordinates>-122.131924, 47.154698</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/30/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, PIERCE, BUCKLEY, 11408 243RD AVENUE</description><Point><coordinates>-122.104911, 47.153248</coordinates></Point></Placemark>

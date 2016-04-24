@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, WHITFIELD, DALTON, 204 CEDAR RIDGE RD</description><Point><coordinates>-84.888156, 34.775151</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, WHITFIELD, DALTON, 204 CEDAR RIDGE RD</description><Point><coordinates>-84.888156, 34.775151</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, WHITFIELD, DALTON, 407 WILLIAMS RD</description><Point><coordinates>-84.961103, 34.841876</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, WHITFIELD, DALTON, 1021 GROVE ST</description><Point><coordinates>-84.897318, 34.814194</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/14/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, WHITFIELD, DALTON, 1265 DAWNVILLE ROAD</description><Point><coordinates>-84.886931, 34.819043</coordinates></Point></Placemark>

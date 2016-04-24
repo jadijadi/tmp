@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 4/30/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, LAUREL, EAST BERNSTADT, 2153  FARRIS JONES ROAD</description><Point><coordinates>-84.082467, 37.228745</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/30/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, LAUREL, EAST BERNSTADT, 2153  FARRIS JONES ROAD</description><Point><coordinates>-84.082467, 37.228745</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, LAUREL, LONDON, 109 SYCAMORE</description><Point><coordinates>-84.089186, 37.129826</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, LAUREL, LONDON, 2845 HAWK CREEK ROAD</description><Point><coordinates>-84.203679, 37.189626</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/16/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, LAUREL, LONDON, 274 NEW SALEM RD</description><Point><coordinates>-83.987963, 37.162904</coordinates></Point></Placemark>

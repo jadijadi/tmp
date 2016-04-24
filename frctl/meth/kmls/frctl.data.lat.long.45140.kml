@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 12/23/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, CLERMONT, GOSHEN, 22 HOLLY LN</description><Point><coordinates>-84.201426, 39.225889</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 12/23/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, CLERMONT, GOSHEN, 22 HOLLY LN</description><Point><coordinates>-84.201426, 39.225889</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/23/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, CLERMONT, LOVELAND, 6731 OAKLAND RD</description><Point><coordinates>-84.206394, 39.233682</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/19/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, CLERMONT, LOVELAND, 6685 OAKLAND ROAD</description><Point><coordinates>-84.200832, 39.229223</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/13/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, CLERMONT, LOVELAND, 6521 ARBORCREST ROAD</description><Point><coordinates>-84.280876, 39.240033</coordinates></Point></Placemark>

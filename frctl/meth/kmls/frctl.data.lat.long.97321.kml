@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/5/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, LINN, ALBANY, 1150 SOUTHEAST SALEM AVENUE</description><Point><coordinates>-123.090568, 44.637277</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/5/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, LINN, ALBANY, 1150 SOUTHEAST SALEM AVENUE</description><Point><coordinates>-123.090568, 44.637277</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/6/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, LINN, ALBANY, 325 SOUTHEAST MAIN STREET</description><Point><coordinates>-123.091542, 44.637059</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/5/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, LINN, ALBANY, 3007 ALEXANDER LANE</description><Point><coordinates>-123.067303, 44.686840</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/21/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, LINN, ALBANY, 3410 SW PACIFIC BOULEVARD</description><Point><coordinates>-123.113911, 44.609200</coordinates></Point></Placemark>

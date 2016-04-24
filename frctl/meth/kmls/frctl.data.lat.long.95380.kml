@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 4/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, STANISLAUS, TURLOCK, 6407 MITCHELL RD</description><Point><coordinates>-120.944874, 37.432205</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, STANISLAUS, TURLOCK, 6407 MITCHELL RD</description><Point><coordinates>-120.944874, 37.432205</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/29/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, STANISLAUS, TURLOCK, 1625 LARKSPUR ST</description><Point><coordinates>-120.830256, 37.490442</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, STANISLAUS, TURLOCK, 265 IRONWOOD</description><Point><coordinates>-120.846552, 37.477647</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, STANISLAUS, TURLOCK, 357 E OLIVE AVE</description><Point><coordinates>-120.845276, 37.496576</coordinates></Point></Placemark>

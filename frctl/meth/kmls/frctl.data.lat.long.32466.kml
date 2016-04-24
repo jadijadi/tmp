@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/20/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, BAY, PANAMA CITY, 6011 JAYCEE DR</description><Point><coordinates>-85.553074, 30.313554</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/20/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, BAY, PANAMA CITY, 6011 JAYCEE DR</description><Point><coordinates>-85.553074, 30.313554</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/14/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, BAY, YOUNGSTOWN, 9723 BEAR ST</description><Point><coordinates>-85.548000, 30.325553</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/24/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, BAY, YOUNGSTOWN, 6011 JAYCEE DR</description><Point><coordinates>-85.554273, 30.316374</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/7/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, BAY, YOUNGSTOWN, 8519 FREESE ROAD</description><Point><coordinates>-85.438280, 30.366866</coordinates></Point></Placemark>

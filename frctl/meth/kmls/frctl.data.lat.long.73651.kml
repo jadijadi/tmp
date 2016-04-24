@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 12/13/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, KIOWA, HOBART, 300 FRANTZ S</description><Point><coordinates>-99.093132, 35.029501</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 12/13/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, KIOWA, HOBART, 300 FRANTZ S</description><Point><coordinates>-99.093132, 35.029501</coordinates></Point></Placemark>
 
         </Document>
         </kml>

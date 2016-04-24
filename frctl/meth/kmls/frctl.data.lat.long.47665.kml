@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/11/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, GIBSON, OWENSVILLE, 416 MAIN ST</description><Point><coordinates>-87.691435, 38.268835</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/11/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, GIBSON, OWENSVILLE, 416 MAIN ST</description><Point><coordinates>-87.691435, 38.268835</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/6/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, GIBSON, OWENSVILLE, CR 1050 W 495</description><Point><coordinates>-87.762164, 38.252983</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/30/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, GIBSON, OWENSVILLE, 12900  CAVALIER</description><Point><coordinates>-87.687804, 38.271989</coordinates></Point></Placemark>
 

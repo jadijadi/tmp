@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, BOWIE, TEXARKANA, 3805 PANST ST</description><Point><coordinates>-94.096978, 33.391484</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, BOWIE, TEXARKANA, 3805 PANST ST</description><Point><coordinates>-94.096978, 33.391484</coordinates></Point></Placemark>
 
         </Document>
         </kml>

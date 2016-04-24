@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 9/15/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, ROCK ISLAND, MILAN, 211 EAST FOURTH STREET</description><Point><coordinates>-90.561422, 41.451490</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 9/15/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, ROCK ISLAND, MILAN, 211 EAST FOURTH STREET</description><Point><coordinates>-90.561422, 41.451490</coordinates></Point></Placemark>
 
         </Document>
         </kml>

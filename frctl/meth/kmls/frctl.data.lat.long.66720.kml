@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 4/13/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, NEOSHO, CHANUTE, 21418 HARPER RD</description><Point><coordinates>-95.397205, 37.679647</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/13/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, NEOSHO, CHANUTE, 21418 HARPER RD</description><Point><coordinates>-95.397205, 37.679647</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/15/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, NEOSHO, CHANUTE, 16TH  SANTA FE STREETS</description><Point><coordinates>-95.452507, 37.664673</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/5/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, NEOSHO, CHANUTE, 190 NORTH GREENWOOD</description><Point><coordinates>-95.406745, 37.703915</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/10/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, NEOSHO, CHANUTE, 620 WEST MAIN STREET</description><Point><coordinates>-95.462132, 37.681844</coordinates></Point></Placemark>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/21/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, JOHNSON, FLAT GAP, 1092 BARN ROCK RD</description><Point><coordinates>-82.887386, 37.934257</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/21/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, JOHNSON, FLAT GAP, 1092 BARN ROCK RD</description><Point><coordinates>-82.887386, 37.934257</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/27/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, JOHNSON, REDBUSH, 11528 KY ROUTE 172</description><Point><coordinates>-82.919483, 37.922240</coordinates></Point></Placemark>
 
         </Document>

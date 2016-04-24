@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/7/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WEST VIRGINIA, KANAWHA, DUNBAR, 400 WILSON AVE</description><Point><coordinates>-81.746384, 38.380423</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/7/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WEST VIRGINIA, KANAWHA, DUNBAR, 400 WILSON AVE</description><Point><coordinates>-81.746384, 38.380423</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WEST VIRGINIA, KANAWHA, DUNBAR, 860 DUTCH HOLLOW RD</description><Point><coordinates>-81.743457, 38.371865</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/12/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WEST VIRGINIA, KANAWHA, DUNBAR, 2701 FAIRLAWN AVE 56</description><Point><coordinates>-81.750106, 38.371819</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/17/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WEST VIRGINIA, KANAWHA, DUNBAR, 1352 DUTCH HOLLOW RD</description><Point><coordinates>-81.737519, 38.391723</coordinates></Point></Placemark>

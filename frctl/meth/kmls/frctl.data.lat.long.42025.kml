@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 10/21/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, MARSHALL, BENTON, 2318 MURRAY HWY</description><Point><coordinates>-88.323799, 36.789131</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 10/21/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, MARSHALL, BENTON, 2318 MURRAY HWY</description><Point><coordinates>-88.323799, 36.789131</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/13/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, MARSHALL, BENTON, 18 PIN OAK DRIVE</description><Point><coordinates>-88.184460, 36.852838</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/4/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, MARSHALL, BENTON, 1308 POPLAR STREET</description><Point><coordinates>-88.349878, 36.855828</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/29/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, MARSHALL, BENTON, 322 HALE SPRINGS ROAD</description><Point><coordinates>-88.455866, 36.774415</coordinates></Point></Placemark>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 9/27/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, BROWN, FAYETTEVILLE, 4904 EUBANKS RD</description><Point><coordinates>-83.885712, 39.227171</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 9/27/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, BROWN, FAYETTEVILLE, 4904 EUBANKS RD</description><Point><coordinates>-83.885712, 39.227171</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/3/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, HIGHLAND, LYNCHBURG, 7730 SPICKARD RD</description><Point><coordinates>-83.746877, 39.221637</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/19/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, HIGHLAND, LYNCHBURG, 10642 HORSESHOE RD</description><Point><coordinates>-83.723092, 39.287095</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/23/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, HIGHLAND, LYNCHBURG, 10545 HORSE SHOE</description><Point><coordinates>-83.724269, 39.287173</coordinates></Point></Placemark>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/13/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, CRAWFORD, PITTSBURG, 609 9TH E</description><Point><coordinates>-94.696986, 37.416196</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/13/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, CRAWFORD, PITTSBURG, 609 9TH E</description><Point><coordinates>-94.696986, 37.416196</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, CRAWFORD, PITTSBURG, 1213 8TH E</description><Point><coordinates>-94.684394, 37.414932</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, CRAWFORD, PITTSBURG, 2601 NORTH JOPLIN STREET N6</description><Point><coordinates>-94.701799, 37.432254</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/13/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, CRAWFORD, PITTSBURG, 907 TAYLOR N</description><Point><coordinates>-94.691285, 37.416565</coordinates></Point></Placemark>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, SAINT LOUIS, MAPLEWOOD, 2572 WESTPOINT RD</description><Point><coordinates>-90.330288, 38.614080</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, SAINT LOUIS, MAPLEWOOD, 2572 WESTPOINT RD</description><Point><coordinates>-90.330288, 38.614080</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/17/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, SAINT LOUIS, MAPLEWOOD, 2109 BELLEVUE</description><Point><coordinates>-90.313448, 38.620005</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/23/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, ST. LOUIS, MAPLEWOOD, 2605  CIRCLE DRIVE</description><Point><coordinates>-90.329884, 38.613951</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/9/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, ST. LOUIS, MAPLEWOOD, 7446  LOHMEYER AVENUE</description><Point><coordinates>-90.321782, 38.614792</coordinates></Point></Placemark>

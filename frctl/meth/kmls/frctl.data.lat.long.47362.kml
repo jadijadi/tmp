@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 8/19/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, HENRY, NEW CASTLE, 1617 SOUTH MAIN STREET</description><Point><coordinates>-85.371047, 39.916245</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 8/19/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, HENRY, NEW CASTLE, 1617 SOUTH MAIN STREET</description><Point><coordinates>-85.371047, 39.916245</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/17/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, HENRY, NEW CASTLE, 722 NORTH 24TH STREET</description><Point><coordinates>-85.354789, 39.937121</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/28/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, HENRY, NEW CASTLE, 1609  IRVIN STREET</description><Point><coordinates>-85.373330, 39.916557</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/9/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, HENRY, NEW CASTLE, 2309 NORTH CHERRYWOOD</description><Point><coordinates>-85.366754, 39.910134</coordinates></Point></Placemark>

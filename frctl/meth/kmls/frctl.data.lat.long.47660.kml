@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/4/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, GIBSON, OAKLAND CITY, 214 MORTON W</description><Point><coordinates>-87.345316, 38.334089</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/4/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, GIBSON, OAKLAND CITY, 214 MORTON W</description><Point><coordinates>-87.345316, 38.334089</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/22/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, GIBSON, OAKLAND CITY, 411 LINCOLN N</description><Point><coordinates>-87.340269, 38.340088</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/22/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, GIBSON, OAKLAND CITY, 527 TRUSSLER W</description><Point><coordinates>-87.352946, 38.332861</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/23/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, GIBSON, OAKLAND CITY, 214 WEST MORTON STREET</description><Point><coordinates>-87.348435, 38.333909</coordinates></Point></Placemark>

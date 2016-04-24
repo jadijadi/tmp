@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 9/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, GRAINGER, RUTLEDGE, 228 JOHN FLORA RD</description><Point><coordinates>-83.447722, 36.262706</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 9/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, GRAINGER, RUTLEDGE, 228 JOHN FLORA RD</description><Point><coordinates>-83.447722, 36.262706</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/29/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, GRAINGER, RUTLEDGE, 319 SHADOW LN</description><Point><coordinates>-83.438851, 36.252319</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/31/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, GRAINGER, RUTLEDGE, 1326 ROCKY FLAT</description><Point><coordinates>-83.457944, 36.293629</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/26/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, GRAINGER, RUTLEDGE, 228 JOHN FLORA RD.</description><Point><coordinates>-83.447722, 36.262706</coordinates></Point></Placemark>

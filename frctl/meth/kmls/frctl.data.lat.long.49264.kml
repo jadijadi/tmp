@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 4/5/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, INGHAM, ONONDAGA, 5420 BELLEVUE RD</description><Point><coordinates>-84.556920, 42.451625</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/5/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, INGHAM, ONONDAGA, 5420 BELLEVUE RD</description><Point><coordinates>-84.556920, 42.451625</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/25/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, INGHAM, ONONDAGA, 4775  BALDWIN STREET</description><Point><coordinates>-84.561330, 42.442941</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/15/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, JACKSON, JACKSON, 13255 CLINTON ROAD</description><Point><coordinates>-84.564445, 42.380803</coordinates></Point></Placemark>
 

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 9/15/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, OTTAWA, MIAMI, 106 NORTH 1ST</description><Point><coordinates>-94.878866, 36.876242</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 9/15/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, OTTAWA, MIAMI, 106 NORTH 1ST</description><Point><coordinates>-94.878866, 36.876242</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/23/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, OTTAWA, MIAMI, 310 MAIN N</description><Point><coordinates>-94.877236, 36.879424</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/6/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, OTTAWA, MIAMI, 193 EAST 61201 ROAD</description><Point><coordinates>-94.877455, 36.874515</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/7/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, OTTAWA, MIAMI, 2230 WILLOW  LN</description><Point><coordinates>-94.858480, 36.901656</coordinates></Point></Placemark>

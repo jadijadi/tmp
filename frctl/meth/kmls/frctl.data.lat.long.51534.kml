@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 9/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, MILLS, GLENWOOD, 301 EBAUGH ST 4</description><Point><coordinates>-95.749693, 41.037584</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 9/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, MILLS, GLENWOOD, 301 EBAUGH ST 4</description><Point><coordinates>-95.749693, 41.037584</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/29/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, MILLS, GLENWOOD, 60193 240TH STREET</description><Point><coordinates>-95.727771, 41.012718</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/23/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, MILLS, GLENWOOD, 711 NORTH LINN STREET</description><Point><coordinates>-95.739189, 41.052737</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/4/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, MILLS, GLENWOOD, 608 SOUTH LOCUST STREET</description><Point><coordinates>-95.744711, 41.040207</coordinates></Point></Placemark>

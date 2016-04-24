@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 5/7/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CREEK, TULSA, 6121 SOUTH 45TH W AVENUE</description><Point><coordinates>-96.043244, 36.074646</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/7/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CREEK, TULSA, 6121 SOUTH 45TH W AVENUE</description><Point><coordinates>-96.043244, 36.074646</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/12/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CREEK, TULSA, 8418 SOUTH 36TH WEST AVENUE</description><Point><coordinates>-96.033583, 36.042056</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/25/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, TULSA, OAKHURST, 14489 26TH WEST S AVE</description><Point><coordinates>-96.021717, 36.046490</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/13/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, TULSA, TULSA, 2934 66TH W ST</description><Point><coordinates>-96.026299, 36.068054</coordinates></Point></Placemark>

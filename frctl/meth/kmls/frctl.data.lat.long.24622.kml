@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 9/11/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, TAZEWELL, JEWELL RIDGE, 1022  JEWELL MAIN MALL</description><Point><coordinates>-81.785181, 37.186273</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 9/11/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, TAZEWELL, JEWELL RIDGE, 1022  JEWELL MAIN MALL</description><Point><coordinates>-81.785181, 37.186273</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/11/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, TAZEWELL, JEWELL RIDGE, 509  JEWELL MAIN ROAD</description><Point><coordinates>-81.792290, 37.183920</coordinates></Point></Placemark>
 
         </Document>

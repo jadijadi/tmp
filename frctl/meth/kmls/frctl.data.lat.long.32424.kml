@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 6/29/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, CALHOUN, BLOUNTSTOWN, 19286 JIM DURHAM NE RD 17</description><Point><coordinates>-85.080649, 30.472530</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/29/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, CALHOUN, BLOUNTSTOWN, 19286 JIM DURHAM NE RD 17</description><Point><coordinates>-85.080649, 30.472530</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/17/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, CALHOUN, BLOUNTSTOWN, 18423 SR 20 WEST</description><Point><coordinates>-85.081460, 30.436416</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/5/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, CALHOUN, BLOUNTSTOWN, 21804 SR73 NORTH</description><Point><coordinates>-85.045195, 30.443529</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/8/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, CALHOUN, BLOUNTSTOWN, 20941 BAY NE ST</description><Point><coordinates>-85.040644, 30.473871</coordinates></Point></Placemark>

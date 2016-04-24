@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 7/6/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, ITAWAMBA, GOLDEN, 2436 ANTIOCH ROAD</description><Point><coordinates>-88.233293, 34.427716</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 7/6/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, ITAWAMBA, GOLDEN, 2436 ANTIOCH ROAD</description><Point><coordinates>-88.233293, 34.427716</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/18/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, ITAWAMBA, GOLDEN, 3639 MT. GILEAD RD</description><Point><coordinates>-88.261407, 34.335771</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/5/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, ITAWAMBA, GOLDEN, 2280 ANTIOCH CHURCH RD</description><Point><coordinates>-88.229771, 34.430876</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/1/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, ITAWAMBA, GOLDEN, 1063  WALKER CHURCH ROAD</description><Point><coordinates>-88.267262, 34.413675</coordinates></Point></Placemark>

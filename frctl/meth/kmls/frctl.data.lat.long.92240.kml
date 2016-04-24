@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, RIVERSIDE, DESERT HOT SPRINGS, 66366 6TH ST</description><Point><coordinates>-116.503722, 33.967135</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, RIVERSIDE, DESERT HOT SPRINGS, 66366 6TH ST</description><Point><coordinates>-116.503722, 33.967135</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/23/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, RIVERSIDE, DESERT HOT SPRINGS, 13255 MEXQUITE AVENUE</description><Point><coordinates>-116.497358, 33.952210</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/29/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, RIVERSIDE, DESERT HOT SPRINGS, 12155  OCOTILLO ROAD</description><Point><coordinates>-116.499298, 33.960257</coordinates></Point></Placemark>
 

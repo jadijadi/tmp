@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 4/6/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, GOGEBIC, IRONWOOD, 719 FLORENCE</description><Point><coordinates>-90.158690, 46.464003</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/6/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, GOGEBIC, IRONWOOD, 719 FLORENCE</description><Point><coordinates>-90.158690, 46.464003</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/8/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, GOGEBIC, IRONWOOD, 228 WEST AYER STREET 1</description><Point><coordinates>-90.172650, 46.453351</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/9/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, GOGEBIC, IRONWOOD, 229 SOUTH MANSFIELD STREET UPPER</description><Point><coordinates>-90.163498, 46.454982</coordinates></Point></Placemark>
 

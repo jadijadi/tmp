@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/1/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, POTTER, AMARILLO, 2345 13TH</description><Point><coordinates>-101.861837, 35.226890</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/1/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, POTTER, AMARILLO, 2345 13TH</description><Point><coordinates>-101.861837, 35.226890</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, POTTER, AMARILLO, 1419 12TH NW AVE</description><Point><coordinates>-101.852006, 35.225859</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/17/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, POTTER, AMARILLO, 706 HAYES N</description><Point><coordinates>-101.824043, 35.219271</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/14/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, POTTER, AMARILLO, 1330 DAHLIA</description><Point><coordinates>-101.769647, 35.229473</coordinates></Point></Placemark>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 5/24/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, ARAPAHOE, AURORA, 14500 EAST 2ND #A-304 AVENUE</description><Point><coordinates>-104.831919, 39.729432</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/24/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, ARAPAHOE, AURORA, 14500 EAST 2ND #A-304 AVENUE</description><Point><coordinates>-104.831919, 39.729432</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/11/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, DENVER, DENVER, 8199 WELBY RD 210A</description><Point><coordinates>-104.990251, 39.739236</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, EL PASO, FOUNTAIN, 11 SUNNY LAND LP</description><Point><coordinates>-104.700806, 38.682219</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, JEFFERSON, LAKEWOOD, 18997 KENDALL N ST</description><Point><coordinates>-105.066153, 39.701346</coordinates></Point></Placemark>

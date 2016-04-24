@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/29/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, YAMHILL, MCMINNVILLE, 514 NE 24TH ST</description><Point><coordinates>-123.193805, 45.225822</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/29/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, YAMHILL, MCMINNVILLE, 514 NE 24TH ST</description><Point><coordinates>-123.193805, 45.225822</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/20/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, YAMHILL, MCMINNVILLE, 528 EAST WASHINGTON STREET</description><Point><coordinates>-123.193794, 45.207722</coordinates></Point></Placemark>
 
         </Document>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, EFFINGHAM, EFFINGHAM, 101 HENRIETTA S AVE 1</description><Point><coordinates>-88.556448, 39.121943</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, EFFINGHAM, EFFINGHAM, 101 HENRIETTA S AVE 1</description><Point><coordinates>-88.556448, 39.121943</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, EFFINGHAM, EFFINGHAM, 602 5TH S</description><Point><coordinates>-88.543017, 39.117117</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/14/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, EFFINGHAM, EFFINGHAM, 15202 MONOCOT N ST</description><Point><coordinates>-88.591656, 39.138483</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, EFFINGHAM, EFFINGHAM, 602 5TH S</description><Point><coordinates>-88.543017, 39.117117</coordinates></Point></Placemark>

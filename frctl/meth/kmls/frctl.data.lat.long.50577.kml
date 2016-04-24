@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, HUMBOLDT, RENWICK, 512 KELLING ST</description><Point><coordinates>-93.979513, 42.828961</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, HUMBOLDT, RENWICK, 512 KELLING ST</description><Point><coordinates>-93.979513, 42.828961</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/13/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, KOSSUTH, LU VERNE, 3144 100TH ST</description><Point><coordinates>-94.026370, 42.907792</coordinates></Point></Placemark>
 
         </Document>

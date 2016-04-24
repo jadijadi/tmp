@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 4/21/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, JEFFERSON, LOUISVILLE, 9405 BURGOO KING</description><Point><coordinates>-85.874148, 38.117164</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/21/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, JEFFERSON, LOUISVILLE, 9405 BURGOO KING</description><Point><coordinates>-85.874148, 38.117164</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/19/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, JEFFERSON, LOUISVILLE, 8812 DUSTY WAY 74</description><Point><coordinates>-85.797798, 38.122266</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/4/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, JEFFERSON, LOUISVILLE, 7506 WIMSTOCK AVE</description><Point><coordinates>-85.902272, 38.064954</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/17/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, JEFFERSON, LOUISVILLE, 11607 TIERNEY AVENUE</description><Point><coordinates>-85.885193, 38.087859</coordinates></Point></Placemark>

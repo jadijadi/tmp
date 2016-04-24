@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, PIERCE, ROY, 101 358TH E ST</description><Point><coordinates>-122.429906, 46.931692</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, PIERCE, ROY, 101 358TH E ST</description><Point><coordinates>-122.429906, 46.931692</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/13/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, PIERCE, ROY, 34615 25TH S</description><Point><coordinates>-122.464428, 46.942352</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, PIERCE, ROY, 31500 48TH S AVE</description><Point><coordinates>-122.494377, 46.972252</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/5/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, PIERCE, ROY, 35807 48TH S AVE</description><Point><coordinates>-122.492385, 46.932216</coordinates></Point></Placemark>

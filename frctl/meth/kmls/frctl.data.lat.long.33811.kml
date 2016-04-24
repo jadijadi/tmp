@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/9/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, POLK, LAKELAND, 5034  FAIRFIELD COURT</description><Point><coordinates>-81.987741, 27.973900</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/9/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, POLK, LAKELAND, 5034  FAIRFIELD COURT</description><Point><coordinates>-81.987741, 27.973900</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/27/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, POLK, LAKELAND, 5103  IVYBROOK LANE</description><Point><coordinates>-82.009054, 27.972985</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/8/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, POLK, LAKELAND, 4430  OLD GOVERNMENT ROAD</description><Point><coordinates>-82.035953, 27.947662</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/19/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, POLK, LAKELAND, 4561  OLD GOVERNMENT ROAD</description><Point><coordinates>-82.038518, 27.949921</coordinates></Point></Placemark>

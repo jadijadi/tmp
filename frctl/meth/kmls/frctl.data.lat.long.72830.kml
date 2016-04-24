@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, JOHNSON, CLARKSVILLE, 712 JOHNSON N ST</description><Point><coordinates>-93.468289, 35.480632</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, JOHNSON, CLARKSVILLE, 712 JOHNSON N ST</description><Point><coordinates>-93.468289, 35.480632</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/23/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, JOHNSON, CLARKSVILLE, 409 TAYLOR 2</description><Point><coordinates>-93.466978, 35.469259</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/31/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, JOHNSON, CLARKSVILLE, 809 JOHNSON N ST</description><Point><coordinates>-93.468531, 35.482484</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/21/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, JOHNSON, CLARKSVILLE, 1825 BIG DANGER RD</description><Point><coordinates>-93.445125, 35.439296</coordinates></Point></Placemark>

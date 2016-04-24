@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 6/25/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, MILLER, ELDON, 1508 GRAND S AVE 7</description><Point><coordinates>-92.586742, 38.339004</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/25/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, MILLER, ELDON, 1508 GRAND S AVE 7</description><Point><coordinates>-92.586742, 38.339004</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/30/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, MILLER, ELDON, 800 LAKEVIEW DR</description><Point><coordinates>-92.569691, 38.277930</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/11/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, MILLER, ELDON, 504 OAK STREET</description><Point><coordinates>-92.600352, 38.226950</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/5/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, MILLER, ELDON, 202 Z HIGHWAY</description><Point><coordinates>-92.645214, 38.305547</coordinates></Point></Placemark>

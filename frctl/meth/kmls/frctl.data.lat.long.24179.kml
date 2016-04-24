@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 5/26/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, BEDFORD, VINTON, 1941  SHADY ROAD</description><Point><coordinates>-79.840688, 37.249424</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/26/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, BEDFORD, VINTON, 1941  SHADY ROAD</description><Point><coordinates>-79.840688, 37.249424</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/21/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, ROANOKE, VINTON, 109 WEST MADISON AVENUE A</description><Point><coordinates>-79.897923, 37.281447</coordinates></Point></Placemark>
 
         </Document>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/25/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, JACKSON, PASCAGOULA, 611 SARRAZIN AVE 6</description><Point><coordinates>-88.558399, 30.356506</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/25/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, JACKSON, PASCAGOULA, 611 SARRAZIN AVE 6</description><Point><coordinates>-88.558399, 30.356506</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/15/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, JACKSON, PASCAGOULA, 1208 POLK STREET</description><Point><coordinates>-88.552703, 30.359829</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/5/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, JACKSON, PASCAGOULA, 1907 PARSLEY DR</description><Point><coordinates>-88.544827, 30.348994</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/20/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, JACKSON, PASCAGOULA, 1813 12TH STREET 4</description><Point><coordinates>-88.541670, 30.353945</coordinates></Point></Placemark>

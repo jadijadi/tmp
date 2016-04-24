@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 5/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, WILLIAMSON, JOHNSTON CITY, 14161 BLINKLEY</description><Point><coordinates>-88.923488, 37.792843</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, WILLIAMSON, JOHNSTON CITY, 14161 BLINKLEY</description><Point><coordinates>-88.923488, 37.792843</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/8/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, WILLIAMSON, JOHNSTON CITY, 12833 WILLOW POND LN</description><Point><coordinates>-88.921550, 37.803988</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/17/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, WILLIAMSON, MARION, 1108 HENDERICKSON W</description><Point><coordinates>-88.937518, 37.722208</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, WILLIAMSON, MARION, 2100 MAIN W 351</description><Point><coordinates>-88.950657, 37.731049</coordinates></Point></Placemark>

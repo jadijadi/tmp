@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 6/5/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MADISON, ALEXANDRIA, 1141 NORTH PARK AVENUE 64</description><Point><coordinates>-85.669873, 40.274330</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/5/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MADISON, ALEXANDRIA, 1141 NORTH PARK AVENUE 64</description><Point><coordinates>-85.669873, 40.274330</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/4/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MADISON, ALEXANDRIA, 112 NORTH HARRISON STREET 6</description><Point><coordinates>-85.674658, 40.263213</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/13/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MADISON, ALEXANDRIA, 625 1/2 E ADAMS STREET STREET</description><Point><coordinates>-85.682826, 40.263579</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/6/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MADISON, ALEXANDRIA, 809 NORTH MINNESOTA AVENUE</description><Point><coordinates>-85.676006, 40.270067</coordinates></Point></Placemark>

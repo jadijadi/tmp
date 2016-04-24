@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/4/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, DUVAL, JACKSONVILLE, 13904 SOUTH PONDEROSA PINES DRIVE</description><Point><coordinates>-81.479788, 30.352903</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/4/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, DUVAL, JACKSONVILLE, 13904 SOUTH PONDEROSA PINES DRIVE</description><Point><coordinates>-81.479788, 30.352903</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/4/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, DUVAL, JACKSONVILLE, 1620 GATELY ROAD</description><Point><coordinates>-81.473735, 30.355383</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/12/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, DUVAL, JACKSONVILLE, 13230  ARBOR VITAE DRIVE</description><Point><coordinates>-81.460302, 30.322857</coordinates></Point></Placemark>
 

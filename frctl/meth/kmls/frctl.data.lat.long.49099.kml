@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/12/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, CASS, WHITE PIGEON, 76063 SOUTH RIVER ROAD</description><Point><coordinates>-85.795793, 41.759236</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/12/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, CASS, WHITE PIGEON, 76063 SOUTH RIVER ROAD</description><Point><coordinates>-85.795793, 41.759236</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/23/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, SAINT JOSEPH, WHITE PIGEON, 19013 FAWN RIVER RD LOT 7</description><Point><coordinates>-85.583743, 41.779883</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, SAINT JOSEPH, WHITE PIGEON, 10842 RIVERSIDE DR</description><Point><coordinates>-85.750528, 41.802086</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/14/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, SAINT JOSEPH, WHITE PIGEON, 69520 THOMAS ST</description><Point><coordinates>-85.750176, 41.787063</coordinates></Point></Placemark>

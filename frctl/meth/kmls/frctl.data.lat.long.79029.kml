@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 7/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, MOORE, DUMAS, 1005 DUMAS S AVE 4</description><Point><coordinates>-101.973032, 35.855037</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 7/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, MOORE, DUMAS, 1005 DUMAS S AVE 4</description><Point><coordinates>-101.973032, 35.855037</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, MOORE, DUMAS, 514 MADDOX S</description><Point><coordinates>-101.963983, 35.860209</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/15/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, MOORE, DUMAS, 208 PORTER S 5</description><Point><coordinates>-101.974777, 35.863885</coordinates></Point></Placemark>
 

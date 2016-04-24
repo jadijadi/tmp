@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 11/21/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BERRIEN, EAU CLAIRE, 6220  APPLE STREET</description><Point><coordinates>-86.306427, 41.986295</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 11/21/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BERRIEN, EAU CLAIRE, 6220  APPLE STREET</description><Point><coordinates>-86.306427, 41.986295</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/12/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BERRIEN, EAU CLAIRE, 5534  PARKWAY DRIVE</description><Point><coordinates>-86.323981, 42.075959</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/3/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BERRIEN, EAU CLAIRE, 5582  TOUSLEY DRIVE</description><Point><coordinates>-86.322845, 42.076869</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/22/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BERRIEN, EAU CLAIRE, 7076  BEAVER DRIVE</description><Point><coordinates>-86.286718, 41.984889</coordinates></Point></Placemark>

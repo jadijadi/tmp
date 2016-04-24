@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 12/17/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, JACKSON, LEES SUMMIT, 9718 HOWARD S RD</description><Point><coordinates>-94.289927, 38.939182</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 12/17/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, JACKSON, LEES SUMMIT, 9718 HOWARD S RD</description><Point><coordinates>-94.289927, 38.939182</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/24/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, JACKSON, LEES SUMMIT, 814 NORTHEAST CEDAR STREET</description><Point><coordinates>-94.362017, 38.941499</coordinates></Point></Placemark>
 
         </Document>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 7/28/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, ST. LOUIS (CITY), SAINT LOUIS, 300 NORTH 4TH STREET 2217</description><Point><coordinates>-90.186899, 38.627901</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 7/28/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, ST. LOUIS (CITY), SAINT LOUIS, 300 NORTH 4TH STREET 2217</description><Point><coordinates>-90.186899, 38.627901</coordinates></Point></Placemark>
 
         </Document>
         </kml>

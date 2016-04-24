@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 5/31/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, FRANKLIN, UNION, 1793 JUDITH SPRINGS RD</description><Point><coordinates>-91.042633, 38.453874</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/31/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, FRANKLIN, UNION, 1793 JUDITH SPRINGS RD</description><Point><coordinates>-91.042633, 38.453874</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/15/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, FRANKLIN, UNION, 9251 WHISKEY CREEK SPUR</description><Point><coordinates>-91.068585, 38.466406</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/27/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, FRANKLIN, UNION, 15 WOODLAND OAKS 7</description><Point><coordinates>-91.030602, 38.454729</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/21/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, FRANKLIN, UNION, 718 OAK S ST</description><Point><coordinates>-91.006573, 38.439397</coordinates></Point></Placemark>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/3/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, KERN, BAKERSFIELD, 3801  NEWCOMBE COURT</description><Point><coordinates>-119.044684, 35.315053</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/3/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, KERN, BAKERSFIELD, 3801  NEWCOMBE COURT</description><Point><coordinates>-119.044684, 35.315053</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/3/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, KERN, BAKERSFIELD, 3804  LA TONIA COURT</description><Point><coordinates>-119.043664, 35.310000</coordinates></Point></Placemark>
 
         </Document>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 4/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, BENTON, BENTONVILLE, 808 MAIN N ST</description><Point><coordinates>-94.208310, 36.381941</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, BENTON, BENTONVILLE, 808 MAIN N ST</description><Point><coordinates>-94.208310, 36.381941</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/21/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, BENTON, BENTONVILLE, 1207 CEDAR PL</description><Point><coordinates>-94.224051, 36.386638</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/24/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, BENTON, BENTONVILLE, 804 SOUTHEAST HUMMINGBIRD LANE</description><Point><coordinates>-94.201267, 36.351323</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/24/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, BENTON, BENTONVILLE, 404 NORTHWEST D STREET</description><Point><coordinates>-94.214154, 36.376728</coordinates></Point></Placemark>

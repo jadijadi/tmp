@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/8/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, CHRISTIAN, NORTONVILLE, 1701 MANNINGTON LOOP ROAD</description><Point><coordinates>-87.492037, 37.115563</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/8/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, CHRISTIAN, NORTONVILLE, 1701 MANNINGTON LOOP ROAD</description><Point><coordinates>-87.492037, 37.115563</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, HOPKINS, MORTONS GAP, 121 HOPKINSVILLE RD</description><Point><coordinates>-87.452142, 37.185470</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/27/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, HOPKINS, NORTONVILLE, 940 ILLEY SISK RD</description><Point><coordinates>-87.431307, 37.172976</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, HOPKINS, NORTONVILLE, 1045 RED HILL RD</description><Point><coordinates>-87.448615, 37.169713</coordinates></Point></Placemark>

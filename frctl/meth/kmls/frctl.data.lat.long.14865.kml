@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/21/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, SCHUYLER, DIX, 1741 GANO ROAD</description><Point><coordinates>-76.864759, 42.317882</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/21/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, SCHUYLER, DIX, 1741 GANO ROAD</description><Point><coordinates>-76.864759, 42.317882</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/3/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, SCHUYLER, MONTOUR FALLS, 148  CLAWSON BOULEVARD</description><Point><coordinates>-76.844585, 42.348420</coordinates></Point></Placemark>
 
         </Document>

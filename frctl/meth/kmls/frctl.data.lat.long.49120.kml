@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 9/24/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BERRIEN, NILES, 1010 FERRY STREET</description><Point><coordinates>-86.247419, 41.831489</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 9/24/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BERRIEN, NILES, 1010 FERRY STREET</description><Point><coordinates>-86.247419, 41.831489</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/7/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BERRIEN, NILES, 1027 HERBERT</description><Point><coordinates>-86.227782, 41.817427</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/14/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BERRIEN, NILES, 301 17TH STREET C</description><Point><coordinates>-86.234237, 41.830722</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/21/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BERRIEN, NILES, 902  OAK STREET</description><Point><coordinates>-86.249020, 41.826706</coordinates></Point></Placemark>

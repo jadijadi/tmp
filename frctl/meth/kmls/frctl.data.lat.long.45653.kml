@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/10/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, SCIOTO, MINFORD, 14384 STATE ROUTE 139</description><Point><coordinates>-82.805800, 38.874600</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/10/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, SCIOTO, MINFORD, 14384 STATE ROUTE 139</description><Point><coordinates>-82.805800, 38.874600</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/1/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, SCIOTO, MINFORD, 1307  SALEM ROAD</description><Point><coordinates>-82.834400, 38.882800</coordinates></Point></Placemark>
 
         </Document>

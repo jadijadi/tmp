@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 10/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, DYER, DYERSBURG, 1170 HWY 51 BY PASS 48</description><Point><coordinates>-89.407848, 36.044300</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 10/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, DYER, DYERSBURG, 1170 HWY 51 BY PASS 48</description><Point><coordinates>-89.407848, 36.044300</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/14/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, DYER, DYERSBURG, 56 STAGGS ST</description><Point><coordinates>-89.397999, 36.011739</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/11/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, DYER, DYERSBURG, 1175 MAIN S ST</description><Point><coordinates>-89.395760, 36.012876</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/5/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, DYER, DYERSBURG, 1140  HWY 51</description><Point><coordinates>-89.399468, 36.013263</coordinates></Point></Placemark>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 10/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, GRADY, CAIRO, 1006 SINGLETARY ROAD</description><Point><coordinates>-84.145589, 30.845033</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 10/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, GRADY, CAIRO, 1006 SINGLETARY ROAD</description><Point><coordinates>-84.145589, 30.845033</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/9/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, GRADY, CAIRO, 267 OAKLAND DRIVE</description><Point><coordinates>-84.247179, 30.813870</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/26/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, GRADY, CAIRO, 253 SUNSET LANE</description><Point><coordinates>-84.132514, 30.863217</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/18/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, GRADY, CAIRO, 3906 NORTH HWY 111 HIGHWAY</description><Point><coordinates>-84.255476, 30.807796</coordinates></Point></Placemark>

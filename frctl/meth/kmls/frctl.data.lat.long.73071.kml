@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/3/2000</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CLEVELAND, NORMAN, 906 QUANNAH PARKER TRAIL</description><Point><coordinates>-97.428846, 35.250301</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/3/2000</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CLEVELAND, NORMAN, 906 QUANNAH PARKER TRAIL</description><Point><coordinates>-97.428846, 35.250301</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/4/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CLEVELAND, NORMAN, 3490 SOUTH CLASSEN BOULEVARD</description><Point><coordinates>-97.413981, 35.175384</coordinates></Point></Placemark>
 
         </Document>

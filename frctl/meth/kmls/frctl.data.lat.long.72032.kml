@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/1/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, FAULKNER, CONWAY, 704 SECOND AVE</description><Point><coordinates>-92.426461, 35.089600</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/1/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, FAULKNER, CONWAY, 704 SECOND AVE</description><Point><coordinates>-92.426461, 35.089600</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/15/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, FAULKNER, CONWAY, 604 ROBINS E</description><Point><coordinates>-92.430914, 35.077338</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, FAULKNER, CONWAY, 29 MOORE LN</description><Point><coordinates>-92.407665, 35.015915</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/11/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, FAULKNER, CONWAY, 6 STARTER HILL RD</description><Point><coordinates>-92.391133, 35.029001</coordinates></Point></Placemark>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, MULTNOMAH, PORTLAND, 280 SE 28TH AVE C</description><Point><coordinates>-122.637264, 45.520805</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, MULTNOMAH, PORTLAND, 280 SE 28TH AVE C</description><Point><coordinates>-122.637264, 45.520805</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/2/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, MULTNOMAH, PORTLAND, 2045 SOUTHEAST ANKENY STREET</description><Point><coordinates>-122.644608, 45.522513</coordinates></Point></Placemark>
 
         </Document>

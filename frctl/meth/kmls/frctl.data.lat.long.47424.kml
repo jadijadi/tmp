@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 12/7/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, GREENE, BLOOMFIELD, 4747  E. STATE ROAD 58</description><Point><coordinates>-86.855612, 38.919824</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 12/7/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, GREENE, BLOOMFIELD, 4747  E. STATE ROAD 58</description><Point><coordinates>-86.855612, 38.919824</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/24/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, GREENE, BLOOMFIELD, 286 NORTH JUDGE STREET</description><Point><coordinates>-86.936385, 39.030108</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/29/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, GREENE, BLOOMFIELD, 123  COLD SPRINGS ROAD</description><Point><coordinates>-86.933777, 39.028697</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/7/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, GREENE, BLOOMFIELD, 227  JUDGE STREET</description><Point><coordinates>-86.936889, 39.024480</coordinates></Point></Placemark>

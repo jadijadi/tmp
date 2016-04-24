@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 5/14/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, WARREN, VICKSBURG, 1310 MULBERRY ST 210</description><Point><coordinates>-90.883859, 32.349546</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/14/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, WARREN, VICKSBURG, 1310 MULBERRY ST 210</description><Point><coordinates>-90.883859, 32.349546</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, WARREN, VICKSBURG, 300 RIDGEVIEW ACRES ROAD</description><Point><coordinates>-90.840936, 32.208218</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/5/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, WARREN, VICKSBURG, 360 COUNTRYSIDE RD</description><Point><coordinates>-90.793071, 32.289510</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/1/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, WARREN, VICKSBURG, 318 CAIN RIDGE ROAD</description><Point><coordinates>-90.883559, 32.304075</coordinates></Point></Placemark>

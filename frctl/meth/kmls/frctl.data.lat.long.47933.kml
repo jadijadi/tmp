@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MONTGOMERY, CRAWFORDSVILLE, 59 IMPERIAL DR</description><Point><coordinates>-86.892638, 40.023665</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MONTGOMERY, CRAWFORDSVILLE, 59 IMPERIAL DR</description><Point><coordinates>-86.892638, 40.023665</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MONTGOMERY, CRAWFORDSVILLE, 700 WAYNE AVE</description><Point><coordinates>-86.918091, 40.047672</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/25/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MONTGOMERY, CRAWFORDSVILLE, 311 1/2 GRANT ST</description><Point><coordinates>-86.904526, 40.044673</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/23/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MONTGOMERY, CRAWFORDSVILLE, 701 FRANKLIN E</description><Point><coordinates>-86.892844, 40.035935</coordinates></Point></Placemark>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 11/5/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, WASHINGTON, POTOSI, 1311 CASEY ST</description><Point><coordinates>-90.777898, 37.944189</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 11/5/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, WASHINGTON, POTOSI, 1311 CASEY ST</description><Point><coordinates>-90.777898, 37.944189</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/7/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, WASHINGTON, POTOSI, 12925 GILDEA RD</description><Point><coordinates>-90.797328, 37.801850</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/22/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, WASHINGTON, POTOSI, 901 NORTH STONE STREET</description><Point><coordinates>-90.780043, 37.940572</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/7/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, WASHINGTON, POTOSI, 109 WEST JEFFERSON STREET</description><Point><coordinates>-90.788858, 37.935312</coordinates></Point></Placemark>

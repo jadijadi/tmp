@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 5/27/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, CASS, MARCELLUS, 55234 DAY RD</description><Point><coordinates>-85.741890, 41.994615</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/27/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, CASS, MARCELLUS, 55234 DAY RD</description><Point><coordinates>-85.741890, 41.994615</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/14/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, CASS, MARCELLUS, 393 EAST MAIN STREET</description><Point><coordinates>-85.808467, 42.026955</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/30/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, CASS, MARCELLUS, 50346 SHELDON CREEK ROAD</description><Point><coordinates>-85.777497, 42.068238</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/18/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, CASS, MARCELLUS, 13784 WATERSTRADT STREET</description><Point><coordinates>-85.834298, 41.998087</coordinates></Point></Placemark>

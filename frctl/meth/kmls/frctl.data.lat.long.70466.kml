@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 11/30/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: LUISIANA, TANGIPAHOA, HAMMOND, 17086 TYCER LANE</description><Point><coordinates>-90.445852, 30.577547</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 11/30/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: LUISIANA, TANGIPAHOA, HAMMOND, 17086 TYCER LANE</description><Point><coordinates>-90.445852, 30.577547</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/29/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: LUISIANA, TANGIPAHOA, TICKFAW, 17010 HWY 442</description><Point><coordinates>-90.447925, 30.588904</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/14/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: LUISIANA, TANGIPAHOA, TICKFAW, 12537 CHAVERS LANE</description><Point><coordinates>-90.516689, 30.590818</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/7/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: LUISIANA, TANGIPAHOA, TICKFAW, 48089 WHISKEY LANE</description><Point><coordinates>-90.453038, 30.551533</coordinates></Point></Placemark>

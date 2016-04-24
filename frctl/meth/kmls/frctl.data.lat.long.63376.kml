@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/4/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, SAINT CHARLES, SAINT PETERS, 771 DEL RAY</description><Point><coordinates>-90.585096, 38.776863</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/4/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, SAINT CHARLES, SAINT PETERS, 771 DEL RAY</description><Point><coordinates>-90.585096, 38.776863</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/15/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, SAINT CHARLES, SAINT PETERS, 4008 WEST DR</description><Point><coordinates>-90.573001, 38.779426</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/1/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, SAINT CHARLES, SAINT PETERS, 318 DEPOT DR</description><Point><coordinates>-90.623396, 38.802793</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/3/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, SAINT CHARLES, SAINT PETERS, 112 MAIN ST</description><Point><coordinates>-90.626261, 38.801667</coordinates></Point></Placemark>

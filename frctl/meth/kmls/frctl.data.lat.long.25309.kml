@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/25/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WEST VIRGINIA, KANAWHA, CHARLESTON, 131 LUDE RD</description><Point><coordinates>-81.731393, 38.320143</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/25/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WEST VIRGINIA, KANAWHA, CHARLESTON, 131 LUDE RD</description><Point><coordinates>-81.731393, 38.320143</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/20/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WEST VIRGINIA, KANAWHA, CHARLESTON, 923 HEAVENLY DRIVE</description><Point><coordinates>-81.750473, 38.274568</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/28/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WEST VIRGINIA, KANAWHA, CHARLESTON, 79 SMITH CREEK ROAD</description><Point><coordinates>-81.808430, 38.339604</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/8/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WEST VIRGINIA, KANAWHA, SAINT ALBANS, 126 1/2 HUDSON VALLEY DRIVE</description><Point><coordinates>-81.771748, 38.325128</coordinates></Point></Placemark>

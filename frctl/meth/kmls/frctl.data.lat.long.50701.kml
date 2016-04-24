@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 4/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, BLACK HAWK, WATERLOO, 204 4TH W ST 808</description><Point><coordinates>-92.339999, 42.495212</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, BLACK HAWK, WATERLOO, 204 4TH W ST 808</description><Point><coordinates>-92.339999, 42.495212</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/31/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, BLACK HAWK, WATERLOO, 514 FLETCHER</description><Point><coordinates>-92.367410, 42.486127</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/24/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, BLACK HAWK, WATERLOO, 315 CLOUGH</description><Point><coordinates>-92.361771, 42.488932</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/13/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, BLACK HAWK, WATERLOO, 1030 SUNRISE BOULEVARD</description><Point><coordinates>-92.370938, 42.459097</coordinates></Point></Placemark>

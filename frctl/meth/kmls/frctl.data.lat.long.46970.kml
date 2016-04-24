@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/5/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, CASS, NEW WAVERLY, 9956 EAST CHURCH STREET</description><Point><coordinates>-86.190042, 40.764824</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/5/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, CASS, NEW WAVERLY, 9956 EAST CHURCH STREET</description><Point><coordinates>-86.190042, 40.764824</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, CASS, PERU, 10582 RIVER E RD</description><Point><coordinates>-86.174048, 40.741067</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MIAMI, PERU, 829 MAIN W ST 101</description><Point><coordinates>-86.091691, 40.745053</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/6/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MIAMI, PERU, 1603 STATE ROAD 19 N 17</description><Point><coordinates>-86.050472, 40.787166</coordinates></Point></Placemark>

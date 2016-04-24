@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 10/7/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, JEFFERSON, WESTON, 10710 NORTH MOORE STREET</description><Point><coordinates>-117.467393, 47.718574</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 10/7/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, JEFFERSON, WESTON, 10710 NORTH MOORE STREET</description><Point><coordinates>-117.467393, 47.718574</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, SPOKANE, SPOKANE, 903 E CENTRAL</description><Point><coordinates>-117.396522, 47.711741</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/23/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, SPOKANE, SPOKANE, 7825 N DEBBY LYNN CT</description><Point><coordinates>-117.457007, 47.728967</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, SPOKANE, SPOKANE, 121 E WEDGEWOOD 207</description><Point><coordinates>-117.406773, 47.720443</coordinates></Point></Placemark>

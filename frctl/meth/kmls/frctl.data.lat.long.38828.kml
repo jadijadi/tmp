@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 5/21/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, PONTOTOC, BLUE SPRINGS, 406  BETHEL ROAD</description><Point><coordinates>-88.898391, 34.333362</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/21/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, PONTOTOC, BLUE SPRINGS, 406  BETHEL ROAD</description><Point><coordinates>-88.898391, 34.333362</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/22/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, PONTOTOC, BLUE SPRINGS, 4299  TUSCUMBIA ROAD</description><Point><coordinates>-88.896461, 34.361967</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, PONTOTOC, SHERMAN, 97 FIRST AVENUE</description><Point><coordinates>-88.845182, 34.363649</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/12/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, UNION, BLUE SPRINGS, 1079  CR 188</description><Point><coordinates>-88.798446, 34.405415</coordinates></Point></Placemark>

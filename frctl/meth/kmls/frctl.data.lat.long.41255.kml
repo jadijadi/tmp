@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 12/15/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, JOHNSON, SITKA, 838 SLOANE BRANCH BOULEVARD</description><Point><coordinates>-82.838217, 37.880648</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 12/15/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, JOHNSON, SITKA, 838 SLOANE BRANCH BOULEVARD</description><Point><coordinates>-82.838217, 37.880648</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/13/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, JOHNSON, SITKA, 141 PUNCHEON CREEK ROAD</description><Point><coordinates>-82.849369, 37.885843</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/10/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, JOHNSON, SITKA, 102  CAUDILL BRANCH RD/CAUDILL BRANCH-SIP RD/CAUDILL BR</description><Point><coordinates>-82.838217, 37.880648</coordinates></Point></Placemark>
 

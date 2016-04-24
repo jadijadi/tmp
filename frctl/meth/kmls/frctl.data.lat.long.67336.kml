@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 5/12/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, LABETTE, CHETOPA, 309 NORTH 3RD STREET</description><Point><coordinates>-95.085438, 37.043005</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/12/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, LABETTE, CHETOPA, 309 NORTH 3RD STREET</description><Point><coordinates>-95.085438, 37.043005</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/12/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, LABETTE, CHETOPA, 631 N 10TH STREET</description><Point><coordinates>-95.098670, 37.046180</coordinates></Point></Placemark>
 
         </Document>

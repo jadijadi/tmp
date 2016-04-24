@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 8/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, ADAMS, NORTHGLENN, 110 110TH W AVE 148</description><Point><coordinates>-104.954707, 39.896107</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 8/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, ADAMS, NORTHGLENN, 110 110TH W AVE 148</description><Point><coordinates>-104.954707, 39.896107</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/28/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, ADAMS, NORTHGLENN, 2002 GRAVES CT</description><Point><coordinates>-104.962905, 39.900592</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/11/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, ADAMS, THORNTON, 10696 HARRISON STREET</description><Point><coordinates>-104.940643, 39.890519</coordinates></Point></Placemark>
 

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 12/5/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, DUPLIN, CALYPSO, 212 WEST TRADE ROAD</description><Point><coordinates>-78.113143, 35.161172</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 12/5/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, DUPLIN, CALYPSO, 212 WEST TRADE ROAD</description><Point><coordinates>-78.113143, 35.161172</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/14/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, DUPLIN, MOUNT OLIVE, 174 SABASTIAN LN</description><Point><coordinates>-77.910413, 35.092179</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/9/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, DUPLIN, MOUNT OLIVE, 285 ALBERT GRADY ROAD</description><Point><coordinates>-77.929639, 35.117861</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/28/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, DUPLIN, MOUNT OLIVE, 2264  TRAM ROAD</description><Point><coordinates>-77.874257, 35.076897</coordinates></Point></Placemark>

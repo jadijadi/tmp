@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 8/29/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, SANTA ROSA, , 4171 FLORIDA TOWN ROAD</description><Point><coordinates>-86.230492, 30.347610</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 8/29/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, SANTA ROSA, , 4171 FLORIDA TOWN ROAD</description><Point><coordinates>-86.230492, 30.347610</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, WALTON, SANTA ROSA BEACH, 121 COUNTRY CLUB DR</description><Point><coordinates>-86.227586, 30.353811</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/28/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, WALTON, SANTA ROSA BEACH, 203 FOURTH S ST</description><Point><coordinates>-86.223394, 30.394181</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/16/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, WALTON, SANTA ROSA BEACH, 234 EAST NURSERY ROAD</description><Point><coordinates>-86.224434, 30.402914</coordinates></Point></Placemark>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, LONOKE, WARD, 1315 BUTLERVILLE RD</description><Point><coordinates>-91.832927, 34.989417</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, LONOKE, WARD, 1315 BUTLERVILLE RD</description><Point><coordinates>-91.832927, 34.989417</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/11/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, LONOKE, WARD, 607 CHAMLIE OLDS RD</description><Point><coordinates>-91.881449, 35.010051</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/12/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, LONOKE, WARD, 111 ELM ST</description><Point><coordinates>-91.951554, 35.028860</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/16/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, LONOKE, WARD, 162 MARGIE LANE</description><Point><coordinates>-91.957653, 35.007260</coordinates></Point></Placemark>

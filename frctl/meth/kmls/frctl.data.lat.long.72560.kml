@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 4/29/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, STONE, MOUNTAIN VIEW, 1365 BRUSHY CREEK RD</description><Point><coordinates>-92.231321, 35.794265</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/29/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, STONE, MOUNTAIN VIEW, 1365 BRUSHY CREEK RD</description><Point><coordinates>-92.231321, 35.794265</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/3/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, STONE, MOUNTAIN VIEW, 11899 HIGHWAY 5 S HWY</description><Point><coordinates>-92.027321, 35.804425</coordinates></Point></Placemark>
 
         </Document>

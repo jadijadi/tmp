@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 10/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEVADA, CLARK, LAS VEGAS, 3040 MISTY HARBOR</description><Point><coordinates>-115.283716, 36.137399</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 10/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEVADA, CLARK, LAS VEGAS, 3040 MISTY HARBOR</description><Point><coordinates>-115.283716, 36.137399</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/21/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEVADA, CLARK, LAS VEGAS, 8653 TOSCANA</description><Point><coordinates>-115.281605, 36.134711</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/17/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEVADA, CLARK, LAS VEGAS, 4375 EAST SAHARA AVENUE  BOX 369</description><Point><coordinates>-115.305116, 36.127294</coordinates></Point></Placemark>
 

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 4/15/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, JEFFERSON, IMPERIAL, 1131 WESTWARD TRL</description><Point><coordinates>-90.380613, 38.397424</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/15/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, JEFFERSON, IMPERIAL, 1131 WESTWARD TRL</description><Point><coordinates>-90.380613, 38.397424</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, JEFFERSON, IMPERIAL, 4016 WOODLAND</description><Point><coordinates>-90.485382, 38.428168</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/27/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, JEFFERSON, IMPERIAL, 3841 IMPERIAL</description><Point><coordinates>-90.382830, 38.372262</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/1/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, JEFFERSON, IMPERIAL, 3592 (B) RIDGE</description><Point><coordinates>-90.475556, 38.441528</coordinates></Point></Placemark>

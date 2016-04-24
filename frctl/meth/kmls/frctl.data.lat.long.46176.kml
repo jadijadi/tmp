@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 6/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, SHELBY, SHELBYVILLE, 212 PENNSYLVANIA E</description><Point><coordinates>-85.772268, 39.527083</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, SHELBY, SHELBYVILLE, 212 PENNSYLVANIA E</description><Point><coordinates>-85.772268, 39.527083</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, SHELBY, SHELBYVILLE, 436 600 S W</description><Point><coordinates>-85.787723, 39.438422</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, SHELBY, SHELBYVILLE, 556 BROADWAY E ST</description><Point><coordinates>-85.765715, 39.522848</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/11/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, SHELBY, SHELBYVILLE, 3183 LITTLE BLUE N RD</description><Point><coordinates>-85.712109, 39.573278</coordinates></Point></Placemark>

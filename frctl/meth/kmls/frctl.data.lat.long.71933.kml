@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 4/6/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, GARLAND, PEARCY, 337 PEARCY N RD</description><Point><coordinates>-93.316643, 34.453771</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/6/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, GARLAND, PEARCY, 337 PEARCY N RD</description><Point><coordinates>-93.316643, 34.453771</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/21/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, HOT SPRING, BONNERDALE, 7102 AMITY RD</description><Point><coordinates>-93.329417, 34.364839</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/6/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, MONTGOMERY, GLENWOOD, 817  SLATE MILL</description><Point><coordinates>-93.566075, 34.375448</coordinates></Point></Placemark>
 

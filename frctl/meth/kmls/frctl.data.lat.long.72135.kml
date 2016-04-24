@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 10/24/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, PULASKI, LITTLE ROCK, 25425 NAVAJO TRAIL</description><Point><coordinates>-92.550322, 34.831152</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 10/24/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, PULASKI, LITTLE ROCK, 25425 NAVAJO TRAIL</description><Point><coordinates>-92.550322, 34.831152</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/15/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, PULASKI, LITTLE ROCK, 8224 MATTHEWS ROAD</description><Point><coordinates>-92.549925, 34.829043</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, PULASKI, ROLAND, 25120 BLUE GELL</description><Point><coordinates>-92.498299, 34.901551</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/23/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, PULASKI, ROLAND, 31414  HWY 300</description><Point><coordinates>-92.579895, 34.929372</coordinates></Point></Placemark>

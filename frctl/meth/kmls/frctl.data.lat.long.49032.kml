@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 9/17/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, SAINT JOSEPH, CENTREVILLE, 16 PLUM CT</description><Point><coordinates>-85.529387, 41.926192</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 9/17/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, SAINT JOSEPH, CENTREVILLE, 16 PLUM CT</description><Point><coordinates>-85.529387, 41.926192</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/10/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, ST. JOSEPH, CENTREVILLE, 20388  CENTREVILLE CONSTANTINE ROAD</description><Point><coordinates>-85.555600, 41.907940</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/20/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, ST. JOSEPH, CENTREVILLE, 20126 SOUTH RIVER ROAD</description><Point><coordinates>-85.563359, 41.940387</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/3/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, ST. JOSEPH, CENTREVILLE, 327 NORTH DEAN STREET 5</description><Point><coordinates>-85.526919, 41.926688</coordinates></Point></Placemark>

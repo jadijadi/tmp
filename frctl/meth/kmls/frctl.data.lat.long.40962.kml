@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/31/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, CLAY, MANCHESTER, 1217 KY 638 W</description><Point><coordinates>-83.791085, 37.173455</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/31/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, CLAY, MANCHESTER, 1217 KY 638 W</description><Point><coordinates>-83.791085, 37.173455</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/14/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, CLAY, MANCHESTER, 331 TURBYFILL LN</description><Point><coordinates>-83.761864, 37.153701</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/12/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, CLAY, MANCHESTER, 1820 ROBINSON CRK ROAD</description><Point><coordinates>-83.860327, 37.267597</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/5/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, CLAY, MANCHESTER, 620 BELLES FORK ROAD</description><Point><coordinates>-83.681358, 37.113204</coordinates></Point></Placemark>

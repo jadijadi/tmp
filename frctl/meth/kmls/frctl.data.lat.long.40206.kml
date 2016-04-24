@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/20/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, JEFFERSON, LOUISVILLE, 2400 MELWOOD AVE 504</description><Point><coordinates>-85.703440, 38.267850</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/20/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, JEFFERSON, LOUISVILLE, 2400 MELWOOD AVE 504</description><Point><coordinates>-85.703440, 38.267850</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/23/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, JEFFERSON, LOUISVILLE, 1300 WASHINGTON ST 2</description><Point><coordinates>-85.728333, 38.256713</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/24/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, JEFFERSON, LOUISVILLE, 1669 STORY AVENUE</description><Point><coordinates>-85.719907, 38.260988</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/30/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, JEFFERSON, LOUISVILLE, 1300 EAST WASHINGTON STREET</description><Point><coordinates>-85.728333, 38.256713</coordinates></Point></Placemark>

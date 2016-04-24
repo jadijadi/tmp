@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 11/26/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MORGAN, LACEYS SPRING, 43 SCHOOL RD</description><Point><coordinates>-86.604445, 34.532825</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 11/26/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MORGAN, LACEYS SPRING, 43 SCHOOL RD</description><Point><coordinates>-86.604445, 34.532825</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/25/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MORGAN, LACEYS SPRING, 470 BUSTER OWEN ROAD</description><Point><coordinates>-86.627425, 34.475347</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/7/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MORGAN, LACEYS SPRING, 470 BUSTER OWEN ROAD</description><Point><coordinates>-86.627425, 34.475347</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/10/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MORGAN, LACEYS SPRING, 216 GLENGARRY DRIVE</description><Point><coordinates>-86.608090, 34.550152</coordinates></Point></Placemark>

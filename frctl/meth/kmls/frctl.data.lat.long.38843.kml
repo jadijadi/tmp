@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 8/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, ITAWAMBA, FULTON, 1335 RAMEY RD</description><Point><coordinates>-88.274468, 34.294126</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 8/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, ITAWAMBA, FULTON, 1335 RAMEY RD</description><Point><coordinates>-88.274468, 34.294126</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/1/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, ITAWAMBA, FULTON, 1867 WALKER LEVEE ROAD</description><Point><coordinates>-88.374756, 34.444956</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/15/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, ITAWAMBA, FULTON, 9135 HIGHWAY 25</description><Point><coordinates>-88.364092, 34.198064</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/12/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, ITAWAMBA, FULTON, 6210 DORSEY EVERGREEN ROAD</description><Point><coordinates>-88.498633, 34.242280</coordinates></Point></Placemark>

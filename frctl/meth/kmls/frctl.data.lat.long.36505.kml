@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MOBILE, AXIS, 1330 LYONS DR</description><Point><coordinates>-88.010445, 30.920825</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MOBILE, AXIS, 1330 LYONS DR</description><Point><coordinates>-88.010445, 30.920825</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/12/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MOBILE, AXIS, 10895  LONG ROAD</description><Point><coordinates>-88.006608, 30.918196</coordinates></Point></Placemark>
 
         </Document>

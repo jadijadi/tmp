@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CHRISTIAN, NIXA, 1423 NICHOLAS S</description><Point><coordinates>-93.341255, 37.007081</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CHRISTIAN, NIXA, 1423 NICHOLAS S</description><Point><coordinates>-93.341255, 37.007081</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CHRISTIAN, NIXA, 30 MEADOWS TRAILER PARK</description><Point><coordinates>-93.294353, 37.043386</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CHRISTIAN, NIXA, 523 PRIMROSE LN</description><Point><coordinates>-93.309252, 37.004401</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CHRISTIAN, NIXA, MEADOWS TRAILER PARK 62</description><Point><coordinates>-93.294353, 37.043386</coordinates></Point></Placemark>

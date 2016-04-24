@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 6/15/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, ANDERSON, ANDERSON, 3515 KEYS ST B</description><Point><coordinates>-82.650658, 34.459186</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/15/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, ANDERSON, ANDERSON, 3515 KEYS ST B</description><Point><coordinates>-82.650658, 34.459186</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/6/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, ANDERSON, ANDERSON, 302 ELLEN ST</description><Point><coordinates>-82.645217, 34.453444</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/6/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, ANDERSON, ANDERSON, 304 ELLEN ST B</description><Point><coordinates>-82.644906, 34.453559</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/3/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, ANDERSON, ANDERSON, 3631 KEYS ST B</description><Point><coordinates>-82.648213, 34.453157</coordinates></Point></Placemark>

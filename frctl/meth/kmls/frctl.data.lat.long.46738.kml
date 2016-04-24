@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/25/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, DEKALB, AUBURN, 3587 SR 327</description><Point><coordinates>-85.136044, 41.364585</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/25/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, DEKALB, AUBURN, 3587 SR 327</description><Point><coordinates>-85.136044, 41.364585</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/17/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, DEKALB, GARRETT, 518 N RANDOLPH STREET 39815</description><Point><coordinates>-85.136070, 41.355432</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, DEKALB, GARRETT, 4930 COUNTY ROAD 7</description><Point><coordinates>-85.155451, 41.349335</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/5/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, DEKALB, GARRETT, 1005 QUINCY W</description><Point><coordinates>-85.147665, 41.351231</coordinates></Point></Placemark>

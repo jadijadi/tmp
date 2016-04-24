@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 8/20/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, BERKELEY, MONCKS CORNER, 329 WINDING RD</description><Point><coordinates>-80.101990, 33.111212</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 8/20/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, BERKELEY, MONCKS CORNER, 329 WINDING RD</description><Point><coordinates>-80.101990, 33.111212</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/6/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, BERKELEY, MONCKS CORNER, 101 OAK CREST DR</description><Point><coordinates>-80.076563, 33.100681</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/6/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, BERKELEY, MONCKS CORNER, 406 COMPTON DR</description><Point><coordinates>-80.087067, 33.100739</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/3/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, BERKELEY, MONCKS CORNER, 606  LEVEE DRIVE</description><Point><coordinates>-80.029609, 33.216884</coordinates></Point></Placemark>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, BENTON, ROGERS, 3715 SHADY HILLS CIR</description><Point><coordinates>-94.076247, 36.296994</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, BENTON, ROGERS, 3715 SHADY HILLS CIR</description><Point><coordinates>-94.076247, 36.296994</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, BENTON, ROGERS, 18 LYNN LN</description><Point><coordinates>-94.075576, 36.297074</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/6/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, BENTON, ROGERS, 2102 8TH S ST 327</description><Point><coordinates>-94.127474, 36.306162</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, BENTON, ROGERS, 2313 PECAN W ST</description><Point><coordinates>-94.151885, 36.330436</coordinates></Point></Placemark>

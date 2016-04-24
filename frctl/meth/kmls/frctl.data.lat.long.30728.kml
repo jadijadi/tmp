@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/2/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, WALKER, LA FAYETTE, 580 BRONCO RD</description><Point><coordinates>-85.310591, 34.685888</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/2/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, WALKER, LA FAYETTE, 580 BRONCO RD</description><Point><coordinates>-85.310591, 34.685888</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/9/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, WALKER, LA FAYETTE, 302 MAGNOLIA ST</description><Point><coordinates>-85.290884, 34.703442</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/6/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, WALKER, LAFAYETTE, 160 BAKER DR</description><Point><coordinates>-85.304313, 34.695136</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/6/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, WALKER, LAFAYETTE, 35 BAKER DR</description><Point><coordinates>-85.305574, 34.693757</coordinates></Point></Placemark>

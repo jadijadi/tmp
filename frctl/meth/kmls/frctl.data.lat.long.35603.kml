@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MORGAN, DECATUR, 5111 WILLOW BEND RD</description><Point><coordinates>-86.924639, 34.500892</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MORGAN, DECATUR, 5111 WILLOW BEND RD</description><Point><coordinates>-86.924639, 34.500892</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/3/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MORGAN, DECATUR, 63 MARCO DR 224</description><Point><coordinates>-86.900630, 34.531271</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/4/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MORGAN, DECATUR, 3312 UPPER RIVER E RD</description><Point><coordinates>-86.909310, 34.544359</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/28/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MORGAN, DECATUR, 134 SOUTHWEST MCENTIRE LANE B14</description><Point><coordinates>-87.036583, 34.591499</coordinates></Point></Placemark>

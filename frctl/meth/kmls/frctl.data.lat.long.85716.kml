@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 11/13/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARIZONA, PIMA, TUCSON, 2123 EDISON TERRANCE N</description><Point><coordinates>-110.923461, 32.247899</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 11/13/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARIZONA, PIMA, TUCSON, 2123 EDISON TERRANCE N</description><Point><coordinates>-110.923461, 32.247899</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/11/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARIZONA, PIMA, TUCSON, 2709 DRACHMAN E</description><Point><coordinates>-110.932085, 32.239987</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/20/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARIZONA, PIMA, TUCSON, 2724 EAST 8TH STREET</description><Point><coordinates>-110.931675, 32.225033</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/13/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARIZONA, PIMA, TUCSON, 3201 EAST 2D</description><Point><coordinates>-110.925180, 32.234269</coordinates></Point></Placemark>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 7/29/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, TULSA, BIXBY, 212 NORTH JACKSON</description><Point><coordinates>-95.842655, 36.044302</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 7/29/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, TULSA, BIXBY, 212 NORTH JACKSON</description><Point><coordinates>-95.842655, 36.044302</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/31/2000</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, TULSA, BROKEN ARROW, 117 4TH E ST</description><Point><coordinates>-95.785346, 36.052586</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/21/2000</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, TULSA, BROKEN ARROW, 305 EAST 2ND STREET</description><Point><coordinates>-95.786523, 36.054390</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/6/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, TULSA, BROKEN ARROW, 326 8 S ST</description><Point><coordinates>-95.780836, 36.049015</coordinates></Point></Placemark>

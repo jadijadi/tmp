@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 4/14/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LINCOLN, TRUXTON, 115 PRAIRIE</description><Point><coordinates>-91.240361, 39.001841</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/14/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LINCOLN, TRUXTON, 115 PRAIRIE</description><Point><coordinates>-91.240361, 39.001841</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/3/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LINCOLN, TRUXTON, 170 MAIN ST</description><Point><coordinates>-91.239960, 39.002236</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/16/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LINCOLN, TRUXTON, 411 MAIN STREET</description><Point><coordinates>-91.244762, 39.004834</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/11/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LINCOLN, TRUXTON, 203 HOLMES ROAD</description><Point><coordinates>-91.255294, 39.000157</coordinates></Point></Placemark>

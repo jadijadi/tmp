@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, STANISLAUS, MODESTO, 1520 PROSPECT LN</description><Point><coordinates>-120.917107, 37.666417</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, STANISLAUS, MODESTO, 1520 PROSPECT LN</description><Point><coordinates>-120.917107, 37.666417</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/24/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, STANISLAUS, MODESTO, 1411 SCENIC DRIVE</description><Point><coordinates>-120.972824, 37.650138</coordinates></Point></Placemark>
 
         </Document>

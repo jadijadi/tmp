@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/27/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, RICHMOND, ROCKINGHAM, 120 SCOTT MCDONALD ROAD</description><Point><coordinates>-79.685937, 34.972127</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/27/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, RICHMOND, ROCKINGHAM, 120 SCOTT MCDONALD ROAD</description><Point><coordinates>-79.685937, 34.972127</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/31/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, RICHMOND, ROCKINGHAM, 204-F  GREENRIDGE ROAD</description><Point><coordinates>-79.741599, 34.927491</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/1/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, RICHMOND, ROCKINGHAM, 114 EAST EASON DRIVE</description><Point><coordinates>-79.785891, 34.918637</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/2/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, RICHMOND, ROCKINGHAM, 156  SHANNON DRIVE</description><Point><coordinates>-79.752039, 34.918726</coordinates></Point></Placemark>

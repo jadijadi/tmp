@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 6/25/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, SCOTT, SCOTT CITY, 1804 FORNFELT</description><Point><coordinates>-89.528792, 37.213344</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/25/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, SCOTT, SCOTT CITY, 1804 FORNFELT</description><Point><coordinates>-89.528792, 37.213344</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/3/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, SCOTT, SCOTT CITY, 701 WALL STREET</description><Point><coordinates>-89.509948, 37.214358</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/13/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, SCOTT, SCOTT CITY, 913  5TH STREET</description><Point><coordinates>-89.519108, 37.223042</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/11/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, SCOTT, SCOTT CITY, 511  OAK</description><Point><coordinates>-89.523696, 37.214898</coordinates></Point></Placemark>

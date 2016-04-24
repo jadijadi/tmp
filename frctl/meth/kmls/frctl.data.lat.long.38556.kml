@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/21/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, FENTRESS, CLARKRANGE, GRIMSLEY HILLS S DR 355</description><Point><coordinates>-84.982015, 36.273389</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/21/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, FENTRESS, CLARKRANGE, GRIMSLEY HILLS S DR 355</description><Point><coordinates>-84.982015, 36.273389</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, FENTRESS, GRIMSLEY, RICHARDS CEMETARY S RD 667</description><Point><coordinates>-84.991363, 36.280064</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/1/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, FENTRESS, GRIMSLEY, 135 YOUNG DRIVE</description><Point><coordinates>-84.981179, 36.289127</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, FENTRESS, JAMESTOWN, MT HELEN E RD 5034</description><Point><coordinates>-84.780198, 36.390245</coordinates></Point></Placemark>

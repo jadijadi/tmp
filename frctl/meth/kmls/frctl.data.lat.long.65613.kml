@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 7/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, POLK, BOLIVAR, 105 CHESTNUT W 1</description><Point><coordinates>-93.412139, 37.614713</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 7/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, POLK, BOLIVAR, 105 CHESTNUT W 1</description><Point><coordinates>-93.412139, 37.614713</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, POLK, BOLIVAR, 817 COLLEGE E</description><Point><coordinates>-93.403848, 37.606525</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/23/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, POLK, BOLIVAR, 112 AUBURN E</description><Point><coordinates>-93.408567, 37.605677</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/7/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, POLK, BOLIVAR, 4734 140TH S RD</description><Point><coordinates>-93.378414, 37.562523</coordinates></Point></Placemark>

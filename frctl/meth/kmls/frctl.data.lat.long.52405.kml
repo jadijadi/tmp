@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, LINN, CEDAR RAPIDS, 1123 1ST SW AVE</description><Point><coordinates>-91.686286, 41.971500</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, LINN, CEDAR RAPIDS, 1123 1ST SW AVE</description><Point><coordinates>-91.686286, 41.971500</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/15/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, LINN, CEDAR RAPIDS, 1123 1ST SW AVE</description><Point><coordinates>-91.686286, 41.971500</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, LINN, CEDAR RAPIDS, 828 F NW AVE</description><Point><coordinates>-91.684630, 41.979313</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/25/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, LINN, CEDAR RAPIDS, 249 11 NW ST</description><Point><coordinates>-91.686704, 41.974604</coordinates></Point></Placemark>

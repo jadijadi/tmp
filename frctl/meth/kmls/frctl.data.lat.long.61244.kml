@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 6/23/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, ROCK ISLAND, EAST MOLINE, 916 35TH AVE</description><Point><coordinates>-90.438157, 41.497162</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/23/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, ROCK ISLAND, EAST MOLINE, 916 35TH AVE</description><Point><coordinates>-90.438157, 41.497162</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/17/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, ROCK ISLAND, EAST MOLINE, 4108 4TH ST</description><Point><coordinates>-90.451966, 41.491310</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/29/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, ROCK ISLAND, EAST MOLINE, 205 21ST STREET</description><Point><coordinates>-90.423513, 41.532781</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/3/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, ROCK ISLAND, EAST MOLINE, 1020  51ST</description><Point><coordinates>-90.441145, 41.479481</coordinates></Point></Placemark>

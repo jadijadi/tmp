@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 11/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, SALINE, SALINA, 156 FLORIDA</description><Point><coordinates>-97.626698, 38.786937</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 11/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, SALINE, SALINA, 156 FLORIDA</description><Point><coordinates>-97.626698, 38.786937</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/1/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, SALINE, SALINA, 540 CLAFLIN W AVE</description><Point><coordinates>-97.618207, 38.814724</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/8/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, SALINE, SALINA, 412 PRESCOTT W AVE</description><Point><coordinates>-97.613240, 38.830251</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/10/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, SALINE, SALINA, 607 FOURTH S</description><Point><coordinates>-97.606561, 38.830011</coordinates></Point></Placemark>

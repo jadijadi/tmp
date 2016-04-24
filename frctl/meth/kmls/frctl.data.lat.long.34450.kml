@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 12/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, CITRUS, INVERNESS, 307 WASHINGTON AVE 11</description><Point><coordinates>-82.318955, 28.831600</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 12/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, CITRUS, INVERNESS, 307 WASHINGTON AVE 11</description><Point><coordinates>-82.318955, 28.831600</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/13/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, CITRUS, INVERNESS, 323 SOUTH SCHMIDT AVENUE</description><Point><coordinates>-82.260894, 28.857346</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/14/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, CITRUS, INVERNESS, 1214  PARKSIDE AVE STREET</description><Point><coordinates>-82.345605, 28.847833</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/12/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, CITRUS, INVERNESS, 327 SOUTH US HIGHWAY 41 S/S FLORIDA AVE/US-41 (S)/SR-45 (N)/US-41 S HIGHWAY</description><Point><coordinates>-82.322900, 28.831365</coordinates></Point></Placemark>

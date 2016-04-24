@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 6/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, HAMILTON, BIRCHWOOD, 228 HAMILTON LN</description><Point><coordinates>-84.989039, 35.366127</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, HAMILTON, BIRCHWOOD, 228 HAMILTON LN</description><Point><coordinates>-84.989039, 35.366127</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/31/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, HAMILTON, BIRCHWOOD, 145 ROGERS LN</description><Point><coordinates>-84.956965, 35.371809</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/14/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, HAMILTON, BIRCHWOOD, 11214 DOLLY POND RD</description><Point><coordinates>-85.027243, 35.254127</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/12/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, HAMILTON, BIRCHWOOD, 7032  GRASSHOPPER ROAD</description><Point><coordinates>-84.999486, 35.291161</coordinates></Point></Placemark>

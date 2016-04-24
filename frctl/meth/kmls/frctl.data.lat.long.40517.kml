@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 10/8/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, FAYETTE, LEXINGTON, 262 TANGLEY WAY</description><Point><coordinates>-84.524200, 37.975374</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 10/8/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, FAYETTE, LEXINGTON, 262 TANGLEY WAY</description><Point><coordinates>-84.524200, 37.975374</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/13/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, FAYETTE, LEXINGTON, 118  DUNDEE</description><Point><coordinates>-84.523342, 37.986295</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/2/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, FAYETTE, LEXINGTON, 3697  CROSBY DRIVE BOX A</description><Point><coordinates>-84.486113, 37.972380</coordinates></Point></Placemark>
 

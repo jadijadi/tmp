@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/31/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, JACKSON, DUTTON, 827 COUNTY ROAD 150 RD</description><Point><coordinates>-85.879353, 34.644311</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/31/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, JACKSON, DUTTON, 827 COUNTY ROAD 150 RD</description><Point><coordinates>-85.879353, 34.644311</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/25/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, JACKSON, DUTTON, 6972 CO RD 124</description><Point><coordinates>-85.897126, 34.629341</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/17/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, JACKSON, DUTTON, 2583 CO. RD 18</description><Point><coordinates>-85.931622, 34.600701</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/7/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, JACKSON, DUTTON, 875 COUNTY ROAD 423</description><Point><coordinates>-85.887683, 34.637651</coordinates></Point></Placemark>

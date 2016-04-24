@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, EL PASO, COLORADO SPRINGS, 2571 UINTAH E ST 12</description><Point><coordinates>-104.781390, 38.848644</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, EL PASO, COLORADO SPRINGS, 2571 UINTAH E ST 12</description><Point><coordinates>-104.781390, 38.848644</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/14/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, EL PASO, COLORADO SPRINGS, 3631 MARION DR 303</description><Point><coordinates>-104.759993, 38.849446</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, EL PASO, COLORADO SPRINGS, 214 SWOPE N AVE 19</description><Point><coordinates>-104.792004, 38.836397</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/11/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, EL PASO, COLORADO SPRINGS, 2111 WARWICK LN</description><Point><coordinates>-104.761569, 38.863305</coordinates></Point></Placemark>

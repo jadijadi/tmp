@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 12/29/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, LICKING, NEWARK, 626 GLENBROOK DR 33</description><Point><coordinates>-82.441870, 40.095289</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 12/29/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, LICKING, NEWARK, 626 GLENBROOK DR 33</description><Point><coordinates>-82.441870, 40.095289</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/7/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, LICKING, NEWARK, 15955 PINEWOOD TRAIL</description><Point><coordinates>-82.248015, 40.151968</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/30/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, LICKING, NEWARK, 44 SOUTH MORRIS STREET</description><Point><coordinates>-82.392223, 40.058194</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/29/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, LICKING, NEWARK, 267 MT VERNON ROAD</description><Point><coordinates>-82.408171, 40.065027</coordinates></Point></Placemark>

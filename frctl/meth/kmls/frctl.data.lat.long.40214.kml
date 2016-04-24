@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 9/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, JEFFERSON, LOUISVILLE, 7704 CHET LN</description><Point><coordinates>-85.789781, 38.138141</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 9/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, JEFFERSON, LOUISVILLE, 7704 CHET LN</description><Point><coordinates>-85.789781, 38.138141</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, JEFFERSON, LOUISVILLE, 4114 3RD S ST</description><Point><coordinates>-85.765460, 38.196158</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, JEFFERSON, LOUISVILLE, 229 STEEDLY DR 28</description><Point><coordinates>-85.760231, 38.163609</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/21/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, JEFFERSON, LOUISVILLE, 5711 ELMER AVE</description><Point><coordinates>-85.769814, 38.137122</coordinates></Point></Placemark>

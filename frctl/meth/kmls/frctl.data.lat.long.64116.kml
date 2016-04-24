@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 12/14/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CLAY, KANSAS CITY, 1600 PARVIN NE 211/213</description><Point><coordinates>-94.560129, 39.167345</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 12/14/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CLAY, KANSAS CITY, 1600 PARVIN NE 211/213</description><Point><coordinates>-94.560129, 39.167345</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/18/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CLAY, NORTH KANSAS CITY, 1000 EAST 24 AVENUE</description><Point><coordinates>-94.569945, 39.146725</coordinates></Point></Placemark>
 
         </Document>

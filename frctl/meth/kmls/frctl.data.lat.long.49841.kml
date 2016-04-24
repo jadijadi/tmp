@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/18/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, MARQUETTE, GWINN, 214  TITAN STREET</description><Point><coordinates>-87.365049, 46.327529</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/18/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, MARQUETTE, GWINN, 214  TITAN STREET</description><Point><coordinates>-87.365049, 46.327529</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/4/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, MARQUETTE, GWINN, 322  QUAIL STREET</description><Point><coordinates>-87.361232, 46.329142</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/24/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, MARQUETTE, GWINN, 123  BIRCH STREET</description><Point><coordinates>-87.443467, 46.279978</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/4/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, MARQUETTE, GWINN, 2104  NORTHWESTERN LAKE TRAIL</description><Point><coordinates>-87.440972, 46.281056</coordinates></Point></Placemark>

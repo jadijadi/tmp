@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, ASHTABULA, JEFFERSON, 1554 BLACK SEA S RD</description><Point><coordinates>-80.741556, 41.708950</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, ASHTABULA, JEFFERSON, 1554 BLACK SEA S RD</description><Point><coordinates>-80.741556, 41.708950</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/30/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, ASHTABULA, JEFFERSON, 2142 SR 46 NORTH</description><Point><coordinates>-80.763522, 41.783553</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/17/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, ASHTABULA, JEFFERSON, 1341 STATE ROUTE 307 E</description><Point><coordinates>-80.739035, 41.717633</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/13/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, ASHTABULA, JEFFERSON, 5737 LOVELAND ROAD</description><Point><coordinates>-80.687112, 41.594258</coordinates></Point></Placemark>

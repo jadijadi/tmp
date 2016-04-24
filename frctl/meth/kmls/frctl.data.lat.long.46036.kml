@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 4/5/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MADISON, ELWOOD, 1920 A N ST B</description><Point><coordinates>-85.836586, 40.263975</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/5/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MADISON, ELWOOD, 1920 A N ST B</description><Point><coordinates>-85.836586, 40.263975</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/8/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MADISON, ELWOOD, 2606 NORTH P STREET</description><Point><coordinates>-85.827335, 40.262810</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/19/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MADISON, ELWOOD, 2005  N Q. STREET</description><Point><coordinates>-85.835402, 40.263620</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/8/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MADISON, ELWOOD, 232  N 12TH STREET</description><Point><coordinates>-85.846505, 40.279039</coordinates></Point></Placemark>

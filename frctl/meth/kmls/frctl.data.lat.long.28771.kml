@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 6/21/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, GRAHAM, ROBBINSVILLE, 93 WARD STREET</description><Point><coordinates>-83.809007, 35.321184</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/21/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, GRAHAM, ROBBINSVILLE, 93 WARD STREET</description><Point><coordinates>-83.809007, 35.321184</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/23/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, GRAHAM, ROBBINSVILLE, 2177 MASSY BRANCH RD</description><Point><coordinates>-83.836460, 35.330231</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/11/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, GRAHAM, ROBBINSVILLE, 704 ATOAH ROAD</description><Point><coordinates>-83.831856, 35.299721</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/28/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, GRAHAM, ROBBINSVILLE, 1475 MASSEY BRANCH ROAD</description><Point><coordinates>-83.826620, 35.330630</coordinates></Point></Placemark>

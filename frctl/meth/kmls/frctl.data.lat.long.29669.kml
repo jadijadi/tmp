@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 4/27/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, ANDERSON, PELZER, 21 COURTNEY ST</description><Point><coordinates>-82.458099, 34.637690</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/27/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, ANDERSON, PELZER, 21 COURTNEY ST</description><Point><coordinates>-82.458099, 34.637690</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/23/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, ANDERSON, PELZER, 117 PINE CIR</description><Point><coordinates>-82.562637, 34.677813</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/1/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, ANDERSON, PELZER, 16 BURTS ST</description><Point><coordinates>-82.459974, 34.640117</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/2/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, ANDERSON, PELZER, 167 LESLIE LN</description><Point><coordinates>-82.531156, 34.660530</coordinates></Point></Placemark>

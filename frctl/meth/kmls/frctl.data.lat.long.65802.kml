@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, GREENE, SPRINGFIELD, 7416 266 W HWY</description><Point><coordinates>-93.438856, 37.212812</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, GREENE, SPRINGFIELD, 7416 266 W HWY</description><Point><coordinates>-93.438856, 37.212812</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/21/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, GREENE, SPRINGFIELD, 7159 FARM ROAD 140 W</description><Point><coordinates>-93.434013, 37.199589</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/13/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, GREENE, SPRINGFIELD, 3550 CHESTNUT EXPRESSWAY W</description><Point><coordinates>-93.350464, 37.211711</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/3/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, GREENE, SPRINGFIELD, 266 W HWY</description><Point><coordinates>-93.451100, 37.213418</coordinates></Point></Placemark>

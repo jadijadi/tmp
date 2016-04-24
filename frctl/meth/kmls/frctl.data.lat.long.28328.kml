@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 4/30/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, SAMPSON, CLINTON, 210 HOG HOUSE LANE</description><Point><coordinates>-78.371889, 35.121280</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/30/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, SAMPSON, CLINTON, 210 HOG HOUSE LANE</description><Point><coordinates>-78.371889, 35.121280</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/21/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, SAMPSON, CLINTON, 4851 HOBBTON HIGHWAY</description><Point><coordinates>-78.326507, 35.072015</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/23/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, SAMPSON, CLINTON, 8130 NORTH 421 HIGHWAY</description><Point><coordinates>-78.346134, 35.020005</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/21/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, SAMPSON, CLINTON, 79  JUNK YARD LANE</description><Point><coordinates>-78.347609, 35.096229</coordinates></Point></Placemark>

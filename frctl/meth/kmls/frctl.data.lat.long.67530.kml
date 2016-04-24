@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 9/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, BARTON, GREAT BEND, 5803 ASPEN DRIVE</description><Point><coordinates>-98.812270, 38.369300</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 9/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, BARTON, GREAT BEND, 5803 ASPEN DRIVE</description><Point><coordinates>-98.812270, 38.369300</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/5/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, BARTON, GREAT BEND, 705 10 E ST 15</description><Point><coordinates>-98.745919, 38.361388</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/19/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, BARTON, GREAT BEND, 227 FRUIT ST</description><Point><coordinates>-98.757245, 38.355665</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/29/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, BARTON, GREAT BEND, 2812 GANO</description><Point><coordinates>-98.769905, 38.379588</coordinates></Point></Placemark>

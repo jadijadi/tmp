@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, RANDOLPH, POCAHONTAS, 256 MANSON RD</description><Point><coordinates>-90.963479, 36.193163</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, RANDOLPH, POCAHONTAS, 256 MANSON RD</description><Point><coordinates>-90.963479, 36.193163</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/4/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, RANDOLPH, POCAHONTAS, 4310 WEST HWY 62</description><Point><coordinates>-91.029543, 36.255875</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/1/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, RANDOLPH, POCAHONTAS, 2304 LEE STREET</description><Point><coordinates>-90.987233, 36.265154</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/28/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, RANDOLPH, POCAHONTAS, 2105 DREW STREET</description><Point><coordinates>-90.985804, 36.261169</coordinates></Point></Placemark>

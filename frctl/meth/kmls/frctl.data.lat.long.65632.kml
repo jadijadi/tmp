@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/3/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LACLEDE, CONWAY, 101 MARTINGALE DR</description><Point><coordinates>-92.841303, 37.507546</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/3/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LACLEDE, CONWAY, 101 MARTINGALE DR</description><Point><coordinates>-92.841303, 37.507546</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/18/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LACLEDE, CONWAY, 115  RANDALL STREET B</description><Point><coordinates>-92.821010, 37.501989</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LACLEDE, LEBANON, 13857 CC HWY</description><Point><coordinates>-92.819796, 37.536031</coordinates></Point></Placemark>
 

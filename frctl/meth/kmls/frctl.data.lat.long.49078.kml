@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, ALLEGAN, OTSEGO, 30 16TH S</description><Point><coordinates>-85.700732, 42.423007</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, ALLEGAN, OTSEGO, 30 16TH S</description><Point><coordinates>-85.700732, 42.423007</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, ALLEGAN, OTSEGO, 1007 19TH</description><Point><coordinates>-85.730495, 42.492316</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/24/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, ALLEGAN, OTSEGO, 571 LINCOLN</description><Point><coordinates>-85.729964, 42.460431</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/29/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, ALLEGAN, OTSEGO, 349 S. 16TH</description><Point><coordinates>-85.700542, 42.447252</coordinates></Point></Placemark>

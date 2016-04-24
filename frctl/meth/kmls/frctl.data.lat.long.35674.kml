@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 5/8/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, COLBERT, TUSCUMBIA, 2090  SPRING VALLEY ROAD</description><Point><coordinates>-87.625752, 34.656843</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/8/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, COLBERT, TUSCUMBIA, 2090  SPRING VALLEY ROAD</description><Point><coordinates>-87.625752, 34.656843</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/11/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, COLBERT, TUSCUMBIA, 804  KING AVENUE</description><Point><coordinates>-87.683613, 34.739126</coordinates></Point></Placemark>
 
         </Document>

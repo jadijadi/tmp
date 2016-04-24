@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: PENNSYLVANIA, COLUMBIA, BERWICK, 1200 SUSAVEHANNA AVE</description><Point><coordinates>-76.252340, 41.044976</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: PENNSYLVANIA, COLUMBIA, BERWICK, 1200 SUSAVEHANNA AVE</description><Point><coordinates>-76.252340, 41.044976</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: PENNSYLVANIA, COLUMBIA, BERWICK, 414 EVANSVILLE RD</description><Point><coordinates>-76.298684, 41.082084</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/7/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: PENNSYLVANIA, COLUMBIA, BERWICK, 28  YOST HOLLOW ROAD</description><Point><coordinates>-76.304314, 41.063182</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/15/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: PENNSYLVANIA, COLUMBIA, BERWICK, 1026  7TH AVENUE</description><Point><coordinates>-76.252720, 41.063049</coordinates></Point></Placemark>

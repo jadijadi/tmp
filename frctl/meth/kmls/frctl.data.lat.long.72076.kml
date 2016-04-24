@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 12/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, LONOKE, JACKSONVILLE, 1071 DELANEY RD</description><Point><coordinates>-92.028952, 34.830151</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 12/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, LONOKE, JACKSONVILLE, 1071 DELANEY RD</description><Point><coordinates>-92.028952, 34.830151</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/31/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, PULASKI, JACKSONIVILLE, 311 NORTH ELM STREET</description><Point><coordinates>-92.105482, 34.865232</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, PULASKI, JACKSONVILLE, 7603 JACKSONVILLE CUTOFF RD 67</description><Point><coordinates>-92.193494, 34.867691</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/7/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, PULASKI, JACKSONVILLE, 306 (A) J.P. WRIGHT LOOP RD A6</description><Point><coordinates>-92.088545, 34.864154</coordinates></Point></Placemark>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, BLEDSOE, PIKEVILLE, 100 MARY ANN LN 622</description><Point><coordinates>-85.190249, 35.624826</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, BLEDSOE, PIKEVILLE, 100 MARY ANN LN 622</description><Point><coordinates>-85.190249, 35.624826</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/11/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, BLEDSOE, PIKEVILLE, 421 BROCKDALE ROAD</description><Point><coordinates>-85.188850, 35.605623</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/11/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, BLEDSOE, PIKEVILLE, 144  ROCK FORT ROAD</description><Point><coordinates>-85.188850, 35.605623</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/20/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, BLEDSOE, PIKEVILLE, 1021  PORCH ROCK ROAD</description><Point><coordinates>-85.130502, 35.604160</coordinates></Point></Placemark>

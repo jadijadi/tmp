@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/14/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, TANEY, RIDGEDALE, 4086 RIDGEDALE RD</description><Point><coordinates>-93.244876, 36.525898</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/14/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, TANEY, RIDGEDALE, 4086 RIDGEDALE RD</description><Point><coordinates>-93.244876, 36.525898</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, TANEY, RIDGEDALE, 208 BRUNSWICK RD</description><Point><coordinates>-93.228286, 36.500456</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/22/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, TANEY, RIDGEDALE, 182 5TH AVE</description><Point><coordinates>-93.310696, 36.527212</coordinates></Point></Placemark>
 

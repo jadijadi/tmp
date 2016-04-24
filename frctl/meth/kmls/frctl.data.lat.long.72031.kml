@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, VAN BUREN, CLINTON, 8767 HOLLY MOUNTAIN RD</description><Point><coordinates>-92.423937, 35.714006</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, VAN BUREN, CLINTON, 8767 HOLLY MOUNTAIN RD</description><Point><coordinates>-92.423937, 35.714006</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, VAN BUREN, CLINTON, 633 RAZORBACK</description><Point><coordinates>-92.442960, 35.610684</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, VAN BUREN, CLINTON, 1173 HILL POINT RD</description><Point><coordinates>-92.494530, 35.486697</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/29/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, VAN BUREN, CLINTON, 7144 NORTH 65 7144</description><Point><coordinates>-92.489102, 35.676704</coordinates></Point></Placemark>

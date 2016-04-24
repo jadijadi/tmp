@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/13/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: LUISIANA, CALCASIEU, LAKE CHARLES, 2653 OLD DERIDDER HIGHWAY 5</description><Point><coordinates>-93.173329, 30.275353</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/13/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: LUISIANA, CALCASIEU, LAKE CHARLES, 2653 OLD DERIDDER HIGHWAY 5</description><Point><coordinates>-93.173329, 30.275353</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/10/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: LUISIANA, CALCASIEU, LAKE CHARLES, 6336 EAST OPELOUSAS  12</description><Point><coordinates>-93.116012, 30.239184</coordinates></Point></Placemark>
 
         </Document>

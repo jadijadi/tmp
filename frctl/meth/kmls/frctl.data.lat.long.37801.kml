@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/9/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, BLOUNT, MARYVILLE, 920 DUNLAP N ST</description><Point><coordinates>-83.990699, 35.753799</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/9/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, BLOUNT, MARYVILLE, 920 DUNLAP N ST</description><Point><coordinates>-83.990699, 35.753799</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/29/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, BLOUNT, MARYVILLE, 450  CHEROKEE HIGHTS DRIVE</description><Point><coordinates>-84.004813, 35.729502</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/9/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, BLOUNT, MARYVILLE, 216  ARABIAN LANE</description><Point><coordinates>-83.993857, 35.765834</coordinates></Point></Placemark>
 

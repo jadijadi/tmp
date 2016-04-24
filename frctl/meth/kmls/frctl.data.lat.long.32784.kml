@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 12/5/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, LAKE, UMATILLA, 37225 WILEY LN</description><Point><coordinates>-81.681856, 28.889874</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 12/5/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, LAKE, UMATILLA, 37225 WILEY LN</description><Point><coordinates>-81.681856, 28.889874</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/30/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, LAKE, UMATILLA, 933 NORTH CENTAL AVENUE</description><Point><coordinates>-81.666126, 28.939443</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/10/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, MARION, UMATILLA, 14425 SOUTHEAST 209TH TERRACE</description><Point><coordinates>-81.808058, 29.012620</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/4/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, MARION, UMATILLA, 14126 SOUTHEAST 209TH TERRACE</description><Point><coordinates>-81.808226, 29.016985</coordinates></Point></Placemark>

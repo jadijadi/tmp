@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/25/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, ESCAMBIA, PENSACOLA, 10025 HILLVIEW DR 17</description><Point><coordinates>-87.218985, 30.539911</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/25/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, ESCAMBIA, PENSACOLA, 10025 HILLVIEW DR 17</description><Point><coordinates>-87.218985, 30.539911</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, ESCAMBIA, PENSACOLA, 8271 KIPLING ST B</description><Point><coordinates>-87.207154, 30.514341</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/30/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, ESCAMBIA, PENSACOLA, 720  PINECREST AVENUE</description><Point><coordinates>-87.254460, 30.546776</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/18/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, ESCAMBIA, PENSACOLA, 2028  STARK AVENUE</description><Point><coordinates>-87.194713, 30.506569</coordinates></Point></Placemark>

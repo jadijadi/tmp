@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 5/25/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, CLAY, WEST POINT, 2102 LONE OAK CIR</description><Point><coordinates>-88.699846, 33.616638</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/25/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, CLAY, WEST POINT, 2102 LONE OAK CIR</description><Point><coordinates>-88.699846, 33.616638</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, CLAY, WEST POINT, 438 MCCORD ST</description><Point><coordinates>-88.634956, 33.602508</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, CLAY, WEST POINT, 819 COTTON MILL RD</description><Point><coordinates>-88.650325, 33.607619</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, CLAY, WEST POINT, 821 CROMWELL ST</description><Point><coordinates>-88.645663, 33.597327</coordinates></Point></Placemark>

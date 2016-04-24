@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/5/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, GREENE, SPRINGFIELD, 823 JEFFERSON S ST</description><Point><coordinates>-93.290377, 37.199315</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/5/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, GREENE, SPRINGFIELD, 823 JEFFERSON S ST</description><Point><coordinates>-93.290377, 37.199315</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/15/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, GREENE, SPRINGFIELD, 827 FORT S ST</description><Point><coordinates>-93.308067, 37.199756</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/1/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, GREENE, SPRINGFIELD, 856 ROANOKE S AVE</description><Point><coordinates>-93.288083, 37.198487</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/11/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, GREENE, SPRINGFIELD, 2312 COLLEGE W ST</description><Point><coordinates>-93.323582, 37.208408</coordinates></Point></Placemark>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/23/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, SACRAMENTO, SACRAMENTO, 7624 BIRDIE CT</description><Point><coordinates>-121.413740, 38.480662</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/23/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, SACRAMENTO, SACRAMENTO, 7624 BIRDIE CT</description><Point><coordinates>-121.413740, 38.480662</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/6/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, SACRAMENTO, SACRAMENTO, 7662 COUNTRY PARK DRIVE</description><Point><coordinates>-121.402671, 38.478293</coordinates></Point></Placemark>
 
         </Document>

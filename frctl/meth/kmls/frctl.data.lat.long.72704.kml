@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 8/1/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, WASHINGTON, FAYETTEVILLE, 6451 NICOLE ST</description><Point><coordinates>-94.253814, 36.078330</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 8/1/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, WASHINGTON, FAYETTEVILLE, 6451 NICOLE ST</description><Point><coordinates>-94.253814, 36.078330</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/8/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, WASHINGTON, FAYETTEVILLE, 1673 FLORENE STREET</description><Point><coordinates>-94.201940, 36.085474</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/5/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, WASHINGTON, FAYETTEVILLE, 3508 BELMONT</description><Point><coordinates>-94.209548, 36.101690</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/6/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, WASHINGTON, FAYETTEVILLE, 1678 NORTH DOUBLE SPRING ROAD</description><Point><coordinates>-94.254756, 36.086301</coordinates></Point></Placemark>

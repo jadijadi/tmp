@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 10/8/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, TULSA, TULSA, 6827 TRENTON N AVE 1</description><Point><coordinates>-95.968974, 36.254166</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 10/8/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, TULSA, TULSA, 6827 TRENTON N AVE 1</description><Point><coordinates>-95.968974, 36.254166</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/7/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, TULSA, TULSA, 4 49TH N ST</description><Point><coordinates>-95.996031, 36.224191</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/5/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, TULSA, TULSA, 221 EAST 54TH NORTH PLACE</description><Point><coordinates>-95.992455, 36.232365</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/24/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, TULSA, TULSA, 120 WEST 50 PLACE</description><Point><coordinates>-95.997674, 36.226546</coordinates></Point></Placemark>

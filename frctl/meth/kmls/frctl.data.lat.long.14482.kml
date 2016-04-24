@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 12/10/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, GENESEE, LE ROY, 28 CLAY STREET</description><Point><coordinates>-77.992538, 42.975775</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 12/10/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, GENESEE, LE ROY, 28 CLAY STREET</description><Point><coordinates>-77.992538, 42.975775</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/2/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, GENESEE, LE ROY, 9434  STATE ROUTE 19</description><Point><coordinates>-78.009021, 42.956475</coordinates></Point></Placemark>
 
         </Document>

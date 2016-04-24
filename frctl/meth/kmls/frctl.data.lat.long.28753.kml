@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 4/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, MADISON, MARSHALL, 160 TILSON BRANCH</description><Point><coordinates>-82.689046, 35.959006</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, MADISON, MARSHALL, 160 TILSON BRANCH</description><Point><coordinates>-82.689046, 35.959006</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, MADISON, MARSHALL, 248 UPPER BRUSH CREEK</description><Point><coordinates>-82.707076, 35.839512</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, MADISON, MARSHALL, 88 INDIGO BUNTING LN</description><Point><coordinates>-82.684025, 35.797328</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, MADISON, MARSHALL, 967 HENRY NAVES RD</description><Point><coordinates>-82.678915, 35.768387</coordinates></Point></Placemark>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/27/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, FRANKLIN, COWAN, 200 ENGLAND E ST</description><Point><coordinates>-86.008506, 35.164038</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/27/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, FRANKLIN, COWAN, 200 ENGLAND E ST</description><Point><coordinates>-86.008506, 35.164038</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/6/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, FRANKLIN, COWAN, 303 FRANKLIN STREET</description><Point><coordinates>-86.012008, 35.171145</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/29/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, FRANKLIN, COWAN, 313 FRANKLIN ST</description><Point><coordinates>-86.013489, 35.171224</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/22/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, FRANKLIN, COWAN, 107 WALNUT</description><Point><coordinates>-86.015444, 35.162912</coordinates></Point></Placemark>

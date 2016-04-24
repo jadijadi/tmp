@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 4/25/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CARTER, LONE GROVE, SUE MILLER  RD  291</description><Point><coordinates>-97.262795, 34.175372</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/25/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CARTER, LONE GROVE, SUE MILLER  RD  291</description><Point><coordinates>-97.262795, 34.175372</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 26064 NORTHWEST STATE HIGHWAY 58/OK-</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, COMANCHE, LAWTON</description><Point><coordinates>-98.395929, 34.603567</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/19/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CREEK, KELLYVILLE, 8235 127TH WEST S AVE</description><Point><coordinates>-96.213614, 35.943697</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/28/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CREEK, KELLYVILLE, 14756 SOUTH 246TH WEST AVENUE</description><Point><coordinates>-96.213614, 35.943697</coordinates></Point></Placemark>

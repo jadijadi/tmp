@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, MULTNOMAH, PORTLAND, 5224 SE MALDEN DR</description><Point><coordinates>-122.609568, 45.465137</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, MULTNOMAH, PORTLAND, 5224 SE MALDEN DR</description><Point><coordinates>-122.609568, 45.465137</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/5/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, MULTNOMAH, PORTLAND, 5922 SE HAIG</description><Point><coordinates>-122.601299, 45.498019</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, MULTNOMAH, PORTLAND, 5628 SE HOLGATE BLVD 2</description><Point><coordinates>-122.604953, 45.490104</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, MULTNOMAH, PORTLAND, 8514 SE 63 RD</description><Point><coordinates>-122.598333, 45.462098</coordinates></Point></Placemark>

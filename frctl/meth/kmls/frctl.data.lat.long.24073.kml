@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/5/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, MONTGOMERY, CHRISTIANSBURG, 205 STARLIGHT DR</description><Point><coordinates>-80.380239, 37.131043</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/5/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, MONTGOMERY, CHRISTIANSBURG, 205 STARLIGHT DR</description><Point><coordinates>-80.380239, 37.131043</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/19/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, MONTGOMERY, CHRISTIANSBURG, 1563  FIRE TOWER ROAD</description><Point><coordinates>-80.499972, 37.127888</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/12/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, MONTGOMERY, CHRISTIANSBURG, 137  ELLETT DRIVE</description><Point><coordinates>-80.400903, 37.127681</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/10/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, MONTGOMERY, CHRISTIANSBURG, 1600  SIMPSON ROAD 921</description><Point><coordinates>-80.378789, 37.139617</coordinates></Point></Placemark>

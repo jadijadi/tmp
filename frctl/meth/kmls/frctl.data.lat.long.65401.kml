@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 4/11/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, PHELPS, DOOLITTLE, 106 NORTH OUTER ROAD</description><Point><coordinates>-91.859897, 37.946648</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/11/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, PHELPS, DOOLITTLE, 106 NORTH OUTER ROAD</description><Point><coordinates>-91.859897, 37.946648</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/6/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, PHELPS, ROLLA, 2006 BISHOP N AVE</description><Point><coordinates>-91.764750, 37.963460</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, PHELPS, ROLLA, 1407 SPENCER ST</description><Point><coordinates>-91.760901, 37.955310</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, PHELPS, ROLLA, 800 6TH E ST</description><Point><coordinates>-91.762515, 37.948346</coordinates></Point></Placemark>

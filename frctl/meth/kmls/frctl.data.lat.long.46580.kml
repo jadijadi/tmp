@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 7/13/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, KOSCIUSKO, WARSAW, 5691 WEST WOODLAND LANE</description><Point><coordinates>-85.748535, 41.150746</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 7/13/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, KOSCIUSKO, WARSAW, 5691 WEST WOODLAND LANE</description><Point><coordinates>-85.748535, 41.150746</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/25/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, KOSCIUSKO, WARSAW, 2509 EAST CENTER STREET 6</description><Point><coordinates>-85.821869, 41.238819</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/28/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, KOSCIUSKO, WARSAW, 2204 EAST MARKET STREET</description><Point><coordinates>-85.827213, 41.236757</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/31/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, KOSCIUSKO, WARSAW, 106  BOYDSTON</description><Point><coordinates>-85.857599, 41.228532</coordinates></Point></Placemark>

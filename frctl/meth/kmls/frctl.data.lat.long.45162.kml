@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/23/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, CLERMONT, BLANCHESTER, 3220  MARTIN ROAD</description><Point><coordinates>-84.044445, 39.239520</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/23/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, CLERMONT, BLANCHESTER, 3220  MARTIN ROAD</description><Point><coordinates>-84.044445, 39.239520</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/23/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, CLERMONT, BLANCHESTER, 6884  GARRISON SPURLING ROAD</description><Point><coordinates>-84.058221, 39.247108</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/19/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, CLERMONT, GOSHEN, 6886  GARRISON SPURLING</description><Point><coordinates>-84.057255, 39.247807</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/12/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, CLERMONT, PLEASANT PLAIN, 3220 MARTIN RD</description><Point><coordinates>-84.044445, 39.239520</coordinates></Point></Placemark>

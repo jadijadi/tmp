@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 7/15/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, BENTON, SILOAM SPRINGS, 15428 OLD HWY 68 HWY</description><Point><coordinates>-94.540496, 36.188136</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 7/15/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, BENTON, SILOAM SPRINGS, 15428 OLD HWY 68 HWY</description><Point><coordinates>-94.540496, 36.188136</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/21/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, BENTON, SILOAM SPRINGS, 901 GARLAND W ST</description><Point><coordinates>-94.550057, 36.191957</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/25/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, BENTON, SILOAM SPRINGS, 2117 HWY 412 W</description><Point><coordinates>-94.561848, 36.176426</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/12/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, BENTON, SILOAM SPRINGS, 1050 NORTH BRITT STREET</description><Point><coordinates>-94.535702, 36.193418</coordinates></Point></Placemark>

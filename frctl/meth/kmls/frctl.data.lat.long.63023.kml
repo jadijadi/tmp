@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 8/27/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, JEFFERSON, CEDAR HILL, 6025 MARGIE ESTATES</description><Point><coordinates>-90.677438, 38.359648</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 8/27/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, JEFFERSON, CEDAR HILL, 6025 MARGIE ESTATES</description><Point><coordinates>-90.677438, 38.359648</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/5/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, JEFFERSON, DITTMER, 8409 CEDAR LN</description><Point><coordinates>-90.650023, 38.319389</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, JEFFERSON, DITTMER, 8432 HIGHWAY WW</description><Point><coordinates>-90.759038, 38.283971</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/15/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, JEFFERSON, DITTMER, 7881 WOODLAND</description><Point><coordinates>-90.653344, 38.313169</coordinates></Point></Placemark>

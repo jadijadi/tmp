@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, LOGAN, BOONEVILLE, 2295 ANTILOCH RD</description><Point><coordinates>-94.023604, 35.140033</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, LOGAN, BOONEVILLE, 2295 ANTILOCH RD</description><Point><coordinates>-94.023604, 35.140033</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, LOGAN, BOONEVILLE, 253 VINABLE W ST</description><Point><coordinates>-93.924827, 35.137352</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/13/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, LOGAN, BOONEVILLE, 763 6TH W ST</description><Point><coordinates>-93.933741, 35.144227</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/6/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, LOGAN, BOONEVILLE, 9967 STATE 217 HWY</description><Point><coordinates>-93.793915, 35.083577</coordinates></Point></Placemark>

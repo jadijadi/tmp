@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 11/7/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, LEXINGTON, CHAPIN, 152  NORTHSHORE DRIVE</description><Point><coordinates>-81.338510, 34.145262</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 11/7/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, LEXINGTON, CHAPIN, 152  NORTHSHORE DRIVE</description><Point><coordinates>-81.338510, 34.145262</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/7/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, LEXINGTON, CHAPIN, 115  JOE FREE ROAD</description><Point><coordinates>-81.265925, 34.144917</coordinates></Point></Placemark>
 
         </Document>

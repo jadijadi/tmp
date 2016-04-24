@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 4/17/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, GREENE, PARAGOULD, 270 COUNTY ROAD 117 ROAD</description><Point><coordinates>-90.497329, 36.058402</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/17/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, GREENE, PARAGOULD, 270 COUNTY ROAD 117 ROAD</description><Point><coordinates>-90.497329, 36.058402</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/9/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, GREENE, PARAGOULD, 504 CINDY STREET</description><Point><coordinates>-90.553101, 36.060353</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/1/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, GREENE, PARAGOULD, 412 BARD ROAD</description><Point><coordinates>-90.481278, 36.067249</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/7/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, GREENE, PARAGOULD, 807 WEST KINGS HWY</description><Point><coordinates>-90.496339, 36.052583</coordinates></Point></Placemark>

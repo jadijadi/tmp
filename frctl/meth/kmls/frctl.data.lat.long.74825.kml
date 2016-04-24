@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 6/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, PONTOTOC, ALLEN, 1208 2ND N ST</description><Point><coordinates>-96.419908, 34.872229</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, PONTOTOC, ALLEN, 1208 2ND N ST</description><Point><coordinates>-96.419908, 34.872229</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/4/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, PONTOTOC, ALLEN, RURAL ROUTE 1  2432</description><Point><coordinates>-96.412507, 34.878977</coordinates></Point></Placemark>
 
         </Document>

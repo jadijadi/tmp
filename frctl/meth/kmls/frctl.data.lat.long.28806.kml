@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 11/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, BUNCOMBE, ASHEVILLE, 9 WEDGEFIELD DR 503</description><Point><coordinates>-82.606563, 35.533162</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 11/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, BUNCOMBE, ASHEVILLE, 9 WEDGEFIELD DR 503</description><Point><coordinates>-82.606563, 35.533162</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/21/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, BUNCOMBE, ASHEVILLE, 692 SAND HILL RD</description><Point><coordinates>-82.615805, 35.560330</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/7/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, BUNCOMBE, ASHEVILLE, 48 HANSEL AVENUE</description><Point><coordinates>-82.583703, 35.590587</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/30/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, BUNCOMBE, ASHEVILLE, 114-B BELMONT AVENUE</description><Point><coordinates>-82.604909, 35.578039</coordinates></Point></Placemark>

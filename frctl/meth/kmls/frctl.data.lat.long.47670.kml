@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 9/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, GIBSON, PRINCETON, 500 WARNOCK W LOT 3A</description><Point><coordinates>-87.575593, 38.363552</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 9/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, GIBSON, PRINCETON, 500 WARNOCK W LOT 3A</description><Point><coordinates>-87.575593, 38.363552</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/17/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, GIBSON, PRINCETON, SR 64 W RR 3 276</description><Point><coordinates>-87.569731, 38.355279</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/29/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, GIBSON, PRINCETON, 127 STATE E ST 1D</description><Point><coordinates>-87.566715, 38.356184</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/21/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, GIBSON, PRINCETON, 126 MADISON LOT 1</description><Point><coordinates>-87.553382, 38.355042</coordinates></Point></Placemark>

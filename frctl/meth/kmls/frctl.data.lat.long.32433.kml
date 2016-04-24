@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 12/27/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, OKALOOSA, DEFUNIAK SPRINGS, 1052 EAGLES WAY</description><Point><coordinates>-86.343599, 30.793765</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 12/27/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, OKALOOSA, DEFUNIAK SPRINGS, 1052 EAGLES WAY</description><Point><coordinates>-86.343599, 30.793765</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/17/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, WALTON, DE FUNIAK SPRINGS, 142 ROSE CIRCLE</description><Point><coordinates>-86.141771, 30.734745</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/17/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, WALTON, DE FUNIAK SPRINGS, 209  MOSLEY LANE</description><Point><coordinates>-86.196761, 30.752499</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, WALTON, DEFUNIAK SPRINGS, 243 TOLEDO W ST</description><Point><coordinates>-86.119305, 30.724455</coordinates></Point></Placemark>

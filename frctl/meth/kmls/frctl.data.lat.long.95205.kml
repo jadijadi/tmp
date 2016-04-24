@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 8/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, SAN JOAQUIN, STOCKTON, 3416 FARMINGTON E RD 2</description><Point><coordinates>-121.235374, 37.939576</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 8/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, SAN JOAQUIN, STOCKTON, 3416 FARMINGTON E RD 2</description><Point><coordinates>-121.235374, 37.939576</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/25/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, SAN JOAQUIN, STOCKTON, 2274 E FREMONT</description><Point><coordinates>-121.260639, 37.963378</coordinates></Point></Placemark>
 
         </Document>

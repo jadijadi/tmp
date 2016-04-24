@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 12/10/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: PENNSYLVANIA, CRAWFORD, MEADVILLE, 404 & 1/2 POPLAR STREET</description><Point><coordinates>-79.680562, 41.632549</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 12/10/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: PENNSYLVANIA, CRAWFORD, MEADVILLE, 404 & 1/2 POPLAR STREET</description><Point><coordinates>-79.680562, 41.632549</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/15/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: PENNSYLVANIA, CRAWFORD, TITUSVILLE, 820 ROCKWOOD DR 13</description><Point><coordinates>-79.657139, 41.634832</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: PENNSYLVANIA, CRAWFORD, TITUSVILLE, 322 LINDEN W ST</description><Point><coordinates>-79.682389, 41.631354</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: PENNSYLVANIA, CRAWFORD, TITUSVILLE, 117 N. WASHINGTON ST 3</description><Point><coordinates>-79.675211, 41.627550</coordinates></Point></Placemark>

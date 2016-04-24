@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/15/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, PIKE, BEAVER, 1545 HOLBROOK RD</description><Point><coordinates>-82.837558, 38.988696</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/15/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, PIKE, BEAVER, 1545 HOLBROOK RD</description><Point><coordinates>-82.837558, 38.988696</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/25/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, PIKE, BEAVER, 262  BRIGNER ROAD</description><Point><coordinates>-82.913345, 38.995523</coordinates></Point></Placemark>
 
         </Document>

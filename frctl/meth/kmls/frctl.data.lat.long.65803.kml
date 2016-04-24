@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/14/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, GREENE, SPRINGFIELD, 1530 NATIONAL N AVE</description><Point><coordinates>-93.274997, 37.226669</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/14/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, GREENE, SPRINGFIELD, 1530 NATIONAL N AVE</description><Point><coordinates>-93.274997, 37.226669</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, GREENE, SPRINGFIELD, 1603 NATIONAL N B</description><Point><coordinates>-93.275606, 37.227510</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/29/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, GREENE, SPRINGFIELD, 2208 DRURY N</description><Point><coordinates>-93.333212, 37.237859</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/29/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, GREENE, SPRINGFIELD, 2746 SUMMIT N AVE</description><Point><coordinates>-93.283147, 37.247374</coordinates></Point></Placemark>

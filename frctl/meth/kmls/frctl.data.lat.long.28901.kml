@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 4/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CHEROKEE, ANDREWS, 133 JOE HOLLOWAY RD</description><Point><coordinates>-83.724344, 35.223894</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CHEROKEE, ANDREWS, 133 JOE HOLLOWAY RD</description><Point><coordinates>-83.724344, 35.223894</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/9/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CHEROKEE, ANDREWS, 75  WATAUGA LANE</description><Point><coordinates>-83.839284, 35.192828</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CHEROKEE, TOPTON, 132 JOE HALLOWAY RD</description><Point><coordinates>-83.725441, 35.222549</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CHEROKEE, TOPTON, 7 CAMPBELL TER</description><Point><coordinates>-83.705160, 35.247635</coordinates></Point></Placemark>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 5/15/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, HICKMAN, BON AQUA, 1016 BY BLVD</description><Point><coordinates>-87.250074, 35.918560</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/15/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, HICKMAN, BON AQUA, 1016 BY BLVD</description><Point><coordinates>-87.250074, 35.918560</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/24/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, HICKMAN, BON AQUA, 10515  MOSS BRANCH RD.</description><Point><coordinates>-87.269544, 35.958104</coordinates></Point></Placemark>
 
         </Document>

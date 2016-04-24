@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 7/27/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, JEFFERSON, BIRMINGHAM, 4238  CENTER POINT ROAD</description><Point><coordinates>-86.683065, 33.683181</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 7/27/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, JEFFERSON, BIRMINGHAM, 4238  CENTER POINT ROAD</description><Point><coordinates>-86.683065, 33.683181</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/11/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, JEFFERSON, PINSON, 6511  ROE CHANDLER ROAD</description><Point><coordinates>-86.602882, 33.693484</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/11/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, JEFFERSON, PINSON, 6511  ROE CHANDLER ROAD</description><Point><coordinates>-86.602882, 33.693484</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/13/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, JEFFERSON, PINSON, 7070  SELF ROAD</description><Point><coordinates>-86.604920, 33.710458</coordinates></Point></Placemark>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 4/25/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, LOS ANGELES, LONG BEACH, 2124 MC KENZIE AVENUE</description><Point><coordinates>-118.167289, 33.871724</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/25/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, LOS ANGELES, LONG BEACH, 2124 MC KENZIE AVENUE</description><Point><coordinates>-118.167289, 33.871724</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/14/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, LOS ANGELES, LONG BEACH, 3613 LA JARA STREET</description><Point><coordinates>-118.149456, 33.865178</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/4/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, LOS ANGELES, LONG BEACH, 2345 EAST HARDING STREET</description><Point><coordinates>-118.164598, 33.867679</coordinates></Point></Placemark>
 

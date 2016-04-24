@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 6/23/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, DAVIDSON, LEXINGTON, 126 J NETTIE DR</description><Point><coordinates>-80.099884, 35.746321</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/23/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, DAVIDSON, LEXINGTON, 126 J NETTIE DR</description><Point><coordinates>-80.099884, 35.746321</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/13/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, DAVIDSON, LEXINGTON, 38 ROBBINS CIR</description><Point><coordinates>-80.266701, 35.816696</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/8/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, DAVIDSON, LEXINGTON, 14 ROGERS RD</description><Point><coordinates>-80.258034, 35.768686</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/12/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, DAVIDSON, LEXINGTON, 1025 SMITH FARM ROAD</description><Point><coordinates>-80.146440, 35.807548</coordinates></Point></Placemark>

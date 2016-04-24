@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 4/9/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, WAYNE, DUDLEY, 319  CAMP TRAILEE ROAD</description><Point><coordinates>-78.003113, 35.299091</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/9/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, WAYNE, DUDLEY, 319  CAMP TRAILEE ROAD</description><Point><coordinates>-78.003113, 35.299091</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/30/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, WAYNE, DUDLEY, 847  GENOA ROAD</description><Point><coordinates>-78.016228, 35.309986</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/27/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, WAYNE, DUDLEY, 3900  ARRINGTON BRIDGE ROAD</description><Point><coordinates>-77.953313, 35.253120</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/24/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, WAYNE, DUDLEY, 2121  EMMAUS CHURCH ROAD</description><Point><coordinates>-78.014709, 35.252962</coordinates></Point></Placemark>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 6/3/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, ALLEGHANY, LAUREL SPRINGS, 2784 NEW HOPE CHURCH RD</description><Point><coordinates>-81.263152, 36.463407</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/3/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, ALLEGHANY, LAUREL SPRINGS, 2784 NEW HOPE CHURCH RD</description><Point><coordinates>-81.263152, 36.463407</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, ASHE, LAUREL SPRINGS, 455 HIRAM BARE RD</description><Point><coordinates>-81.284098, 36.381191</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, ASHE, LAUREL SPRINGS, 1031 BIG PEAK CREEK RD</description><Point><coordinates>-81.310230, 36.404379</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, ASHE, LAUREL SPRINGS, 360 ORE VALLEY RD</description><Point><coordinates>-81.320328, 36.396951</coordinates></Point></Placemark>

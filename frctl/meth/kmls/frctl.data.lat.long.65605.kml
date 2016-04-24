@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 12/12/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BARRY, AURORA, 13039 FARM ROAD 1157</description><Point><coordinates>-93.686680, 36.768859</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 12/12/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BARRY, AURORA, 13039 FARM ROAD 1157</description><Point><coordinates>-93.686680, 36.768859</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/13/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LAWRENCE, AURORA, 1600 ENGLE S 21</description><Point><coordinates>-93.700837, 36.957070</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LAWRENCE, AURORA, 19557 LAWRENCE 2180</description><Point><coordinates>-93.707970, 37.012514</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/23/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LAWRENCE, AURORA, 18205 K HWY 7</description><Point><coordinates>-93.717979, 36.970891</coordinates></Point></Placemark>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 4/29/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, BUTLER, HAMILTON, 1816 PANKOMO AVE</description><Point><coordinates>-84.561335, 39.399501</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/29/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, BUTLER, HAMILTON, 1816 PANKOMO AVE</description><Point><coordinates>-84.561335, 39.399501</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/14/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, CLARK, SPRINGFIELD, 49 LAVERNE LN</description><Point><coordinates>-83.808817, 39.924227</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/31/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, CLERMONT, LOVELAND, 122 GREEN ACRES MHP DR</description><Point><coordinates>-84.263826, 39.268948</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/29/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, FRANKLIN, COLUMBUS, 789 WHITETHORN AVENUE</description><Point><coordinates>-82.998794, 39.961176</coordinates></Point></Placemark>

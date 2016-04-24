@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 11/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JENNINGS, BUTLERVILLE, 750 CR 650 E N</description><Point><coordinates>-85.492299, 38.996654</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 11/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JENNINGS, BUTLERVILLE, 750 CR 650 E N</description><Point><coordinates>-85.492299, 38.996654</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/9/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JENNINGS, BUTLERVILLE, 750 650 E N</description><Point><coordinates>-85.492299, 38.996654</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/4/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JENNINGS, BUTLERVILLE, 5325 EAST US50</description><Point><coordinates>-85.513391, 39.032563</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/12/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JENNINGS, BUTLERVILLE, 1435 NORTH CR 750 EAST</description><Point><coordinates>-85.473001, 39.006794</coordinates></Point></Placemark>

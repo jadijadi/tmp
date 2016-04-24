@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 9/5/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, SAN LUIS OBISPO, PASO ROBLES, 749 ORCHARD</description><Point><coordinates>-120.667779, 35.628454</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 9/5/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, SAN LUIS OBISPO, PASO ROBLES, 749 ORCHARD</description><Point><coordinates>-120.667779, 35.628454</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/25/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, SAN LUIS OBISPO, PASO ROBLES, 512 FEIN STREET</description><Point><coordinates>-120.695690, 35.652701</coordinates></Point></Placemark>
 
         </Document>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 10/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, ADAMS, QUINCY, 705 REAR 7TH ST</description><Point><coordinates>-91.409873, 39.935602</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 10/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, ADAMS, QUINCY, 705 REAR 7TH ST</description><Point><coordinates>-91.409873, 39.935602</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/8/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, ADAMS, QUINCY, 2512  HURLEY</description><Point><coordinates>-91.409873, 39.935602</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, CHRISTIAN, TAYLORVILLE, 1318 VANDAVEER W ST</description><Point><coordinates>-89.294533, 39.548935</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/6/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, JACKSON, CARBONDALE, 1423 JULIANNE</description><Point><coordinates>-89.216750, 37.727273</coordinates></Point></Placemark>

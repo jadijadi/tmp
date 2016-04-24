@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 4/10/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WEST VIRGINIA, KANAWHA, CHARLESTON, 999  WILLS CREEK</description><Point><coordinates>-81.496306, 38.457417</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/10/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WEST VIRGINIA, KANAWHA, CHARLESTON, 999  WILLS CREEK</description><Point><coordinates>-81.496306, 38.457417</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WEST VIRGINIA, KANAWHA, ELKVIEW, 5101 ELK RIVER RD</description><Point><coordinates>-81.390468, 38.474665</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/23/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WEST VIRGINIA, KANAWHA, ELKVIEW, 121 NEW HOPE RD</description><Point><coordinates>-81.468159, 38.424522</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/23/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WEST VIRGINIA, KANAWHA, ELKVIEW, 565 NEW HOPE RD</description><Point><coordinates>-81.460584, 38.438463</coordinates></Point></Placemark>

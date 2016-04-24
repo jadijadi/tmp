@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 12/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, JOHNSTON, MIDDLESEX, 10590 N. C. HIGHWAY 39 N</description><Point><coordinates>-78.255837, 35.728135</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 12/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, JOHNSTON, MIDDLESEX, 10590 N. C. HIGHWAY 39 N</description><Point><coordinates>-78.255837, 35.728135</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/31/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, JOHNSTON, MIDDLESEX, 7955 FLOWERHILL RD</description><Point><coordinates>-78.193039, 35.715141</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/5/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, JOHNSTON, MIDDLESEX, 9180 NC 222 W HWY</description><Point><coordinates>-78.219852, 35.691781</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/12/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, NASH, BAILEY, 8623 STRICKLAND ROAD</description><Point><coordinates>-78.143893, 35.847473</coordinates></Point></Placemark>

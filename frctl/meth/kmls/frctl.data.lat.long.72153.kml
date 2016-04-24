@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 5/20/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, VAN BUREN, SHIRLEY, SHADY GROVE ROAD 1235</description><Point><coordinates>-92.362650, 35.647048</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/20/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, VAN BUREN, SHIRLEY, SHADY GROVE ROAD 1235</description><Point><coordinates>-92.362650, 35.647048</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/6/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, VAN BUREN, SHIRLEY, 746 SILLS PENINSULA ROAD</description><Point><coordinates>-92.368560, 35.559804</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/22/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, VAN BUREN, SHIRLEY, 149  SAM</description><Point><coordinates>-92.319632, 35.658847</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/15/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, VAN BUREN, SHIRLEY, 458  MAGPIE</description><Point><coordinates>-92.367100, 35.644955</coordinates></Point></Placemark>

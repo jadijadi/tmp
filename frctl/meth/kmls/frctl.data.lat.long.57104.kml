@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH DAKOTA, MINNEHAHA, SIOUX FALLS, 528 MENLO N AVE</description><Point><coordinates>-96.739808, 43.552877</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH DAKOTA, MINNEHAHA, SIOUX FALLS, 528 MENLO N AVE</description><Point><coordinates>-96.739808, 43.552877</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/24/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH DAKOTA, MINNEHAHA, SIOUX FALLS, 815 WALTS S AVE</description><Point><coordinates>-96.738512, 43.538289</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/29/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH DAKOTA, MINNEHAHA, SIOUX FALLS, 632 SOUTH 3RD AVENUE #6</description><Point><coordinates>-96.722281, 43.540889</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/1/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH DAKOTA, MINNEHAHA, SIOUX FALLS, 233 SOUTH DULUTH AVENUE 2</description><Point><coordinates>-96.734220, 43.545058</coordinates></Point></Placemark>

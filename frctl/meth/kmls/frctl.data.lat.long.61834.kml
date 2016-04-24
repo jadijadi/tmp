@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 5/13/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, VERMILION, DANVILLE, 1800 PERRYSVILLE RD 5</description><Point><coordinates>-87.595402, 40.108727</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/13/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, VERMILION, DANVILLE, 1800 PERRYSVILLE RD 5</description><Point><coordinates>-87.595402, 40.108727</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, VERMILION, DANVILLE, 411 LYNCH DR 334</description><Point><coordinates>-87.540037, 40.120846</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/18/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, VERMILION, DANVILLE, 3103 DAISY CT</description><Point><coordinates>-87.572670, 40.130524</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/12/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, VERMILION, DANVILLE, 1831 PERRYSVILLE RD 64</description><Point><coordinates>-87.595220, 40.108738</coordinates></Point></Placemark>

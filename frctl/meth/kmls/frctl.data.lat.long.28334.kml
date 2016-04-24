@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 7/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, HARNETT, DUNN, 2937 BUD HAWKINS RD</description><Point><coordinates>-78.622731, 35.256798</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 7/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, HARNETT, DUNN, 2937 BUD HAWKINS RD</description><Point><coordinates>-78.622731, 35.256798</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/1/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, HARNETT, DUNN, 595 SADLER ROAD</description><Point><coordinates>-78.569196, 35.324289</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/19/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, HARNETT, DUNN, 3603 ASHE AVENUE</description><Point><coordinates>-78.640189, 35.335952</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/24/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, HARNETT, DUNN, 14 ALLSPICE LANE</description><Point><coordinates>-78.620450, 35.271825</coordinates></Point></Placemark>

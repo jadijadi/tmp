@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MARSHALL, ARAB, 631 MAIN N ST</description><Point><coordinates>-86.497630, 34.325423</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MARSHALL, ARAB, 631 MAIN N ST</description><Point><coordinates>-86.497630, 34.325423</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/29/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MARSHALL, ARAB, 1812 FRYGAP RD</description><Point><coordinates>-86.469031, 34.306275</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MARSHALL, ARAB, 134 FOOTHILL CIR</description><Point><coordinates>-86.516380, 34.378161</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MARSHALL, ARAB, 1891 FRIENDSHIP RD</description><Point><coordinates>-86.472426, 34.354180</coordinates></Point></Placemark>

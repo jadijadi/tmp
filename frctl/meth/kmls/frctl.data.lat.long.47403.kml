@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MONROE, BLOOMINGTON, 7122 LODGE S RD</description><Point><coordinates>-86.590815, 39.070319</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MONROE, BLOOMINGTON, 7122 LODGE S RD</description><Point><coordinates>-86.590815, 39.070319</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/30/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MONROE, BLOOMINGTON, 2911 LEONARD SPRINGS ROAD</description><Point><coordinates>-86.582591, 39.134925</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/23/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MONROE, BLOOMINGTON, 7255  VICTOR PIKE</description><Point><coordinates>-86.571869, 39.073218</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/18/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MONROE, BLOOMINGTON, 1142 EAST POPCORN ROAD</description><Point><coordinates>-86.549976, 39.012141</coordinates></Point></Placemark>

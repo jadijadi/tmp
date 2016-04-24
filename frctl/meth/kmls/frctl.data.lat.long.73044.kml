@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 7/19/2000</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, LOGAN, GUTHRIE, 707 ASH</description><Point><coordinates>-97.421534, 35.884570</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 7/19/2000</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, LOGAN, GUTHRIE, 707 ASH</description><Point><coordinates>-97.421534, 35.884570</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/5/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, LOGAN, GUTHRIE, 1011 JEFFERSON E</description><Point><coordinates>-97.421513, 35.886326</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/27/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, LOGAN, GUTHRIE, 1023 HARRISON E</description><Point><coordinates>-97.412665, 35.876778</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/6/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, LOGAN, GUTHRIE, 13200 ARMADILLO  DR</description><Point><coordinates>-97.262345, 35.878832</coordinates></Point></Placemark>

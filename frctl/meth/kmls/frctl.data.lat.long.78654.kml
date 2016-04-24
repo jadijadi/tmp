@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/25/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, BURNET, MARBLE FALLS, 604 D AVE</description><Point><coordinates>-98.270077, 30.572517</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/25/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, BURNET, MARBLE FALLS, 604 D AVE</description><Point><coordinates>-98.270077, 30.572517</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/17/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, BURNET, MARBLE FALLS, 2022 COUNTY 306 RD</description><Point><coordinates>-98.272800, 30.578245</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/13/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, BURNET, MARBLE FALLS, 1568 COUNTY ROAD 334 RD</description><Point><coordinates>-98.272800, 30.578245</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/30/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, BURNET, MARBLE FALLS, 1105 ASH STREET</description><Point><coordinates>-98.290190, 30.558530</coordinates></Point></Placemark>

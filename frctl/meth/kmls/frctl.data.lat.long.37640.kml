@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 10/11/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, JOHNSON, BUTLER, 323 GREEN RD</description><Point><coordinates>-81.943181, 36.305434</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 10/11/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, JOHNSON, BUTLER, 323 GREEN RD</description><Point><coordinates>-81.943181, 36.305434</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, JOHNSON, BUTLER, 473 DYE LEAF RD</description><Point><coordinates>-81.964024, 36.269850</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/21/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, JOHNSON, BUTLER, 233 WOLFE LN</description><Point><coordinates>-81.937794, 36.304735</coordinates></Point></Placemark>
 

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/5/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, CALHOUN, FULTON, 1977 S DR S</description><Point><coordinates>-85.253440, 42.111062</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/5/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, CALHOUN, FULTON, 1977 S DR S</description><Point><coordinates>-85.253440, 42.111062</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/8/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, KALAMAZOO, FULTON, 15905 Z E AVE</description><Point><coordinates>-85.349499, 42.071437</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/9/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, KALAMAZOO, FULTON, 14157 42ND S ST</description><Point><coordinates>-85.352726, 42.112514</coordinates></Point></Placemark>
 

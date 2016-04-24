@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 5/5/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, PULASKI, LITTLE ROCK, 7700 BUNCH RD</description><Point><coordinates>-92.365080, 34.637956</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/5/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, PULASKI, LITTLE ROCK, 7700 BUNCH RD</description><Point><coordinates>-92.365080, 34.637956</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/10/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, PULASKI, LITTLE ROCK, 10024 NASH LN</description><Point><coordinates>-92.394319, 34.659388</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/13/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, PULASKI, LITTLE ROCK, 12511 HEINKE RD</description><Point><coordinates>-92.379983, 34.636992</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/23/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, PULASKI, LITTLE ROCK, 10024 NASH LN</description><Point><coordinates>-92.394319, 34.659388</coordinates></Point></Placemark>

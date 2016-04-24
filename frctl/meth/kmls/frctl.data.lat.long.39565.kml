@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/13/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, JACKSON, VANCLEAVE, 17401 HWY 57 W</description><Point><coordinates>-88.721907, 30.600533</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/13/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, JACKSON, VANCLEAVE, 17401 HWY 57 W</description><Point><coordinates>-88.721907, 30.600533</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/11/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, JACKSON, VANCLEAVE, 1701 RIVER HEIGHTS DRIVE</description><Point><coordinates>-88.646015, 30.590681</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/25/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, JACKSON, VANCLEAVE, 9151 REDGATE DRIVE</description><Point><coordinates>-88.763012, 30.539930</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/23/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, JACKSON, VANCLEAVE, 17217  OLD BILOXI CUT OFF ROAD</description><Point><coordinates>-88.687524, 30.540474</coordinates></Point></Placemark>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 10/24/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, OKLAHOMA, OKLAHOMA CITY, 3208 86TH SW ST</description><Point><coordinates>-97.571936, 35.380476</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 10/24/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, OKLAHOMA, OKLAHOMA CITY, 3208 86TH SW ST</description><Point><coordinates>-97.571936, 35.380476</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/4/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, OKLAHOMA, OKLAHOMA CITY, 2720 74TH SW ST 30</description><Point><coordinates>-97.562411, 35.391165</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/12/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, OKLAHOMA, OKLAHOMA CITY, 1512 62 SW ST</description><Point><coordinates>-97.545390, 35.402157</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/1/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, OKLAHOMA, OKLAHOMA CITY, 8521 DREXEL S AVE</description><Point><coordinates>-97.570389, 35.382356</coordinates></Point></Placemark>

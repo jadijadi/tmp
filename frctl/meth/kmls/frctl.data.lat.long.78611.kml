@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, BURNET, BURNET, 503 WATER N 8</description><Point><coordinates>-98.229711, 30.761900</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, BURNET, BURNET, 503 WATER N 8</description><Point><coordinates>-98.229711, 30.761900</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/29/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, BURNET, BURNET, 203 STATE HIGHWAY 281,  LACO</description><Point><coordinates>-98.228358, 30.758238</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/19/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, BURNET, BURNET, 200  WAYWARD DRIVE</description><Point><coordinates>-98.298164, 30.761581</coordinates></Point></Placemark>
 

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 7/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, TRIMBLE, BEDFORD, 64 MARTINI LN</description><Point><coordinates>-85.280708, 38.533882</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 7/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, TRIMBLE, BEDFORD, 64 MARTINI LN</description><Point><coordinates>-85.280708, 38.533882</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, TRIMBLE, BEDFORD, 661 RICHMOND HILL RD</description><Point><coordinates>-85.249734, 38.591457</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/12/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, TRIMBLE, BEDFORD, 918 421 HWY</description><Point><coordinates>-85.316697, 38.600712</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/11/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, TRIMBLE, BEDFORD, 456 LEAR LN</description><Point><coordinates>-85.261998, 38.518196</coordinates></Point></Placemark>

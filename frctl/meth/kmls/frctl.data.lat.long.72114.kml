@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, PULASKI, NORTH LITTLE ROCK, 2015 FLORA</description><Point><coordinates>-92.286300, 34.774663</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, PULASKI, NORTH LITTLE ROCK, 2015 FLORA</description><Point><coordinates>-92.286300, 34.774663</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/25/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, PULASKI, NORTH LITTLE ROCK, 1414 PARKER W</description><Point><coordinates>-92.280318, 34.768404</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, PULASKI, NORTH LITTLE ROCK, 400 29TH W ST 222</description><Point><coordinates>-92.272436, 34.781347</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/17/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, PULASKI, NORTH LITTLE ROCK, 1512 NANNETTE</description><Point><coordinates>-92.289223, 34.769228</coordinates></Point></Placemark>

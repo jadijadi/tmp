@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, BENTON, LOWELL, 419 APPLE BLOSSOM W</description><Point><coordinates>-94.145759, 36.239316</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, BENTON, LOWELL, 419 APPLE BLOSSOM W</description><Point><coordinates>-94.145759, 36.239316</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, BENTON, LOWELL, 5230 NOLAND LN</description><Point><coordinates>-94.067767, 36.226495</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/6/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, BENTON, LOWELL, 12350 MAINS RD</description><Point><coordinates>-94.097954, 36.247398</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, BENTON, LOWELL, 310 ZION S ST</description><Point><coordinates>-94.189386, 36.250067</coordinates></Point></Placemark>

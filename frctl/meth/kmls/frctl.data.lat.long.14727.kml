@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/22/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, ALLEGANY, NEW HUDSON, 7290 RAWSON ROAD</description><Point><coordinates>-78.300973, 42.268871</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/22/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, ALLEGANY, NEW HUDSON, 7290 RAWSON ROAD</description><Point><coordinates>-78.300973, 42.268871</coordinates></Point></Placemark>
 
         </Document>
         </kml>

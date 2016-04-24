@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 10/23/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, VAN BUREN, LAWTON, 33410 88TH AVE</description><Point><coordinates>-85.872093, 42.098408</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 10/23/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, VAN BUREN, LAWTON, 33410 88TH AVE</description><Point><coordinates>-85.872093, 42.098408</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/15/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, VAN BUREN, LAWTON, 31374 64TH AVE</description><Point><coordinates>-85.854250, 42.186180</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/10/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, VAN BUREN, LAWTON, 913 CEMETARY DR</description><Point><coordinates>-85.836178, 42.171520</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/23/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, VAN BUREN, LAWTON, 75910 MARIE DRIVE</description><Point><coordinates>-85.777664, 42.142394</coordinates></Point></Placemark>

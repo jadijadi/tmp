@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/28/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, BRYAN, DURANT, 223 13TH N</description><Point><coordinates>-96.389686, 33.996216</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/28/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, BRYAN, DURANT, 223 13TH N</description><Point><coordinates>-96.389686, 33.996216</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/10/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, BRYAN, DURANT, 1901 MISSISSIPPI   G75</description><Point><coordinates>-96.397954, 33.989508</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/29/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, BRYAN, DURANT, 1901 MISSISSIPPI   H90</description><Point><coordinates>-96.397954, 33.989508</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/3/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, BRYAN, DURANT, 1312 6TH N ST 11</description><Point><coordinates>-96.378382, 34.004013</coordinates></Point></Placemark>

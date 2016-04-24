@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 12/13/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEBRASKA, MADISON, NORFOLK, 305 14TH S ST</description><Point><coordinates>-97.428882, 42.029770</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 12/13/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEBRASKA, MADISON, NORFOLK, 305 14TH S ST</description><Point><coordinates>-97.428882, 42.029770</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEBRASKA, MADISON, NORFOLK, 304 12TH S ST 1</description><Point><coordinates>-97.423074, 42.029910</coordinates></Point></Placemark>
 
         </Document>

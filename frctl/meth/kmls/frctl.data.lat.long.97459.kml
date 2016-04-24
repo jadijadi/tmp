@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 5/21/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, COOS, NORTH BEND, 94988 GOLF COURSE LANE</description><Point><coordinates>-124.178745, 43.424106</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/21/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, COOS, NORTH BEND, 94988 GOLF COURSE LANE</description><Point><coordinates>-124.178745, 43.424106</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/15/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, COOS, NORTH BEND, 1105 BEREA</description><Point><coordinates>-124.224280, 43.406501</coordinates></Point></Placemark>
 
         </Document>

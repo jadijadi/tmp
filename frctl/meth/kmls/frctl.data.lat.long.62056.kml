@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 12/3/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, MONTGOMERY, LITCHFIELD, 634 OLD QUARRY TRL</description><Point><coordinates>-89.614179, 39.166717</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 12/3/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, MONTGOMERY, LITCHFIELD, 634 OLD QUARRY TRL</description><Point><coordinates>-89.614179, 39.166717</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/7/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, MONTGOMERY, LITCHFIELD, 115 WATER E ST</description><Point><coordinates>-89.655318, 39.168095</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/28/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, MONTGOMERY, LITCHFIELD, 847 MOZART N</description><Point><coordinates>-89.654258, 39.175326</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/10/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, MONTGOMERY, LITCHFIELD, 723 BROWN N ST</description><Point><coordinates>-89.662343, 39.180236</coordinates></Point></Placemark>

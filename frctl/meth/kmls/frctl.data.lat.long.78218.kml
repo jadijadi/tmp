@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, BEXAR, SAN ANTONIO, 7306 HARLOW 1C</description><Point><coordinates>-98.418176, 29.498974</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, BEXAR, SAN ANTONIO, 7306 HARLOW 1C</description><Point><coordinates>-98.418176, 29.498974</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/27/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, BEXAR, SAN ANTONIO, 4801 GOLDFIELD 5</description><Point><coordinates>-98.396646, 29.481796</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/21/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, BEXAR, SAN ANTONIO, 6810 GLENDORA STREET</description><Point><coordinates>-98.402504, 29.491629</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/15/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, BEXAR, SAN ANTONIO, 3900 EISENHAUER ROAD 207</description><Point><coordinates>-98.419757, 29.495993</coordinates></Point></Placemark>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 4/11/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, CAMPBELL, CARYVILLE, 151 RESIVIOR LN</description><Point><coordinates>-84.193993, 36.270872</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/11/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, CAMPBELL, CARYVILLE, 151 RESIVIOR LN</description><Point><coordinates>-84.193993, 36.270872</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/8/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, CAMPBELL, CARYVILLE, 488 SPRUCE LN 17</description><Point><coordinates>-84.221277, 36.316965</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/8/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, CAMPBELL, CARYVILLE, 328 LAKE LANE</description><Point><coordinates>-84.217704, 36.294529</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/6/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, CAMPBELL, CARYVILLE, 112 SHADY GROVE ROAD</description><Point><coordinates>-84.171066, 36.260079</coordinates></Point></Placemark>

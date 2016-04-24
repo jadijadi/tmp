@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/21/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JEFFERSON, HANOVER, 9618  E BETHEL ROAD</description><Point><coordinates>-85.563687, 38.649862</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/21/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JEFFERSON, HANOVER, 9618  E BETHEL ROAD</description><Point><coordinates>-85.563687, 38.649862</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/22/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, SCOTT, BLOCHER, 6426 WEBSTER E</description><Point><coordinates>-85.656261, 38.717620</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/21/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, SCOTT, LEXINGTON, 8006 EAST MACE ROAD</description><Point><coordinates>-85.625487, 38.634195</coordinates></Point></Placemark>
 

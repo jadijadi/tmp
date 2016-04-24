@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/30/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, WASHINGTON, BARTLESVILLE, 310 STATE S ST</description><Point><coordinates>-95.935019, 36.753385</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/30/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, WASHINGTON, BARTLESVILLE, 310 STATE S ST</description><Point><coordinates>-95.935019, 36.753385</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/12/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, WASHINGTON, BARTLESVILLE, 3906 INDIANA  ST</description><Point><coordinates>-95.933800, 36.762509</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/9/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, WASHINGTON, BARTLESVILLE, 3822 OHIO NE</description><Point><coordinates>-95.927927, 36.760675</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/7/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, WASHINGTON, BARTLESVILLE, 1700 SOUTHEAST BARLOW DRIVE APT: 24</description><Point><coordinates>-95.926485, 36.727312</coordinates></Point></Placemark>

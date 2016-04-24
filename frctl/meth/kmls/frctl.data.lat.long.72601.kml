@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/5/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, BOONE, HARRISON, 3953 VALLEY RD</description><Point><coordinates>-92.975938, 36.160629</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/5/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, BOONE, HARRISON, 3953 VALLEY RD</description><Point><coordinates>-92.975938, 36.160629</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, BOONE, HARRISON, 4806 PAYNE RD</description><Point><coordinates>-93.064271, 36.269245</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, BOONE, HARRISON, 1107 WINDING HILLS RD</description><Point><coordinates>-93.056877, 36.302114</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, BOONE, HARRISON, 621 HOLT W ST</description><Point><coordinates>-93.114089, 36.239416</coordinates></Point></Placemark>

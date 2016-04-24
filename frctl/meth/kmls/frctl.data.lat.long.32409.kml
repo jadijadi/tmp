@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 6/15/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, BAY, PANAMA CITY, 320 NEWMAN POINT ROAD</description><Point><coordinates>-85.669595, 30.281506</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/15/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, BAY, PANAMA CITY, 320 NEWMAN POINT ROAD</description><Point><coordinates>-85.669595, 30.281506</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/27/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, BAY, SOUTHPORT, 7401 GAINER BAYOU S RD</description><Point><coordinates>-85.622653, 30.284003</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/11/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, BAY, SOUTHPORT, 1218 5TH ST</description><Point><coordinates>-85.654634, 30.289025</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, BAY, SOUTHPORT, 2002 BAYBERRY LN</description><Point><coordinates>-85.722693, 30.392474</coordinates></Point></Placemark>

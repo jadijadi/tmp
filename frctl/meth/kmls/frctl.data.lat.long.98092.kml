@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, KING, AUBURN, 11604 SE 323 PL</description><Point><coordinates>-122.186773, 47.312285</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, KING, AUBURN, 11604 SE 323 PL</description><Point><coordinates>-122.186773, 47.312285</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/17/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, KING, AUBURN, 20231 AUBURN BLACK DIAMOND RD</description><Point><coordinates>-122.072245, 47.295740</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/7/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, KING, KENT, 30665 KENT BLACK DIAMOND RD</description><Point><coordinates>-122.114512, 47.326207</coordinates></Point></Placemark>
 

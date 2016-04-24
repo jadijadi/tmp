@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/5/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, MARQUETTE, MARQUETTE, 427  ROCK STREET 4</description><Point><coordinates>-87.401511, 46.540956</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/5/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, MARQUETTE, MARQUETTE, 427  ROCK STREET 4</description><Point><coordinates>-87.401511, 46.540956</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/13/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, MARQUETTE, MARQUETTE, 777  PIONEER ROAD  BOX 190</description><Point><coordinates>-87.408316, 46.527185</coordinates></Point></Placemark>
 
         </Document>

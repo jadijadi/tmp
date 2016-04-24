@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/24/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, FRANKLIN, HODGES, 7929 HWY 172</description><Point><coordinates>-87.994000, 34.356337</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/24/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, FRANKLIN, HODGES, 7929 HWY 172</description><Point><coordinates>-87.994000, 34.356337</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/15/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, FRANKLIN, HODGES, 3103  172 HIGHWAY 1</description><Point><coordinates>-87.942845, 34.343345</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/26/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, FRANKLIN, HODGES, 2504  SUNSET ROAD</description><Point><coordinates>-87.960817, 34.333244</coordinates></Point></Placemark>
 

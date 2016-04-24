@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 6/22/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, PREBLE, WEST ALEXANDRIA, 6058 IVY LANE</description><Point><coordinates>-84.529116, 39.737992</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/22/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, PREBLE, WEST ALEXANDRIA, 6058 IVY LANE</description><Point><coordinates>-84.529116, 39.737992</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/25/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, PREBLE, WEST ALEXANDRIA, 12 EAST DAYTON STREET</description><Point><coordinates>-84.531515, 39.744182</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/7/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, PREBLE, WEST ALEXANDRIA, 218 NATION AVENUE</description><Point><coordinates>-84.532173, 39.744497</coordinates></Point></Placemark>
 

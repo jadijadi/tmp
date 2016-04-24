@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 12/7/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, WHITE, BALD KNOB, 640 STANLEY RD</description><Point><coordinates>-91.615928, 35.396142</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 12/7/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, WHITE, BALD KNOB, 640 STANLEY RD</description><Point><coordinates>-91.615928, 35.396142</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/9/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, WHITE, BALD KNOB, 310 EAST JONES DRIVE</description><Point><coordinates>-91.635405, 35.382807</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/20/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, WHITE, BALD KNOB, 640 STANLEY RD</description><Point><coordinates>-91.615928, 35.396142</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/24/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, WHITE, BALD KNOB, 603 SOUTH MAIN STREET</description><Point><coordinates>-91.565959, 35.309289</coordinates></Point></Placemark>

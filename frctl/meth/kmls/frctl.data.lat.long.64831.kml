@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, MCDONALD, ANDERSON, 2230 RACETRACK HOLLOW RD</description><Point><coordinates>-94.386404, 36.626130</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, MCDONALD, ANDERSON, 2230 RACETRACK HOLLOW RD</description><Point><coordinates>-94.386404, 36.626130</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/13/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, MCDONALD, ANDERSON, 1010 LONE DOVE RD</description><Point><coordinates>-94.443550, 36.650627</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/26/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, MCDONALD, ANDERSON, 1201 HODSONWAY</description><Point><coordinates>-94.540142, 36.676932</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/26/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, MCDONALD, ANDERSON, 2222 KLONDIKE RD</description><Point><coordinates>-94.443550, 36.650627</coordinates></Point></Placemark>

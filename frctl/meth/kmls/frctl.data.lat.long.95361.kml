@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/5/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, STANISLAUS, OAKDALE, 143 N 6TH ST</description><Point><coordinates>-120.843573, 37.769019</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/5/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, STANISLAUS, OAKDALE, 143 N 6TH ST</description><Point><coordinates>-120.843573, 37.769019</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, STANISLAUS, OAKDALE, 13537 ORANGE BLOSSOM RD</description><Point><coordinates>-120.744959, 37.791495</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, STANISLAUS, OAKDALE, 410 ARBOLES WAY</description><Point><coordinates>-120.836854, 37.765981</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/29/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, STANISLAUS, OAKDALE, 755 RIVER AVE</description><Point><coordinates>-120.853377, 37.773884</coordinates></Point></Placemark>

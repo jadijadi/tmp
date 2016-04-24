@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 4/16/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, SEQUOYAH, GORE, 210 10TH E ST</description><Point><coordinates>-95.121635, 35.526625</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/16/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, SEQUOYAH, GORE, 210 10TH E ST</description><Point><coordinates>-95.121635, 35.526625</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/14/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, SEQUOYAH, GORE, 322 2ND E</description><Point><coordinates>-95.115321, 35.532654</coordinates></Point></Placemark>
 
         </Document>

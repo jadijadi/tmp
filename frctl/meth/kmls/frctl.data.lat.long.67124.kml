@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 8/11/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, PRATT, PRATT, 324 THIRD W ST</description><Point><coordinates>-98.743167, 37.643967</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 8/11/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, PRATT, PRATT, 324 THIRD W ST</description><Point><coordinates>-98.743167, 37.643967</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/14/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, PRATT, PRATT, 807 WEST 6TH STREET</description><Point><coordinates>-98.749214, 37.640947</coordinates></Point></Placemark>
 
         </Document>

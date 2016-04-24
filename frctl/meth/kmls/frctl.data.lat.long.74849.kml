@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 7/23/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, SEMINOLE, KONAWA, 12310  N 152ND E AVE</description><Point><coordinates>-96.752796, 34.959526</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 7/23/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, SEMINOLE, KONAWA, 12310  N 152ND E AVE</description><Point><coordinates>-96.752796, 34.959526</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/26/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, SEMINOLE, KONAWA, 19024 TRACY E RD</description><Point><coordinates>-96.752796, 34.959526</coordinates></Point></Placemark>
 
         </Document>

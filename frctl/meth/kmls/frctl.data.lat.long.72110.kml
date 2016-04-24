@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, CONWAY, MORRILTON, 300 HARDING W ST 107</description><Point><coordinates>-92.746843, 35.163629</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, CONWAY, MORRILTON, 300 HARDING W ST 107</description><Point><coordinates>-92.746843, 35.163629</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, CONWAY, MORRILTON, 15 HAVIN RD</description><Point><coordinates>-92.744054, 35.150917</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, CONWAY, MORRILTON, 2695 HWY 9 N</description><Point><coordinates>-92.695967, 35.223546</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/1/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, CONWAY, MORRILTON, 206 ARTHUR STREET</description><Point><coordinates>-92.728397, 35.165246</coordinates></Point></Placemark>

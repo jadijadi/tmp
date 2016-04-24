@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 12/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, KERN, RIDGECREST, 709 W ATKINS AVE</description><Point><coordinates>-117.683901, 35.650498</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 12/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, KERN, RIDGECREST, 709 W ATKINS AVE</description><Point><coordinates>-117.683901, 35.650498</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/4/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, KERN, RIDGECREST, 345 WEST MOYER AVENUE</description><Point><coordinates>-117.676422, 35.645023</coordinates></Point></Placemark>
 
         </Document>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/9/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, WHITE, SEARCY, 110 COLLEGE S ST</description><Point><coordinates>-91.750491, 35.248320</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/9/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, WHITE, SEARCY, 110 COLLEGE S ST</description><Point><coordinates>-91.750491, 35.248320</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/13/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, WHITE, SEARCY, 2468 SOUTH 267 HIGHWAY</description><Point><coordinates>-91.786679, 35.196075</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/24/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, WHITE, SEARCY, 2470 SOUTH 267 HIGHWAY</description><Point><coordinates>-91.786766, 35.195995</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/28/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, WHITE, SEARCY, 506 RIVERSIDE</description><Point><coordinates>-91.714182, 35.277517</coordinates></Point></Placemark>

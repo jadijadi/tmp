@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 4/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, PIKE, PETERSBURG, 3127 SR 57 S</description><Point><coordinates>-87.296198, 38.467353</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, PIKE, PETERSBURG, 3127 SR 57 S</description><Point><coordinates>-87.296198, 38.467353</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/16/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, PIKE, PETERSBURG, 2337 SR 61 N</description><Point><coordinates>-87.253717, 38.456247</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/13/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, PIKE, PETERSBURG, 3592 WEST CO RD 75 SOUTH</description><Point><coordinates>-87.344866, 38.410748</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/11/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, PIKE, PETERSBURG, 1213 EAST SPRUCE STREET</description><Point><coordinates>-87.277990, 38.496269</coordinates></Point></Placemark>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, DAVIESS, PHILPOT, 5802 FREE SILVER RD</description><Point><coordinates>-86.905019, 37.773196</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, DAVIESS, PHILPOT, 5802 FREE SILVER RD</description><Point><coordinates>-86.905019, 37.773196</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/3/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, DAVIESS, PHILPOT, 10874 HWY 144</description><Point><coordinates>-86.866469, 37.758677</coordinates></Point></Placemark>
 
         </Document>

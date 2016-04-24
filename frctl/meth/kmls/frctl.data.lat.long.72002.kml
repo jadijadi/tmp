@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/27/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, SALINE, ALEXANDER, 1620 VANDIVER DR</description><Point><coordinates>-92.422329, 34.603058</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/27/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, SALINE, ALEXANDER, 1620 VANDIVER DR</description><Point><coordinates>-92.422329, 34.603058</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/21/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, SALINE, ALEXANDER, 15608 VALLEY DR</description><Point><coordinates>-92.454355, 34.608741</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/13/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, SALINE, ALEXANDER, 15523 KATHY DR</description><Point><coordinates>-92.453863, 34.609655</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, SALINE, ALEXANDER, 2801 STRICKLIN RD</description><Point><coordinates>-92.611039, 34.687532</coordinates></Point></Placemark>

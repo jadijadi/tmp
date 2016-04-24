@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, GEORGE, LUCEDALE, 11228 OLD HIGHWAY 63 S</description><Point><coordinates>-88.595107, 30.901915</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, GEORGE, LUCEDALE, 11228 OLD HIGHWAY 63 S</description><Point><coordinates>-88.595107, 30.901915</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/5/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, GEORGE, LUCEDALE, 153 G MILLER RD</description><Point><coordinates>-88.520359, 30.908841</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/7/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, GEORGE, LUCEDALE, 25012 YELLOW BLUFF RD</description><Point><coordinates>-88.463822, 30.701750</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, GEORGE, LUCEDALE, 152 GOFF RD</description><Point><coordinates>-88.474974, 30.742471</coordinates></Point></Placemark>

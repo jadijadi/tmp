@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, FRANKLIN, DECHERD, 37 SUNSHINE CIR</description><Point><coordinates>-86.087984, 35.211298</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, FRANKLIN, DECHERD, 37 SUNSHINE CIR</description><Point><coordinates>-86.087984, 35.211298</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, FRANKLIN, DECHERD, 115 OAK GROVE RD</description><Point><coordinates>-86.000159, 35.259121</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/14/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, FRANKLIN, DECHERD, 412 2ND STREET N</description><Point><coordinates>-86.079506, 35.214997</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/20/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, FRANKLIN, DECHERD, 1931 SWAN LANE</description><Point><coordinates>-86.066754, 35.270688</coordinates></Point></Placemark>

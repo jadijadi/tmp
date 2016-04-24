@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 12/1/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, GENESEE, FLINT, 1577  COACHLIGHT COURT</description><Point><coordinates>-83.759094, 43.004554</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 12/1/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, GENESEE, FLINT, 1577  COACHLIGHT COURT</description><Point><coordinates>-83.759094, 43.004554</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/12/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, GENESEE, FLINT, 937 S BALLENGER ROAD</description><Point><coordinates>-83.732947, 43.005825</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/19/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, GENESEE, FLINT, 937 S BALLENGER HIGHWAY</description><Point><coordinates>-83.732947, 43.005825</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/16/2016</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, GENESEE, FLINT, 1025  Darling STREET</description><Point><coordinates>-83.736733, 43.003702</coordinates></Point></Placemark>

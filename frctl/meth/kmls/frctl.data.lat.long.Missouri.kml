@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 5/13/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BARRY, AURORA, 7553 FR 1245</description><Point><coordinates>-91.831833, 37.964253</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/13/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BARRY, AURORA, 7553 FR 1245</description><Point><coordinates>-91.831833, 37.964253</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/2/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BENTON, COLE CAMP, 14225 SILVER LANE</description><Point><coordinates>-91.831833, 37.964253</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/22/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, DALLAS, ELKLAND, 208 DARTER RD</description><Point><coordinates>-91.831833, 37.964253</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/9/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, FRANKLIN, GRUBVILLE, 115 LOST BLUFF TRAIL</description><Point><coordinates>-91.831833, 37.964253</coordinates></Point></Placemark>

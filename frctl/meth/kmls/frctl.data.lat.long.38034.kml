@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 7/15/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, CROCKETT, FRIENDSHIP, 8100 HWY 189</description><Point><coordinates>-89.236569, 35.919263</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 7/15/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, CROCKETT, FRIENDSHIP, 8100 HWY 189</description><Point><coordinates>-89.236569, 35.919263</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/20/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, DYER, FRIENDSHIP, 474  ZION HILL ROAD</description><Point><coordinates>-89.292454, 35.909528</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/7/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, DYER, TIGRETT, 264  DENTON STREET</description><Point><coordinates>-89.239826, 35.950307</coordinates></Point></Placemark>
 

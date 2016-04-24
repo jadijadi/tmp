@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 6/16/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MAINE, AROOSTOOK, HOULTON, 13  COLUMBIA STREET</description><Point><coordinates>-67.842312, 46.117186</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/16/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MAINE, AROOSTOOK, HOULTON, 13  COLUMBIA STREET</description><Point><coordinates>-67.842312, 46.117186</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/6/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MAINE, AROOSTOOK, HOULTON, 48  PARK STREET STREET</description><Point><coordinates>-67.832911, 46.121194</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/9/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MAINE, AROOSTOOK, LINNEUS, 1514  US ROUTE 2A</description><Point><coordinates>-67.933068, 46.064399</coordinates></Point></Placemark>
 

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, ST. Francois, BISMARCK, 458 CENTER ST</description><Point><coordinates>-90.618231, 37.774804</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, ST. Francois, BISMARCK, 458 CENTER ST</description><Point><coordinates>-90.618231, 37.774804</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, ST. Francois, BISMARCK, 1012 MULBERRY ST</description><Point><coordinates>-90.622947, 37.770677</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, ST. Francois, BISMARCK, 1838 N HWY</description><Point><coordinates>-90.624848, 37.769217</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/15/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, ST. Francois, BISMARCK, 1167 LAKE SHORE W DR</description><Point><coordinates>-90.620905, 37.689050</coordinates></Point></Placemark>

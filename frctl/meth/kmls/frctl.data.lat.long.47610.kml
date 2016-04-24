@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 11/24/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WARRICK, CHANDLER, 6878 MANCHESTER BOULEVARD</description><Point><coordinates>-87.375362, 38.019611</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 11/24/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WARRICK, CHANDLER, 6878 MANCHESTER BOULEVARD</description><Point><coordinates>-87.375362, 38.019611</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/17/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WARRICK, CHANDLER, 6878 MANCHESTER BOULEVARD</description><Point><coordinates>-87.375362, 38.019611</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/20/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WARRICK, CHANDLER, 117 WEST OAK STREET</description><Point><coordinates>-87.368382, 38.037479</coordinates></Point></Placemark>
 

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 9/4/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, ALBANY, WELLSVILLE, 90  HOWARD STREET  BOX APT 305</description><Point><coordinates>-73.756232, 42.652579</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 9/4/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, ALBANY, WELLSVILLE, 90  HOWARD STREET  BOX APT 305</description><Point><coordinates>-73.756232, 42.652579</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/11/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, BROOME, DEWITTVILLE, 304  WASHBURN DRIVE</description><Point><coordinates>-74.005941, 40.712784</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/1/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, BROOME, HASTINGS, 284  HUNT HILL</description><Point><coordinates>-74.005941, 40.712784</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/11/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, DUTCHESS, FREDONIA, 8  WEST MAIN</description><Point><coordinates>-74.005941, 40.712784</coordinates></Point></Placemark>

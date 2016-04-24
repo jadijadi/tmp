@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 9/30/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, VOLUSIA, NEW SMYRNA BEACH, 816 9TH E AVE</description><Point><coordinates>-80.891002, 29.023546</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 9/30/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, VOLUSIA, NEW SMYRNA BEACH, 816 9TH E AVE</description><Point><coordinates>-80.891002, 29.023546</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/4/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, VOLUSIA, NEW SMYRNA BEACH, 4610  VAN KLEECK DRIVE</description><Point><coordinates>-80.866160, 28.989262</coordinates></Point></Placemark>
 
         </Document>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 5/12/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, ISABELLA, MOUNT PLEASANT, 6313 CRAWFORD</description><Point><coordinates>-84.787757, 43.548267</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/12/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, ISABELLA, MOUNT PLEASANT, 6313 CRAWFORD</description><Point><coordinates>-84.787757, 43.548267</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/6/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, ISABELLA, MOUNT PLEASANT, 1007 NORTH KINNEY STREET</description><Point><coordinates>-84.770693, 43.612769</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/18/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, ISABELLA, MOUNT PLEASANT, 3489 SOUTH SUMMERTON ROAD</description><Point><coordinates>-84.727488, 43.590053</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/10/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, ISABELLA, MOUNT PLEASANT, 402 NORTH ARNOLD STREET</description><Point><coordinates>-84.769058, 43.607385</coordinates></Point></Placemark>

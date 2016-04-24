@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, WHITE, CARMI, 503 HILLSDALE DR</description><Point><coordinates>-88.175388, 38.091383</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, WHITE, CARMI, 503 HILLSDALE DR</description><Point><coordinates>-88.175388, 38.091383</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, WHITE, CARMI, 300 DOTY</description><Point><coordinates>-88.153092, 38.091709</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/14/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, WHITE, CARMI, 407 RICE A</description><Point><coordinates>-88.161489, 38.085037</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/13/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, WHITE, CARMI, 404 1/2 WALNUT S</description><Point><coordinates>-88.158030, 38.088058</coordinates></Point></Placemark>

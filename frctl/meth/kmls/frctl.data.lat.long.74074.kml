@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 11/21/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, PAYNE, PERKINS, 1200 EAST PECAN  #16</description><Point><coordinates>-97.016848, 36.044947</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 11/21/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, PAYNE, PERKINS, 1200 EAST PECAN  #16</description><Point><coordinates>-97.016848, 36.044947</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/25/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, PAYNE, PERKINS, 509 EAST WALNUT</description><Point><coordinates>-96.982948, 36.040271</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/23/2000</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, PAYNE, STILLWATER, 423 NORTHWEST 3RD STREET 5</description><Point><coordinates>-97.054396, 36.118958</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/16/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, PAYNE, STILLWATER, 204 NORTHEAST 5TH</description><Point><coordinates>-97.060181, 36.116748</coordinates></Point></Placemark>

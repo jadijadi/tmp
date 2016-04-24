@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/23/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, SAINT LOUIS, LEMAY, 124 SIGEBEE</description><Point><coordinates>-90.288068, 38.511784</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/23/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, SAINT LOUIS, LEMAY, 124 SIGEBEE</description><Point><coordinates>-90.288068, 38.511784</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, SAINT LOUIS, SAINT LOUIS, 308 FANNIE</description><Point><coordinates>-90.274658, 38.541058</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/21/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, SAINT LOUIS, SAINT LOUIS, 8441 TENNESSEE B</description><Point><coordinates>-90.273940, 38.546890</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/28/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, SAINT LOUIS, SAINT LOUIS, 3647 DOVE DALE</description><Point><coordinates>-90.317906, 38.514027</coordinates></Point></Placemark>

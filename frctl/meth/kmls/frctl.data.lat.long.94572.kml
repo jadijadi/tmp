@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 7/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, CONTRA COSTA, RODEO, 1120 4TH ST</description><Point><coordinates>-122.261721, 38.033978</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 7/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, CONTRA COSTA, RODEO, 1120 4TH ST</description><Point><coordinates>-122.261721, 38.033978</coordinates></Point></Placemark>
 
         </Document>
         </kml>

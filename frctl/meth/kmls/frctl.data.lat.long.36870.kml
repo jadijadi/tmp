@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 4/7/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, LEE, PHENIX CITY, 289  LEE ROAD 214</description><Point><coordinates>-85.089363, 32.489213</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/7/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, LEE, PHENIX CITY, 289  LEE ROAD 214</description><Point><coordinates>-85.089363, 32.489213</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/5/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, LEE, PHENIX CITY, 15  LEE ROAD  496</description><Point><coordinates>-85.081279, 32.488932</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/29/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, LEE, SMITHS STATION, 245 LEE ROAD 596</description><Point><coordinates>-85.123354, 32.492085</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/3/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, RUSSELL, PHENIX CITY, 4599 WEST US HWY 80</description><Point><coordinates>-85.205300, 32.453500</coordinates></Point></Placemark>

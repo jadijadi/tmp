@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/10/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, BARTHOLOMEW, COLUMBUS, 608 JEWEL ST</description><Point><coordinates>-85.848006, 39.196889</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/10/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, BARTHOLOMEW, COLUMBUS, 608 JEWEL ST</description><Point><coordinates>-85.848006, 39.196889</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/25/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, BARTHOLOMEW, COLUMBUS, 1925 PINEWOOD DR</description><Point><coordinates>-85.903489, 39.243136</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/11/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, BARTHOLOMEW, COLUMBUS, 2906 RANDAL COURT</description><Point><coordinates>-85.815505, 39.227590</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/7/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, BARTHOLOMEW, COLUMBUS, 2687 SOUTH CR 525E</description><Point><coordinates>-85.814432, 39.174653</coordinates></Point></Placemark>

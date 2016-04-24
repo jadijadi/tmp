@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/13/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, LAGRANGE, HOWE, 4225 SR 9 N 100</description><Point><coordinates>-85.425864, 41.702347</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/13/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, LAGRANGE, HOWE, 4225 SR 9 N 100</description><Point><coordinates>-85.425864, 41.702347</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/12/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, LAGRANGE, HOWE, 4285 NORTH SR 9</description><Point><coordinates>-85.425495, 41.705255</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/12/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, LAGRANGE, HOWE, 7425 NORTH 50 EAST #7</description><Point><coordinates>-85.418132, 41.728842</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/29/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, LAGRANGE, HOWE, 4285 NORTH SR 9 55</description><Point><coordinates>-85.425495, 41.705255</coordinates></Point></Placemark>

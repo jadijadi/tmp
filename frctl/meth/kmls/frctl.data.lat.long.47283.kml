@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 10/21/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, DECATUR, WESTPORT, 10518 1200 S W</description><Point><coordinates>-85.575374, 39.169783</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 10/21/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, DECATUR, WESTPORT, 10518 1200 S W</description><Point><coordinates>-85.575374, 39.169783</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/3/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, DECATUR, WESTPORT, 207 WILLIAMSON N RD B1</description><Point><coordinates>-85.576738, 39.176794</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/19/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, DECATUR, WESTPORT, 204 EAST MULBERRY STREET</description><Point><coordinates>-85.574140, 39.177039</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/14/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, DECATUR, WESTPORT, 8000 SOUTH BASE ROAD</description><Point><coordinates>-85.478934, 39.219171</coordinates></Point></Placemark>

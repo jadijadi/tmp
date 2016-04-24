@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/25/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, WARREN, BOWLING GREEN, 6255 BARREN RIVER RD</description><Point><coordinates>-86.521399, 37.055300</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/25/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, WARREN, BOWLING GREEN, 6255 BARREN RIVER RD</description><Point><coordinates>-86.521399, 37.055300</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/15/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, WARREN, BOWLING GREEN, 4546 GLEN LILY RD</description><Point><coordinates>-86.524941, 37.016959</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, WARREN, BOWLING GREEN, 4942 263 HWY</description><Point><coordinates>-86.505666, 37.131018</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, WARREN, BOWLING GREEN, 811 APPLE VALLEY N RD</description><Point><coordinates>-86.448260, 37.060828</coordinates></Point></Placemark>

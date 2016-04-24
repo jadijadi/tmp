@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 4/2/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, WASHINGTON, BARTLESVILLE, 606 1 ST NE ST</description><Point><coordinates>-95.934228, 36.791453</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/2/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, WASHINGTON, BARTLESVILLE, 606 1 ST NE ST</description><Point><coordinates>-95.934228, 36.791453</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/9/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, WASHINGTON, DEWEY, 101 SOUTH 1/2 CHICKASAW AVENUE</description><Point><coordinates>-95.930450, 36.791232</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/10/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, WASHINGTON, DEWEY, 720 SOUTHEAST CREEK AVENUE</description><Point><coordinates>-95.932999, 36.798312</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/12/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, WASHINGTON, DEWEY, 1715 SOUTHWEST 2ND</description><Point><coordinates>-95.947698, 36.793276</coordinates></Point></Placemark>

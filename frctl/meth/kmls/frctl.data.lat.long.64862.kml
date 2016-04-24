@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 9/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, JASPER, SARCOXIE, 1933 37 HWY</description><Point><coordinates>-94.125003, 37.079144</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 9/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, JASPER, SARCOXIE, 1933 37 HWY</description><Point><coordinates>-94.125003, 37.079144</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/21/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, JASPER, SARCOXIE, 3298 CR10</description><Point><coordinates>-94.116604, 37.069227</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/13/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, JASPER, SARCOXIE, 2041 CIMARRON</description><Point><coordinates>-94.095802, 37.079376</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/16/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, JASPER, SARCOXIE, 1306 WASHINGTON STREET</description><Point><coordinates>-94.124908, 37.069848</coordinates></Point></Placemark>

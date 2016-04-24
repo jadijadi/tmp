@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/27/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MOBILE, MOBILE, 9053 KEENE</description><Point><coordinates>-88.255785, 30.715219</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/27/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MOBILE, MOBILE, 9053 KEENE</description><Point><coordinates>-88.255785, 30.715219</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MOBILE, MOBILE, 375 HILLCREST RD R 201</description><Point><coordinates>-88.189561, 30.682294</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/12/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MOBILE, MOBILE, 9218 SOUTH VALLARIS STREET</description><Point><coordinates>-88.260155, 30.717861</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/14/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MOBILE, MOBILE, 485  FOSTER ROAD</description><Point><coordinates>-88.239279, 30.700604</coordinates></Point></Placemark>

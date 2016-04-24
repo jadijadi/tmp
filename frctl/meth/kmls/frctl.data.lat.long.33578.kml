@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/7/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, HILLSBOROUGH, RIVERVIEW, 6232  KRYCUL AVENUE</description><Point><coordinates>-82.330793, 27.871792</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/7/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, HILLSBOROUGH, RIVERVIEW, 6232  KRYCUL AVENUE</description><Point><coordinates>-82.330793, 27.871792</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/9/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, HILLSBOROUGH, RIVERVIEW, 11518  DOWNS LOOP</description><Point><coordinates>-82.333231, 27.833616</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/20/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, HILLSBOROUGH, RIVERVIEW, 11518  DOWNS LOOP</description><Point><coordinates>-82.333231, 27.833616</coordinates></Point></Placemark>
 

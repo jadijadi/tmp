@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 8/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, JEFFERSON, PINE BLUFF, 305 PALOMINO RD</description><Point><coordinates>-92.148922, 34.351719</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 8/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, JEFFERSON, PINE BLUFF, 305 PALOMINO RD</description><Point><coordinates>-92.148922, 34.351719</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/29/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, JEFFERSON, PINE BLUFF, 1214 104 HWY</description><Point><coordinates>-92.142659, 34.294803</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/9/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, JEFFERSON, PINE BLUFF, 5811 SASSAFRAS TRL</description><Point><coordinates>-92.161786, 34.348329</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/28/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, JEFFERSON, PINE BLUFF, 5200 SASSAFRAS TRAIL STREET</description><Point><coordinates>-92.156571, 34.351990</coordinates></Point></Placemark>

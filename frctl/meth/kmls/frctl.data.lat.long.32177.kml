@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 9/9/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, PUTNAM, PALATKA, 101 LOGAN LN</description><Point><coordinates>-81.726094, 29.633146</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 9/9/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, PUTNAM, PALATKA, 101 LOGAN LN</description><Point><coordinates>-81.726094, 29.633146</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/1/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, PUTNAM, PALATKA, 141 LETTIE LANE</description><Point><coordinates>-81.699402, 29.581017</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/11/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, PUTNAM, PALATKA, 2305 HUSSON AVENUE</description><Point><coordinates>-81.652228, 29.625152</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/27/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, PUTNAM, PALATKA, 1909 ROSELLE AVENUE</description><Point><coordinates>-81.654223, 29.629182</coordinates></Point></Placemark>

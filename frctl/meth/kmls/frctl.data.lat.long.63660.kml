@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, WASHINGTON, MINERAL POINT, 1 RT 491-B</description><Point><coordinates>-90.724296, 37.944772</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, WASHINGTON, MINERAL POINT, 1 RT 491-B</description><Point><coordinates>-90.724296, 37.944772</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/3/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, WASHINGTON, MINERAL POINT, 803 COMMERCIAL ST</description><Point><coordinates>-90.722020, 37.948996</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/6/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, WASHINGTON, MINERAL POINT, 2521 2 RT</description><Point><coordinates>-90.728459, 37.941410</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/6/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, WASHINGTON, MINERAL POINT, 11194 ELLIOTT RD</description><Point><coordinates>-90.707604, 37.882656</coordinates></Point></Placemark>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 7/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, LEWIS, PACKWOOD, 12984-07 US HIGHWAY 12 HWY</description><Point><coordinates>-121.671860, 46.604175</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 7/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, LEWIS, PACKWOOD, 12984-07 US HIGHWAY 12 HWY</description><Point><coordinates>-121.671860, 46.604175</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/29/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, LEWIS, PACKWOOD, 12662 US HIGHWAY 12 HWY</description><Point><coordinates>-121.685616, 46.583917</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/25/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, LEWIS, PACKWOOD, 114 EDMONDS ROAD</description><Point><coordinates>-121.674500, 46.603549</coordinates></Point></Placemark>
 

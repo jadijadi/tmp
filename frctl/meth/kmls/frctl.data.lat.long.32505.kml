@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 6/5/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, ESCAMBIA, PENSACOLA, 1117 W N ST</description><Point><coordinates>-87.250217, 30.424745</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/5/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, ESCAMBIA, PENSACOLA, 1117 W N ST</description><Point><coordinates>-87.250217, 30.424745</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/25/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, ESCAMBIA, PENSACOLA, 108 QUINA WAY</description><Point><coordinates>-87.242798, 30.461147</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/10/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, ESCAMBIA, PENSACOLA, 1007 ARMENIA DRIVE</description><Point><coordinates>-87.249000, 30.467591</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/5/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, ESCAMBIA, PENSACOLA, 2113 NORTH U STREET</description><Point><coordinates>-87.247250, 30.434635</coordinates></Point></Placemark>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 6/9/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, HARDIN, WHITE MILLS, 1848 CENTER POINT RD</description><Point><coordinates>-86.007724, 37.531829</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/9/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, HARDIN, WHITE MILLS, 1848 CENTER POINT RD</description><Point><coordinates>-86.007724, 37.531829</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/4/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, HARDIN, WHITE MILLS, 1843 CENTER POINT ROAD</description><Point><coordinates>-86.007754, 37.531926</coordinates></Point></Placemark>
 
         </Document>

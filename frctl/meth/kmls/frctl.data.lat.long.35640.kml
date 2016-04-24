@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 5/13/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MORGAN, DECATUR, 1451 NEW CENTER RD</description><Point><coordinates>-86.856491, 34.482368</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/13/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MORGAN, DECATUR, 1451 NEW CENTER RD</description><Point><coordinates>-86.856491, 34.482368</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/21/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MORGAN, DECATUR, 215 SOUTHWEST DEER SPRINGS ROAD</description><Point><coordinates>-86.977903, 34.507520</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/8/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MORGAN, DECATUR, 215 DEER SPRINGS ROAD</description><Point><coordinates>-86.977903, 34.507520</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/3/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MORGAN, HARTSELLE, 1825 PEACH ORCHARD RD</description><Point><coordinates>-86.945678, 34.462211</coordinates></Point></Placemark>

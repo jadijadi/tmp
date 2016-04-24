@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/23/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, PULASKI, NORTH LITTLE ROCK, 297 PLAINVIEW CIR</description><Point><coordinates>-92.256719, 34.783695</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/23/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, PULASKI, NORTH LITTLE ROCK, 297 PLAINVIEW CIR</description><Point><coordinates>-92.256719, 34.783695</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, PULASKI, NORTH LITTLE ROCK, 200 J W ST</description><Point><coordinates>-92.260964, 34.792747</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/25/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, PULASKI, NORTH LITTLE ROCK, 4209 LOCUST</description><Point><coordinates>-92.261085, 34.794226</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/7/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, PULASKI, NORTH LITTLE ROCK, 4013 LOCUST N ST</description><Point><coordinates>-92.260771, 34.792304</coordinates></Point></Placemark>

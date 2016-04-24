@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/21/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, STODDARD, PUXICO, 18497 COUNTY 493 RD</description><Point><coordinates>-90.188631, 36.880713</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/21/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, STODDARD, PUXICO, 18497 COUNTY 493 RD</description><Point><coordinates>-90.188631, 36.880713</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/1/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, STODDARD, PUXICO, COUNTY ROAD 279</description><Point><coordinates>-90.111718, 36.952419</coordinates></Point></Placemark>
 
         </Document>

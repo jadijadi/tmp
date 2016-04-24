@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, TIOGA, BARTON, 541 OLD BARTON ROAD</description><Point><coordinates>-76.446558, 42.041955</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, TIOGA, BARTON, 541 OLD BARTON ROAD</description><Point><coordinates>-76.446558, 42.041955</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/18/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, TIOGA, BARTON, 17  OAK HILL ROAD</description><Point><coordinates>-76.448217, 42.042226</coordinates></Point></Placemark>
 
         </Document>

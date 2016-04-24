@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 11/30/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, TULSA, JENKS, 1612 WEST OAK STREET</description><Point><coordinates>-95.956913, 36.037328</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 11/30/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, TULSA, JENKS, 1612 WEST OAK STREET</description><Point><coordinates>-95.956913, 36.037328</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, TULSA, JENKS, 1210 WEST WALNUT</description><Point><coordinates>-95.942238, 36.017874</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/28/2000</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, TULSA, TULSA, 9031 DELAWARE S  703</description><Point><coordinates>-95.948334, 36.033036</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/2/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, TULSA, TULSA, 8523 WINSTON S AVE</description><Point><coordinates>-95.922786, 36.039368</coordinates></Point></Placemark>

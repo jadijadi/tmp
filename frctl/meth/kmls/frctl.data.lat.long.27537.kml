@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/8/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, VANCE, HENDERSON, 40 GEORGE FLOYD ROAD</description><Point><coordinates>-78.373009, 36.371067</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/8/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, VANCE, HENDERSON, 40 GEORGE FLOYD ROAD</description><Point><coordinates>-78.373009, 36.371067</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/17/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, VANCE, HENDERSON, 999  EAVES ROAD</description><Point><coordinates>-78.327889, 36.235182</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/13/2016</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, VANCE, HENDERSON, 2841  Stagecoach ROAD</description><Point><coordinates>-78.473410, 36.407841</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/15/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, VANCE, TOWNSVILLE, 250 HANDYMAN LANE</description><Point><coordinates>-78.395605, 36.503552</coordinates></Point></Placemark>

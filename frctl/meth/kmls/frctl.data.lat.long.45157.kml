@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/25/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, CLERMONT, NEW RICHMOND, 2896 PISGAH RD</description><Point><coordinates>-84.233532, 38.987342</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/25/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, CLERMONT, NEW RICHMOND, 2896 PISGAH RD</description><Point><coordinates>-84.233532, 38.987342</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/20/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, CLERMONT, NEW RICHMOND, 851 OLD US 52</description><Point><coordinates>-84.287621, 38.975207</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/24/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, CLERMONT, NEW RICHMOND, 2060 BETHEL NEW RICHMOND ROAD</description><Point><coordinates>-84.185141, 38.960201</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/4/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, CLERMONT, NEW RICHMOND, 2353  LAUREL NICHOLSVILLE ROAD</description><Point><coordinates>-84.167261, 38.944103</coordinates></Point></Placemark>

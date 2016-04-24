@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 6/29/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, WAYNE, FAIRFIELD, 13 BROCK LN</description><Point><coordinates>-88.343730, 38.377871</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/29/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, WAYNE, FAIRFIELD, 13 BROCK LN</description><Point><coordinates>-88.343730, 38.377871</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/15/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, WAYNE, FAIRFIELD, lot 25 BALLARD TRAILER CT</description><Point><coordinates>-88.359768, 38.378937</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, WAYNE, FAIRFIELD, 1104 HAWKINS</description><Point><coordinates>-88.364004, 38.391469</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/23/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, WAYNE, FAIRFIELD, 401 SOUTHEAST 8TH STREET</description><Point><coordinates>-88.352566, 38.376359</coordinates></Point></Placemark>

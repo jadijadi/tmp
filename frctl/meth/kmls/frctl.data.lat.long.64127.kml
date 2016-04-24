@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 4/1/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, JACKSON, KANSAS CITY, 4816 18TH E ST</description><Point><coordinates>-94.526050, 39.090059</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/1/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, JACKSON, KANSAS CITY, 4816 18TH E ST</description><Point><coordinates>-94.526050, 39.090059</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/17/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, JACKSON, KANSAS CITY, 1309 ASKEW S</description><Point><coordinates>-94.539661, 39.096727</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/5/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, JACKSON, KANSAS CITY, 1925 SOUTH LAWN AVENUE</description><Point><coordinates>-94.527796, 39.087603</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/18/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, JACKSON, KANSAS CITY, 2200 MONROE</description><Point><coordinates>-94.539766, 39.085079</coordinates></Point></Placemark>

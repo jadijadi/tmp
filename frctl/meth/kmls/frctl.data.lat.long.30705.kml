@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 5/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, MURRAY, CHATSWORTH, 223 VANN W CIR G</description><Point><coordinates>-84.808994, 34.757854</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, MURRAY, CHATSWORTH, 223 VANN W CIR G</description><Point><coordinates>-84.808994, 34.757854</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/23/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, MURRAY, CHATSWORTH, 972 LEONARD BRIDGE RD N23</description><Point><coordinates>-84.780858, 34.753217</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, MURRAY, CHATSWORTH, 13 PLESANT VALLEY DR D</description><Point><coordinates>-84.763599, 34.830265</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/14/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, MURRAY, CHATSWORTH, 675 SYMRNA RAMHURST RD B</description><Point><coordinates>-84.775741, 34.722251</coordinates></Point></Placemark>

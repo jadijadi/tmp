@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 7/21/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, PREBLE, EATON, 114 CHICAGO W ST</description><Point><coordinates>-84.637414, 39.754709</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 7/21/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, PREBLE, EATON, 114 CHICAGO W ST</description><Point><coordinates>-84.637414, 39.754709</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/20/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, PREBLE, EATON, 411 VILLAGE 1</description><Point><coordinates>-84.629796, 39.738454</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/22/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, PREBLE, EATON, 5405 WEST STATE ROUTE 35</description><Point><coordinates>-84.714055, 39.791987</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/3/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, PREBLE, EATON, 828 NORTH BEECH STREET</description><Point><coordinates>-84.638093, 39.753297</coordinates></Point></Placemark>

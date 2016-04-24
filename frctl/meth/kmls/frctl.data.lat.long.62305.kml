@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 12/7/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, ADAMS, QUINCY, 2000 BLICKS VILLAGE</description><Point><coordinates>-91.417612, 39.907210</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 12/7/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, ADAMS, QUINCY, 2000 BLICKS VILLAGE</description><Point><coordinates>-91.417612, 39.907210</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/6/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, ADAMS, QUINCY, 1116 RIM ROAD LOT #4</description><Point><coordinates>-91.306491, 39.917617</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/15/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, ADAMS, QUINCY, 842 603RD LANE N</description><Point><coordinates>-91.397503, 40.040501</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/4/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, ADAMS, QUINCY, 6218 BROADWAY E 2</description><Point><coordinates>-91.315807, 39.934806</coordinates></Point></Placemark>

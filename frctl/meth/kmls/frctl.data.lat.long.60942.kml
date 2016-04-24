@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, VERMILION, HOOPESTON, 1107\ 2ND S AVE</description><Point><coordinates>-87.673261, 40.456980</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, VERMILION, HOOPESTON, 1107\ 2ND S AVE</description><Point><coordinates>-87.673261, 40.456980</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, VERMILION, HOOPESTON, 1950 200 NORTH E RD</description><Point><coordinates>-87.672444, 40.517413</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/13/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, VERMILION, HOOPESTON, 719 5TH S ST</description><Point><coordinates>-87.663608, 40.461205</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/8/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, VERMILION, HOOPESTON, 309 PENN W ST</description><Point><coordinates>-87.673715, 40.466052</coordinates></Point></Placemark>

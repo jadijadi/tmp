@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 9/8/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, SEMINOLE, SASAKWA, 18644 95TH E</description><Point><coordinates>-96.525289, 34.948695</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 9/8/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, SEMINOLE, SASAKWA, 18644 95TH E</description><Point><coordinates>-96.525289, 34.948695</coordinates></Point></Placemark>
 
         </Document>
         </kml>

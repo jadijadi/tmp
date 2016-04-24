@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 8/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, WYTHE, MAX MEADOWS, 4888 PEPPERS FERRY RD</description><Point><coordinates>-80.967813, 36.977629</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 8/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, WYTHE, MAX MEADOWS, 4888 PEPPERS FERRY RD</description><Point><coordinates>-80.967813, 36.977629</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, WYTHE, WYTHEVILLE, 851 OLD SCHOOL RD</description><Point><coordinates>-81.014736, 36.882732</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/15/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, WYTHE, WYTHEVILLE, 696 BARRETT MILL RD</description><Point><coordinates>-81.085678, 36.921187</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/22/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, WYTHE, WYTHEVILLE, 460 SOUTHWEST RIDGE STREET</description><Point><coordinates>-81.091832, 36.951589</coordinates></Point></Placemark>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/27/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, POLK, DES MOINES, 3848 14 NE ST</description><Point><coordinates>-93.637197, 41.631066</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/27/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, POLK, DES MOINES, 3848 14 NE ST</description><Point><coordinates>-93.637197, 41.631066</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, POLK, DES MOINES, 3315 SIXTH AVE</description><Point><coordinates>-93.624392, 41.625655</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/13/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, POLK, DES MOINES, 809 BROADWAY NE AVE 22</description><Point><coordinates>-93.607544, 41.642586</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, POLK, DES MOINES, 4324 BASELINE N ST</description><Point><coordinates>-93.617931, 41.638949</coordinates></Point></Placemark>

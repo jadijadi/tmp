@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 12/19/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, HAMILTON, CINCINNATI, 905 RODSEMONT RD</description><Point><coordinates>-84.583825, 39.108651</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 12/19/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, HAMILTON, CINCINNATI, 905 RODSEMONT RD</description><Point><coordinates>-84.583825, 39.108651</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/20/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, HAMILTON, CINCINNATI, 1330  MANSS AVE HARBOR</description><Point><coordinates>-84.577530, 39.118055</coordinates></Point></Placemark>
 
         </Document>

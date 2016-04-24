@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/18/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, ASHTABULA, ASHTABULA, 6250 NEW LONDON N RD</description><Point><coordinates>-80.882604, 41.839597</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/18/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, ASHTABULA, ASHTABULA, 6250 NEW LONDON N RD</description><Point><coordinates>-80.882604, 41.839597</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/18/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, ASHTABULA, ASHTABULA, 3903 NORTH RIDGE WEST N</description><Point><coordinates>-80.836411, 41.844633</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/5/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, ASHTABULA, ASHTABULA, 711 52ND W ST UP</description><Point><coordinates>-80.789809, 41.865053</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, ASHTABULA, ASHTABULA, 1530 8TH W ST</description><Point><coordinates>-80.803523, 41.894922</coordinates></Point></Placemark>

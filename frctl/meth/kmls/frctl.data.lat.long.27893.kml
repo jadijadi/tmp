@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 6/14/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, WILSON, WILSON, 4901  SKYLAND LOOP</description><Point><coordinates>-77.973124, 35.677359</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/14/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, WILSON, WILSON, 4901  SKYLAND LOOP</description><Point><coordinates>-77.973124, 35.677359</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/29/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, WILSON, WILSON, 5431 A  WEAVER ROAD</description><Point><coordinates>-77.862589, 35.748068</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/25/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, WILSON, WILSON, 1927  FIRESTONE PARKWAY</description><Point><coordinates>-77.885278, 35.739857</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/1/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, WILSON, WILSON, 2251-I  BANKS LANE</description><Point><coordinates>-77.873345, 35.728914</coordinates></Point></Placemark>

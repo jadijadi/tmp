@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 6/30/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, JEFFERSON, FESTUS, 4 CREEKVIEW DRIVE</description><Point><coordinates>-90.400872, 38.273755</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/30/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, JEFFERSON, FESTUS, 4 CREEKVIEW DRIVE</description><Point><coordinates>-90.400872, 38.273755</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, JEFFERSON, PEVELY, 1832 WILLOW DR</description><Point><coordinates>-90.411324, 38.275226</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, JEFFERSON, PEVELY, 8610 TWIN DR</description><Point><coordinates>-90.444092, 38.288268</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, JEFFERSON, PEVELY, 8679 TWIN DR</description><Point><coordinates>-90.444565, 38.286572</coordinates></Point></Placemark>

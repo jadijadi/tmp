@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/14/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WARREN, NEWBURGH, 3299 NORTH BELL ROAD</description><Point><coordinates>-87.405107, 37.986863</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/14/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WARREN, NEWBURGH, 3299 NORTH BELL ROAD</description><Point><coordinates>-87.405107, 37.986863</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/25/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WARRICK, NEWBURGH, 2800 JERALD DR</description><Point><coordinates>-87.405287, 37.944488</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/10/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WARRICK, NEWBURGH, 5499 EPWORTH ROAD</description><Point><coordinates>-87.441694, 37.955210</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/1/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WARRICK, NEWBURGH, 6066 JENNER ROAD</description><Point><coordinates>-87.367673, 38.012654</coordinates></Point></Placemark>

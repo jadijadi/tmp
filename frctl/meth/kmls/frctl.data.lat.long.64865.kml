@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 6/18/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, NEWTON, JOPLIN, 7595 ANGUS ROAD</description><Point><coordinates>-94.614777, 36.960805</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/18/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, NEWTON, JOPLIN, 7595 ANGUS ROAD</description><Point><coordinates>-94.614777, 36.960805</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, NEWTON, SENECA, 1433 GUM RD</description><Point><coordinates>-94.609651, 36.955126</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, NEWTON, SENECA, 9859 BETHEL RD</description><Point><coordinates>-94.606454, 36.926843</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/8/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, NEWTON, SENECA, 9859 BETHEL ROAD</description><Point><coordinates>-94.606454, 36.926843</coordinates></Point></Placemark>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/24/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, COLUMBIA, LAKE CITY, 276 SOUTHEAST MORNING GLORY COURT</description><Point><coordinates>-82.693771, 30.137844</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/24/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, COLUMBIA, LAKE CITY, 276 SOUTHEAST MORNING GLORY COURT</description><Point><coordinates>-82.693771, 30.137844</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/11/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, COLUMBIA, LAKE CITY, 306 SOUTHWEST SUNSET GLEN</description><Point><coordinates>-82.705417, 30.151783</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/14/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, COLUMBIA, LAKE CITY, 167 SOUTHWEST FANTASY GLEN</description><Point><coordinates>-82.710833, 30.141440</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/26/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, COLUMBIA, LAKE CITY, 276 SOUTHEAST MORNING GLORY COURT</description><Point><coordinates>-82.693771, 30.137844</coordinates></Point></Placemark>

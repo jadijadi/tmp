@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/14/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, CHEROKEE, GALENA, 220 WINSDOR ST</description><Point><coordinates>-94.641445, 37.085318</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/14/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, CHEROKEE, GALENA, 220 WINSDOR ST</description><Point><coordinates>-94.641445, 37.085318</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/14/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, CHEROKEE, GALENA, 7927 WATERMELON SE LN</description><Point><coordinates>-94.685034, 37.048249</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/29/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, CHEROKEE, GALENA, 1817 GALENA AVE</description><Point><coordinates>-94.636724, 37.063488</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, CHEROKEE, GALENA, 1914 JOPLIN ST</description><Point><coordinates>-94.638161, 37.062425</coordinates></Point></Placemark>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/14/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: UTAH, SALT LAKE, SANDY, 9465 STREATHAM S RD A</description><Point><coordinates>-111.895948, 40.579309</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/14/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: UTAH, SALT LAKE, SANDY, 9465 STREATHAM S RD A</description><Point><coordinates>-111.895948, 40.579309</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: UTAH, SALT LAKE, SANDY, 39 MARS E WAY</description><Point><coordinates>-111.889487, 40.597885</coordinates></Point></Placemark>
 
         </Document>

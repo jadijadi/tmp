@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/22/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, HENRY, KENDALLVILLE, 203 NORTH VINE STREET</description><Point><coordinates>-85.263350, 41.436954</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/22/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, HENRY, KENDALLVILLE, 203 NORTH VINE STREET</description><Point><coordinates>-85.263350, 41.436954</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/2/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, NOBLE, AVILLA, 9327 EAST 300 N</description><Point><coordinates>-85.244712, 41.395722</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/13/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, NOBLE, KENDALLVILLE, 361-B ASHTON DR</description><Point><coordinates>-85.273087, 41.455736</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, NOBLE, KENDALLVILLE, 339 VINE E ST</description><Point><coordinates>-85.260060, 41.437033</coordinates></Point></Placemark>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/23/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, LUBBOCK, LUBBOCK, 2214 44TH E ST</description><Point><coordinates>-101.813392, 33.554188</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/23/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, LUBBOCK, LUBBOCK, 2214 44TH E ST</description><Point><coordinates>-101.813392, 33.554188</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, LUBBOCK, LUBBOCK, 6025 AVENUE A</description><Point><coordinates>-101.841942, 33.537596</coordinates></Point></Placemark>
 
         </Document>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 4/5/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, JASPER, NEWTON, 1102 6TH N AVE</description><Point><coordinates>-93.039679, 41.704357</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/5/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, JASPER, NEWTON, 1102 6TH N AVE</description><Point><coordinates>-93.039679, 41.704357</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/12/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, JASPER, NEWTON, 324 4TH W ST</description><Point><coordinates>-93.057094, 41.696835</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/12/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, JASPER, NEWTON, 414 WEST 3 AVENUE</description><Point><coordinates>-93.058112, 41.697883</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/7/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, JASPER, NEWTON, 706 NORTH 7TH STREET</description><Point><coordinates>-93.045554, 41.705398</coordinates></Point></Placemark>

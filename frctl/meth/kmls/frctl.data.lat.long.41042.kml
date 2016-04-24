@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 5/13/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, BOONE, FLORENCE, 200  MEIJER</description><Point><coordinates>-84.635306, 39.012881</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/13/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, BOONE, FLORENCE, 200  MEIJER</description><Point><coordinates>-84.635306, 39.012881</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/11/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, BOONE, FLORENCE, 1782  PROMONTORY</description><Point><coordinates>-84.692380, 39.001895</coordinates></Point></Placemark>
 
         </Document>

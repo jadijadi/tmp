@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/30/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, OTTAWA, FAIRLAND, 3536 35TH W N AVE</description><Point><coordinates>-94.847457, 36.751183</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/30/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, OTTAWA, FAIRLAND, 3536 35TH W N AVE</description><Point><coordinates>-94.847457, 36.751183</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/29/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, OTTAWA, FAIRLAND, 3034 WEST 43RD ST N STREET</description><Point><coordinates>-94.847457, 36.751183</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/4/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, OTTAWA, FAIRLAND, 4744 NORTH 53RD W STREET</description><Point><coordinates>-94.847457, 36.751183</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/2/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, OTTAWA, FAIRLAND, 3808 WEST 43RD ST. NORTH</description><Point><coordinates>-94.847457, 36.751183</coordinates></Point></Placemark>

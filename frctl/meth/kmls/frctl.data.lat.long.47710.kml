@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/22/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, VANDERBURGH, EVANSVILLE, 28 WEST ILLINOIS STREET</description><Point><coordinates>-87.565167, 37.978997</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/22/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, VANDERBURGH, EVANSVILLE, 28 WEST ILLINOIS STREET</description><Point><coordinates>-87.565167, 37.978997</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/14/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, VANDERBURGH, EVANSVILLE, 39 WEST FRANKLIN STREET</description><Point><coordinates>-87.565664, 37.980432</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/26/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, VANDERBURGH, EVANSVILLE, 335 WEST MISSOURI STREET</description><Point><coordinates>-87.569532, 37.987719</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/14/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, VANDERBURGH, EVANSVILLE, 1211 NORTH 3RD AVENUE B</description><Point><coordinates>-87.577369, 37.989143</coordinates></Point></Placemark>

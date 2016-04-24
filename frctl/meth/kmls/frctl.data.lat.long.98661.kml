@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/4/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, CLARK, VANCOUVER, 4004 NE 44TH ST</description><Point><coordinates>-122.630013, 45.653494</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/4/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, CLARK, VANCOUVER, 4004 NE 44TH ST</description><Point><coordinates>-122.630013, 45.653494</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/13/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, CLARK, VANCOUVER, 2800 NORTHEAST STAPLETON ROAD</description><Point><coordinates>-122.617498, 45.642559</coordinates></Point></Placemark>
 
         </Document>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 6/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, FRANKLIN, WASHINGTON, 824 AMBURGY RD</description><Point><coordinates>-91.136632, 38.543465</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, FRANKLIN, WASHINGTON, 824 AMBURGY RD</description><Point><coordinates>-91.136632, 38.543465</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/6/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, FRANKLIN, WASHINGTON, 1113 5TH W ST A</description><Point><coordinates>-91.028128, 38.556033</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, FRANKLIN, WASHINGTON, 1400 MADISON AVE</description><Point><coordinates>-91.003370, 38.544113</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/15/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, FRANKLIN, WASHINGTON, 6123 BIEKER RD</description><Point><coordinates>-90.991792, 38.490429</coordinates></Point></Placemark>

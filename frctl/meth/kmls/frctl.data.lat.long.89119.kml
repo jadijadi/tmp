@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 5/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEVADA, CLARK, LAS VEGAS, 7230 LAS VEGAS S BLVD 373</description><Point><coordinates>-115.171103, 36.058240</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEVADA, CLARK, LAS VEGAS, 7230 LAS VEGAS S BLVD 373</description><Point><coordinates>-115.171103, 36.058240</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEVADA, CLARK, LAS VEGAS, 4025 PALOS VERDES 116</description><Point><coordinates>-115.150655, 36.116304</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/1/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEVADA, CLARK, LAS VEGAS, 3812 DAISY ST 5</description><Point><coordinates>-115.146816, 36.120094</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEVADA, CLARK, LAS VEGAS, 4801 SPENCER S ST 149</description><Point><coordinates>-115.128571, 36.102102</coordinates></Point></Placemark>

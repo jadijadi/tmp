@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, WHITE, NEW HAVEN, 459 1140 COUNTY E RD</description><Point><coordinates>-88.162860, 37.944559</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, WHITE, NEW HAVEN, 459 1140 COUNTY E RD</description><Point><coordinates>-88.162860, 37.944559</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/14/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, WHITE, NORRIS, 670 EAST 500 NORTH ROAD</description><Point><coordinates>-88.251256, 37.951813</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/3/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, WHITE, NORRIS CITY, 608 CO RD 950 E</description><Point><coordinates>-88.199526, 37.971912</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/7/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, WHITE, NORRIS CITY, 608 Co Rd 675 E</description><Point><coordinates>-88.250833, 37.927969</coordinates></Point></Placemark>

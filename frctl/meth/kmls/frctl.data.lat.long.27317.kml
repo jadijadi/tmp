@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/15/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, RANDOLPH, RANDLEMAN, 6039 FRED LINE BERRY ROAD</description><Point><coordinates>-79.761892, 35.873087</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/15/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, RANDOLPH, RANDLEMAN, 6039 FRED LINE BERRY ROAD</description><Point><coordinates>-79.761892, 35.873087</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/9/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, RANDOLPH, RANDLEMAN, 1224 SOUTH MAIN STREET</description><Point><coordinates>-79.813742, 35.794440</coordinates></Point></Placemark>
 
         </Document>

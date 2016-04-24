@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, LONOKE, LONOKE, 93 LINGO RD</description><Point><coordinates>-92.002986, 34.809066</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, LONOKE, LONOKE, 93 LINGO RD</description><Point><coordinates>-92.002986, 34.809066</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, LONOKE, LONOKE, 214 5TH E 1</description><Point><coordinates>-91.898261, 34.787946</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/11/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, LONOKE, LONOKE, 100 DAVIS RD</description><Point><coordinates>-91.981814, 34.840217</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/25/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, LONOKE, LONOKE, 941 BOWEN RD</description><Point><coordinates>-92.008451, 34.822908</coordinates></Point></Placemark>

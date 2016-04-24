@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, RIPLEY, DONIPHAN, HC 4 51F</description><Point><coordinates>-90.823455, 36.620892</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, RIPLEY, DONIPHAN, HC 4 51F</description><Point><coordinates>-90.823455, 36.620892</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/23/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, RIPLEY, DONIPHAN, 7 160 W HWY 106</description><Point><coordinates>-90.809828, 36.638208</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, RIPLEY, DONIPHAN, 107 LOCUST</description><Point><coordinates>-90.824077, 36.618308</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, RIPLEY, DONIPHAN, 160E-1 HWY</description><Point><coordinates>-90.755998, 36.680003</coordinates></Point></Placemark>

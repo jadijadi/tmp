@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IDAHO, SHOSHONE, KELLOGG, 898 MOON GULCH RD B</description><Point><coordinates>-116.044854, 47.546447</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IDAHO, SHOSHONE, KELLOGG, 898 MOON GULCH RD B</description><Point><coordinates>-116.044854, 47.546447</coordinates></Point></Placemark>
 
         </Document>
         </kml>

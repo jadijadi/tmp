@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 8/19/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, ANDERSON, BRICEVILLE, 116  BACK VOWELL ROAD</description><Point><coordinates>-84.177298, 36.180908</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 8/19/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, ANDERSON, BRICEVILLE, 116  BACK VOWELL ROAD</description><Point><coordinates>-84.177298, 36.180908</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, ANDERSON, LAKE CITY, 1453 OFFUTT RD</description><Point><coordinates>-84.126893, 36.175331</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, ANDERSON, LAKE CITY, 163 BRYANT LN</description><Point><coordinates>-84.147585, 36.190759</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/14/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, ANDERSON, LAKE CITY, 103 NEW CLEAR BRANCH ROAD</description><Point><coordinates>-84.143476, 36.181845</coordinates></Point></Placemark>

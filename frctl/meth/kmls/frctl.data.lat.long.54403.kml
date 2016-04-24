@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 12/15/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WISCONSIN, MARATHON, SCHOFIELD, 261  OAKWOOD AVENUE 6</description><Point><coordinates>-89.620909, 44.929584</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 12/15/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WISCONSIN, MARATHON, SCHOFIELD, 261  OAKWOOD AVENUE 6</description><Point><coordinates>-89.620909, 44.929584</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/29/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WISCONSIN, MARATHON, WAUSAU, 1520 GOLF CLUB ROAD</description><Point><coordinates>-89.606009, 44.993471</coordinates></Point></Placemark>
 
         </Document>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, COFFEE, TULLAHOMA, 315 OVERBY TRAIL RD</description><Point><coordinates>-86.255068, 35.306592</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, COFFEE, TULLAHOMA, 315 OVERBY TRAIL RD</description><Point><coordinates>-86.255068, 35.306592</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, COFFEE, TULLAHOMA, 1015 FRANKLIN S ST</description><Point><coordinates>-86.206646, 35.346925</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, COFFEE, TULLAHOMA, 204 COLLINS ST N</description><Point><coordinates>-86.217804, 35.359804</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/25/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, COFFEE, TULLAHOMA, 610 WARREN ST E</description><Point><coordinates>-86.199325, 35.365048</coordinates></Point></Placemark>

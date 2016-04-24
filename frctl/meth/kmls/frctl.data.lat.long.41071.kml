@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 6/13/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, CAMPBELL, NEWPORT, 842 ANN ST</description><Point><coordinates>-84.494200, 39.086369</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/13/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, CAMPBELL, NEWPORT, 842 ANN ST</description><Point><coordinates>-84.494200, 39.086369</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/14/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, CAMPBELL, NEWPORT, 823  OVERTON ST STREET</description><Point><coordinates>-84.486927, 39.091024</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/24/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, CAMPBELL, WILDER, 31-A  HILLSIDE AVENUE</description><Point><coordinates>-84.481753, 39.060412</coordinates></Point></Placemark>
 

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 8/22/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, JACKSON, MUNITH, 7150 KENNEDY RD</description><Point><coordinates>-84.287849, 42.380819</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 8/22/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, JACKSON, MUNITH, 7150 KENNEDY RD</description><Point><coordinates>-84.287849, 42.380819</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/29/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, JACKSON, MUNITH, 8533  COON HILL ROAD</description><Point><coordinates>-84.259890, 42.363980</coordinates></Point></Placemark>
 
         </Document>

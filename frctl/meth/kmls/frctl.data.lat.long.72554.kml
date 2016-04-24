@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/17/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, FULTON, MAMMOTH SPRING, 236 WHITE ROCK LN</description><Point><coordinates>-91.513493, 36.468183</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/17/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, FULTON, MAMMOTH SPRING, 236 WHITE ROCK LN</description><Point><coordinates>-91.513493, 36.468183</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/11/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, FULTON, MAMMOTH SPRING, 120 SPRINGFIELD LN</description><Point><coordinates>-91.587455, 36.488416</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, FULTON, MAMMOTH SPRING, 1200 RIVER OAK RD</description><Point><coordinates>-91.510916, 36.410160</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, FULTON, MAMMOTH SPRING, 43 WOODDALE</description><Point><coordinates>-91.529369, 36.420056</coordinates></Point></Placemark>

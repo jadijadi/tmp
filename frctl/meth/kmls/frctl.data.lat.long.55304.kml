@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 8/9/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MINNESOTA, ANOKA, ANDOVER, 516 NORTHWEST 166TH AVENUE</description><Point><coordinates>-93.278656, 45.269803</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 8/9/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MINNESOTA, ANOKA, ANDOVER, 516 NORTHWEST 166TH AVENUE</description><Point><coordinates>-93.278656, 45.269803</coordinates></Point></Placemark>
 
         </Document>
         </kml>

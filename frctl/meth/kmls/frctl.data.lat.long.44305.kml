@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 12/8/2000</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, SUMMIT, AKRON, 1530 PRESTON AVE</description><Point><coordinates>-81.468292, 41.068230</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 12/8/2000</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, SUMMIT, AKRON, 1530 PRESTON AVE</description><Point><coordinates>-81.468292, 41.068230</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/30/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, SUMMIT, AKRON, 270 GOODVIEW AVE 2</description><Point><coordinates>-81.454661, 41.069472</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, SUMMIT, AKRON, 642 PLUM AVE</description><Point><coordinates>-81.473874, 41.080801</coordinates></Point></Placemark>
 

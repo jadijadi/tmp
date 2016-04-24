@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, STEUBEN, ANGOLA, 7045 300 N. W</description><Point><coordinates>-85.122773, 41.685229</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, STEUBEN, ANGOLA, 7045 300 N. W</description><Point><coordinates>-85.122773, 41.685229</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/15/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, STEUBEN, ANGOLA, 401 SUPERIOR N ST</description><Point><coordinates>-85.003256, 41.637514</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/4/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, STEUBEN, ANGOLA, 612 GILMORE E ST</description><Point><coordinates>-84.991842, 41.635599</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/30/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, STEUBEN, ANGOLA, 503 TAMARACK DR</description><Point><coordinates>-85.017346, 41.639355</coordinates></Point></Placemark>

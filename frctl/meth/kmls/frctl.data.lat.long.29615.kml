@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 6/6/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, GREENVILLE, GREENVILLE, 409  CONNECITICUT AVENUE</description><Point><coordinates>-82.308725, 34.868788</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/6/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, GREENVILLE, GREENVILLE, 409  CONNECITICUT AVENUE</description><Point><coordinates>-82.308725, 34.868788</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/27/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, GREENVILLE, GREENVILLE, 7  LADBROKE COURT</description><Point><coordinates>-82.295320, 34.878429</coordinates></Point></Placemark>
 
         </Document>

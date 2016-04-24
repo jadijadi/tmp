@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 8/31/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, GREENE, SPRINGFIELD, 2801 DIVISION E 17</description><Point><coordinates>-82.907123, 40.417287</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 8/31/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, GREENE, SPRINGFIELD, 2801 DIVISION E 17</description><Point><coordinates>-82.907123, 40.417287</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/22/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, HIGHLAND, NEW VIENNA, 6199 ROUND HEAD ROAD</description><Point><coordinates>-82.907123, 40.417287</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/4/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, MUSKINGUM, ZANESFIELD, 343 LINN STREET</description><Point><coordinates>-82.907123, 40.417287</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/13/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, PICKAWAY, AMANDA, 9198 SOUTHWEST BROAD STREET</description><Point><coordinates>-82.907123, 40.417287</coordinates></Point></Placemark>

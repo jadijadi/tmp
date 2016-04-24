@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 10/5/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WELLS, BLUFFTON, 419 EAST MARKET</description><Point><coordinates>-85.167278, 40.739613</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 10/5/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WELLS, BLUFFTON, 419 EAST MARKET</description><Point><coordinates>-85.167278, 40.739613</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/11/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WELLS, BLUFFTON, 211 EAST MARKET STREET</description><Point><coordinates>-85.169795, 40.739797</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/28/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WELLS, BLUFFTON, 112 NORTH MAIN STREET 13</description><Point><coordinates>-85.171471, 40.740331</coordinates></Point></Placemark>
 

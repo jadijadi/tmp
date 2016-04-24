@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 12/13/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARIZONA, MARICOPA, WITTMANN, 21529 HOVE 1 E</description><Point><coordinates>-112.528259, 33.776386</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 12/13/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARIZONA, MARICOPA, WITTMANN, 21529 HOVE 1 E</description><Point><coordinates>-112.528259, 33.776386</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARIZONA, MARICOPA, WITTMANN, 26835 195TII N AVE</description><Point><coordinates>-112.528259, 33.776386</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/15/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARIZONA, MARICOPA, WITTMANN, 27641 204TH N WAY</description><Point><coordinates>-112.501851, 33.734627</coordinates></Point></Placemark>
 

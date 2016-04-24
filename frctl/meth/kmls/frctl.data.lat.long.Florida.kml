@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 12/9/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, BAY, SOUTH PORT, 314 BRIGGS LANE</description><Point><coordinates>-81.515754, 27.664827</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 12/9/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, BAY, SOUTH PORT, 314 BRIGGS LANE</description><Point><coordinates>-81.515754, 27.664827</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/28/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, CITRUS, DUNNELLON, 8901 NORTH BASSWOOD AVENUE</description><Point><coordinates>-81.515754, 27.664827</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/15/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, CITRUS, DUNNELLON, 11201 NORTH N RIVERBEND RD/W RIVER BEND RD ROAD</description><Point><coordinates>-81.515754, 27.664827</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/13/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, HOLMES, PONCE DE LEON, 1068 WALKER LN</description><Point><coordinates>-81.515754, 27.664827</coordinates></Point></Placemark>

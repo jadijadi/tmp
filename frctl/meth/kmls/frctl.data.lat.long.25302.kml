@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WEST VIRGINIA, KANAWHA, CHARLESTON, 2652 EVERGREEN DR</description><Point><coordinates>-81.595262, 38.387952</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WEST VIRGINIA, KANAWHA, CHARLESTON, 2652 EVERGREEN DR</description><Point><coordinates>-81.595262, 38.387952</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/31/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WEST VIRGINIA, KANAWHA, CHARLESTON, 1607 BIGLEY AVE 105</description><Point><coordinates>-81.620382, 38.361989</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WEST VIRGINIA, KANAWHA, CHARLESTON, 100 WASHINGTON ST 726</description><Point><coordinates>-81.640605, 38.359753</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/27/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WEST VIRGINIA, KANAWHA, CHARLESTON, 1105 STUART ST</description><Point><coordinates>-81.654570, 38.369777</coordinates></Point></Placemark>

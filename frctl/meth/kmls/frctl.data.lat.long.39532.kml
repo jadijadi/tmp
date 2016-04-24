@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 4/5/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, HARRISON, BILOXI, 11476 LANDING CT</description><Point><coordinates>-88.981714, 30.456055</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/5/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, HARRISON, BILOXI, 11476 LANDING CT</description><Point><coordinates>-88.981714, 30.456055</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, HARRISON, BILOXI, 12200 OLD HWY 67</description><Point><coordinates>-88.941992, 30.470129</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/19/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, HARRISON, BILOXI, 12477 MARTIN COVE</description><Point><coordinates>-88.985524, 30.469719</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/8/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, HARRISON, BILOXI, 746 A HIGHLAND DRIVE</description><Point><coordinates>-88.957607, 30.429798</coordinates></Point></Placemark>

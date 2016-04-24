@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 10/21/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MADISON, ANDERSON, 429 WHEELER AVENUE</description><Point><coordinates>-85.673023, 40.104571</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 10/21/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MADISON, ANDERSON, 429 WHEELER AVENUE</description><Point><coordinates>-85.673023, 40.104571</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/11/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MADISON, ANDERSON, 1040  MAIN STREET</description><Point><coordinates>-85.677752, 40.105620</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/3/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MADISON, ANDERSON, 1425  PEARL STREET</description><Point><coordinates>-85.674519, 40.101514</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/5/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MADISON, ANDERSON, 1807  BROWN STREET</description><Point><coordinates>-85.682785, 40.098019</coordinates></Point></Placemark>

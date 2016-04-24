@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/16/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, RICHLAND, OLNEY, 208 WEST N</description><Point><coordinates>-88.094437, 38.732779</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/16/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, RICHLAND, OLNEY, 208 WEST N</description><Point><coordinates>-88.094437, 38.732779</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/26/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, RICHLAND, OLNEY, 330 WALNUT N</description><Point><coordinates>-88.085250, 38.732830</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/15/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, RICHLAND, OLNEY, 1002 EAST CHESTNUT STREET</description><Point><coordinates>-88.073179, 38.729946</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/9/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, RICHLAND, OLNEY, 6724 EAST MONTCLARE STREET</description><Point><coordinates>-87.988753, 38.706750</coordinates></Point></Placemark>

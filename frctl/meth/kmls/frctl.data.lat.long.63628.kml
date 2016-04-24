@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, ST. Francois, BONNE TERRE, 6418 DUNN ST 2</description><Point><coordinates>-90.508072, 37.883165</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, ST. Francois, BONNE TERRE, 6418 DUNN ST 2</description><Point><coordinates>-90.508072, 37.883165</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, ST. Francois, BONNE TERRE, 7075 RAIDER RD E</description><Point><coordinates>-90.526255, 37.905615</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, ST. Francois, BONNE TERRE, 7401 PIERCE RD</description><Point><coordinates>-90.496520, 37.918429</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/9/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, ST. Francois, BONNE TERRE, 25 ELM ST A</description><Point><coordinates>-90.549461, 37.920480</coordinates></Point></Placemark>

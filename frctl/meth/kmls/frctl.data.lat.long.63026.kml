@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/3/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, JEFFERSON, FENTON, 914 OAK DR</description><Point><coordinates>-90.453685, 38.500755</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/3/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, JEFFERSON, FENTON, 914 OAK DR</description><Point><coordinates>-90.453685, 38.500755</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, JEFFERSON, FENTON, 322 MOUNT EVEREST LN C</description><Point><coordinates>-90.423683, 38.495651</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/19/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, JEFFERSON, FENTON, 707 SHANGRI LA</description><Point><coordinates>-90.431120, 38.497460</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/12/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, JEFFERSON, FENTON, 1074 OLD GRAVOIS RD</description><Point><coordinates>-90.476083, 38.498086</coordinates></Point></Placemark>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/3/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, SPOKANE, SPOKANE, 112 W LONGFELLOW</description><Point><coordinates>-117.413455, 47.697678</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/3/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, SPOKANE, SPOKANE, 112 W LONGFELLOW</description><Point><coordinates>-117.413455, 47.697678</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, SPOKANE, SPOKANE, 4903 N WHITEHOUSE</description><Point><coordinates>-117.416975, 47.702677</coordinates></Point></Placemark>
 
         </Document>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, HAMILTON, CHATTANOOGA, 4532 RAVENWOOD E DR</description><Point><coordinates>-85.272418, 35.126617</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, HAMILTON, CHATTANOOGA, 4532 RAVENWOOD E DR</description><Point><coordinates>-85.272418, 35.126617</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, HAMILTON, RED BANK, 132 FLORA CIR</description><Point><coordinates>-85.303506, 35.101287</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/31/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, HAMILTON, RED BANK, 3308 MARTIN</description><Point><coordinates>-85.302979, 35.110800</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, HAMILTON, RED BANK, 217 SWEETLAND DR</description><Point><coordinates>-85.311240, 35.094630</coordinates></Point></Placemark>

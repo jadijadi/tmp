@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 8/1/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, FAULKNER, GREENBRIER, 17 WELLWOOD</description><Point><coordinates>-92.387655, 35.233971</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 8/1/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, FAULKNER, GREENBRIER, 17 WELLWOOD</description><Point><coordinates>-92.387655, 35.233971</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/1/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, FAULKNER, GREENBRIER, 342 HIGHWAY 287</description><Point><coordinates>-92.329693, 35.181323</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/21/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, FAULKNER, GREENBRIER, 108  MILL BRIDGE</description><Point><coordinates>-92.310110, 35.335770</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/1/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, FAULKNER, GREENBRIER, 975  HWY 225E</description><Point><coordinates>-92.228481, 35.290666</coordinates></Point></Placemark>

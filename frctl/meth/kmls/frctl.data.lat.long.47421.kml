@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 8/19/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, LAWRENCE, BEDFORD, 1315 F ST</description><Point><coordinates>-86.478408, 38.863724</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 8/19/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, LAWRENCE, BEDFORD, 1315 F ST</description><Point><coordinates>-86.478408, 38.863724</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/15/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, LAWRENCE, BEDFORD, 1615 5TH STREET</description><Point><coordinates>-86.493161, 38.874452</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/13/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, LAWRENCE, BEDFORD, 1306 F STREET</description><Point><coordinates>-86.478378, 38.864132</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/13/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, LAWRENCE, BEDFORD, 267  GREENHILL ROAD</description><Point><coordinates>-86.557924, 38.911128</coordinates></Point></Placemark>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, LONOKE, CABOT, 16079 5 HWY</description><Point><coordinates>-92.072726, 35.030738</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, LONOKE, CABOT, 16079 5 HWY</description><Point><coordinates>-92.072726, 35.030738</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, LONOKE, CABOT, 185 STAGGS LN</description><Point><coordinates>-91.980949, 34.901162</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/15/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, LONOKE, CABOT, 607 JACKSON N ST</description><Point><coordinates>-92.009676, 34.976427</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/6/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, LONOKE, CABOT, 16079 HIGHWAY 5</description><Point><coordinates>-92.072726, 35.030738</coordinates></Point></Placemark>

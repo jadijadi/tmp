@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/28/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, ROWAN, CLEARFIELD, 760 MCBRAYER ROAD</description><Point><coordinates>-83.443339, 38.159038</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/28/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, ROWAN, CLEARFIELD, 760 MCBRAYER ROAD</description><Point><coordinates>-83.443339, 38.159038</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/9/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, ROWAN, CLEARFIELD, 165 PARTIN STREET</description><Point><coordinates>-83.435651, 38.161029</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/14/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, ROWAN, CLEARFIELD, 160  FALLEN TIMBER BRANCH</description><Point><coordinates>-83.396614, 38.152843</coordinates></Point></Placemark>
 

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/5/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, FAYETTE, SOMERVILLE, 6055 OLD JACKSON</description><Point><coordinates>-89.280935, 35.302670</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/5/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, FAYETTE, SOMERVILLE, 6055 OLD JACKSON</description><Point><coordinates>-89.280935, 35.302670</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/20/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, FAYETTE, SOMERVILLE, 6005  LAGRANGE ROAD</description><Point><coordinates>-89.307626, 35.148433</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/28/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, FAYETTE, SOMERVILLE, 80  STACEY WAY</description><Point><coordinates>-89.233999, 35.245339</coordinates></Point></Placemark>
 

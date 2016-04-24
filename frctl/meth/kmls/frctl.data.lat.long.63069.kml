@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 7/19/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, FRANKLIN, GRAY SUMMIT, 1613  MISSOURI</description><Point><coordinates>-90.800224, 38.484273</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 7/19/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, FRANKLIN, GRAY SUMMIT, 1613  MISSOURI</description><Point><coordinates>-90.800224, 38.484273</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/29/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, FRANKLIN, GRAY SUMMIT, 101  CUIVRE COURT</description><Point><coordinates>-90.804207, 38.484332</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/21/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, FRANKLIN, PACIFIC, 2647 N HWY</description><Point><coordinates>-90.783371, 38.456374</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, FRANKLIN, PACIFIC, 713 BATES MEADOW DR</description><Point><coordinates>-90.788294, 38.452235</coordinates></Point></Placemark>

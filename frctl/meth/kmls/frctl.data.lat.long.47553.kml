@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 4/25/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, DAVIESS, LOOGOOTEE, 11679  E N FIRST STREET</description><Point><coordinates>-86.948561, 38.561431</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/25/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, DAVIESS, LOOGOOTEE, 11679  E N FIRST STREET</description><Point><coordinates>-86.948561, 38.561431</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MARTIN, LOOGOOTEE, 702 SOUTHWEST SECOND STREET 1</description><Point><coordinates>-86.921628, 38.673459</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/15/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MARTIN, LOOGOOTEE, 700 JACKSON STREET</description><Point><coordinates>-86.921445, 38.671134</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/16/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MARTIN, LOOGOOTEE, 1354 OLD SCHOOL ROAD</description><Point><coordinates>-86.898326, 38.557271</coordinates></Point></Placemark>

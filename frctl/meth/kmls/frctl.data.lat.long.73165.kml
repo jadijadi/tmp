@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 4/1/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CLEVELAND, OKLAHOMA CITY, 10300 KEAR  DR</description><Point><coordinates>-97.323393, 35.363856</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/1/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CLEVELAND, OKLAHOMA CITY, 10300 KEAR  DR</description><Point><coordinates>-97.323393, 35.363856</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/15/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CLEVELAND, OKLAHOMA CITY, 12700 141 SE ST</description><Point><coordinates>-97.305310, 35.326294</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/10/2000</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, OKLAHOMA, OKLAHOMA CITY, 10900 POWELL  RD</description><Point><coordinates>-97.319546, 35.359083</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/14/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, OKLAHOMA, OKLAHOMA CITY, 10900 POWELL  RD</description><Point><coordinates>-97.319546, 35.359083</coordinates></Point></Placemark>

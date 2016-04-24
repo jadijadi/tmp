@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, JOHNSTON, FOUR OAKS, 6307 STRICKLANDS CROSSROADS RD</description><Point><coordinates>-78.439808, 35.370945</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, JOHNSTON, FOUR OAKS, 6307 STRICKLANDS CROSSROADS RD</description><Point><coordinates>-78.439808, 35.370945</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/1/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, JOHNSTON, FOUR OAKS, 9644  DEVIL'S RACETRACK ROAD</description><Point><coordinates>-78.289835, 35.326700</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/1/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, JOHNSTON, FOUR OAKS, 9644  DEVIL'S RACETRACK ROAD</description><Point><coordinates>-78.289835, 35.326700</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/12/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, JOHNSTON, FOUR OAKS, 9303  DEVILS RACETRACK ROAD</description><Point><coordinates>-78.293162, 35.332862</coordinates></Point></Placemark>

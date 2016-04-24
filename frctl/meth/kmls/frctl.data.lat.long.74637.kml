@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/14/2000</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, OSAGE, FAIRFAX, 4775 224 N RD</description><Point><coordinates>-96.704199, 36.573659</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/14/2000</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, OSAGE, FAIRFAX, 4775 224 N RD</description><Point><coordinates>-96.704199, 36.573659</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/18/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, OSAGE, FAIRFAX, 206 5 N ST</description><Point><coordinates>-96.706949, 36.572216</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/12/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, OSAGE, FAIRFAX, 201 MAPLE W ST</description><Point><coordinates>-96.705666, 36.574779</coordinates></Point></Placemark>
 

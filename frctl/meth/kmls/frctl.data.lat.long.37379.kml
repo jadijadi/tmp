@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/7/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, HAMILTON, SODDY DAISY, 1405 MONT LAKE ROAD N</description><Point><coordinates>-85.217538, 35.252059</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/7/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, HAMILTON, SODDY DAISY, 1405 MONT LAKE ROAD N</description><Point><coordinates>-85.217538, 35.252059</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, HAMILTON, SODDY DAISY, 1313 THATCHER RD .</description><Point><coordinates>-85.140244, 35.248372</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, HAMILTON, SODDY DAISY, 215 COLEMAN RD</description><Point><coordinates>-85.140367, 35.328383</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/7/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, HAMILTON, SODDY DAISY, 1348 OSAGE DR</description><Point><coordinates>-85.134308, 35.286739</coordinates></Point></Placemark>

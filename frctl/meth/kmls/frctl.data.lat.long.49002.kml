@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 12/29/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, KALAMAZOO, KALAMAZOO, 4068 DEADWOOD N</description><Point><coordinates>-85.541630, 42.240629</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 12/29/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, KALAMAZOO, KALAMAZOO, 4068 DEADWOOD N</description><Point><coordinates>-85.541630, 42.240629</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/7/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, KALAMAZOO, KALAMAZOO, 3907 AOBURN LN</description><Point><coordinates>-85.544869, 42.239618</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/29/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, KALAMAZOO, KALAMAZOO, 5450 MOUNT COURT</description><Point><coordinates>-85.543738, 42.237957</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/11/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, KALAMAZOO, KALAMAZOO, 2615  AIRVIEW BOULEVARD 243/244</description><Point><coordinates>-85.558356, 42.242677</coordinates></Point></Placemark>

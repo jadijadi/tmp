@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 9/17/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BARRY, HICKORY CORNERS, 15467 RICH LANE</description><Point><coordinates>-85.440061, 42.428145</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 9/17/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BARRY, HICKORY CORNERS, 15467 RICH LANE</description><Point><coordinates>-85.440061, 42.428145</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/18/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BARRY, HICKORY CORNERS, 14565  KELLOGG SCHOOL ROAD</description><Point><coordinates>-85.376034, 42.441086</coordinates></Point></Placemark>
 
         </Document>

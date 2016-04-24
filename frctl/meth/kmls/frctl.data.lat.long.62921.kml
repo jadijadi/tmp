@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 10/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, WILLIAMSON, CAMBRIA, 404 RICHART S</description><Point><coordinates>-89.122617, 37.781475</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 10/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, WILLIAMSON, CAMBRIA, 404 RICHART S</description><Point><coordinates>-89.122617, 37.781475</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, WILLIAMSON, CARTERVILLE, 111 STABLE DR</description><Point><coordinates>-89.101693, 37.761901</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/27/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, WILLIAMSON, CARTERVILLE, 306 VANWICK STREET</description><Point><coordinates>-89.081342, 37.767730</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/10/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, WILLIAMSON, CARTERVILLE, 3402 WEST SYCAMORE</description><Point><coordinates>-89.097813, 37.774067</coordinates></Point></Placemark>

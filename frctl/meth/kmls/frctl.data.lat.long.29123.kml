@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/5/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, LEXINGTON, PELION, 329 GEORGE BROWN</description><Point><coordinates>-81.214034, 33.771492</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/5/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, LEXINGTON, PELION, 329 GEORGE BROWN</description><Point><coordinates>-81.214034, 33.771492</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/26/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, LEXINGTON, PELION, 383 DOWNET DRIVE</description><Point><coordinates>-81.250575, 33.808957</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/2/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, LEXINGTON, PELION, 264 OTIS RD</description><Point><coordinates>-81.299216, 33.799098</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/11/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, LEXINGTON, PELION, 168 CATHERINE DRIVE</description><Point><coordinates>-81.275619, 33.759096</coordinates></Point></Placemark>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 5/29/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, COFFEE, ENTERPRISE, 1591 PARK E AVE 114</description><Point><coordinates>-85.818849, 31.305880</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/29/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, COFFEE, ENTERPRISE, 1591 PARK E AVE 114</description><Point><coordinates>-85.818849, 31.305880</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/11/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, COFFEE, ENTERPRISE, 845 COUNTY ROAD 606</description><Point><coordinates>-85.982280, 31.279780</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/13/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, COFFEE, ENTERPRISE, 442 PAUL ST</description><Point><coordinates>-85.823450, 31.300760</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/15/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, COFFEE, ENTERPRISE, 300 RAVEN STREET</description><Point><coordinates>-85.860704, 31.349420</coordinates></Point></Placemark>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/31/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, SAINT LOUIS, MARYLAND HEIGHTS, 11827 LACKLAND 337</description><Point><coordinates>-90.435462, 38.699284</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/31/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, SAINT LOUIS, MARYLAND HEIGHTS, 11827 LACKLAND 337</description><Point><coordinates>-90.435462, 38.699284</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/4/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, SAINT LOUIS, SAINT ANN, 3570 LINDBURG N 124</description><Point><coordinates>-90.407816, 38.689217</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/10/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, ST. LOUIS, SAINT LOUIS, 3127  ROSS STREET</description><Point><coordinates>-90.453942, 38.696612</coordinates></Point></Placemark>
 

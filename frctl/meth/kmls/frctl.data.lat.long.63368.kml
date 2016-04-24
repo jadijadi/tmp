@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 11/19/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, SAINT CHARLES, O FALLON, 2357 OAKBROOK</description><Point><coordinates>-90.768411, 38.758352</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 11/19/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, SAINT CHARLES, O FALLON, 2357 OAKBROOK</description><Point><coordinates>-90.768411, 38.758352</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/14/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, SAINT CHARLES, OFALLON, 8912 DD HIGHWAY</description><Point><coordinates>-90.768257, 38.745285</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/4/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, SAINT CHARLES, O'FALLON, 8010 OAK MONT CT</description><Point><coordinates>-90.769935, 38.761766</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/21/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, SAINT CHARLES, O'FALLON, 8006 OAKMONT</description><Point><coordinates>-90.769973, 38.761763</coordinates></Point></Placemark>

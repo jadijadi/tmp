@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 6/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JACKSON, SEYMOUR, 940 ELM N ST</description><Point><coordinates>-85.896910, 38.968788</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JACKSON, SEYMOUR, 940 ELM N ST</description><Point><coordinates>-85.896910, 38.968788</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/27/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JACKSON, SEYMOUR, 401 CHESTNUT N ST 34</description><Point><coordinates>-85.891639, 38.961218</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JACKSON, SEYMOUR, 749 US 31 N</description><Point><coordinates>-85.818586, 38.893938</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/3/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JACKSON, SEYMOUR, 611 JACKSON PARK S DR B</description><Point><coordinates>-85.870175, 38.954916</coordinates></Point></Placemark>

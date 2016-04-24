@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, JACKSON, HOLLYWOOD, 6759 CO 33 RD</description><Point><coordinates>-85.975428, 34.725711</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, JACKSON, HOLLYWOOD, 6759 CO 33 RD</description><Point><coordinates>-85.975428, 34.725711</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/31/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, JACKSON, HOLLYWOOD, 15 FRED ST</description><Point><coordinates>-85.990938, 34.741017</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, JACKSON, HOLLYWOOD, 349 COUNTY 599 RD</description><Point><coordinates>-85.928229, 34.739139</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/30/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, JACKSON, HOLLYWOOD, 981 CO RD 213</description><Point><coordinates>-85.902038, 34.754377</coordinates></Point></Placemark>

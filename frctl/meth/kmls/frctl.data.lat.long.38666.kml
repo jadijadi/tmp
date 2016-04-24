@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 10/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, PANOLA, SARDIS, 194 OAK GROVE ROAD</description><Point><coordinates>-89.849390, 34.431547</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 10/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, PANOLA, SARDIS, 194 OAK GROVE ROAD</description><Point><coordinates>-89.849390, 34.431547</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/5/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, PANOLA, SARDIS, 440  SHADY GROVE</description><Point><coordinates>-89.747430, 34.334080</coordinates></Point></Placemark>
 
         </Document>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/23/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, HARRISON, PASS CHRISTIAN, 22437 MEAUT RD</description><Point><coordinates>-89.217722, 30.411673</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/23/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, HARRISON, PASS CHRISTIAN, 22437 MEAUT RD</description><Point><coordinates>-89.217722, 30.411673</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/18/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, HARRISON, PASS CHRISTIAN, 24251 OAKRIDGE DRIVE</description><Point><coordinates>-89.247001, 30.416409</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/17/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, HARRISON, PASS CHRISTIAN, 18396 BELL CREEK ROAD</description><Point><coordinates>-89.329954, 30.554443</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/14/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, HARRISON, PASS CHRISTIAN, 22098 GRIMES ROAD</description><Point><coordinates>-89.207011, 30.359248</coordinates></Point></Placemark>

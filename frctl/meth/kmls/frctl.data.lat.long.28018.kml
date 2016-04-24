@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, RUTHERFORD, BOSTIC, 231 DUSTY HOLLER RD</description><Point><coordinates>-81.810619, 35.407243</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, RUTHERFORD, BOSTIC, 231 DUSTY HOLLER RD</description><Point><coordinates>-81.810619, 35.407243</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, RUTHERFORD, BOSTIC, 156 RUBY DR</description><Point><coordinates>-81.790389, 35.405315</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/6/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, RUTHERFORD, BOSTIC, 116 HILLBROOK DR</description><Point><coordinates>-81.824802, 35.329370</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, RUTHERFORD, BOSTIC, 191 ROBERTSON CREEK CHURCH RD</description><Point><coordinates>-81.848144, 35.394842</coordinates></Point></Placemark>

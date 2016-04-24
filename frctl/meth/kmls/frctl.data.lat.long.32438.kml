@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/23/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, BAY, FOUNTAIN, 20622 BRANDON RD</description><Point><coordinates>-85.439027, 30.522679</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/23/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, BAY, FOUNTAIN, 20622 BRANDON RD</description><Point><coordinates>-85.439027, 30.522679</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/8/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, BAY, FOUNTAIN, 121441 TWO TRAIL RD</description><Point><coordinates>-85.420542, 30.528563</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/16/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, BAY, FOUNTAIN, 13340 HWY 20 E</description><Point><coordinates>-85.449140, 30.435831</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/31/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, BAY, FOUNTAIN, 12324 GREENBRIAR DRIVE</description><Point><coordinates>-85.417197, 30.513897</coordinates></Point></Placemark>

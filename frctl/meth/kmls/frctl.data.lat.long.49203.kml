@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 8/29/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, JACKSON, JACKSON, 116 MASON E ST 2</description><Point><coordinates>-84.404379, 42.243237</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 8/29/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, JACKSON, JACKSON, 116 MASON E ST 2</description><Point><coordinates>-84.404379, 42.243237</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/4/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, JACKSON, JACKSON, 401 EAST HIGH STREET</description><Point><coordinates>-84.393690, 42.232711</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/11/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, JACKSON, JACKSON, 316 EAST EUCLID STREET</description><Point><coordinates>-84.395799, 42.229617</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/7/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, JACKSON, JACKSON, 1028  MAPLE AVENUE  BOX 2</description><Point><coordinates>-84.406950, 42.236605</coordinates></Point></Placemark>

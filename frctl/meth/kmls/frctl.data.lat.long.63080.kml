@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 5/7/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CRAWFORD, SULLIVAN, 309 SOUTH PARK STREET</description><Point><coordinates>-91.166132, 38.203510</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/7/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CRAWFORD, SULLIVAN, 309 SOUTH PARK STREET</description><Point><coordinates>-91.166132, 38.203510</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/5/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, FRANKLIN, SAINT CLAIR, 2766 NEW HOPE CHURCH ROAD</description><Point><coordinates>-90.952507, 38.247459</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, FRANKLIN, SULLIVAN, 416 ELM ST B</description><Point><coordinates>-91.165396, 38.212603</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/13/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, FRANKLIN, SULLIVAN, 8785 AE HWY</description><Point><coordinates>-91.327747, 38.237348</coordinates></Point></Placemark>

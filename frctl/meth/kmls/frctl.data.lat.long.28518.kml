@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 5/14/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, DUPLIN, BEULAVILLE, 2088  HALLSVILLE ROAD</description><Point><coordinates>-77.877404, 34.898679</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/14/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, DUPLIN, BEULAVILLE, 2088  HALLSVILLE ROAD</description><Point><coordinates>-77.877404, 34.898679</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/3/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, DUPLIN, BEULAVILLE, 337  TURKEY BRANCH ROAD</description><Point><coordinates>-77.782352, 34.936849</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/27/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, ONSLOW, BEULAVILLE, 887  HAW BRANCH ROAD</description><Point><coordinates>-77.637133, 34.906867</coordinates></Point></Placemark>
 

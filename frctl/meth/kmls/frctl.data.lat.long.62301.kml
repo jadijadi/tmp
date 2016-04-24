@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/23/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, ADAMS, QUINCY, 2534 CHERRY</description><Point><coordinates>-91.374519, 39.943798</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/23/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, ADAMS, QUINCY, 2534 CHERRY</description><Point><coordinates>-91.374519, 39.943798</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/11/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, ADAMS, QUINCY, 626 MAINE ST A</description><Point><coordinates>-91.405656, 39.931601</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, ADAMS, QUINCY, 1114 7TH N</description><Point><coordinates>-91.404381, 39.944934</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, ADAMS, QUINCY, 115 RIVERVIEW ST</description><Point><coordinates>-91.413662, 39.952084</coordinates></Point></Placemark>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, MARION, MARION, 314 WINDSOR ST</description><Point><coordinates>-83.134677, 40.584288</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, MARION, MARION, 314 WINDSOR ST</description><Point><coordinates>-83.134677, 40.584288</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/2/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, MARION, MARION, 710 NORTH PROSPECT STREET D</description><Point><coordinates>-83.130519, 40.600916</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/5/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, MARION, MARION, 516  AVONDALE AVENUE</description><Point><coordinates>-83.142317, 40.597102</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/6/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, MARION, MARION, 133  DEWOLFE COURT</description><Point><coordinates>-83.124174, 40.589435</coordinates></Point></Placemark>

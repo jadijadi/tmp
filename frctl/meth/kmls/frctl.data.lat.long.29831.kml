@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 6/20/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, AIKEN, BEECH ISLAND, 57 FORREST DRIVE</description><Point><coordinates>-81.889792, 33.404537</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/20/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, AIKEN, BEECH ISLAND, 57 FORREST DRIVE</description><Point><coordinates>-81.889792, 33.404537</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/29/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, AIKEN, JACKSON, 99 QUAIL RIDGE DRIVE</description><Point><coordinates>-81.858096, 33.377036</coordinates></Point></Placemark>
 
         </Document>

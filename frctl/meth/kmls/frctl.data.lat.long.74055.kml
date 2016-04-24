@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/18/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, TULSA, OWASSO, 2121 111TH SOUTH W ST</description><Point><coordinates>-95.864328, 36.314418</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/18/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, TULSA, OWASSO, 2121 111TH SOUTH W ST</description><Point><coordinates>-95.864328, 36.314418</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/24/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, TULSA, OWASSO, 517 6TH N ST</description><Point><coordinates>-95.850989, 36.273126</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/15/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, TULSA, OWASSO, 1022 WEST 94TH STREET</description><Point><coordinates>-95.871060, 36.290317</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/14/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, TULSA, OWASSO, 6201 60TH W ST</description><Point><coordinates>-95.819195, 36.239913</coordinates></Point></Placemark>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 4/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, POWELL, CLAY CITY, 1455 BUSH CREEK</description><Point><coordinates>-83.963513, 37.906699</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, POWELL, CLAY CITY, 1455 BUSH CREEK</description><Point><coordinates>-83.963513, 37.906699</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/6/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, POWELL, CLAY CITY, 72 SKYVIEW</description><Point><coordinates>-83.981941, 37.877628</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/19/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, POWELL, CLAY CITY, 1250 JONES ROAD</description><Point><coordinates>-83.966056, 37.871534</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/3/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, POWELL, CLAY CITY, 400 DANIELS BRANCH ROAD</description><Point><coordinates>-83.918532, 37.859248</coordinates></Point></Placemark>

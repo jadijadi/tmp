@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, WASHINGTON, FAYETTEVILLE, 360 SANG S ST 13</description><Point><coordinates>-94.188764, 36.059434</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, WASHINGTON, FAYETTEVILLE, 360 SANG S ST 13</description><Point><coordinates>-94.188764, 36.059434</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/5/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, WASHINGTON, FAYETTEVILLE, 20732 TRAIL RD</description><Point><coordinates>-93.976440, 35.942138</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/21/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, WASHINGTON, FAYETTEVILLE, 1101 CURTIS S K-84</description><Point><coordinates>-94.142906, 36.052202</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, WASHINGTON, FAYETTEVILLE, 817 DOGWOOD LN</description><Point><coordinates>-94.147569, 36.067332</coordinates></Point></Placemark>

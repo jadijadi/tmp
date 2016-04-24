@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/15/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, PARKE, BRIDGETON, 6553 DUSTY S LN</description><Point><coordinates>-87.198127, 39.672602</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/15/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, PARKE, BRIDGETON, 6553 DUSTY S LN</description><Point><coordinates>-87.198127, 39.672602</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/6/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, PARKE, ROSEDALE, 8126 LYFORD S ST</description><Point><coordinates>-87.283350, 39.622816</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/31/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, PARKE, ROSEDALE, 9633 US HWY 41 S HWY</description><Point><coordinates>-87.369835, 39.628395</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/21/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, PARKE, ROSEDALE, 1430 EAST ROSEDALE ROAD</description><Point><coordinates>-87.263023, 39.614041</coordinates></Point></Placemark>

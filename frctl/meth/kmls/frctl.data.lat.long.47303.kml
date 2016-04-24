@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 12/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, DELAWARE, MUNCIE, 405 HUTCHINSON S ST</description><Point><coordinates>-85.413143, 40.191200</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 12/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, DELAWARE, MUNCIE, 405 HUTCHINSON S ST</description><Point><coordinates>-85.413143, 40.191200</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/16/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, DELAWARE, MUNCIE, 2529  N ELGIN STREET 5</description><Point><coordinates>-85.369930, 40.215390</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/7/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, DELAWARE, MUNCIE, 1801 NORTH ELM STREET 1</description><Point><coordinates>-85.380513, 40.210054</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/21/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, DELAWARE, MUNCIE, 2111 NORTH ELM STREET</description><Point><coordinates>-85.380115, 40.211757</coordinates></Point></Placemark>

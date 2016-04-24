@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 4/6/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, AVERY, ELK PARK, 450  JOE PARLIER ROAD</description><Point><coordinates>-81.939429, 36.232454</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/6/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, AVERY, ELK PARK, 450  JOE PARLIER ROAD</description><Point><coordinates>-81.939429, 36.232454</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/26/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, AVERY, ELK PARK, 5631  BANNER ELK HIGHWAY</description><Point><coordinates>-81.888526, 36.159050</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/8/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, AVERY, ELK PARK, 1888  ELK RIVER ROAD</description><Point><coordinates>-81.962069, 36.174790</coordinates></Point></Placemark>
 

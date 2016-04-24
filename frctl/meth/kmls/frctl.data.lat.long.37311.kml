@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/11/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, BRADLEY, CLEVELAND, 1600 LEE SE HWY 126</description><Point><coordinates>-84.897802, 35.152626</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/11/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, BRADLEY, CLEVELAND, 1600 LEE SE HWY 126</description><Point><coordinates>-84.897802, 35.152626</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, BRADLEY, CLEVELAND, 2780 LEADMINE SW RD</description><Point><coordinates>-84.940675, 35.045610</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, BRADLEY, CLEVELAND, 1625 AURORA AVE 3</description><Point><coordinates>-84.875477, 35.143417</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/25/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, BRADLEY, CLEVELAND, 2190 OLD HARRISON PIKE</description><Point><coordinates>-84.910201, 35.176295</coordinates></Point></Placemark>

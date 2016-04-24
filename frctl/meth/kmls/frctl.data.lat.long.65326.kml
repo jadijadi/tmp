@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 7/29/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BENTON, EDWARDS, Route 2 91J</description><Point><coordinates>-93.170055, 38.150620</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 7/29/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BENTON, EDWARDS, Route 2 91J</description><Point><coordinates>-93.170055, 38.150620</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/2/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BENTON, EDWARDS, 29252 ZEUS DR</description><Point><coordinates>-93.170477, 38.252667</coordinates></Point></Placemark>
 
         </Document>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 4/4/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, MORROW, IRRIGON, 74609 CAIN LANE</description><Point><coordinates>-119.535468, 45.867456</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/4/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, MORROW, IRRIGON, 74609 CAIN LANE</description><Point><coordinates>-119.535468, 45.867456</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/29/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, MORROW, IRRIGON, 81468 PINE ROAD</description><Point><coordinates>-119.510385, 45.894695</coordinates></Point></Placemark>
 
         </Document>

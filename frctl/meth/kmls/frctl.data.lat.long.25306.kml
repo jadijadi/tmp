@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 4/22/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WEST VIRGINIA, KANAWHA, CHARLESTON, 3535 SPRING FORK RD</description><Point><coordinates>-81.499367, 38.274196</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/22/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WEST VIRGINIA, KANAWHA, CHARLESTON, 3535 SPRING FORK RD</description><Point><coordinates>-81.499367, 38.274196</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/12/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WEST VIRGINIA, KANAWHA, SOUTH CHARLESTON, 78 ROUTE 7</description><Point><coordinates>-81.555972, 38.309288</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/15/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WEST VIRGINIA, KANAWHA, TAD, 112 PULTERSON</description><Point><coordinates>-81.494286, 38.333433</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/2/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WEST VIRGINIA, KANAWHA, TAD, 193 RENSFORD STAR ROUTE</description><Point><coordinates>-81.494286, 38.333433</coordinates></Point></Placemark>

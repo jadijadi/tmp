@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 5/22/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, CITRUS, HOMOSASSA, 5510 SOUTH BABLAN TERRACE</description><Point><coordinates>-82.611385, 28.781364</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/22/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, CITRUS, HOMOSASSA, 5510 SOUTH BABLAN TERRACE</description><Point><coordinates>-82.611385, 28.781364</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/18/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, CITRUS, HOMOSASSA, 10341 WEST CENTRAL</description><Point><coordinates>-82.605339, 28.782747</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/2/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, CITRUS, HOMOSASSA, 7805 WEST MISS MAGGIE DRIVE 1 & 2</description><Point><coordinates>-82.562719, 28.717183</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/15/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, CITRUS, HOMOSASSA, 6306 WEST MINUTEMAN STREET</description><Point><coordinates>-82.538914, 28.845184</coordinates></Point></Placemark>

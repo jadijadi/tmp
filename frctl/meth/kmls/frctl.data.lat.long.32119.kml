@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 5/13/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, VOLUSIA, S DAYTONA, 625  REED CANAL ROAD</description><Point><coordinates>-81.004146, 29.157800</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/13/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, VOLUSIA, S DAYTONA, 625  REED CANAL ROAD</description><Point><coordinates>-81.004146, 29.157800</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/2/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, VOLUSIA, SOUTH DAYTONA, 2101 BRIAN AVE</description><Point><coordinates>-81.011187, 29.166838</coordinates></Point></Placemark>
 
         </Document>

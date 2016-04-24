@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 7/11/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, OKLAHOMA, LUTHER, 14 WOODLAND W DR</description><Point><coordinates>-97.501700, 35.519103</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 7/11/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, OKLAHOMA, LUTHER, 14 WOODLAND W DR</description><Point><coordinates>-97.501700, 35.519103</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/2/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, OKLAHOMA, OKLAHOMA CITY, 923 64 NE</description><Point><coordinates>-97.495005, 35.537841</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/16/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, OKLAHOMA, OKLAHOMA CITY, 641 36TH SE</description><Point><coordinates>-97.502270, 35.507796</coordinates></Point></Placemark>
 

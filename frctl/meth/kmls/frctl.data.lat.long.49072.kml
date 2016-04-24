@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 4/26/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, ST. JOSEPH, MENDON, 52022  TONYA DRIVE</description><Point><coordinates>-85.511936, 42.039398</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/26/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, ST. JOSEPH, MENDON, 52022  TONYA DRIVE</description><Point><coordinates>-85.511936, 42.039398</coordinates></Point></Placemark>
 
         </Document>
         </kml>

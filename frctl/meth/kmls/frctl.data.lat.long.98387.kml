@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 9/21/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, PIERCE, GRAHAM, 4212 245TH E</description><Point><coordinates>-122.373066, 47.033895</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 9/21/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, PIERCE, GRAHAM, 4212 245TH E</description><Point><coordinates>-122.373066, 47.033895</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/31/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, PIERCE, GRAHAM, 22422 40TH E AVE</description><Point><coordinates>-122.377233, 47.052274</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/14/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, PIERCE, GRAHAM, 24719 44TH E AVE</description><Point><coordinates>-122.371051, 47.066930</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/16/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, PIERCE, GRAHAM, 24719 44TH E AVE</description><Point><coordinates>-122.371051, 47.066930</coordinates></Point></Placemark>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, CLAY, CLAY CITY, 236 a 3RD NE</description><Point><coordinates>-88.350977, 38.693296</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, CLAY, CLAY CITY, 236 a 3RD NE</description><Point><coordinates>-88.350977, 38.693296</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/27/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, CLAY, CLAY CITY, 112 1ST NW</description><Point><coordinates>-88.354290, 38.691596</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/15/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, CLAY, CLAY CITY, 112 FIRST NW ST</description><Point><coordinates>-88.354290, 38.691596</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/18/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, CLAY, CLAY CITY, 424 1ST N. W. N</description><Point><coordinates>-88.361017, 38.691295</coordinates></Point></Placemark>

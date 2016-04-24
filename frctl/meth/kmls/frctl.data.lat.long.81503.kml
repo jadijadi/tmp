@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 12/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, MESA, GRAND JUNCTION, 730 HIGHWAY 50 104</description><Point><coordinates>-108.561415, 39.046791</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 12/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, MESA, GRAND JUNCTION, 730 HIGHWAY 50 104</description><Point><coordinates>-108.561415, 39.046791</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/11/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, GILES, GRAND JUNCTION, 416  MORNINGSIDE DRIVE</description><Point><coordinates>-108.525587, 39.041981</coordinates></Point></Placemark>
 
         </Document>

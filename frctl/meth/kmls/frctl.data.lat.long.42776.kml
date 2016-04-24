@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 6/8/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, HARDIN, SONORA, 8737 FLINT HILL W RD</description><Point><coordinates>-86.026375, 37.489726</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/8/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, HARDIN, SONORA, 8737 FLINT HILL W RD</description><Point><coordinates>-86.026375, 37.489726</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/15/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, HARDIN, SONORA, 1680 MELROSE LANE</description><Point><coordinates>-85.983402, 37.528933</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/3/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, HARDIN, SONORA, 113  THURMAN STREET</description><Point><coordinates>-85.903584, 37.563322</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/11/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, HARDIN, SONORA, 197  NORTH MAPLE ST.</description><Point><coordinates>-85.893268, 37.527592</coordinates></Point></Placemark>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 5/14/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, BULLITT, COXS CREEK, 737 DEERWOOD DRIVE</description><Point><coordinates>-85.501096, 37.996658</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/14/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, BULLITT, COXS CREEK, 737 DEERWOOD DRIVE</description><Point><coordinates>-85.501096, 37.996658</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/10/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, NELSON, COXS CREEK, 400  THOMPSON HILL ROAD</description><Point><coordinates>-85.511149, 37.946555</coordinates></Point></Placemark>
 
         </Document>

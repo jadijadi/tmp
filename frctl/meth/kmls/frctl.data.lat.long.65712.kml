@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LAWRENCE, MOUNT VERNON, 15235 FARM ROAD 2153</description><Point><coordinates>-93.878824, 37.052312</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LAWRENCE, MOUNT VERNON, 15235 FARM ROAD 2153</description><Point><coordinates>-93.878824, 37.052312</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LAWRENCE, MOUNT VERNON, 9611 LAWRENCE 1170</description><Point><coordinates>-93.750760, 37.137939</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/28/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LAWRENCE, MOUNT VERNON, 9617 LAWRNCE 1210</description><Point><coordinates>-93.686059, 37.134436</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/16/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LAWRENCE, MOUNT VERNON, 17509 HWY 174 LOT 16</description><Point><coordinates>-93.738489, 37.115155</coordinates></Point></Placemark>

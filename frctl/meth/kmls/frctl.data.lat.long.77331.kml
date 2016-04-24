@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 4/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, SAN JACINTO, COLDSPRING, 2790 FM 222</description><Point><coordinates>-95.082377, 30.588179</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, SAN JACINTO, COLDSPRING, 2790 FM 222</description><Point><coordinates>-95.082377, 30.588179</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, SAN JACINTO, COLDSPRING, 800 NEUMAN ST</description><Point><coordinates>-95.012330, 30.613891</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/6/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, SAN JACINTO, COLDSPRING, 11 BROKEN BOW</description><Point><coordinates>-95.129382, 30.592421</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/29/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, SAN JACINTO, COLDSPRING, 120 MAGNOLIA N</description><Point><coordinates>-95.118150, 30.631353</coordinates></Point></Placemark>

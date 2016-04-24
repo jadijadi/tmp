@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, VAN BUREN, PAW PAW, 312 VAN BUREN N ST</description><Point><coordinates>-85.884042, 42.219854</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, VAN BUREN, PAW PAW, 312 VAN BUREN N ST</description><Point><coordinates>-85.884042, 42.219854</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, VAN BUREN, PAW PAW, 608 MICHIGAN W AVE</description><Point><coordinates>-85.905174, 42.216519</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/27/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, VAN BUREN, PAW PAW, 51730 35 1/2 ST</description><Point><coordinates>-85.893676, 42.230812</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/2/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, VAN BUREN, PAW PAW, 207 WILLARD ST 1</description><Point><coordinates>-85.898098, 42.220511</coordinates></Point></Placemark>

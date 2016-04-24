@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/18/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, KNOX, KNOXVILLE, 4108 SCHAAD RD</description><Point><coordinates>-84.042267, 35.990276</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/18/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, KNOX, KNOXVILLE, 4108 SCHAAD RD</description><Point><coordinates>-84.042267, 35.990276</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/31/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, KNOX, KNOXVILLE, 1405 WEST BAXTER AVENUE</description><Point><coordinates>-83.941670, 35.973003</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/10/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, KNOX, KNOXVILLE, 1110 NORTHWEST TENNESSEE AVE/TENNESSEE AVE</description><Point><coordinates>-83.959869, 35.974145</coordinates></Point></Placemark>
 

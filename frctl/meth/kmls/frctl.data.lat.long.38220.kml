@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 6/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, CARROLL, ATWOOD, 10362 HWY 220</description><Point><coordinates>-88.646393, 35.933981</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, CARROLL, ATWOOD, 10362 HWY 220</description><Point><coordinates>-88.646393, 35.933981</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/28/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, CARROLL, ATWOOD, 10360 SOUTH STATE HWY 220</description><Point><coordinates>-88.646381, 35.933850</coordinates></Point></Placemark>
 
         </Document>

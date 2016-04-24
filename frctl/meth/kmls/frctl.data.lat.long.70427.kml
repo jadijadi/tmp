@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/17/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: LUISIANA, WASHINGTON, BOGALUSA, 59429 OTZENBURGER RD</description><Point><coordinates>-89.887833, 30.681608</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/17/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: LUISIANA, WASHINGTON, BOGALUSA, 59429 OTZENBURGER RD</description><Point><coordinates>-89.887833, 30.681608</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: LUISIANA, WASHINGTON, BOGALUSA, 13362 HWY 1075 HWY</description><Point><coordinates>-89.882373, 30.716279</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/3/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: LUISIANA, WASHINGTON, BOGALUSA, 54694 HWY 16</description><Point><coordinates>-89.981156, 30.667616</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/6/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: LUISIANA, WASHINGTON, BOGALUSA, 926 ONTARIO AVE</description><Point><coordinates>-89.876041, 30.791545</coordinates></Point></Placemark>

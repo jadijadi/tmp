@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 4/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, ST. Francois, LEADWOOD, 716 HUNT ST</description><Point><coordinates>-90.586631, 37.864805</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, ST. Francois, LEADWOOD, 716 HUNT ST</description><Point><coordinates>-90.586631, 37.864805</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/9/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, ST. Francois, LEADWOOD, 1308 C ST</description><Point><coordinates>-90.583134, 37.858964</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/12/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, ST. Francois, LEADWOOD, 118 OAK STREET</description><Point><coordinates>-90.589165, 37.869502</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/21/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, ST. FRANCOIS, LEADWOOD, 1103  HICKORY STREET</description><Point><coordinates>-90.590867, 37.861023</coordinates></Point></Placemark>

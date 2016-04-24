@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/26/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, AIKEN, SUMMER HILL, 426  RENAN STREET</description><Point><coordinates>-81.719553, 33.560417</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/26/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, AIKEN, SUMMER HILL, 426  RENAN STREET</description><Point><coordinates>-81.719553, 33.560417</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/18/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, GREENVILLE, GOWANSVILLE, 104 CAMPBELL COVERED BRIDGE RD</description><Point><coordinates>-82.394010, 34.852618</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/24/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, GREENVILLE, GREELEYVILLE, 1038  EDGEFIELD STREET</description><Point><coordinates>-82.394010, 34.852618</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/4/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, GREENVILLE, GREER, 1108 LEE VAUGHN RD</description><Point><coordinates>-82.227057, 34.938728</coordinates></Point></Placemark>

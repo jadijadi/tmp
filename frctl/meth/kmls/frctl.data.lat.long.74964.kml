@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 11/6/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, ADAIR, WATTS, 1  CHEROKEE RURAL ROUTE</description><Point><coordinates>-94.570220, 36.109249</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 11/6/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, ADAIR, WATTS, 1  CHEROKEE RURAL ROUTE</description><Point><coordinates>-94.570220, 36.109249</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/18/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, ADAIR, WATTS, 315  3RD STREET</description><Point><coordinates>-94.575159, 36.107447</coordinates></Point></Placemark>
 
         </Document>

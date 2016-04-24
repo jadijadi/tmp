@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IDAHO, KOOTENAI, COEUR D'ALENE, 3630 GOVERNMENT N WAY 1</description><Point><coordinates>-116.786116, 47.710902</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IDAHO, KOOTENAI, COEUR D'ALENE, 3630 GOVERNMENT N WAY 1</description><Point><coordinates>-116.786116, 47.710902</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/6/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IDAHO, KOOTENAI, COEUR D'ALENE, 3208 17TH N ST</description><Point><coordinates>-116.761992, 47.706499</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/23/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IDAHO, KOOTENAI, COEUR D'ALENE, 1718 MARY E LN</description><Point><coordinates>-116.761974, 47.708733</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/18/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IDAHO, KOOTENAI, COEUR D'ALENE, 2916 JULIA STREET</description><Point><coordinates>-116.799221, 47.705673</coordinates></Point></Placemark>

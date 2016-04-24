@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 4/13/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, LOGAN, LINCOLN, 2011 KICKAPOO N ST 225</description><Point><coordinates>-89.344482, 40.162317</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/13/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, LOGAN, LINCOLN, 2011 KICKAPOO N ST 225</description><Point><coordinates>-89.344482, 40.162317</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/23/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, LOGAN, LINCOLN, 610 SHORT 8TH ST</description><Point><coordinates>-89.377360, 40.149666</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/1/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, LOGAN, LINCOLN, 218 LIMIT N ST</description><Point><coordinates>-89.348790, 40.139669</coordinates></Point></Placemark>
 

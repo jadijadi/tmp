@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 12/11/2000</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CANADIAN, MUSTANG, 11730 MUSTANG S RD</description><Point><coordinates>-97.724572, 35.350218</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 12/11/2000</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CANADIAN, MUSTANG, 11730 MUSTANG S RD</description><Point><coordinates>-97.724572, 35.350218</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/17/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CANADIAN, MUSTANG, 616 HIGHLAND S</description><Point><coordinates>-97.733662, 35.386056</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/5/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CANADIAN, MUSTANG, 317 CAROL N TER</description><Point><coordinates>-97.696256, 35.394012</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/31/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CANADIAN, MUSTANG, 319 HILLCREST E LN</description><Point><coordinates>-97.718676, 35.386604</coordinates></Point></Placemark>

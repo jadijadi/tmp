@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 9/28/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, BURKE, HEPHZIBAH, 488  EAGLE PASS ROAD</description><Point><coordinates>-82.075354, 33.219230</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 9/28/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, BURKE, HEPHZIBAH, 488  EAGLE PASS ROAD</description><Point><coordinates>-82.075354, 33.219230</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/16/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, RICHMOND, AUGUSTA, 2415 WILLIS FOREMAN ROAD</description><Point><coordinates>-82.080369, 33.341436</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/18/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, RICHMOND, AUGUSTA, 1503  PINE RIDGE DRIVE</description><Point><coordinates>-81.997889, 33.319999</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/14/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, RICHMOND, AUGUSTA, 3522  WINDMERE ROAD</description><Point><coordinates>-82.097312, 33.403183</coordinates></Point></Placemark>

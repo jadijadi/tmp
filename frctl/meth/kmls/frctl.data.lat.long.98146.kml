@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 8/1/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, KING, BURIEN, 106TH SW ST</description><Point><coordinates>-122.360463, 47.508586</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 8/1/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, KING, BURIEN, 106TH SW ST</description><Point><coordinates>-122.360463, 47.508586</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/17/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, KING, SEATTLE, 12434 AMBAUM SW BLVD C215</description><Point><coordinates>-122.349343, 47.490949</coordinates></Point></Placemark>
 
         </Document>

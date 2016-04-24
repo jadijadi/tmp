@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 5/1/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, LAKE, FAIRPORT HARBOR, 416 KING STREET</description><Point><coordinates>-81.272760, 41.746292</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/1/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, LAKE, FAIRPORT HARBOR, 416 KING STREET</description><Point><coordinates>-81.272760, 41.746292</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/4/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, LAKE, PAINESVILLE, 587  SHELBY AVENUE</description><Point><coordinates>-81.247792, 41.737924</coordinates></Point></Placemark>
 
         </Document>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 8/5/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARIZONA, MARICOPA, APACHE JUNCTION, 5516 5TH E AVE</description><Point><coordinates>-111.486445, 33.411044</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 8/5/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARIZONA, MARICOPA, APACHE JUNCTION, 5516 5TH E AVE</description><Point><coordinates>-111.486445, 33.411044</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/5/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARIZONA, PINAL, APACHE JUNCTION, 1460 SOUTH DENIZA</description><Point><coordinates>-111.540713, 33.401768</coordinates></Point></Placemark>
 
         </Document>

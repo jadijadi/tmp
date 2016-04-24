@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, GRAY, PAMPA, 1112 LINCOLN</description><Point><coordinates>-100.974264, 35.538926</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, GRAY, PAMPA, 1112 LINCOLN</description><Point><coordinates>-100.974264, 35.538926</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, GRAY, PAMPA, 1244 HOBART</description><Point><coordinates>-100.971926, 35.545894</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, GRAY, PAMPA, 941 FAULKNER S</description><Point><coordinates>-100.974103, 35.524375</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/13/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, GRAY, PAMPA, 1111 FINLEY ST</description><Point><coordinates>-100.950795, 35.522329</coordinates></Point></Placemark>

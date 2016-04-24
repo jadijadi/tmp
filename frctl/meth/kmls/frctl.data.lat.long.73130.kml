@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/20/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, OKLAHOMA, CHOCTAW, 9800 SKY RIDGE</description><Point><coordinates>-97.339178, 35.472496</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/20/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, OKLAHOMA, CHOCTAW, 9800 SKY RIDGE</description><Point><coordinates>-97.339178, 35.472496</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/21/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, OKLAHOMA, MIDWEST CITY, 1317 AVERY</description><Point><coordinates>-97.348906, 35.451613</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/22/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, OKLAHOMA, MIDWEST CITY, 1400 CHRISTINE  DR</description><Point><coordinates>-97.359214, 35.482421</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, OKLAHOMA, MIDWEST CITY, 10611 LE JEAN  DR</description><Point><coordinates>-97.341673, 35.458385</coordinates></Point></Placemark>

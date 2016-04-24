@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 12/27/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, WICHITA, WICHITA FALLS, 1606 BEVERLY DR</description><Point><coordinates>-98.529981, 33.900226</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 12/27/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, WICHITA, WICHITA FALLS, 1606 BEVERLY DR</description><Point><coordinates>-98.529981, 33.900226</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, WICHITA, WICHITA FALLS, 3217 MIAMI AVENUE</description><Point><coordinates>-98.535153, 33.888759</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/7/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, WICHITA, WICHITA FALLS, 3227 SEYMOUR RD</description><Point><coordinates>-98.535150, 33.894862</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/24/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, WICHITA, WICHITA FALLS, 3015 CUMBERLAND</description><Point><coordinates>-98.532038, 33.891110</coordinates></Point></Placemark>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 5/5/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARIZONA, MARICOPA, PHOENIX, 1106 WEST BELL ROAD 1188</description><Point><coordinates>-112.089133, 33.641526</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/5/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARIZONA, MARICOPA, PHOENIX, 1106 WEST BELL ROAD 1188</description><Point><coordinates>-112.089133, 33.641526</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/2/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARIZONA, MARICOPA, PHOENIX, 2330 BELL W RD</description><Point><coordinates>-112.109504, 33.640430</coordinates></Point></Placemark>
 
         </Document>

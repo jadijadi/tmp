@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 6/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, BENTON, KENNEWICK, 213403 E 194 PR SE</description><Point><coordinates>-119.052005, 46.180092</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, BENTON, KENNEWICK, 213403 E 194 PR SE</description><Point><coordinates>-119.052005, 46.180092</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/7/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, BENTON, KENNEWICK, 216094 E STATE ROUTE 397 C</description><Point><coordinates>-119.047974, 46.166882</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/21/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, BENTON, KENNEWICK, 40204 S MORTON RD</description><Point><coordinates>-119.027124, 46.149556</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, BENTON, KENNEWICK, 203212 E STATE ROUTE 397</description><Point><coordinates>-119.074721, 46.186716</coordinates></Point></Placemark>

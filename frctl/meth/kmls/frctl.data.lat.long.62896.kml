@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/14/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, FRANKLIN, PLUMFIELD, 2490 BRYANT ROAD</description><Point><coordinates>-89.015195, 37.898821</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/14/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, FRANKLIN, PLUMFIELD, 2490 BRYANT ROAD</description><Point><coordinates>-89.015195, 37.898821</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, FRANKLIN, WEST FRANKFORT, 203 5TH W ST</description><Point><coordinates>-88.930169, 37.903024</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, FRANKLIN, WEST FRANKFORT, 411 HORN N ST</description><Point><coordinates>-88.936447, 37.902192</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/7/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, FRANKLIN, WEST FRANKFORT, 203 5TH W ST</description><Point><coordinates>-88.930169, 37.903024</coordinates></Point></Placemark>

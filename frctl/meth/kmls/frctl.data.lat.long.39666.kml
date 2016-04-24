@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/19/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, AMITE, SUMMIT, 7207 MOAK RD</description><Point><coordinates>-90.600850, 31.272278</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/19/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, AMITE, SUMMIT, 7207 MOAK RD</description><Point><coordinates>-90.600850, 31.272278</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/8/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, PIKE, SUMMIT, 2024 COUNTY LINE RD</description><Point><coordinates>-90.548186, 31.276515</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/19/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, PIKE, SUMMIT, 2002 WEST HIGHWAY 24</description><Point><coordinates>-90.542732, 31.204715</coordinates></Point></Placemark>
 

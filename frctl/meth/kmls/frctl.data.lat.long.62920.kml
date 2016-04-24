@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/22/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, UNION, COBDEN, 112 CASPER</description><Point><coordinates>-89.248389, 37.537939</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/22/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, UNION, COBDEN, 112 CASPER</description><Point><coordinates>-89.248389, 37.537939</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/6/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, UNION, COBDEN, 55 CASS LA</description><Point><coordinates>-89.253418, 37.531439</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/3/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, UNION, COBDEN, 3250 KERR CANYON RD</description><Point><coordinates>-89.171286, 37.550324</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/26/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, UNION, COBDEN, 513 APPLE KNOCKER</description><Point><coordinates>-89.253418, 37.531439</coordinates></Point></Placemark>

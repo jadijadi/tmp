@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 6/12/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WEST VIRGINIA, KANAWHA, CHARLESTON, 78 ROUTE 7 (LINCOLN DRIVE)</description><Point><coordinates>-81.632623, 38.349820</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/12/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WEST VIRGINIA, KANAWHA, CHARLESTON, 78 ROUTE 7 (LINCOLN DRIVE)</description><Point><coordinates>-81.632623, 38.349820</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/31/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WEST VIRGINIA, KANAWHA, CHARLESTON, 5134 DERRICK'S CREEK ROAD</description><Point><coordinates>-81.691989, 38.556417</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/16/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WEST VIRGINIA, KANAWHA, CHARLESTON, 127 CLINE HOLLOW ROAD</description><Point><coordinates>-81.503352, 38.338919</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/1/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WEST VIRGINIA, KANAWHA, CHARLESTON, 364 RT 5 BAYOU</description><Point><coordinates>-81.632623, 38.349820</coordinates></Point></Placemark>

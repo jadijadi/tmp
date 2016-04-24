@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 11/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, HAMBLEN, TALBOTT, 3959 PLEASANT RIDGE</description><Point><coordinates>-83.354399, 36.150510</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 11/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, HAMBLEN, TALBOTT, 3959 PLEASANT RIDGE</description><Point><coordinates>-83.354399, 36.150510</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/8/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, JEFFERSON, TALBOTT, 2445 VALLEY HOME RD</description><Point><coordinates>-83.352880, 36.103706</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/22/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, JEFFERSON, TALBOTT, 1706 ELLER ROAD</description><Point><coordinates>-83.380997, 36.115856</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/22/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, JEFFERSON, TALBOTT, 1721 BIRDSONG LANE</description><Point><coordinates>-83.384896, 36.123566</coordinates></Point></Placemark>

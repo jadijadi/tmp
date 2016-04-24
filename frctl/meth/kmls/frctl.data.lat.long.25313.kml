@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 11/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WEST VIRGINIA, KANAWHA, CHARLESTON, 4324 WASHINGTON W ST</description><Point><coordinates>-81.718138, 38.390716</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 11/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WEST VIRGINIA, KANAWHA, CHARLESTON, 4324 WASHINGTON W ST</description><Point><coordinates>-81.718138, 38.390716</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/17/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WEST VIRGINIA, KANAWHA, CHARLESTON, 4200 BUSH ST</description><Point><coordinates>-81.714536, 38.380188</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/8/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WEST VIRGINIA, KANAWHA, CHARLESTON, 611 HARPER RD</description><Point><coordinates>-81.723667, 38.394276</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/13/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WEST VIRGINIA, KANAWHA, CHARLESTON, 4212 WINTERBERRY LN</description><Point><coordinates>-81.713641, 38.382737</coordinates></Point></Placemark>

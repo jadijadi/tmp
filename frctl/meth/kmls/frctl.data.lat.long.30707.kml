@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 7/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, WALKER, CHICKAMAUGA, 104 CHEATHAM AVE</description><Point><coordinates>-85.296493, 34.877452</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 7/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, WALKER, CHICKAMAUGA, 104 CHEATHAM AVE</description><Point><coordinates>-85.296493, 34.877452</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/13/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, WALKER, CHICKAMAUGA, 1210 TAYLOR BROOME RD</description><Point><coordinates>-85.334372, 34.844808</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, WALKER, CHICKAMAUGA, 796 FRIENDSHIP ROAD</description><Point><coordinates>-85.358883, 34.832723</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/30/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, WALKER, CHICKAMAUGA, 304 PEARL ST</description><Point><coordinates>-85.295259, 34.877391</coordinates></Point></Placemark>

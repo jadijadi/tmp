@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/18/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, ALLEGAN, ALLEGAN, 586 KAYWOOD</description><Point><coordinates>-85.649498, 42.459462</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/18/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, ALLEGAN, ALLEGAN, 586 KAYWOOD</description><Point><coordinates>-85.649498, 42.459462</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/11/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, ALLEGAN, OTSEGO, 399 OAKS CROSSING</description><Point><coordinates>-85.668099, 42.448824</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/15/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, ALLEGAN, OTSEGO, 325 HERITAGE LANE</description><Point><coordinates>-85.676982, 42.444209</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, ALLEGAN, PLAINWELL, 305 RIVERVIEW DR</description><Point><coordinates>-85.585407, 42.426948</coordinates></Point></Placemark>

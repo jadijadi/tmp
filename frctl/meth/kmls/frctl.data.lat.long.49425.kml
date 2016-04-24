@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/9/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, MUSKEGON, HOLTON, 11639 NICHOLS ROAD</description><Point><coordinates>-86.193262, 43.465387</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/9/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, MUSKEGON, HOLTON, 11639 NICHOLS ROAD</description><Point><coordinates>-86.193262, 43.465387</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/6/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, MUSKEGON, HOLTON, 7364  BRICKYARD ROAD</description><Point><coordinates>-86.059149, 43.387302</coordinates></Point></Placemark>
 
         </Document>

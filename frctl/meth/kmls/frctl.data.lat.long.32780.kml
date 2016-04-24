@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/25/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, BREVARD, TITUSVILLE, 4957 RIVER EDGE DRIVE</description><Point><coordinates>-80.795103, 28.551467</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/25/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, BREVARD, TITUSVILLE, 4957 RIVER EDGE DRIVE</description><Point><coordinates>-80.795103, 28.551467</coordinates></Point></Placemark>
 
         </Document>
         </kml>

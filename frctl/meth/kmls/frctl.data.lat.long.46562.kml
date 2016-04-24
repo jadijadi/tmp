@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 10/23/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, KOSCIUSKO, PIERCETON, 8725 EAST RYERSON ROAD</description><Point><coordinates>-85.677247, 41.181339</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 10/23/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, KOSCIUSKO, PIERCETON, 8725 EAST RYERSON ROAD</description><Point><coordinates>-85.677247, 41.181339</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/1/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, KOSCIUSKO, PIERCETON, 4773 SOUTH E 100</description><Point><coordinates>-85.750884, 41.220397</coordinates></Point></Placemark>
 
         </Document>

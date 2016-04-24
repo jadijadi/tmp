@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 6/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, WALKER, FLINTSTONE, 69 SHADOW AVE</description><Point><coordinates>-85.346952, 34.936758</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, WALKER, FLINTSTONE, 69 SHADOW AVE</description><Point><coordinates>-85.346952, 34.936758</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/17/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, WALKER, FLINTSTONE, 1848 CATTANOOGA VALLEY ROAD</description><Point><coordinates>-85.340961, 34.956035</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, WALKER, ROSSVILLE, 3929 HAPPY VALLEY RD</description><Point><coordinates>-85.328563, 34.937388</coordinates></Point></Placemark>
 

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/26/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, ROWAN, GRANITE QUARRY, 127 N WALNUT STREET</description><Point><coordinates>-80.448473, 35.611506</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/26/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, ROWAN, GRANITE QUARRY, 127 N WALNUT STREET</description><Point><coordinates>-80.448473, 35.611506</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/29/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, ROWAN, SALISBURY, 433 CORRELL LOOP RD</description><Point><coordinates>-80.501597, 35.601285</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/7/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, ROWAN, SALISBURY, 410  POP STIREWALT ROAD</description><Point><coordinates>-80.489318, 35.576579</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/31/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, ROWAN, SALISBURY, 7225  STOKES FERRY ROAD</description><Point><coordinates>-80.371082, 35.603278</coordinates></Point></Placemark>

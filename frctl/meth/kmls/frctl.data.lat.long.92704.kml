@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 11/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, ORANGE, SANTA ANA, 1233 GENOA S DR</description><Point><coordinates>-117.934835, 33.731130</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 11/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, ORANGE, SANTA ANA, 1233 GENOA S DR</description><Point><coordinates>-117.934835, 33.731130</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/23/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, ORANGE, SANTA ANA, 800 SOUTH SULLIVAN STREET D3</description><Point><coordinates>-117.903522, 33.735577</coordinates></Point></Placemark>
 
         </Document>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/21/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, JACKSON, HOLLYWOOD, 859 RUBY JOHNSON DR</description><Point><coordinates>-85.969302, 34.696666</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/21/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, JACKSON, HOLLYWOOD, 859 RUBY JOHNSON DR</description><Point><coordinates>-85.969302, 34.696666</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/29/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, JACKSON, SCOTTSBORO, 22 HANCOCK E DR</description><Point><coordinates>-86.067216, 34.611835</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, JACKSON, SCOTTSBORO, 390 CRAWFORD RD</description><Point><coordinates>-86.000377, 34.661873</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, JACKSON, SCOTTSBORO, 2920 JULIE DR</description><Point><coordinates>-86.037407, 34.631337</coordinates></Point></Placemark>

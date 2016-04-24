@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, CAMPBELL, LA FOLLETTE, 520 21 ST N</description><Point><coordinates>-84.137417, 36.375318</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, CAMPBELL, LA FOLLETTE, 520 21 ST N</description><Point><coordinates>-84.137417, 36.375318</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/31/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, CAMPBELL, LA FOLLETTE, 1209 WEST CHESNUT 101</description><Point><coordinates>-84.134349, 36.366830</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/7/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, CAMPBELL, LA FOLLETTE, 528 13TH N ST</description><Point><coordinates>-84.132656, 36.380114</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/9/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, CAMPBELL, LA FOLLETTE, 352 SOUTH CHAPMAN ROAD</description><Point><coordinates>-84.005123, 36.361708</coordinates></Point></Placemark>

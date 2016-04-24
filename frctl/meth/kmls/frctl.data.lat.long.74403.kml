@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/2/2000</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, MUSKOGEE, MUSKOGEE, 494 2 MILE N RD</description><Point><coordinates>-95.353516, 35.741445</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/2/2000</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, MUSKOGEE, MUSKOGEE, 494 2 MILE N RD</description><Point><coordinates>-95.353516, 35.741445</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/30/2000</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, MUSKOGEE, MUSKOGEE, 1454 EAST POPULAR</description><Point><coordinates>-95.338320, 35.731966</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/20/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, MUSKOGEE, MUSKOGEE, 304 SEMINOLE S ST</description><Point><coordinates>-95.349210, 35.737803</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/22/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, MUSKOGEE, MUSKOGEE, 603 DAYTON  ST</description><Point><coordinates>-95.359602, 35.748315</coordinates></Point></Placemark>

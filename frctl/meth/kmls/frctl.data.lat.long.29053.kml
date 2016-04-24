@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 12/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, LEXINGTON, GASTON, 197 SUZANNE COURT</description><Point><coordinates>-81.158546, 33.826516</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 12/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, LEXINGTON, GASTON, 197 SUZANNE COURT</description><Point><coordinates>-81.158546, 33.826516</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/4/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, LEXINGTON, GASTON, 4387 FISH HATCHERY ROAD</description><Point><coordinates>-81.173294, 33.822461</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/19/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, LEXINGTON, GASTON, 238 MAGNICE AVENUE</description><Point><coordinates>-81.100354, 33.812282</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/27/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, LEXINGTON, GASTON, 157 SUZANNE COURT</description><Point><coordinates>-81.160692, 33.829280</coordinates></Point></Placemark>

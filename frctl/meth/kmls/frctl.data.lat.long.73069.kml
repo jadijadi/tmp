@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/1/2000</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CLEVELAND, NORMAN, 112 HAYES W</description><Point><coordinates>-97.446936, 35.232128</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/1/2000</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CLEVELAND, NORMAN, 112 HAYES W</description><Point><coordinates>-97.446936, 35.232128</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/7/2000</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CLEVELAND, NORMAN, 313 INDIAN HILLS W RD</description><Point><coordinates>-97.445552, 35.290842</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/27/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CLEVELAND, NORMAN, 213 MERCEDES S</description><Point><coordinates>-97.468069, 35.216788</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/26/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CLEVELAND, NORMAN, 1406  DORCHESTER DRIVE</description><Point><coordinates>-97.457778, 35.231987</coordinates></Point></Placemark>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 4/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, NEW HANOVER, WILMINGTON, 422 DAVIE ST</description><Point><coordinates>-77.935317, 34.188729</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, NEW HANOVER, WILMINGTON, 422 DAVIE ST</description><Point><coordinates>-77.935317, 34.188729</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/26/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, NEW HANOVER, WILMINGTON, 5550  CAROLINA BEACH ROAD BOX 136</description><Point><coordinates>-77.896409, 34.139102</coordinates></Point></Placemark>
 
         </Document>

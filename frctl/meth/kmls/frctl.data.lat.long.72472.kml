@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 5/18/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, POINSETT, TRUMANN, 169 SOUTH MAGNOLIA STREET</description><Point><coordinates>-90.520530, 35.668587</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/18/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, POINSETT, TRUMANN, 169 SOUTH MAGNOLIA STREET</description><Point><coordinates>-90.520530, 35.668587</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/17/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, POINSETT, TRUMANN, 314 EASTSIDE GARDENS</description><Point><coordinates>-90.504152, 35.672406</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/11/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, POINSETT, TRUMANN, 3450 COLLIER LN</description><Point><coordinates>-90.573903, 35.492094</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/17/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, POINSETT, TRUMANN, 24998 HATCHIECOON RD</description><Point><coordinates>-90.558200, 35.634786</coordinates></Point></Placemark>

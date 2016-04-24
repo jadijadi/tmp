@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 10/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, MADISON, HEGHLAND, 20 CENTRAL BLVD 306</description><Point><coordinates>-89.679651, 38.750478</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 10/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, MADISON, HEGHLAND, 20 CENTRAL BLVD 306</description><Point><coordinates>-89.679651, 38.750478</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, MADISON, HIGHLAND, 1704 CYPRESS</description><Point><coordinates>-89.675266, 38.734120</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/9/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, MADISON, HIGHLAND, 1509 PINE STREET</description><Point><coordinates>-89.677660, 38.735557</coordinates></Point></Placemark>
 

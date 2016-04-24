@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/7/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, GREENE, SPRINGFIELD, 1221 CRUTCHER S ST</description><Point><coordinates>-93.259937, 37.191962</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/7/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, GREENE, SPRINGFIELD, 1221 CRUTCHER S ST</description><Point><coordinates>-93.259937, 37.191962</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/11/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, GREENE, SPRINGFIELD, 1293 SUNSET E</description><Point><coordinates>-93.274010, 37.167654</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/15/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, GREENE, SPRINGFIELD, 3410 ELMVIEW S AVE</description><Point><coordinates>-93.234286, 37.150782</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/31/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, GREENE, SPRINGFIELD, 2602 LINWOOD E</description><Point><coordinates>-93.243800, 37.184748</coordinates></Point></Placemark>

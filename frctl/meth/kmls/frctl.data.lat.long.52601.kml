@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/3/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, DES MOINES, BURLINGTON, 1111 FIFTH N ST</description><Point><coordinates>-91.102382, 40.819234</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/3/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, DES MOINES, BURLINGTON, 1111 FIFTH N ST</description><Point><coordinates>-91.102382, 40.819234</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, DES MOINES, BURLINGTON, 1401 LINCOLN AVE</description><Point><coordinates>-91.114846, 40.822479</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/1/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, DES MOINES, BURLINGTON, 512 STARR S ST</description><Point><coordinates>-91.122269, 40.804690</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, DES MOINES, BURLINGTON, 1337 ASHMUN STREET</description><Point><coordinates>-91.110124, 40.822761</coordinates></Point></Placemark>

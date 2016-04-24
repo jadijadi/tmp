@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/5/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, KALAMAZOO, RICHLAND, 9604 EAST M-89  LOT 15</description><Point><coordinates>-85.443828, 42.375883</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/5/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, KALAMAZOO, RICHLAND, 9604 EAST M-89  LOT 15</description><Point><coordinates>-85.443828, 42.375883</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/20/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, KALAMAZOO, RICHLAND, 5796 EAST DB AVENUE</description><Point><coordinates>-85.455005, 42.376150</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/7/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, KALAMAZOO, RICHLAND, 11926 EAST D AVENUE</description><Point><coordinates>-85.398240, 42.375536</coordinates></Point></Placemark>
 

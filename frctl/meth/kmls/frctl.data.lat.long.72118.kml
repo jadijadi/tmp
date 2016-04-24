@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/5/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, PULASKI, NORTH LITTLE ROCK, 3514 SYCAMORE ST</description><Point><coordinates>-92.271039, 34.788198</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/5/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, PULASKI, NORTH LITTLE ROCK, 3514 SYCAMORE ST</description><Point><coordinates>-92.271039, 34.788198</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/6/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, PULASKI, NORTH LITTLE ROCK, 4810 LYNN LANE</description><Point><coordinates>-92.286485, 34.799124</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, PULASKI, NORTH LITTLE ROCK, 4720 SYCAMORE ST</description><Point><coordinates>-92.270808, 34.798420</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, PULASKI, NORTH LITTLE ROCK, 10609 MACARTHUR DR 8</description><Point><coordinates>-92.335085, 34.837472</coordinates></Point></Placemark>

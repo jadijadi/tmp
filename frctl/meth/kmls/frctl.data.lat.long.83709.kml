@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 4/21/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IDAHO, ADA, BOISE, 5075 SOUTH DAKOTA AVENUE</description><Point><coordinates>-116.273337, 43.556624</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/21/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IDAHO, ADA, BOISE, 5075 SOUTH DAKOTA AVENUE</description><Point><coordinates>-116.273337, 43.556624</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/11/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IDAHO, ADA, BOISE, 838  WHITE CLOUD DRIVE</description><Point><coordinates>-116.284447, 43.597226</coordinates></Point></Placemark>
 
         </Document>

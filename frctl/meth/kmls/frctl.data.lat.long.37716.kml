@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 4/6/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, ANDERSON, CLINTON, 196 HICKORY NUT LN</description><Point><coordinates>-84.156926, 36.088629</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/6/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, ANDERSON, CLINTON, 196 HICKORY NUT LN</description><Point><coordinates>-84.156926, 36.088629</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, ANDERSON, CLINTON, 737 MAIN N ST</description><Point><coordinates>-84.132048, 36.114877</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/5/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, ANDERSON, CLINTON, 497 LAUREL RD</description><Point><coordinates>-84.175472, 36.088958</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/16/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, ANDERSON, CLINTON, 543 PINE RIDGE RD</description><Point><coordinates>-84.261271, 36.054975</coordinates></Point></Placemark>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/7/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, ITAWAMBA, MANTACHIE, 195 BRANDON ROAD</description><Point><coordinates>-88.526775, 34.319600</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/7/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, ITAWAMBA, MANTACHIE, 195 BRANDON ROAD</description><Point><coordinates>-88.526775, 34.319600</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/11/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, ITAWAMBA, MANTACHIE, 243 FRANKS ROAD</description><Point><coordinates>-88.514232, 34.292743</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/6/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, ITAWAMBA, MANTACHIE, 111  363 HIGHWAY</description><Point><coordinates>-88.455651, 34.258363</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/13/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, ITAWAMBA, MANTACHIE, 285  SCOOTER ROAD</description><Point><coordinates>-88.484811, 34.313493</coordinates></Point></Placemark>

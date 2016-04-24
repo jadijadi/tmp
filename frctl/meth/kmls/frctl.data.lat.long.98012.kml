@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 8/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, SNOHOMISH, BOTHELL, 1515 196TH SE ST</description><Point><coordinates>-122.211239, 47.820736</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 8/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, SNOHOMISH, BOTHELL, 1515 196TH SE ST</description><Point><coordinates>-122.211239, 47.820736</coordinates></Point></Placemark>
 
         </Document>
         </kml>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, JEFFERSON, HILLSBORO, 8524 SOUTHWINDS</description><Point><coordinates>-90.572429, 38.285426</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, JEFFERSON, HILLSBORO, 8524 SOUTHWINDS</description><Point><coordinates>-90.572429, 38.285426</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, JEFFERSON, HILLSBORO, 8844 CHAPEL HILL CT</description><Point><coordinates>-90.528851, 38.301379</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, JEFFERSON, HILLSBORO, 137 CREST DR</description><Point><coordinates>-90.539763, 38.341901</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, JEFFERSON, HILLSBORO, 8841 CENTRAL POINT</description><Point><coordinates>-90.539648, 38.300816</coordinates></Point></Placemark>

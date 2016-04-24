@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 7/17/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WHITLEY, CHURUBUSCO, 156  STAUNTON</description><Point><coordinates>-85.315881, 41.234734</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 7/17/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WHITLEY, CHURUBUSCO, 156  STAUNTON</description><Point><coordinates>-85.315881, 41.234734</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/4/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WHITLEY, CHURUBUSCO, 4822 NORTH 500 EAST</description><Point><coordinates>-85.405237, 41.237658</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/12/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WHITLEY, CHURUBUSCO, 212  COAL STREET</description><Point><coordinates>-85.320246, 41.229320</coordinates></Point></Placemark>
 

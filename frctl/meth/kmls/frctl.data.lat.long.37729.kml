@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 6/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, CAMPBELL, DUFF, 480 DUFF ROAD</description><Point><coordinates>-84.070349, 36.443699</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, CAMPBELL, DUFF, 480 DUFF ROAD</description><Point><coordinates>-84.070349, 36.443699</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/25/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, CAMPBELL, DUFF, 485 DUFF</description><Point><coordinates>-84.070888, 36.443612</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/20/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, CAMPBELL, DUFF, 1622  DAVIS CREEK RD.</description><Point><coordinates>-84.042166, 36.461920</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/27/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, CAMPBELL, DUFF, 698  SILER HILL ROAD</description><Point><coordinates>-84.067424, 36.446746</coordinates></Point></Placemark>

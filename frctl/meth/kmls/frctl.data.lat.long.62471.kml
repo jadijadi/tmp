@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/2/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, FAYETTE, VANDALIA, 524 2ND N ST</description><Point><coordinates>-89.091788, 38.966214</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/2/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, FAYETTE, VANDALIA, 524 2ND N ST</description><Point><coordinates>-89.091788, 38.966214</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/14/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, FAYETTE, VANDALIA, 111 WILLOW N ST</description><Point><coordinates>-89.101830, 38.962312</coordinates></Point></Placemark>
 
         </Document>

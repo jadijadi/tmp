@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, WATAUGA, ZIONVILLE, 115 ED HARDY RD</description><Point><coordinates>-81.721361, 36.373224</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, WATAUGA, ZIONVILLE, 115 ED HARDY RD</description><Point><coordinates>-81.721361, 36.373224</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, WATAUGA, ZIONVILLE, 626 WILL ISAACS RD</description><Point><coordinates>-81.737456, 36.296621</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/23/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, WATAUGA, ZIONVILLE, 3500 NORTH FORK RD</description><Point><coordinates>-81.791326, 36.351183</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, WATAUGA, ZIONVILLE, 318 WILL ISAACS RD</description><Point><coordinates>-81.742027, 36.294342</coordinates></Point></Placemark>

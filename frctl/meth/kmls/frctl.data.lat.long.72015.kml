@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, SALINE, BENTON, 15631 INTERSTATE 30 109</description><Point><coordinates>-92.600466, 34.566471</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, SALINE, BENTON, 15631 INTERSTATE 30 109</description><Point><coordinates>-92.600466, 34.566471</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/5/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, SALINE, BENTON, 1007 HICKS RD</description><Point><coordinates>-92.555893, 34.571271</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/23/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, SALINE, BENTON, 39 HILAND B 39</description><Point><coordinates>-92.571968, 34.568929</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/2/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, SALINE, BENTON, 805 DENTON 0 0</description><Point><coordinates>-92.580643, 34.570505</coordinates></Point></Placemark>

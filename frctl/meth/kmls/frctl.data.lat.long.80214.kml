@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 4/2/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, JEFFERSON, DENVER, 5580 WEST 10TH AVENUE</description><Point><coordinates>-105.057335, 39.732953</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/2/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, JEFFERSON, DENVER, 5580 WEST 10TH AVENUE</description><Point><coordinates>-105.057335, 39.732953</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/29/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, JEFFERSON, EDGEWATER, 6815 WEST 24TH AVENUE 211</description><Point><coordinates>-105.072886, 39.751811</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, JEFFERSON, LAKEWOOD, 6780 14TH W AVE</description><Point><coordinates>-105.071588, 39.738390</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/22/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, JEFFERSON, LAKEWOOD, 8001 10TH W AVE # 10</description><Point><coordinates>-105.086340, 39.733594</coordinates></Point></Placemark>

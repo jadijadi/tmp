@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 9/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, VANDERBURGH, EVANSVILLE, 1208 HENNING AVE</description><Point><coordinates>-87.540601, 37.959895</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 9/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, VANDERBURGH, EVANSVILLE, 1208 HENNING AVE</description><Point><coordinates>-87.540601, 37.959895</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/24/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, VANDERBURGH, EVANSVILLE, 3216 COKER AVE</description><Point><coordinates>-87.510684, 37.941953</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/16/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, VANDERBURGH, EVANSVILLE, 308 SOUTH KERTH AVENUE</description><Point><coordinates>-87.544554, 37.974275</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/9/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, VANDERBURGH, EVANSVILLE, 2506 SOUTH JEANETTE AVENUE</description><Point><coordinates>-87.503628, 37.943808</coordinates></Point></Placemark>

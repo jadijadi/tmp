@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 6/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, SMYTH, CHILHOWIE, 1051 CHESTNUT RIDGE DR</description><Point><coordinates>-81.636392, 36.790903</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, SMYTH, CHILHOWIE, 1051 CHESTNUT RIDGE DR</description><Point><coordinates>-81.636392, 36.790903</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, SMYTH, CHILHOWIE, 579 OVERLOOK DR</description><Point><coordinates>-81.670116, 36.798924</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/19/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, SMYTH, CHILHOWIE, 680 NEED MORE RD</description><Point><coordinates>-81.682341, 36.798448</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/27/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, SMYTH, CHILHOWIE, 409  WHITETOP ROAD</description><Point><coordinates>-81.681078, 36.795579</coordinates></Point></Placemark>

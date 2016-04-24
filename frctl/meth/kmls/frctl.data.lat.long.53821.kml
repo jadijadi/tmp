@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 5/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WISCONSIN, CRAWFORD, PRAIRIE DU CHIEN, 906 PENNY CT 5</description><Point><coordinates>-91.135401, 43.033145</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WISCONSIN, CRAWFORD, PRAIRIE DU CHIEN, 906 PENNY CT 5</description><Point><coordinates>-91.135401, 43.033145</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/12/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WISCONSIN, CRAWFORD, PRAIRIE DU CHIEN, 221 NORTH MAIN STREET</description><Point><coordinates>-91.148716, 43.053620</coordinates></Point></Placemark>
 
         </Document>

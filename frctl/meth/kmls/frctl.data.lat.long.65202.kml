@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/25/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BOONE, COLUMBIA, 1111 SOUTH ELIZABETH E 1</description><Point><coordinates>-92.324489, 39.020001</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/25/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BOONE, COLUMBIA, 1111 SOUTH ELIZABETH E 1</description><Point><coordinates>-92.324489, 39.020001</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/10/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BOONE, COLUMBIA, 5407  KELSEY DRIVE</description><Point><coordinates>-92.253905, 38.975493</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/11/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BOONE, COLUMBIA, 7703  LA PORTE AVENUE</description><Point><coordinates>-92.263748, 39.037469</coordinates></Point></Placemark>
 

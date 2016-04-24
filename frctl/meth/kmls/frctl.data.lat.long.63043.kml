@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 8/24/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, SAINT LOUIS, MARYLAND HEIGHTS, 2715 MARS</description><Point><coordinates>-90.421105, 38.721060</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 8/24/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, SAINT LOUIS, MARYLAND HEIGHTS, 2715 MARS</description><Point><coordinates>-90.421105, 38.721060</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/3/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, ST. LOUIS, MARYLAND HEIGHTS, 2935 SPRUCEWOOD</description><Point><coordinates>-90.442179, 38.733498</coordinates></Point></Placemark>
 
         </Document>

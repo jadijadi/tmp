@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, WAPELLO, OTTUMWA, 315 LINCOLN AVE</description><Point><coordinates>-92.404227, 41.023415</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, WAPELLO, OTTUMWA, 315 LINCOLN AVE</description><Point><coordinates>-92.404227, 41.023415</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/15/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, WAPELLO, OTTUMWA, 16271 ROCK BLUFF RD</description><Point><coordinates>-92.457673, 41.027968</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/23/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, WAPELLO, OTTUMWA, 1440 ALBIA RD 17</description><Point><coordinates>-92.441332, 41.009230</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, WAPELLO, OTTUMWA, 1217 QUINCY S AVE</description><Point><coordinates>-92.437935, 40.982204</coordinates></Point></Placemark>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 7/29/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, LEE, FORT MADISON, 2785 CHALKRIDGE RD</description><Point><coordinates>-91.373399, 40.654070</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 7/29/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, LEE, FORT MADISON, 2785 CHALKRIDGE RD</description><Point><coordinates>-91.373399, 40.654070</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/21/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, LEE, FORT MADISON, 1518 L AVE</description><Point><coordinates>-91.327165, 40.627172</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/27/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, LEE, FORT MADISON, 1709 39TH ST</description><Point><coordinates>-91.363137, 40.621659</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/5/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, LEE, FORT MADISON, 1890 303RD AVE</description><Point><coordinates>-91.329331, 40.683438</coordinates></Point></Placemark>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/5/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, SPENCER, HATFIELD, 741 NORTH CR 950 WEST</description><Point><coordinates>-87.232999, 37.898979</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/5/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, SPENCER, HATFIELD, 741 NORTH CR 950 WEST</description><Point><coordinates>-87.232999, 37.898979</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/12/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, SPENCER, HATFIELD, 741 CR 950 W</description><Point><coordinates>-87.232999, 37.898979</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/2/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, SPENCER, HATFIELD, 1165  JOHNSON STREET</description><Point><coordinates>-87.225238, 37.905084</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, SPENCER, RICHLAND, 7757 SR 66 W</description><Point><coordinates>-87.201029, 37.901809</coordinates></Point></Placemark>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/11/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, ESCAMBIA, PENSACOLA, 504 PALMETTO E AVE B</description><Point><coordinates>-87.271483, 30.384175</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/11/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, ESCAMBIA, PENSACOLA, 504 PALMETTO E AVE B</description><Point><coordinates>-87.271483, 30.384175</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, ESCAMBIA, PENSACOLA, 8514 MATADOR CAMINO</description><Point><coordinates>-87.327244, 30.369139</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/23/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, ESCAMBIA, PENSACOLA, 202 FRISCO RD</description><Point><coordinates>-87.262785, 30.408101</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/16/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, ESCAMBIA, PENSACOLA, 5820 CRUZAT WAY</description><Point><coordinates>-87.442093, 30.314946</coordinates></Point></Placemark>

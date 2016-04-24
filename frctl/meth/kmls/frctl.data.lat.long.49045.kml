@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/26/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, VAN BUREN, DECATUR, 82560 M 51 HWY</description><Point><coordinates>-85.965197, 42.116775</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/26/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, VAN BUREN, DECATUR, 82560 M 51 HWY</description><Point><coordinates>-85.965197, 42.116775</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/16/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, VAN BUREN, DECATUR, 107 NORTH JOHN STREET</description><Point><coordinates>-85.979347, 42.107214</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/18/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, VAN BUREN, DECATUR, 311 HILL STREET</description><Point><coordinates>-85.980936, 42.108936</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/25/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, VAN BUREN, DECATUR, 304 PINE STREET</description><Point><coordinates>-85.982465, 42.109986</coordinates></Point></Placemark>

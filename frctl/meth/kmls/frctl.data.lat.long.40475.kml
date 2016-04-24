@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, MADISON, RICHMOND, 633 BIGHILL AVE C24</description><Point><coordinates>-84.277830, 37.738105</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, MADISON, RICHMOND, 633 BIGHILL AVE C24</description><Point><coordinates>-84.277830, 37.738105</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, MADISON, RICHMOND, 535 MAHAFFY DR C-10</description><Point><coordinates>-84.308647, 37.738673</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/3/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, MADISON, RICHMOND, 264 GREENS CROSSING</description><Point><coordinates>-84.212611, 37.745250</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/17/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, MADISON, RICHMOND, 312 KRISTEN DR 1</description><Point><coordinates>-84.272289, 37.741266</coordinates></Point></Placemark>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, KNOX, GALESBURG, 1901 RT 150 N 16</description><Point><coordinates>-90.411354, 41.015899</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, KNOX, GALESBURG, 1901 RT 150 N 16</description><Point><coordinates>-90.411354, 41.015899</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, KNOX, GALESBURG, 1056 LYMAN ST</description><Point><coordinates>-90.395220, 40.934559</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, KNOX, GALESBURG, 1056 LYMAN ST</description><Point><coordinates>-90.395220, 40.934559</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, KNOX, GALESBURG, 248 CHAMBERS N ST 1/2</description><Point><coordinates>-90.362342, 40.950438</coordinates></Point></Placemark>

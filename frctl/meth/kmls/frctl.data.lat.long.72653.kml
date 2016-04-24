@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 5/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, BAXTER, MOUNTAIN HOME, COUNTY ROAD 169 RD 871</description><Point><coordinates>-92.388561, 36.435106</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, BAXTER, MOUNTAIN HOME, COUNTY ROAD 169 RD 871</description><Point><coordinates>-92.388561, 36.435106</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/3/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, BAXTER, MOUNTAIN HOME, 274 SHORECREST DR</description><Point><coordinates>-92.305261, 36.393717</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, BAXTER, MOUNTAIN HOME, 97 HOLLOW LN</description><Point><coordinates>-92.354299, 36.370295</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/7/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, BAXTER, MOUNTAIN HOME, 16TH E ST 27</description><Point><coordinates>-92.376596, 36.321845</coordinates></Point></Placemark>

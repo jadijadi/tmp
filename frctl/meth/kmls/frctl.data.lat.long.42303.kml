@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 4/2/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, DAVIESS, MACEO, 7048  2830 HIGHWAY</description><Point><coordinates>-87.025333, 37.829252</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/2/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, DAVIESS, MACEO, 7048  2830 HIGHWAY</description><Point><coordinates>-87.025333, 37.829252</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, DAVIESS, OWENSBORO, 608 CRITTENDEN 7</description><Point><coordinates>-87.107668, 37.770451</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/24/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, DAVIESS, OWENSBORO, 4911 CAMBRIDGE DR</description><Point><coordinates>-87.034220, 37.786843</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/11/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, DAVIESS, OWENSBORO, 1217 JACKSON STREET</description><Point><coordinates>-87.095899, 37.764611</coordinates></Point></Placemark>

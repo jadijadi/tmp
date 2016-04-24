@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/21/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, HAYWOOD, WAYNESVILLE, 523 SUNSHINE COVE RD</description><Point><coordinates>-83.011502, 35.569874</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/21/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, HAYWOOD, WAYNESVILLE, 523 SUNSHINE COVE RD</description><Point><coordinates>-83.011502, 35.569874</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/29/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, HAYWOOD, WAYNESVILLE, 58  REMINGTON FORK ROAD</description><Point><coordinates>-82.995591, 35.590687</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/13/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, HAYWOOD, WAYNESVILLE, 823  FOX RUN ROAD</description><Point><coordinates>-83.039777, 35.535352</coordinates></Point></Placemark>
 

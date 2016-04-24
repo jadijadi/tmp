@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CALDWELL, LENOIR, 3717 HOLLYWOOD RIDGE RD</description><Point><coordinates>-81.544236, 35.984456</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CALDWELL, LENOIR, 3717 HOLLYWOOD RIDGE RD</description><Point><coordinates>-81.544236, 35.984456</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/29/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CALDWELL, LENOIR, 4176 KIRBY MOUNTAIN RD</description><Point><coordinates>-81.636522, 36.035136</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/26/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CALDWELL, LENOIR, 3746 WHITETAIL DR</description><Point><coordinates>-81.580888, 35.832503</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/8/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CALDWELL, LENOIR, 2351 MORGANTON BOULEVARD</description><Point><coordinates>-81.570876, 35.891386</coordinates></Point></Placemark>

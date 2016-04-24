@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 4/5/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, HARNETT, DUNN, 590  JACKSON STREET</description><Point><coordinates>-78.648061, 35.320601</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/5/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, HARNETT, DUNN, 590  JACKSON STREET</description><Point><coordinates>-78.648061, 35.320601</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/20/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, HARNETT, ERWIN, 110 3RD STREET</description><Point><coordinates>-78.659689, 35.324450</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/8/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, HARNETT, ERWIN, 864  MAYNARD LAKE ROAD</description><Point><coordinates>-78.666995, 35.348443</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/22/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, HARNETT, ERWIN, 9875  US 421 HIGHWAY</description><Point><coordinates>-78.691738, 35.350761</coordinates></Point></Placemark>

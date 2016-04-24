@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, ECTOR, ODESSA, 6380 KERMIT AVE</description><Point><coordinates>-102.379694, 31.907617</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, ECTOR, ODESSA, 6380 KERMIT AVE</description><Point><coordinates>-102.379694, 31.907617</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/5/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, ECTOR, ODESSA, 3111 CENTER N ST</description><Point><coordinates>-102.372948, 31.874805</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/5/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, ECTOR, ODESSA, 3651 DIXIE N</description><Point><coordinates>-102.372645, 31.880754</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/17/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, ECTOR, ODESSA, 6620 AUSTIN ST</description><Point><coordinates>-102.376828, 31.910568</coordinates></Point></Placemark>

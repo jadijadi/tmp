@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, WICHITA, WICHITA FALLS, 5419 FRIBERG CHURCH RD</description><Point><coordinates>-98.454459, 33.997914</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, WICHITA, WICHITA FALLS, 5419 FRIBERG CHURCH RD</description><Point><coordinates>-98.454459, 33.997914</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, WICHITA, WICHITA FALLS, 1540 FM 1740</description><Point><coordinates>-98.453251, 33.952209</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/13/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, WICHITA, WICHITA FALLS, 1330 PECANWAY</description><Point><coordinates>-98.467535, 33.938393</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, WICHITA, WICHITA FALLS, 742 HORTON LN</description><Point><coordinates>-98.474399, 33.935872</coordinates></Point></Placemark>

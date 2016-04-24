@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 9/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, LOGAN, RUSSELLVILLE, STUART SMOTHERMAN RD 1305</description><Point><coordinates>-86.926846, 36.876233</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 9/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, LOGAN, RUSSELLVILLE, STUART SMOTHERMAN RD 1305</description><Point><coordinates>-86.926846, 36.876233</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/14/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, LOGAN, RUSSELLVILLE, 207 EAST LINCOLN STREET</description><Point><coordinates>-86.871403, 36.852133</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/24/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, LOGAN, RUSSELLVILLE, 9175 FRANKLIN ROAD</description><Point><coordinates>-86.797779, 36.789478</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/6/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, LOGAN, RUSSELLVILLE, 1064  BUCKSVILLE ROAD</description><Point><coordinates>-86.702367, 36.992596</coordinates></Point></Placemark>

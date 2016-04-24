@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/6/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, TULSA, BROKEN ARROW, 1052 EAST 121ST SOUTH STREET</description><Point><coordinates>-95.801394, 35.988365</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/6/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, TULSA, BROKEN ARROW, 1052 EAST 121ST SOUTH STREET</description><Point><coordinates>-95.801394, 35.988365</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/11/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, TULSA, BROKEN ARROW, 4332 ELM S ST</description><Point><coordinates>-95.796060, 36.008045</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/9/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, TULSA, BROKEN ARROW, 1305 WACO W ST</description><Point><coordinates>-95.805234, 36.007912</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/8/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, TULSA, BROKEN ARROW, 712 VICKSBURG W ST</description><Point><coordinates>-95.798866, 36.010003</coordinates></Point></Placemark>

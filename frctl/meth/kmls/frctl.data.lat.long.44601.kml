@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/19/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, STARK, ALLIANCE, 9555 ST PETER'S CHURCH RD</description><Point><coordinates>-81.215052, 40.950360</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/19/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, STARK, ALLIANCE, 9555 ST PETER'S CHURCH RD</description><Point><coordinates>-81.215052, 40.950360</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/19/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, STARK, ALLIANCE, 259 NORTH UNION AVENUE 1</description><Point><coordinates>-81.105615, 40.924153</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/27/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, STARK, ALLIANCE, 2360 ANSLEY</description><Point><coordinates>-81.148907, 40.900187</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/26/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, STARK, ALLIANCE, 111  GLAMORGAN STREET B 10</description><Point><coordinates>-81.108123, 40.912942</coordinates></Point></Placemark>

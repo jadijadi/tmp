@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/3/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, LEXINGTON, WEST COLUMBIA, 101  DEE STREET</description><Point><coordinates>-81.145501, 33.905790</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/3/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, LEXINGTON, WEST COLUMBIA, 101  DEE STREET</description><Point><coordinates>-81.145501, 33.905790</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/8/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, LEXINGTON, WEST COLUMBIA, 163  WHISPERING GLENN</description><Point><coordinates>-81.108025, 33.973209</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/18/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, LEXINGTON, WEST COLUMBIA, 3118  DUDLEY ROAD BOX 603</description><Point><coordinates>-81.124259, 33.984039</coordinates></Point></Placemark>
 

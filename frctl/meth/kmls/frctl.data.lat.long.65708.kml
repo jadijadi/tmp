@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 8/31/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BARRY, MONETT, 414 CALE W</description><Point><coordinates>-93.932614, 36.921641</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 8/31/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BARRY, MONETT, 414 CALE W</description><Point><coordinates>-93.932614, 36.921641</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BARRY, MONETT, 364 FARM ROAD 1100</description><Point><coordinates>-93.900670, 36.918108</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/14/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BARRY, MONETT, 247 FARM ROAD 1050 A</description><Point><coordinates>-93.900724, 36.914646</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/12/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BARRY, MONETT, 320 FR 1052</description><Point><coordinates>-93.900747, 36.915157</coordinates></Point></Placemark>

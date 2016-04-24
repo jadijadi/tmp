@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/6/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, DYER, LENOX, 158  BOOTHS POINT RD.</description><Point><coordinates>-89.498408, 36.089238</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/6/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, DYER, LENOX, 158  BOOTHS POINT RD.</description><Point><coordinates>-89.498408, 36.089238</coordinates></Point></Placemark>
 
         </Document>
         </kml>

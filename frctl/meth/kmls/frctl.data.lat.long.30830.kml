@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/15/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, BURKE, WAYNESBORO, 2223 HWY 56</description><Point><coordinates>-81.957557, 33.136962</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/15/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, BURKE, WAYNESBORO, 2223 HWY 56</description><Point><coordinates>-81.957557, 33.136962</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/14/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, BURKE, WAYNESBORO, 3696 HIGHWAY 25</description><Point><coordinates>-81.872618, 32.304477</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/14/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, BURKE, WAYNESBORO, 244  BRIAR CREEK ESTATES ROAD</description><Point><coordinates>-81.966061, 33.126544</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/14/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, BURKE, WAYNESBORO, 244  BRIAR CREEK ESTATES ROAD</description><Point><coordinates>-81.966061, 33.126544</coordinates></Point></Placemark>

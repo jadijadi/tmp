@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CASS, RAYMORE, 318 SUNRISE S DR</description><Point><coordinates>-94.446207, 38.800430</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CASS, RAYMORE, 318 SUNRISE S DR</description><Point><coordinates>-94.446207, 38.800430</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CASS, RAYMORE, 1200 HUBACH RD</description><Point><coordinates>-94.432533, 38.781539</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/22/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CASS, RAYMORE, 512 SKYVUE A</description><Point><coordinates>-94.447861, 38.797846</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/8/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CASS, RAYMORE, 715 MADISON CREEK</description><Point><coordinates>-94.458712, 38.820318</coordinates></Point></Placemark>

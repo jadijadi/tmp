@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 9/1/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, CHEROKEE, GAYLESVILLE, 400 COUNTY ROAD 114</description><Point><coordinates>-85.623255, 34.318610</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 9/1/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, CHEROKEE, GAYLESVILLE, 400 COUNTY ROAD 114</description><Point><coordinates>-85.623255, 34.318610</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/30/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, CHEROKEE, GAYLESVILLE, 265 C/R 563</description><Point><coordinates>-85.586756, 34.304264</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/19/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, CHEROKEE, GAYLESVILLE, 2603 CO RD 41</description><Point><coordinates>-85.593868, 34.301862</coordinates></Point></Placemark>
 

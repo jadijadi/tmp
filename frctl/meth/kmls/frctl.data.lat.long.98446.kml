@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/17/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, PIERCE, TACOMA, 15505 CANYON E RD</description><Point><coordinates>-122.357526, 47.132598</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/17/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, PIERCE, TACOMA, 15505 CANYON E RD</description><Point><coordinates>-122.357526, 47.132598</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, PIERCE, TACOMA, 9008 47TH E AVE</description><Point><coordinates>-122.366839, 47.174965</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, PIERCE, TACOMA, 4009 BROOKDALE E RD</description><Point><coordinates>-122.375494, 47.118262</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/26/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, PIERCE, TACOMA, 5302 146TH E ST</description><Point><coordinates>-122.358889, 47.122838</coordinates></Point></Placemark>

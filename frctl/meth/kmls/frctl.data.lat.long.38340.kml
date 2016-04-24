@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 6/2/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, CHESTER, HENDERSON, 111 SIXTH W ST</description><Point><coordinates>-88.643890, 35.449198</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/2/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, CHESTER, HENDERSON, 111 SIXTH W ST</description><Point><coordinates>-88.643890, 35.449198</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/9/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, CHESTER, HENDERSON, 280 HOMESTEAD LANE</description><Point><coordinates>-88.583400, 35.477392</coordinates></Point></Placemark>
 
         </Document>

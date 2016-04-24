@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/3/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, ALEXANDER, ELCO, 127 STATE RT 1 692</description><Point><coordinates>-89.260490, 37.297197</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/3/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, ALEXANDER, ELCO, 127 STATE RT 1 692</description><Point><coordinates>-89.260490, 37.297197</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/15/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, CARROLL, THOMPSON, 6039 IL ROUTE 84</description><Point><coordinates>-89.398528, 40.633125</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, CHRISTIAN, PAMA, 817 1ST E ST</description><Point><coordinates>-89.398528, 40.633125</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/14/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, JEFFERSON, MOUNT VERNON, S. 3RD AND  HERBERT INTERSECT.</description><Point><coordinates>-89.398528, 40.633125</coordinates></Point></Placemark>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 7/24/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BRANCH, BRONSON, 273 WEST SOUTHERN ROAD</description><Point><coordinates>-85.093559, 41.781992</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 7/24/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BRANCH, BRONSON, 273 WEST SOUTHERN ROAD</description><Point><coordinates>-85.093559, 41.781992</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/30/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BRANCH, BRONSON, 1167 HOLLOW ROAD</description><Point><coordinates>-85.270595, 41.868342</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/19/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BRANCH, BRONSON, 529 WEST CHICAGO ROAD</description><Point><coordinates>-85.143054, 41.896320</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/13/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BRANCH, BRONSON, 602 SOUTH PARHAM ROAD</description><Point><coordinates>-85.165022, 41.825056</coordinates></Point></Placemark>

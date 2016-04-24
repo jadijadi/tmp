@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 4/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEVADA, CLARK, LAS VEGAS, 3850 MOUNTAIN VISTA S 172</description><Point><coordinates>-115.074589, 36.119850</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEVADA, CLARK, LAS VEGAS, 3850 MOUNTAIN VISTA S 172</description><Point><coordinates>-115.074589, 36.119850</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/5/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEVADA, CLARK, LAS VEGAS, 4685 HARMON E AVE</description><Point><coordinates>-115.071570, 36.107356</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/15/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEVADA, CLARK, LAS VEGAS, 3564 HAVERHILL</description><Point><coordinates>-115.104646, 36.124901</coordinates></Point></Placemark>
 

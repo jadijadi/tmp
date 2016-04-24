@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 4/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, LANE, CRESWELL, 298 E OREGON B</description><Point><coordinates>-123.015161, 43.919533</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, LANE, CRESWELL, 298 E OREGON B</description><Point><coordinates>-123.015161, 43.919533</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/3/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, LANE, CRESWELL, 34120 E CLOVERDALE RD</description><Point><coordinates>-123.001418, 43.915688</coordinates></Point></Placemark>
 
         </Document>

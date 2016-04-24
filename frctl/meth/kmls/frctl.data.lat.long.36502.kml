@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 9/1/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, ESCAMBIA, ATMORE, 2444 DEER CREEK RD</description><Point><coordinates>-87.564493, 30.999780</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 9/1/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, ESCAMBIA, ATMORE, 2444 DEER CREEK RD</description><Point><coordinates>-87.564493, 30.999780</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/26/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, ESCAMBIA, ATMORE, 1304 EAST NASHVILLE AVENUE 12</description><Point><coordinates>-87.478728, 31.023908</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/29/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, ESCAMBIA, ATMORE, 2325 WEST ATMOSPHERE ROAD</description><Point><coordinates>-87.522343, 31.107455</coordinates></Point></Placemark>
 

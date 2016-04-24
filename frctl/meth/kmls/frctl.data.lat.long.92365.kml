@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/25/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, SAN BERNARDINO, NEWBERRY SPRINGS, 52875 BEDFORD RD</description><Point><coordinates>-116.648508, 34.894257</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/25/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, SAN BERNARDINO, NEWBERRY SPRINGS, 52875 BEDFORD RD</description><Point><coordinates>-116.648508, 34.894257</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, SAN BERNARDINO, NEWBERRY SPRINGS, 47962 HORNER RD</description><Point><coordinates>-116.613945, 34.812879</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/11/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, SAN BERNARDINO, NEWBERRY SPRINGS, 35377 NEWBERRY RD</description><Point><coordinates>-116.662531, 34.896004</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/21/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, SAN BERNARDINO, NEWBERRY SPRINGS, 42378 SILVER VALLEY ROAD</description><Point><coordinates>-116.735779, 34.866166</coordinates></Point></Placemark>

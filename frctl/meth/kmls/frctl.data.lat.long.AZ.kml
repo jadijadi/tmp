@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/15/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARIZONA, MARICOPA, GLENDALE, 7405 KRALL W SR</description><Point><coordinates>-112.185987, 33.538652</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/15/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARIZONA, MARICOPA, GLENDALE, 7405 KRALL W SR</description><Point><coordinates>-112.185987, 33.538652</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/14/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARIZONA, MARICOPA, MORRISTOWN, 26802 193RD N AVE</description><Point><coordinates>-112.620326, 33.854837</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/14/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARIZONA, MARICOPA, MORRISTOWN, 27622 204TH N AVE</description><Point><coordinates>-112.620326, 33.854837</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/14/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARIZONA, MARICOPA, MORRISTOWN, 33009 215TH N AVE AVE</description><Point><coordinates>-112.620326, 33.854837</coordinates></Point></Placemark>

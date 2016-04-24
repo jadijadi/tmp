@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/3/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, BAY, PANAMA CITY, 108 CASA PL 24</description><Point><coordinates>-85.926752, 30.241742</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/3/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, BAY, PANAMA CITY, 108 CASA PL 24</description><Point><coordinates>-85.926752, 30.241742</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, BAY, PANAMA CITY BEACH, 20111 ALTA VISTA DR</description><Point><coordinates>-85.932526, 30.248029</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, BAY, PANAMA CITY BEACH, 128 (B) LAKE PL 3</description><Point><coordinates>-85.928646, 30.242795</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, BAY, PANAMA CITY BEACH, 106 LAKEVIEW CIR 106</description><Point><coordinates>-85.879819, 30.219146</coordinates></Point></Placemark>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 12/1/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, MONTGOMERY, PORTER, 17217 PORTER LN</description><Point><coordinates>-95.312863, 30.159230</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 12/1/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, MONTGOMERY, PORTER, 17217 PORTER LN</description><Point><coordinates>-95.312863, 30.159230</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/27/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, MONTGOMERY, PORTER, 26912 RIVERVIEW DR</description><Point><coordinates>-95.273474, 30.058385</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/3/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, MONTGOMERY, PORTER, 23667  TEJAS DRIVE</description><Point><coordinates>-95.283845, 30.107436</coordinates></Point></Placemark>
 

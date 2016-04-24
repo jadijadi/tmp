@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/13/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, JASPER, DIAMOND, 18096 NEWTON ROAD</description><Point><coordinates>-94.314114, 37.053354</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/13/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, JASPER, DIAMOND, 18096 NEWTON ROAD</description><Point><coordinates>-94.314114, 37.053354</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, NEWTON, DIAMOND, 4498 LARK RD</description><Point><coordinates>-94.389260, 37.005397</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/13/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, NEWTON, DIAMOND, 102 MORGAN S ST</description><Point><coordinates>-94.311813, 36.994440</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/2/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, NEWTON, DIAMOND, 19358 FOLIAGE RD</description><Point><coordinates>-94.290948, 36.965335</coordinates></Point></Placemark>

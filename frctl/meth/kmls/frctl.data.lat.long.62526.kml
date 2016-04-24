@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 5/7/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, MACON, DECATUR, 108 NORTH TIFFANY TERRACE</description><Point><coordinates>-88.913573, 39.894331</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/7/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, MACON, DECATUR, 108 NORTH TIFFANY TERRACE</description><Point><coordinates>-88.913573, 39.894331</coordinates></Point></Placemark>
 
         </Document>
         </kml>

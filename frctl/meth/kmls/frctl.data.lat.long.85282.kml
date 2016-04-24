@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 7/6/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARIZONA, MARICOPA, TEMPE, 2039 EAST BROADWAY ROAD 172</description><Point><coordinates>-111.899447, 33.407415</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 7/6/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARIZONA, MARICOPA, TEMPE, 2039 EAST BROADWAY ROAD 172</description><Point><coordinates>-111.899447, 33.407415</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/15/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARIZONA, MARICOPA, TEMPE, 2313 EAST BALBOA DRIVE</description><Point><coordinates>-111.889579, 33.399602</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARIZONA, MARICOPA, TEMPE, 332 BROADMOR E</description><Point><coordinates>-111.931902, 33.403635</coordinates></Point></Placemark>
 

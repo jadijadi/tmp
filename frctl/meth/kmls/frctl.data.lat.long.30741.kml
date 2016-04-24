@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/14/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, CATOOSA, ROSSVILLE, 1304 LAKE VIEW DR</description><Point><coordinates>-85.251612, 34.979023</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/14/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, CATOOSA, ROSSVILLE, 1304 LAKE VIEW DR</description><Point><coordinates>-85.251612, 34.979023</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, CATOOSA, ROSSVILLE, 46 FISHER ST</description><Point><coordinates>-85.218417, 34.985230</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/13/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, CATOOSA, ROSSVILLE, 880 STATELINE RD. W</description><Point><coordinates>-85.241447, 34.985289</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/20/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, CATOOSA, ROSSVILLE, 938 STEELE ROAD</description><Point><coordinates>-85.221375, 34.972783</coordinates></Point></Placemark>

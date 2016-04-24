@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/18/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, OSAGE, BARTLESVILLE, 1412 WEST 6TH STREET</description><Point><coordinates>-95.996189, 36.747932</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/18/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, OSAGE, BARTLESVILLE, 1412 WEST 6TH STREET</description><Point><coordinates>-95.996189, 36.747932</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/24/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, OSAGE, OSAGE, 12603  STATE HWY 123</description><Point><coordinates>-96.006062, 36.703896</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/4/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, WASHINGTON, BARTLESVILLE, 504 NORTHWEST 5TH STREET 1</description><Point><coordinates>-95.972338, 36.748062</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/2/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, WASHINGTON, BARTLESVILLE, 909 NORTHWEST 3RD</description><Point><coordinates>-95.967445, 36.749753</coordinates></Point></Placemark>

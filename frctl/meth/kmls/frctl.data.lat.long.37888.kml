@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/22/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, GRAINGER, WASHBURN, 4493 CRACKERS NECK ROAD</description><Point><coordinates>-83.527125, 36.342259</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/22/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, GRAINGER, WASHBURN, 4493 CRACKERS NECK ROAD</description><Point><coordinates>-83.527125, 36.342259</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/26/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, GRAINGER, WASHBURN, 3647 HWY 131</description><Point><coordinates>-83.505568, 36.330607</coordinates></Point></Placemark>
 
         </Document>

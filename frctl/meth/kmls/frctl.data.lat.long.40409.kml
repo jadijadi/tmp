@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 6/17/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, ROCKCASTLE, BRODHEAD, 27 MAIN STREET</description><Point><coordinates>-84.415339, 37.402973</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/17/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, ROCKCASTLE, BRODHEAD, 27 MAIN STREET</description><Point><coordinates>-84.415339, 37.402973</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/1/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, ROCKCASTLE, BRODHEAD, 256  BRYANT RIDGE ROAD</description><Point><coordinates>-84.467503, 37.392971</coordinates></Point></Placemark>
 
         </Document>

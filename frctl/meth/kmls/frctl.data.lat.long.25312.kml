@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 12/11/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WEST VIRGINIA, KANAWHA, CHARLESTON, 2529 SISSONVILLE DR</description><Point><coordinates>-81.656923, 38.393872</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 12/11/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WEST VIRGINIA, KANAWHA, CHARLESTON, 2529 SISSONVILLE DR</description><Point><coordinates>-81.656923, 38.393872</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/3/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WEST VIRGINIA, KANAWHA, CHARLESTON, 2505 SISSONVILLE DR A</description><Point><coordinates>-81.656852, 38.393957</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/5/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WEST VIRGINIA, KANAWHA, CHARLESTON, 4410 SISSONVILLE DR</description><Point><coordinates>-81.674030, 38.437184</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/28/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WEST VIRGINIA, KANAWHA, CHARLESTON, 340 WALKER RD G</description><Point><coordinates>-81.627844, 38.453637</coordinates></Point></Placemark>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 9/10/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, IREDELL, STATESVILLE, 122 ROCKHAVEN DRIVE</description><Point><coordinates>-81.081426, 35.761562</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 9/10/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, IREDELL, STATESVILLE, 122 ROCKHAVEN DRIVE</description><Point><coordinates>-81.081426, 35.761562</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/16/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, IREDELL, STATESVILLE, 127  TILLEY FARM LANE</description><Point><coordinates>-80.933957, 35.961768</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/4/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, IREDELL, STATESVILLE, 112  DEEP WATER ROAD</description><Point><coordinates>-80.958148, 35.914399</coordinates></Point></Placemark>
 

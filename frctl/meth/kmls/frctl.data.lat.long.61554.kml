@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/21/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, TAZEWELL, PEKIN, 1406 SHERIDAN 1</description><Point><coordinates>-89.630651, 40.582297</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/21/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, TAZEWELL, PEKIN, 1406 SHERIDAN 1</description><Point><coordinates>-89.630651, 40.582297</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, TAZEWELL, PEKIN, 106 PARKVIEW CT 2</description><Point><coordinates>-89.616442, 40.568525</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, TAZEWELL, PEKIN, 106 EDDS ST</description><Point><coordinates>-89.657017, 40.557166</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, TAZEWELL, PEKIN, 201 COOPER ST</description><Point><coordinates>-89.660533, 40.554057</coordinates></Point></Placemark>

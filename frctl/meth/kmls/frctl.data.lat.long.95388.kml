@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 8/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, MERCED, WINTON, 6280 CENTRAL AVE</description><Point><coordinates>-120.649996, 37.379169</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 8/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, MERCED, WINTON, 6280 CENTRAL AVE</description><Point><coordinates>-120.649996, 37.379169</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, MERCED, WINTON, 9605 EUCALYPTUS AVE</description><Point><coordinates>-120.660723, 37.403807</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/13/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, MERCED, WINTON, 7409 AMANDA DRIVE</description><Point><coordinates>-120.620778, 37.394269</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/12/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, MERCED, WINTON, 6814 ARLENE WAY</description><Point><coordinates>-120.609916, 37.395405</coordinates></Point></Placemark>

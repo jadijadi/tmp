@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, SEBASTIAN, FORT SMITH, 1405 38TH N ST</description><Point><coordinates>-94.390415, 35.389666</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, SEBASTIAN, FORT SMITH, 1405 38TH N ST</description><Point><coordinates>-94.390415, 35.389666</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/6/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, SEBASTIAN, FORT SMITH, 3117 29TH N ST</description><Point><coordinates>-94.400219, 35.410124</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/7/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, SEBASTIAN, FORT SMITH, 2315 33RD N ST</description><Point><coordinates>-94.395228, 35.402088</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, SEBASTIAN, FORT SMITH, 800 A S ST</description><Point><coordinates>-94.407509, 35.401191</coordinates></Point></Placemark>

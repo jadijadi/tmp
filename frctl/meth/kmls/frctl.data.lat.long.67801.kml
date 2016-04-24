@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, FORD, DODGE CITY, 2005 MCARTOR W ST</description><Point><coordinates>-100.040831, 37.732141</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, FORD, DODGE CITY, 2005 MCARTOR W ST</description><Point><coordinates>-100.040831, 37.732141</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/23/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, FORD, DODGE CITY, 911 VIRGINIA DR</description><Point><coordinates>-100.043949, 37.736367</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/21/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, FORD, DODGE CITY, 1601 AVE A</description><Point><coordinates>-100.015391, 37.763283</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/14/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, FORD, DODGE CITY, 104 JUNEAU</description><Point><coordinates>-100.015066, 37.749175</coordinates></Point></Placemark>

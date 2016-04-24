@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 7/25/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, WARREN, VICKSBURG, 1234 WELLS RD</description><Point><coordinates>-90.810560, 32.415078</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 7/25/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, WARREN, VICKSBURG, 1234 WELLS RD</description><Point><coordinates>-90.810560, 32.415078</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/26/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, WARREN, VICKSBURG, 150 BOWLIN ROAD</description><Point><coordinates>-90.716180, 32.511023</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/12/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, WARREN, VICKSBURG, 162  PECANWOOD DRIVE</description><Point><coordinates>-91.038483, 32.532182</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/10/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, WARREN, VICKSBURG, 2255  FREETOWN ROAD LOT 25</description><Point><coordinates>-90.771411, 32.382888</coordinates></Point></Placemark>

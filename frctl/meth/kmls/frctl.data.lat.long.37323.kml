@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, BRADLEY, CLEVELAND, 2801 HOLMES DR</description><Point><coordinates>-84.878455, 35.124820</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, BRADLEY, CLEVELAND, 2801 HOLMES DR</description><Point><coordinates>-84.878455, 35.124820</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, BRADLEY, CLEVELAND, 1700 KEITH VALLEY SE RD</description><Point><coordinates>-84.838564, 35.028339</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, BRADLEY, CLEVELAND, 244 VIRGIL RYMER RD</description><Point><coordinates>-84.740446, 35.143125</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/7/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, BRADLEY, CLEVELAND, 200 PIRKIE NE</description><Point><coordinates>-84.825409, 35.161577</coordinates></Point></Placemark>

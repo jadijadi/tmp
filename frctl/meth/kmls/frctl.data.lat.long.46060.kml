@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 11/20/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, HAMILTON, NOBLESVILLE, 16300 EAST 191 STREET</description><Point><coordinates>-85.872607, 40.068976</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 11/20/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, HAMILTON, NOBLESVILLE, 16300 EAST 191 STREET</description><Point><coordinates>-85.872607, 40.068976</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/1/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, HAMILTON, NOBLESVILLE, 415  KINGS LANE  F</description><Point><coordinates>-85.999344, 40.047757</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/14/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, HAMILTON, NOBLESVILLE, 1098  N 8TH STREET</description><Point><coordinates>-86.014102, 40.048409</coordinates></Point></Placemark>
 

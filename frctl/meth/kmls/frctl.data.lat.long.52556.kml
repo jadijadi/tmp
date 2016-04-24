@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 4/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, JEFFERSON, FAIRFIELD, 301 BUCHANAN E ST B3</description><Point><coordinates>-91.957306, 41.010934</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, JEFFERSON, FAIRFIELD, 301 BUCHANAN E ST B3</description><Point><coordinates>-91.957306, 41.010934</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, JEFFERSON, FAIRFIELD, 602 COURT N ST 4</description><Point><coordinates>-91.968022, 41.012394</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/4/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, JEFFERSON, FAIRFIELD, 2696 HIGHWAY 34</description><Point><coordinates>-91.853415, 41.002050</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/7/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, JEFFERSON, FAIRFIELD, 1000 NORTH 8TH STREET</description><Point><coordinates>-91.973329, 41.015636</coordinates></Point></Placemark>

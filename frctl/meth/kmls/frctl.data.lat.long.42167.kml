@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, MONROE, TOMPKINSVILLE, 2345 HARLANS CROSSROADS</description><Point><coordinates>-85.699193, 36.649799</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, MONROE, TOMPKINSVILLE, 2345 HARLANS CROSSROADS</description><Point><coordinates>-85.699193, 36.649799</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/23/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, MONROE, TOMPKINSVILLE, 1005 SUGAR CREEK ROAD</description><Point><coordinates>-85.815108, 36.708421</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, MONROE, TOMPKINSVILLE, 1655 CENTER POINT ROAD</description><Point><coordinates>-85.663287, 36.713852</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, MONROE, TOMPKINSVILLE, 2810 GAMALIEL ROAD</description><Point><coordinates>-85.729885, 36.671790</coordinates></Point></Placemark>

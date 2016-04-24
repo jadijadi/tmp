@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/31/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, ATCHISON, WESTBORO, 14347 STATE HIGHWAY M</description><Point><coordinates>-95.240172, 40.511657</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/31/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, ATCHISON, WESTBORO, 14347 STATE HIGHWAY M</description><Point><coordinates>-95.240172, 40.511657</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/14/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, ATCHISON, WESTBORO, 402 1ST ST</description><Point><coordinates>-95.322689, 40.535475</coordinates></Point></Placemark>
 
         </Document>

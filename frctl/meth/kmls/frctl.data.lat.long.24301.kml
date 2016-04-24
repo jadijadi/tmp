@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, PULASKI, PULASKI, 836 BARBARA LN</description><Point><coordinates>-80.771002, 37.055477</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, PULASKI, PULASKI, 836 BARBARA LN</description><Point><coordinates>-80.771002, 37.055477</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, PULASKI, PULASKI, 4451 BILLY AVE</description><Point><coordinates>-80.787907, 37.057402</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/13/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, PULASKI, PULASKI, 726 VALLEY ST</description><Point><coordinates>-80.785596, 37.041117</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/28/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, PULASKI, PULASKI, 621 BIRCH ST</description><Point><coordinates>-80.767155, 37.039200</coordinates></Point></Placemark>

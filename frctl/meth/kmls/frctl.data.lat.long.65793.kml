@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 4/4/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, HOWELL, WILLOW SPRINGS, 2398 BELTZ ROAD</description><Point><coordinates>-91.969874, 36.992277</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/4/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, HOWELL, WILLOW SPRINGS, 2398 BELTZ ROAD</description><Point><coordinates>-91.969874, 36.992277</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/7/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, HOWELL, WILLOW SPRINGS, 811 EAST MAIN</description><Point><coordinates>-91.961850, 36.988335</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/9/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, HOWELL, WILLOW SPRINGS, 1399 PRIVATE ROAD 3350</description><Point><coordinates>-91.969874, 36.992277</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/25/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, HOWELL, WILLOW SPRINGS, 211 EAST 3RD STREET</description><Point><coordinates>-91.968184, 36.992263</coordinates></Point></Placemark>

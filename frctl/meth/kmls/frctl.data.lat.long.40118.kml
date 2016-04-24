@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 11/30/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, JEFFERSON, FAIRDALE, 316 GLENN ELLEN RD</description><Point><coordinates>-85.769307, 38.110056</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 11/30/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, JEFFERSON, FAIRDALE, 316 GLENN ELLEN RD</description><Point><coordinates>-85.769307, 38.110056</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/28/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, JEFFERSON, FAIRDALE, 209 LINDA DRIVE</description><Point><coordinates>-85.768842, 38.106811</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/12/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, JEFFERSON, FAIRDALE, 526  FURGUSSON FIFE</description><Point><coordinates>-85.756542, 38.124513</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/13/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, JEFFERSON, FAIRDALE, 2309  GRANGER ROAD</description><Point><coordinates>-85.724246, 38.102303</coordinates></Point></Placemark>

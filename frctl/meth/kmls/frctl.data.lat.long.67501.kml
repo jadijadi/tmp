@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/15/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, RENO, HUTCHINSON, 310 5TH W AVE</description><Point><coordinates>-97.938100, 38.058800</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/15/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, RENO, HUTCHINSON, 310 5TH W AVE</description><Point><coordinates>-97.938100, 38.058800</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/29/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, RENO, HUTCHINSON, 922 16TH E AVE</description><Point><coordinates>-97.911600, 38.070800</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, RENO, HUTCHINSON, 109 MAPLE S ST</description><Point><coordinates>-97.926600, 38.050400</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/6/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, RENO, HUTCHINSON, 230 BIGGER E</description><Point><coordinates>-97.926690, 38.042083</coordinates></Point></Placemark>

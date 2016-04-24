@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/2/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, PITTSBURG, KREBS, 420 EAST BEAUMONT STREET 7</description><Point><coordinates>-95.715822, 34.927875</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/2/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, PITTSBURG, KREBS, 420 EAST BEAUMONT STREET 7</description><Point><coordinates>-95.715822, 34.927875</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/7/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, PITTSBURG, KREBS, 10 NORTHWEST 2ND STREET</description><Point><coordinates>-95.718729, 34.927734</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/11/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, PITTSBURG, KREBS, 30 SOUTHEAST SE 3RD ST/S 3RD ST E STREETS</description><Point><coordinates>-95.719559, 34.926289</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/23/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, PITTSBURG, MCALESTER, 800  G STREET</description><Point><coordinates>-95.779650, 34.942970</coordinates></Point></Placemark>

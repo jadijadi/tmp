@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/14/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JENNINGS, NORTH VERNON, 200 CR 250 W. S</description><Point><coordinates>-85.659551, 38.982177</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/14/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JENNINGS, NORTH VERNON, 200 CR 250 W. S</description><Point><coordinates>-85.659551, 38.982177</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JENNINGS, NORTH VERNON, 1850 350 NORTH W</description><Point><coordinates>-85.646426, 39.036943</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/1/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JENNINGS, NORTH VERNON, 610 CR 250 EAST S</description><Point><coordinates>-85.569008, 38.976276</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/7/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JENNINGS, NORTH VERNON, 3677 WELLINGTON CT</description><Point><coordinates>-85.676773, 39.037781</coordinates></Point></Placemark>

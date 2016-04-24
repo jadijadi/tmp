@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/21/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MARSHALL, ARGOS, 106 WALNUT ST</description><Point><coordinates>-86.245244, 41.237283</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/21/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MARSHALL, ARGOS, 106 WALNUT ST</description><Point><coordinates>-86.245244, 41.237283</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/9/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MARSHALL, ARGOS, 15709 LILAC ROAD</description><Point><coordinates>-86.280057, 41.249474</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/15/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MARSHALL, ARGOS, 8115 NORTH 20C</description><Point><coordinates>-86.212030, 41.186841</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/14/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MARSHALL, ARGOS, 5663  18TH ROAD</description><Point><coordinates>-86.232295, 41.215478</coordinates></Point></Placemark>

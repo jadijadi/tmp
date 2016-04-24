@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/10/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, SAINT CHARLES, SAINT CHARLES, 35 CHESTNUT RIDGE CT</description><Point><coordinates>-90.558528, 38.774604</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/10/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, SAINT CHARLES, SAINT CHARLES, 35 CHESTNUT RIDGE CT</description><Point><coordinates>-90.558528, 38.774604</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/20/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, SAINT CHARLES, SAINT CHARLES, 229 (b) DIEKAMP</description><Point><coordinates>-90.538807, 38.761663</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/31/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, SAINT CHARLES, SAINT CHARLES, 18 DALE DR</description><Point><coordinates>-90.507860, 38.767774</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/15/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, SAINT CHARLES, SAINT CHARLES, 1380 DARTMOUTH COURT</description><Point><coordinates>-90.518048, 38.776314</coordinates></Point></Placemark>

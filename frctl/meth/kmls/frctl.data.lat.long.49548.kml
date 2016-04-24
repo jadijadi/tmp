@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 11/21/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, KENT, GRAND RAPIDS, 286 SOUTHWEST SWORD STREET</description><Point><coordinates>-85.668768, 42.846458</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 11/21/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, KENT, GRAND RAPIDS, 286 SOUTHWEST SWORD STREET</description><Point><coordinates>-85.668768, 42.846458</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/2/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, KENT, KENTWOOD, 4822  ARBOR LANE</description><Point><coordinates>-85.648727, 42.876345</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/20/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, KENT, KENTWOOD, 306 SE RIDGEWOOD STREET</description><Point><coordinates>-85.658008, 42.881206</coordinates></Point></Placemark>
 

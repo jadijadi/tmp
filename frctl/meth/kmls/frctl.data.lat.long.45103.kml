@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 10/1/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, CLERMONT, BATAVIA, 5222 LOCUST ST</description><Point><coordinates>-84.078119, 39.135490</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 10/1/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, CLERMONT, BATAVIA, 5222 LOCUST ST</description><Point><coordinates>-84.078119, 39.135490</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/26/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, CLERMONT, BATAVIA, 4672 SHEPHERD RD</description><Point><coordinates>-84.254181, 39.111653</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/1/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, CLERMONT, BATAVIA, 1638 STATE ROUTE 28</description><Point><coordinates>-84.176879, 39.077007</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/6/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, CLERMONT, BATAVIA, 2615 SIOUX COURT 53</description><Point><coordinates>-84.120537, 39.064209</coordinates></Point></Placemark>

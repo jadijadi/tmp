@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 8/23/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, GREENE, FAIRBORN, 436 IRONWOOD DR</description><Point><coordinates>-84.026940, 39.798869</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 8/23/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, GREENE, FAIRBORN, 436 IRONWOOD DR</description><Point><coordinates>-84.026940, 39.798869</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/26/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, GREENE, FAIRBORN, 507 LOHNES DR</description><Point><coordinates>-84.010522, 39.832885</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/16/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, GREENE, FAIRBORN, 30 GOODMAN E</description><Point><coordinates>-84.023830, 39.793622</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/13/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, GREENE, FAIRBORN, 64 ERIE ST</description><Point><coordinates>-84.017189, 39.815770</coordinates></Point></Placemark>

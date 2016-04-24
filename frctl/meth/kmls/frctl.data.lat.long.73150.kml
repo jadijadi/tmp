@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 12/1/2000</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, OKLAHOMA, OKLAHOMA CITY, 4100 POST S RD</description><Point><coordinates>-97.350299, 35.423748</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 12/1/2000</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, OKLAHOMA, OKLAHOMA CITY, 4100 POST S RD</description><Point><coordinates>-97.350299, 35.423748</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/9/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, OKLAHOMA, OKLAHOMA CITY, 12115 89TH SE ST</description><Point><coordinates>-97.315212, 35.378388</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/10/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, OKLAHOMA, OKLAHOMA CITY, 4000 POST S  A</description><Point><coordinates>-97.353155, 35.425934</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/13/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, OKLAHOMA, OKLAHOMA CITY, 8416 HIWASSEE S</description><Point><coordinates>-97.298703, 35.382566</coordinates></Point></Placemark>

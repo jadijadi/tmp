@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/7/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, JASPER, KIRBYVILLE, FM 82 RT RT 1 100</description><Point><coordinates>-93.892681, 30.660481</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/7/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, JASPER, KIRBYVILLE, FM 82 RT RT 1 100</description><Point><coordinates>-93.892681, 30.660481</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/7/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, JASPER, KIRBYVILLE, 1 FM 82 RT 100</description><Point><coordinates>-93.892681, 30.660481</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/7/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, JASPER, KIRBYVILLE, FM 82 RT RT 1 100</description><Point><coordinates>-93.892681, 30.660481</coordinates></Point></Placemark>
 

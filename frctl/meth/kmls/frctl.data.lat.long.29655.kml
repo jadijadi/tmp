@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 12/15/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, ANDERSON, IVA, 2108 ELBERTON HWY</description><Point><coordinates>-82.702922, 34.292153</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 12/15/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, ANDERSON, IVA, 2108 ELBERTON HWY</description><Point><coordinates>-82.702922, 34.292153</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/5/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, ANDERSON, IVA, 424 CHAFFIN RD</description><Point><coordinates>-82.651468, 34.308774</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/30/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, ANDERSON, IVA, 1101 PROJECT RD</description><Point><coordinates>-82.686472, 34.276430</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/6/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, ANDERSON, IVA, 8771 HWY 187 S</description><Point><coordinates>-82.747284, 34.296329</coordinates></Point></Placemark>

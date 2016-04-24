@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 5/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, GARLAND, ROYAL, 25 CHECOTA ST</description><Point><coordinates>-93.188103, 34.523807</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, GARLAND, ROYAL, 25 CHECOTA ST</description><Point><coordinates>-93.188103, 34.523807</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/27/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, GARLAND, ROYAL, 524 OLD DALLS ROAD</description><Point><coordinates>-93.260203, 34.465662</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/9/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, GARLAND, ROYAL, 688  TIMBERLAKE</description><Point><coordinates>-93.194834, 34.498492</coordinates></Point></Placemark>
 

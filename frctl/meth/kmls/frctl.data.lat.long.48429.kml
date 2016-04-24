@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 9/10/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, SHIAWASSEE, DURAND, 105  JOHN STREET BOX 1&2</description><Point><coordinates>-83.985265, 42.905326</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 9/10/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, SHIAWASSEE, DURAND, 105  JOHN STREET BOX 1&2</description><Point><coordinates>-83.985265, 42.905326</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at </name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, SHIAWASSEE, DURAND, 105 W John Street</description><Point><coordinates>-83.985265, 42.905326</coordinates></Point></Placemark>
 
         </Document>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 5/1/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, CLINTON, PORT WILLIAM, 330 WALNUT STREET</description><Point><coordinates>-83.782388, 39.552955</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/1/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, CLINTON, PORT WILLIAM, 330 WALNUT STREET</description><Point><coordinates>-83.782388, 39.552955</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/13/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, CLINTON, WILMINGTON, 2252 BRIMSTONE RD</description><Point><coordinates>-83.957885, 39.507486</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, CLINTON, WILMINGTON, 267 COLUMBUS ST</description><Point><coordinates>-83.823715, 39.447485</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/3/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, CLINTON, WILMINGTON, 113 FAIRLAND AVENUE</description><Point><coordinates>-83.825814, 39.457536</coordinates></Point></Placemark>

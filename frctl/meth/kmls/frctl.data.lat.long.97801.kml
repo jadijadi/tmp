@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, UMATILLA, PENDLETON, 612 SOUTHEAST DORION AVENUE</description><Point><coordinates>-118.780614, 45.673425</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, UMATILLA, PENDLETON, 612 SOUTHEAST DORION AVENUE</description><Point><coordinates>-118.780614, 45.673425</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/7/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, UMATILLA, PENDLETON, 245 SE 3RD ST</description><Point><coordinates>-118.784269, 45.672918</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, UMATILLA, PENDLETON, 127 SOUTHWEST EMIGRANT AVENUE</description><Point><coordinates>-118.787837, 45.670254</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/31/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, UMATILLA, PENDLETON, 416 SW HAILEY AVE 1</description><Point><coordinates>-118.788771, 45.665988</coordinates></Point></Placemark>

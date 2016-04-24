@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 4/1/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, FULTON, SALEM, 898 CORNERTOWN RD</description><Point><coordinates>-91.771280, 36.492734</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/1/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, FULTON, SALEM, 898 CORNERTOWN RD</description><Point><coordinates>-91.771280, 36.492734</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/11/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, FULTON, SALEM, 662 TALL PINES</description><Point><coordinates>-91.822648, 36.371176</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/17/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, FULTON, SALEM, 529  MORRISTON</description><Point><coordinates>-91.765996, 36.275359</coordinates></Point></Placemark>
 

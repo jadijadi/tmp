@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 7/15/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, ORANGE, WESTMINSTER, 7681 BAYLOR DR</description><Point><coordinates>-117.995297, 33.758286</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 7/15/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, ORANGE, WESTMINSTER, 7681 BAYLOR DR</description><Point><coordinates>-117.995297, 33.758286</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/5/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, ORANGE, WESTMINSTER, 9851 BOLSA AVENUE</description><Point><coordinates>-117.957413, 33.746023</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/17/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, ORANGE, WESTMINSTER, 5051 PRINCETON AVENUE</description><Point><coordinates>-118.041548, 33.765806</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/28/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, ORANGE, WESTMINSTER, 13100  GOLDENWEST STREET</description><Point><coordinates>-118.006967, 33.772761</coordinates></Point></Placemark>

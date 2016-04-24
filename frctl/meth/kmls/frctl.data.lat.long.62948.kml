@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/15/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, WILLIAMSON, HERRIN, 2780 HERRIN RD</description><Point><coordinates>-89.005803, 37.810569</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/15/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, WILLIAMSON, HERRIN, 2780 HERRIN RD</description><Point><coordinates>-89.005803, 37.810569</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, WILLIAMSON, HERRIN, 508 5TH N</description><Point><coordinates>-89.016240, 37.807579</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, WILLIAMSON, HERRIN, 508 5TH N ST</description><Point><coordinates>-89.016240, 37.807579</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, WILLIAMSON, HERRIN, 1524 MADISON W ST</description><Point><coordinates>-89.043341, 37.805461</coordinates></Point></Placemark>

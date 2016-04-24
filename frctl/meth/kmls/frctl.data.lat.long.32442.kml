@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, JACKSON, GRAND RIDGE, 7028 HAMILTON RD</description><Point><coordinates>-85.008054, 30.759917</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, JACKSON, GRAND RIDGE, 7028 HAMILTON RD</description><Point><coordinates>-85.008054, 30.759917</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/25/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, JACKSON, SNEADS, 8252 SHADY GROVE ROAD</description><Point><coordinates>-84.940413, 30.666925</coordinates></Point></Placemark>
 
         </Document>

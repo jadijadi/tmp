@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 11/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, CLARK, NABB, 18411 MICHIGAN RD</description><Point><coordinates>-86.134902, 40.267194</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 11/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, CLARK, NABB, 18411 MICHIGAN RD</description><Point><coordinates>-86.134902, 40.267194</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/16/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, CLAY, BRAZIL, 6578 WEST U.S. HWY 40</description><Point><coordinates>-86.134902, 40.267194</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/29/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, FOUNTAIN, TANGIER, 10384 MELON N RD</description><Point><coordinates>-86.134902, 40.267194</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/15/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, FRANKLIN, CORNETTSVILLE, 18022  LAUREL ROAD</description><Point><coordinates>-86.134902, 40.267194</coordinates></Point></Placemark>

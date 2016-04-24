@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 9/26/2000</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, OKLAHOMA, MIDWEST CITY, 19 LIBERTY LANE</description><Point><coordinates>-97.421601, 35.437627</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 9/26/2000</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, OKLAHOMA, MIDWEST CITY, 19 LIBERTY LANE</description><Point><coordinates>-97.421601, 35.437627</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/12/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, OKLAHOMA, MIDWEST CITY, 21420 BOWMAN  RD</description><Point><coordinates>-97.380539, 35.439601</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/21/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, OKLAHOMA, MIDWEST CITY, 327 CAMPBELL W DR</description><Point><coordinates>-97.402821, 35.481384</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/19/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, OKLAHOMA, MIDWEST CITY, 1419 MIDWEST N BLVD 135</description><Point><coordinates>-97.388619, 35.484430</coordinates></Point></Placemark>

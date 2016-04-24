@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 5/9/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CREEK, DRUMRIGHT, 205 BRISTOWN  ST</description><Point><coordinates>-96.607337, 35.989793</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/9/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CREEK, DRUMRIGHT, 205 BRISTOWN  ST</description><Point><coordinates>-96.607337, 35.989793</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/29/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CREEK, DRUMRIGHT, 400 VIRGINIA S AVE</description><Point><coordinates>-96.596294, 35.985875</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/15/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CREEK, DRUMRIGHT, 316 OHIO N ST</description><Point><coordinates>-96.599142, 35.991098</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/26/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CREEK, DRUMRIGHT, 112 WOOD E</description><Point><coordinates>-96.601107, 35.985875</coordinates></Point></Placemark>

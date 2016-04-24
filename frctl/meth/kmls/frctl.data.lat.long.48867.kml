@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 11/17/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, SHIAWASSEE, OWOSSO, 524 CORUNNA AVENUE</description><Point><coordinates>-84.164133, 42.991225</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 11/17/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, SHIAWASSEE, OWOSSO, 524 CORUNNA AVENUE</description><Point><coordinates>-84.164133, 42.991225</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/21/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, SHIAWASSEE, OWOSSO, 1750 M-21 E HWY 18</description><Point><coordinates>-84.197971, 42.997650</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/21/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, SHIAWASSEE, OWOSSO, 1836 KILBOURN AVE</description><Point><coordinates>-84.146136, 42.988816</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/14/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, SHIAWASSEE, OWOSSO, 523 EXCHANGE E ST</description><Point><coordinates>-84.163726, 42.998506</coordinates></Point></Placemark>

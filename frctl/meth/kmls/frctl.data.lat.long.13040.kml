@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 8/12/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, CORTLAND, FREETOWN, 2941  ROUTE 41</description><Point><coordinates>-75.973249, 42.549160</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 8/12/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, CORTLAND, FREETOWN, 2941  ROUTE 41</description><Point><coordinates>-75.973249, 42.549160</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/10/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, CORTLAND, TAYLOR, 3255  CHENINGO SOLON POND ROAD</description><Point><coordinates>-75.894155, 42.566698</coordinates></Point></Placemark>
 
         </Document>

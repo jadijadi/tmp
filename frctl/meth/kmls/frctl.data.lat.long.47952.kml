@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, FOUNTAIN, KINGMAN, 304 2ND N ST</description><Point><coordinates>-87.278012, 39.970306</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, FOUNTAIN, KINGMAN, 304 2ND N ST</description><Point><coordinates>-87.278012, 39.970306</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, FOUNTAIN, KINGMAN, 1672 LAKE HIDEWAY W RD</description><Point><coordinates>-87.340883, 39.996727</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/3/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, FOUNTAIN, KINGMAN, 189 EAST ST RD 234</description><Point><coordinates>-87.263557, 39.967366</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/11/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, PARKE, TANGIER, 10811 MELON N RD</description><Point><coordinates>-87.318069, 39.919206</coordinates></Point></Placemark>

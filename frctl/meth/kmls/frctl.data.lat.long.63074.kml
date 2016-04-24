@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 12/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, SAINT LOUIS, SAINT ANN, 3527 ST. LUKE</description><Point><coordinates>-90.378795, 38.723963</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 12/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, SAINT LOUIS, SAINT ANN, 3527 ST. LUKE</description><Point><coordinates>-90.378795, 38.723963</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/10/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, SAINT LOUIS, SAINT ANN, 3242 CHAUCER</description><Point><coordinates>-90.376713, 38.715796</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/14/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, SAINT LOUIS, SAINT ANN, 4053 ASHBY</description><Point><coordinates>-90.384777, 38.734566</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/21/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, ST. LOUIS, SAINT ANN, 10111 ISABELLE</description><Point><coordinates>-90.375954, 38.737557</coordinates></Point></Placemark>

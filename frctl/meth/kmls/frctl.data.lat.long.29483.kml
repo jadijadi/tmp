@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/17/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, BERKELEY, SUMMERVILLE, 1761 STATE RD</description><Point><coordinates>-80.132595, 33.104750</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/17/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, BERKELEY, SUMMERVILLE, 1761 STATE RD</description><Point><coordinates>-80.132595, 33.104750</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/4/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, BERKELEY, SUMMERVILLE, 432 TURTLE POND RD</description><Point><coordinates>-80.139516, 33.041745</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/1/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, BERKELEY, SUMMERVILLE, 423-2 TURTLE POND ROAD</description><Point><coordinates>-80.131287, 33.042992</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/19/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, BERKELEY, SUMMERVILLE, 112 ABERDEEN COURT</description><Point><coordinates>-80.109802, 33.039980</coordinates></Point></Placemark>

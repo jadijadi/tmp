@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, JEFFERSON, DE SOTO, 1201 CEDAR VALLEY F</description><Point><coordinates>-90.558161, 38.150142</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, JEFFERSON, DE SOTO, 1201 CEDAR VALLEY F</description><Point><coordinates>-90.558161, 38.150142</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, JEFFERSON, DE SOTO, 717 JEFFERSON</description><Point><coordinates>-90.560259, 38.143333</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, JEFFERSON, DE SOTO, 5175 HILLSBORO HEMATITE RD</description><Point><coordinates>-90.530343, 38.213166</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/29/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, JEFFERSON, DE SOTO, 3539 V HWY</description><Point><coordinates>-90.555126, 38.139498</coordinates></Point></Placemark>

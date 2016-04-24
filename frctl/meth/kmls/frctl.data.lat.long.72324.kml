@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/21/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, CROSS, CHERRY VALLEY, 2070 WEST HWY 364</description><Point><coordinates>-90.841243, 35.330240</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/21/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, CROSS, CHERRY VALLEY, 2070 WEST HWY 364</description><Point><coordinates>-90.841243, 35.330240</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/28/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, CROSS, CHERRY VALLEY, COUNTY ROAD STREET 441</description><Point><coordinates>-90.753168, 35.402029</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/7/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, CROSS, CHERRY VALLEY, 109  CR236</description><Point><coordinates>-90.787565, 35.319933</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/7/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, CROSS, VANNDALE, 336 EAST COUNTY ROAD</description><Point><coordinates>-90.774577, 35.316745</coordinates></Point></Placemark>

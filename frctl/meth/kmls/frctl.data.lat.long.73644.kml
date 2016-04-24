@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/2/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, BECKHAM, ELK CITY, 230 SHELL</description><Point><coordinates>-99.402104, 35.420205</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/2/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, BECKHAM, ELK CITY, 230 SHELL</description><Point><coordinates>-99.402104, 35.420205</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/11/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, BECKHAM, ELK CITY, 1200 VAN BUREN S  77</description><Point><coordinates>-99.399684, 35.398475</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/26/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, BECKHAM, ELK CITY, 508 D W AVE</description><Point><coordinates>-99.409852, 35.417450</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/9/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, BECKHAM, ELK CITY, 820 OLIVER N</description><Point><coordinates>-99.410897, 35.417658</coordinates></Point></Placemark>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 11/11/2000</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, TULSA, TULSA, 6384 11TH W PL</description><Point><coordinates>-96.064380, 36.144454</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 11/11/2000</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, TULSA, TULSA, 6384 11TH W PL</description><Point><coordinates>-96.064380, 36.144454</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/4/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, TULSA, TULSA, 722 WACO N AVE</description><Point><coordinates>-96.013820, 36.164919</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/25/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, TULSA, TULSA, 20 30 WEST N AVE</description><Point><coordinates>-96.026284, 36.155913</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/6/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, TULSA, TULSA, 5804 CHARLES PAGE W BLVD</description><Point><coordinates>-96.057494, 36.147827</coordinates></Point></Placemark>

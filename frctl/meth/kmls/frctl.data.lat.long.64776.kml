@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 5/26/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, ST. Clair, OSCEOLA, 140 BOUNDARY ST</description><Point><coordinates>-93.697654, 38.049279</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/26/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, ST. Clair, OSCEOLA, 140 BOUNDARY ST</description><Point><coordinates>-93.697654, 38.049279</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/15/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, ST. Clair, OSCEOLA, 4230 171 NW RD</description><Point><coordinates>-93.813489, 38.085383</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/24/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, ST. Clair, OSCEOLA, 800 RD & 13 HWY NE</description><Point><coordinates>-93.696027, 38.066053</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/25/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, ST. Clair, OSCEOLA, 681 RD NE</description><Point><coordinates>-93.704376, 38.046697</coordinates></Point></Placemark>

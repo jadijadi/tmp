@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 9/26/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, SAINT CHARLES, SAINT CHARLES, 420 PAM</description><Point><coordinates>-90.509253, 38.795278</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 9/26/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, SAINT CHARLES, SAINT CHARLES, 420 PAM</description><Point><coordinates>-90.509253, 38.795278</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/14/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, SAINT CHARLES, SAINT CHARLES, 138 COLE ST</description><Point><coordinates>-90.514317, 38.811301</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/20/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, SAINT CHARLES, SAINT CHARLES, 223A TOMPKINS ST</description><Point><coordinates>-90.485097, 38.778293</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/20/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, SAINT CHARLES, SAINT CHARLES, 604 REBECCA DR</description><Point><coordinates>-90.513173, 38.793082</coordinates></Point></Placemark>

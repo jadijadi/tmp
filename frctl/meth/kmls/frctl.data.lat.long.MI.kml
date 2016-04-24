@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 4/13/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, ALLEGAN, MARTIN, 1200  BLOCK 115TH AVENUE</description><Point><coordinates>-85.662227, 42.524343</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/13/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, ALLEGAN, MARTIN, 1200  BLOCK 115TH AVENUE</description><Point><coordinates>-85.662227, 42.524343</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/16/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BRANCH, UNION CITY, 437  CHAD LANE</description><Point><coordinates>-85.136088, 42.066713</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/1/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, GENESEE, FLINT, 2477  HAETHERLY AVENUE</description><Point><coordinates>-83.687456, 43.012527</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/10/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, GENESEE, RICHFIELD CENTER, 4390 NORTH IRISH  549</description><Point><coordinates>-83.528342, 43.088724</coordinates></Point></Placemark>

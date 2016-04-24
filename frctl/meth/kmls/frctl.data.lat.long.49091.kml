@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 8/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, SAINT JOSEPH, BURR OAK, 29738 WITT LAKE RD</description><Point><coordinates>-85.375916, 41.823897</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 8/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, SAINT JOSEPH, BURR OAK, 29738 WITT LAKE RD</description><Point><coordinates>-85.375916, 41.823897</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, SAINT JOSEPH, STURGIS, 122 NOTTOWA N ST</description><Point><coordinates>-85.419124, 41.800334</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/28/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, SAINT JOSEPH, STURGIS, 1035 CATO LANE</description><Point><coordinates>-85.431597, 41.788314</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/14/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, SAINT JOSEPH, STURGIS, 206 WEST WEST</description><Point><coordinates>-85.420560, 41.801198</coordinates></Point></Placemark>

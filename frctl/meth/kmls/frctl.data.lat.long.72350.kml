@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 4/27/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, MISSISSIPPI, BASSETT, 2206 COUNTY ROAD 1020</description><Point><coordinates>-90.129582, 35.553785</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/27/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, MISSISSIPPI, BASSETT, 2206 COUNTY ROAD 1020</description><Point><coordinates>-90.129582, 35.553785</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/6/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, MISSISSIPPI, BASSETT, 301  BLACKWELL</description><Point><coordinates>-90.128450, 35.535235</coordinates></Point></Placemark>
 
         </Document>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, MULTNOMAH, PORTLAND, 1525 N PORTLAND BLVD</description><Point><coordinates>-122.654908, 45.569642</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, MULTNOMAH, PORTLAND, 1525 N PORTLAND BLVD</description><Point><coordinates>-122.654908, 45.569642</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/17/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, MULTNOMAH, PORTLAND, 7300 NE 33RD DR</description><Point><coordinates>-122.632966, 45.576033</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, MULTNOMAH, PORTLAND, 5500 NE 32ND PL</description><Point><coordinates>-122.631700, 45.562717</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/1/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, MULTNOMAH, PORTLAND, 5027 NORTHEAST 18TH AVENUE</description><Point><coordinates>-122.647077, 45.559511</coordinates></Point></Placemark>

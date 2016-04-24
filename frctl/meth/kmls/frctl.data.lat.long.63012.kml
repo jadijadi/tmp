@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 9/29/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, JEFFERSON, BARNHART, 1628 MARILYN DR</description><Point><coordinates>-90.401673, 38.357318</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 9/29/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, JEFFERSON, BARNHART, 1628 MARILYN DR</description><Point><coordinates>-90.401673, 38.357318</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/3/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, JEFFERSON, BARNHART, 4858 THREE WAY ACRES</description><Point><coordinates>-90.516859, 38.334871</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/18/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, JEFFERSON, BARNHART, 1771 FAIRFAX DR</description><Point><coordinates>-90.405826, 38.335625</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/10/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, JEFFERSON, BARNHART, 2140 VALLEY VIEW</description><Point><coordinates>-90.419271, 38.329278</coordinates></Point></Placemark>

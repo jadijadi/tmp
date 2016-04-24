@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 5/5/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, JEFFERSON, ARVADA, 8510 GRANDVIEW W AVE</description><Point><coordinates>-105.092957, 39.798158</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/5/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, JEFFERSON, ARVADA, 8510 GRANDVIEW W AVE</description><Point><coordinates>-105.092957, 39.798158</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/11/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, JEFFERSON, ARVADA, 6395 53RD W AVE</description><Point><coordinates>-105.067084, 39.793202</coordinates></Point></Placemark>
 
         </Document>

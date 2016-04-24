@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 5/19/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, CALHOUN, ANNISTON, 169 WOODMIST LN</description><Point><coordinates>-85.831632, 33.659826</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/19/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, CALHOUN, ANNISTON, 169 WOODMIST LN</description><Point><coordinates>-85.831632, 33.659826</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/29/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, Dekalb, MENTONE, 164 653 RD</description><Point><coordinates>-85.590520, 34.579528</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/17/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, Dekalb, RAINSVILLE, 426 HESTON W RD</description><Point><coordinates>-85.847749, 34.494254</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/3/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, Dekalb, VALLEY HEAD, 40646 HWY 11 N</description><Point><coordinates>-85.614965, 34.568973</coordinates></Point></Placemark>

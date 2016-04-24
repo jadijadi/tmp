@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 7/18/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, LAGRANGE, SHIPSHEWANA, 8200 1150 W N</description><Point><coordinates>-85.652762, 41.758261</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 7/18/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, LAGRANGE, SHIPSHEWANA, 8200 1150 W N</description><Point><coordinates>-85.652762, 41.758261</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/22/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, LAGRANGE, SHIPSHEWANA, 2775 NORTH 910 W</description><Point><coordinates>-85.601394, 41.680158</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/28/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, LAGRANGE, SHIPSHEWANA, 5885 NORTH 1080 WEST</description><Point><coordinates>-85.635901, 41.724210</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/12/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, LAGRANGE, SHIPSHEWANA, 7620 NORTH 900 W</description><Point><coordinates>-85.602093, 41.749951</coordinates></Point></Placemark>

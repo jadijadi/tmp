@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 11/11/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, DAVIESS, MACEO, 1151 YELVINGTON KNOTTSVILLE RD</description><Point><coordinates>-86.965656, 37.855574</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 11/11/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, DAVIESS, MACEO, 1151 YELVINGTON KNOTTSVILLE RD</description><Point><coordinates>-86.965656, 37.855574</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/19/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, DAVIESS, MACEO, 7580 HWY 405 HIGHWAY</description><Point><coordinates>-86.986922, 37.826128</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/2/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, DAVIESS, MACEO, 347  POTTS</description><Point><coordinates>-86.987676, 37.884053</coordinates></Point></Placemark>
 

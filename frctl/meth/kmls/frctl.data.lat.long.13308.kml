@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 8/26/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, ONEIDA, SYLVAN BEACH, 2501  VIENNA ROAD</description><Point><coordinates>-75.721647, 43.210400</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 8/26/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, ONEIDA, SYLVAN BEACH, 2501  VIENNA ROAD</description><Point><coordinates>-75.721647, 43.210400</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/31/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, ONEIDA, VIENNA, 8143  DEELEY ROAD</description><Point><coordinates>-75.674621, 43.256445</coordinates></Point></Placemark>
 
         </Document>

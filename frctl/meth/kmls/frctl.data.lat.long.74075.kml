@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/12/2000</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, PAYNE, STILLWATER, 111 SOUTH ROSE AVENUE</description><Point><coordinates>-96.926053, 36.124030</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/12/2000</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, PAYNE, STILLWATER, 111 SOUTH ROSE AVENUE</description><Point><coordinates>-96.926053, 36.124030</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/25/2000</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, PAYNE, STILLWATER, 3405 SOUTH BRUSH CREEK</description><Point><coordinates>-97.015427, 36.156142</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/23/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, PAYNE, STILLWATER, 8203 44TH E ST</description><Point><coordinates>-96.994859, 36.072635</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/15/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, PAYNE, STILLWATER, 4514 FURMAN  DR</description><Point><coordinates>-97.122177, 36.173123</coordinates></Point></Placemark>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 8/25/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, SEQUOYAH, MULDROW, 908 ENID  ST</description><Point><coordinates>-94.605294, 35.401975</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 8/25/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, SEQUOYAH, MULDROW, 908 ENID  ST</description><Point><coordinates>-94.605294, 35.401975</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/13/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, SEQUOYAH, MULDROW, 708 WESLEY  ST</description><Point><coordinates>-94.609048, 35.402740</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/8/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, SEQUOYAH, MULDROW, 304 12TH SE ST</description><Point><coordinates>-94.593150, 35.398161</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/4/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, SEQUOYAH, MULDROW, 207 7TH SE ST</description><Point><coordinates>-94.596053, 35.404156</coordinates></Point></Placemark>

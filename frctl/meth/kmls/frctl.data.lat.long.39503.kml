@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 9/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, HARRISON, GULFPORT, 9375 HIGHWAY 49</description><Point><coordinates>-89.093548, 30.423066</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 9/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, HARRISON, GULFPORT, 9375 HIGHWAY 49</description><Point><coordinates>-89.093548, 30.423066</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/4/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, HARRISON, GULFPORT, 12059 HIGHWAY 49 HWY</description><Point><coordinates>-89.100873, 30.458338</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/25/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, HARRISON, GULFPORT, 23535 HEATHER LANE A</description><Point><coordinates>-89.238187, 30.523672</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/2/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, HARRISON, GULFPORT, 14281 # 53 COUNTY FARM ROAD</description><Point><coordinates>-89.178165, 30.493927</coordinates></Point></Placemark>

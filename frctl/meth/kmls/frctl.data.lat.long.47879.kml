@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 8/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, SULLIVAN, SHELBURN, 36 SR 48 E</description><Point><coordinates>-87.407616, 39.186160</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 8/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, SULLIVAN, SHELBURN, 36 SR 48 E</description><Point><coordinates>-87.407616, 39.186160</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/8/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, SULLIVAN, SHELBURN, 4157 SR 48 W</description><Point><coordinates>-87.483019, 39.194123</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/27/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, SULLIVAN, SHELBURN, 8794 NORTH CR 200 W</description><Point><coordinates>-87.441955, 39.213989</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/19/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, SULLIVAN, SHELBURN, 7584 NORTH CR 300 W</description><Point><coordinates>-87.457943, 39.195045</coordinates></Point></Placemark>

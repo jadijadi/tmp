@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 7/9/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, HARDEMAN, TOONE, 28785 HWY 18 N</description><Point><coordinates>-88.904419, 35.370685</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 7/9/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, HARDEMAN, TOONE, 28785 HWY 18 N</description><Point><coordinates>-88.904419, 35.370685</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/5/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, HARDEMAN, TOONE, 3015 NAYLOR RD.</description><Point><coordinates>-88.948720, 35.343864</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/12/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, HARDEMAN, TOONE, 310  EBENEZER ROAD</description><Point><coordinates>-88.921658, 35.336116</coordinates></Point></Placemark>
 

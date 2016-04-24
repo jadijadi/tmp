@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 11/5/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, BOONE, RICHWOOD, 177  UPPER COURT</description><Point><coordinates>-84.628267, 38.931489</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 11/5/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, BOONE, RICHWOOD, 177  UPPER COURT</description><Point><coordinates>-84.628267, 38.931489</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/14/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, BOONE, WALTON, 207 OLD WALT-NICHOLSON RD</description><Point><coordinates>-84.610221, 38.875619</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/6/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, BOONE, WALTON, 58  HIGH ROAD</description><Point><coordinates>-84.607191, 38.865010</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/18/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, BOONE, WALTON, 13 WEST KUCHLE DRIVE 13</description><Point><coordinates>-84.617501, 38.861849</coordinates></Point></Placemark>

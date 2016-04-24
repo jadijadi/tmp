@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, SMYTH, SALTVILLE, 2208 SALTVILLE HWY</description><Point><coordinates>-81.722044, 36.910326</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, SMYTH, SALTVILLE, 2208 SALTVILLE HWY</description><Point><coordinates>-81.722044, 36.910326</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/12/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, SMYTH, SALTVILLE, 205 DOANE HOLLOW RD</description><Point><coordinates>-81.655606, 36.890914</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/26/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, SMYTH, SALTVILLE, 1037  WORTHY BOULEVARD</description><Point><coordinates>-81.743853, 36.861035</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/12/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, SMYTH, SALTVILLE, 219 FRYE TOWN LANE</description><Point><coordinates>-81.736517, 36.906799</coordinates></Point></Placemark>

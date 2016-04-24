@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, MARSHALL, MARSHALLTOWN, 207 LINN W ST</description><Point><coordinates>-92.916380, 42.046712</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, MARSHALL, MARSHALLTOWN, 207 LINN W ST</description><Point><coordinates>-92.916380, 42.046712</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, MARSHALL, MARSHALLTOWN, 3315 CENTER S ST 163</description><Point><coordinates>-92.913361, 42.005636</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, MARSHALL, MARSHALLTOWN, 8 19TH N ST</description><Point><coordinates>-92.945336, 42.049588</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, MARSHALL, MARSHALLTOWN, 905 IOWA W AVE 10</description><Point><coordinates>-92.897219, 42.037941</coordinates></Point></Placemark>

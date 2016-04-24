@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 4/29/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WISCONSIN, EAU CLAIRE, EAU CLAIRE, 320 CLAIREMONT E AVE 21</description><Point><coordinates>-91.501092, 44.793149</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/29/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WISCONSIN, EAU CLAIRE, EAU CLAIRE, 320 CLAIREMONT E AVE 21</description><Point><coordinates>-91.501092, 44.793149</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/5/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WISCONSIN, EAU CLAIRE, EAU CLAIRE, 829  KARI DRIVE</description><Point><coordinates>-91.510415, 44.780959</coordinates></Point></Placemark>
 
         </Document>

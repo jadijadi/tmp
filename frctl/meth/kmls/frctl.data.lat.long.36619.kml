@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MOBILE, MOBILE, 7600 TILLMAN RD</description><Point><coordinates>-88.197938, 30.598456</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MOBILE, MOBILE, 7600 TILLMAN RD</description><Point><coordinates>-88.197938, 30.598456</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MOBILE, MOBILE, 4312 HUNTINGTON DR</description><Point><coordinates>-88.204198, 30.601144</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/25/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MOBILE, MOBILE, 5498 INN RD 111</description><Point><coordinates>-88.173838, 30.582384</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/15/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MOBILE, MOBILE, 5051 CAMALOT DR</description><Point><coordinates>-88.197243, 30.585641</coordinates></Point></Placemark>

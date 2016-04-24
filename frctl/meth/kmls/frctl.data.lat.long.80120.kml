@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/7/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, ARAPAHOE, LITTLETON, 995 WEST PEAKVIEW AVENUE</description><Point><coordinates>-104.999602, 39.598895</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/7/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, ARAPAHOE, LITTLETON, 995 WEST PEAKVIEW AVENUE</description><Point><coordinates>-104.999602, 39.598895</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/14/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, ARAPAHOE, LITTLETON, 5250 SOUTH HURON WAY 103</description><Point><coordinates>-104.998983, 39.621451</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/28/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, ARAPAHOE, LITTLETON, 5250 SOUTH HURON WAY 205</description><Point><coordinates>-104.998983, 39.621451</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/20/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, ARAPAHOE, LITTLETON, 6187 SOUTH STERNE PARKWAY</description><Point><coordinates>-105.009945, 39.604835</coordinates></Point></Placemark>

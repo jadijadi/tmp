@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/20/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, TULSA, SPERRY, 3425 SOUTH 75TH WEST AVENUE</description><Point><coordinates>-95.963649, 36.262248</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/20/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, TULSA, SPERRY, 3425 SOUTH 75TH WEST AVENUE</description><Point><coordinates>-95.963649, 36.262248</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/4/2000</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, TULSA, TULSA, 18424 NORTH LEWIS</description><Point><coordinates>-95.958355, 36.249537</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/28/2000</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, TULSA, TULSA, 8500 NORTH LEWIS AVENUE</description><Point><coordinates>-95.955906, 36.257703</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/26/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, TULSA, TULSA, 5638 NORTH LEWIS AVENUE</description><Point><coordinates>-95.959022, 36.236830</coordinates></Point></Placemark>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 9/6/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, ALLEGAN, FENNVILLE, 2198  BLUESTAR HIGHWAY 1</description><Point><coordinates>-86.210427, 42.577733</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 9/6/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, ALLEGAN, FENNVILLE, 2198  BLUESTAR HIGHWAY 1</description><Point><coordinates>-86.210427, 42.577733</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/23/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, ALLEGAN, FENNVILLE, 2346  54TH STREET</description><Point><coordinates>-86.075420, 42.590100</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/7/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, ALLEGAN, FENNVILLE, 1713  51ST STREET</description><Point><coordinates>-86.043940, 42.543826</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/8/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, ALLEGAN, FENNVILLE, 5575  113TH AVENUE</description><Point><coordinates>-86.089132, 42.513801</coordinates></Point></Placemark>

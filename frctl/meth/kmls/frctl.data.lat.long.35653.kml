@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 11/28/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, FRANKLIN, RUSSELLVILLE, 10331 SOUTH 43 HIGHWAY</description><Point><coordinates>-87.716044, 34.526728</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 11/28/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, FRANKLIN, RUSSELLVILLE, 10331 SOUTH 43 HIGHWAY</description><Point><coordinates>-87.716044, 34.526728</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/11/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, FRANKLIN, RUSSELLVILLE, 305 OLIVE STREET</description><Point><coordinates>-87.724258, 34.511024</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/19/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, FRANKLIN, RUSSELLVILLE, 47  PORTER ROAD</description><Point><coordinates>-87.759320, 34.454680</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/7/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, FRANKLIN, RUSSELLVILLE, 204  RICHESON STREET</description><Point><coordinates>-87.727799, 34.515555</coordinates></Point></Placemark>

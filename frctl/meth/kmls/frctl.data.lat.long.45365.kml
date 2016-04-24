@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 7/9/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, SHELBY, SIDNEY, 123 POPLAR ST</description><Point><coordinates>-84.156275, 40.285613</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 7/9/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, SHELBY, SIDNEY, 123 POPLAR ST</description><Point><coordinates>-84.156275, 40.285613</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/1/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, SHELBY, SIDNEY, 12636 KIRKWOOD RD</description><Point><coordinates>-84.199099, 40.216101</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/26/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, SHELBY, SIDNEY, 714 WEST COURT STREET</description><Point><coordinates>-84.146583, 40.284065</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/22/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, SHELBY, SIDNEY, 650 FAIR ROAD</description><Point><coordinates>-84.163211, 40.279223</coordinates></Point></Placemark>

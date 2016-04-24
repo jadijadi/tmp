@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 8/15/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BRANCH, COLDWATER, 232 NASH II RD</description><Point><coordinates>-85.000521, 41.940326</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 8/15/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BRANCH, COLDWATER, 232 NASH II RD</description><Point><coordinates>-85.000521, 41.940326</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/13/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BRANCH, COLDWATER, 343 PARADINE RD `</description><Point><coordinates>-85.012113, 41.851152</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/2/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BRANCH, COLDWATER, 330 WEST PEARL STREET #8</description><Point><coordinates>-85.014220, 41.941508</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/29/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BRANCH, COLDWATER, 125 EAST WASHINGTON STREET</description><Point><coordinates>-84.996463, 41.937257</coordinates></Point></Placemark>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, WASHINGTON, DAMASCUS, 118 RAILROAD AVE</description><Point><coordinates>-81.784856, 36.634154</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, WASHINGTON, DAMASCUS, 118 RAILROAD AVE</description><Point><coordinates>-81.784856, 36.634154</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, WASHINGTON, DAMASCUS, 513 APPALACHIAN TRL</description><Point><coordinates>-81.792420, 36.633325</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/14/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, WASHINGTON, DAMASCUS, 23386 MOUNTAIN CITY RD</description><Point><coordinates>-81.765178, 36.623034</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/13/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, WASHINGTON, DAMASCUS, 718 22051 VAILS MILL RD</description><Point><coordinates>-81.811213, 36.642827</coordinates></Point></Placemark>

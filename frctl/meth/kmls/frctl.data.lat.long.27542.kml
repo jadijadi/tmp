@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/7/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, JOHNSTON, KENLY, 175  BOSWELL ROAD</description><Point><coordinates>-78.072098, 35.579511</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/7/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, JOHNSTON, KENLY, 175  BOSWELL ROAD</description><Point><coordinates>-78.072098, 35.579511</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/31/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, JOHNSTON, KENLY, 1344  PRINCETON KENLY ROAD  BOX LOT 34</description><Point><coordinates>-78.139397, 35.580551</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/6/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, JOHNSTON, KENLY, 5745  FLOWER HILL ROAD</description><Point><coordinates>-78.169077, 35.683197</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/19/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, JOHNSTON, KENLY, 1653  BEULAHTOWN ROAD</description><Point><coordinates>-78.165031, 35.619721</coordinates></Point></Placemark>

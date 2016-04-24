@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 4/25/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BERRIEN, COLOMA, 5632 JILL ANNE DRIVE</description><Point><coordinates>-86.321757, 42.173361</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/25/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BERRIEN, COLOMA, 5632 JILL ANNE DRIVE</description><Point><coordinates>-86.321757, 42.173361</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/29/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BERRIEN, COLOMA, 4241 EAST THAR ROAD</description><Point><coordinates>-86.355694, 42.201207</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/1/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BERRIEN, COLOMA, 5394  PAW PAW LAKE ROAD</description><Point><coordinates>-86.287210, 42.208392</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/13/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BERRIEN, COLOMA, 5949 NORTH COLOMA ROAD</description><Point><coordinates>-86.301326, 42.219321</coordinates></Point></Placemark>

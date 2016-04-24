@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 10/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, HARDIN, RADCLIFF, 730 SOUTHLAND DR</description><Point><coordinates>-85.919284, 37.825688</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 10/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, HARDIN, RADCLIFF, 730 SOUTHLAND DR</description><Point><coordinates>-85.919284, 37.825688</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/19/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, HARDIN, RADCLIFF, 629 HOMESTEAD AVENUE</description><Point><coordinates>-85.935124, 37.790648</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/17/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, HARDIN, RADCLIFF, 225 WOODSIDE DRIVE 6</description><Point><coordinates>-85.915560, 37.819157</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/17/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, HARDIN, RADCLIFF, 2523 HILLTOP CIRCLE #1</description><Point><coordinates>-85.916061, 37.814302</coordinates></Point></Placemark>

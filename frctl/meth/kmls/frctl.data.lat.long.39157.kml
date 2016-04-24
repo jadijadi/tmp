@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/17/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, MADISON, RIDGELAND, 627 FOREST GROVE DRIVE</description><Point><coordinates>-90.088098, 32.409037</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/17/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, MADISON, RIDGELAND, 627 FOREST GROVE DRIVE</description><Point><coordinates>-90.088098, 32.409037</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/25/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, MADISON, RIDGELAND, 7116  OLD CANTON ROAD</description><Point><coordinates>-90.106010, 32.418881</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/22/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, MADISON, RIDGELAND, 100 EAST JACKSON STREET</description><Point><coordinates>-90.127863, 32.428657</coordinates></Point></Placemark>
 

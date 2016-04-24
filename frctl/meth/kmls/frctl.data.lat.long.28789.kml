@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 12/26/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, JACKSON, WHITTIER, 333  LAZY LANE</description><Point><coordinates>-83.301293, 35.363705</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 12/26/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, JACKSON, WHITTIER, 333  LAZY LANE</description><Point><coordinates>-83.301293, 35.363705</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/8/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, JACKSON, WHITTIER, 120  LEWIS COVE ROAD</description><Point><coordinates>-83.342504, 35.414641</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/7/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, SWAIN, WHITTIER, 170  WHITTIER DEPOT STREET</description><Point><coordinates>-83.361213, 35.434730</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/29/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, SWAIN, WHITTIER, 4511  CONLEYS CREEK ROAD</description><Point><coordinates>-83.345739, 35.381270</coordinates></Point></Placemark>

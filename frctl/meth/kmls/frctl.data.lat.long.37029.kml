@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/20/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, DICKSON, BURNS, 112  BEECHWOOD DRIVE</description><Point><coordinates>-87.276612, 36.049166</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/20/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, DICKSON, BURNS, 112  BEECHWOOD DRIVE</description><Point><coordinates>-87.276612, 36.049166</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/7/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, DICKSON, BURNS, 0  1209 JOHNSON ST.</description><Point><coordinates>-87.305959, 36.053363</coordinates></Point></Placemark>
 
         </Document>

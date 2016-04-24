@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/23/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, SANTA ROSA, MILTON, 6305 TODA LN</description><Point><coordinates>-87.060392, 30.607682</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/23/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, SANTA ROSA, MILTON, 6305 TODA LN</description><Point><coordinates>-87.060392, 30.607682</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/6/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, SANTA ROSA, MILTON, 7402 SHERWOOD FOREST DR</description><Point><coordinates>-87.040756, 30.704608</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, SANTA ROSA, MILTON, 1504 BIG CREEK RD</description><Point><coordinates>-87.014934, 30.807982</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, SANTA ROSA, MILTON, 6128 RED FOX LN</description><Point><coordinates>-87.102607, 30.658726</coordinates></Point></Placemark>

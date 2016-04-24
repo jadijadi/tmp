@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 9/5/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, WHATCOM, MAPLE FALLS, 6365 DARDU ROAD</description><Point><coordinates>-122.141056, 48.924700</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 9/5/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, WHATCOM, MAPLE FALLS, 6365 DARDU ROAD</description><Point><coordinates>-122.141056, 48.924700</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/12/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, WHATCOM, MAPLE FALLS, 6364 DARDU ROAD</description><Point><coordinates>-122.141367, 48.925228</coordinates></Point></Placemark>
 
         </Document>

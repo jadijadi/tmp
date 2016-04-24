@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 5/1/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, DUBOIS, HUNTINGBURG, 102 FOURTH E ST</description><Point><coordinates>-86.960763, 38.296322</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/1/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, DUBOIS, HUNTINGBURG, 102 FOURTH E ST</description><Point><coordinates>-86.960763, 38.296322</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/31/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, DUBOIS, HUNTINGBURG, 611 FIFTH ST</description><Point><coordinates>-86.949827, 38.297458</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, DUBOIS, HUNTINGBURG, 1104 VAN BUREN N ST</description><Point><coordinates>-86.952213, 38.304786</coordinates></Point></Placemark>
 

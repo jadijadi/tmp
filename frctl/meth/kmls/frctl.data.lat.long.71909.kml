@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 4/14/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, GARLAND, HOT SPRINGS, 138 TWINKLE STAR RD</description><Point><coordinates>-92.995033, 34.612878</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/14/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, GARLAND, HOT SPRINGS, 138 TWINKLE STAR RD</description><Point><coordinates>-92.995033, 34.612878</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/17/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, GARLAND, HOT SPRINGS, 331 CARLEE CT</description><Point><coordinates>-93.021807, 34.604541</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/1/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, GARLAND, HOT SPRINGS NATIONAL PARK, 331 CARLEE COURT</description><Point><coordinates>-93.021807, 34.604541</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/4/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, GARLAND, JESSIEVILLE, 4805 NORTH HWY 7</description><Point><coordinates>-93.063779, 34.656392</coordinates></Point></Placemark>

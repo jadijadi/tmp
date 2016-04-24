@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 7/17/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, St. Clair, PELL CITY, 3108 6TH NORTH E ST</description><Point><coordinates>-86.273622, 33.596420</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 7/17/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, St. Clair, PELL CITY, 3108 6TH NORTH E ST</description><Point><coordinates>-86.273622, 33.596420</coordinates></Point></Placemark>
 
         </Document>
         </kml>

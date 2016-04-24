@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 8/29/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEBRASKA, JOHNSON, TECUMSEH, 72394 611 AVE</description><Point><coordinates>-96.369836, 40.337661</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 8/29/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEBRASKA, JOHNSON, TECUMSEH, 72394 611 AVE</description><Point><coordinates>-96.369836, 40.337661</coordinates></Point></Placemark>
 
         </Document>
         </kml>

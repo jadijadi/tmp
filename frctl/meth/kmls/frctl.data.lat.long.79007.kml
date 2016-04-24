@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 4/13/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, HUTCHINSON, BORGER, 4821 WILSON W</description><Point><coordinates>-101.462005, 35.647960</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/13/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, HUTCHINSON, BORGER, 4821 WILSON W</description><Point><coordinates>-101.462005, 35.647960</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/12/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, HUTCHINSON, BORGER, 700 MCPHERSON</description><Point><coordinates>-101.397388, 35.667820</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/11/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, HUTCHINSON, BORGER, 101 NORTH SIDE DR</description><Point><coordinates>-101.403661, 35.691410</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/13/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, HUTCHINSON, BORGER, 909 WEST DR</description><Point><coordinates>-101.400184, 35.681083</coordinates></Point></Placemark>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/27/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEVADA, CLARK, LAS VEGAS, 1425 MALLARD N</description><Point><coordinates>-115.223102, 36.186886</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/27/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEVADA, CLARK, LAS VEGAS, 1425 MALLARD N</description><Point><coordinates>-115.223102, 36.186886</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/3/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEVADA, CLARK, LAS VEGAS, 2701 NORTH RANCHO DRIVE 2089</description><Point><coordinates>-115.202860, 36.206838</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEVADA, CLARK, LAS VEGAS, 1625 CREST HAVEN AVE</description><Point><coordinates>-115.225744, 36.189780</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/29/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEVADA, CLARK, LAS VEGAS, 1693 HILLPATH TRAIL</description><Point><coordinates>-115.191976, 36.190257</coordinates></Point></Placemark>

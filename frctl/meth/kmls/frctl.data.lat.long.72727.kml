@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 10/5/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, MADISON, ELKINS, 495 MADISON AVENUE</description><Point><coordinates>-93.848540, 35.805653</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 10/5/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, MADISON, ELKINS, 495 MADISON AVENUE</description><Point><coordinates>-93.848540, 35.805653</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/11/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, MADISON, ELKINS, 22029 FERN ROAD</description><Point><coordinates>-93.950978, 36.069950</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/16/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, MADISON, ELKINS, 496 MADISON 7530</description><Point><coordinates>-93.943859, 36.088651</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/27/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, WASHINGTON, ELKINS, 26473 KIRKSEY RD</description><Point><coordinates>-93.961468, 35.987581</coordinates></Point></Placemark>

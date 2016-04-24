@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 9/19/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, GALLIA, GALLIPOLIS, 2650 BLEDEN RD</description><Point><coordinates>-82.202369, 38.809803</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 9/19/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, GALLIA, GALLIPOLIS, 2650 BLEDEN RD</description><Point><coordinates>-82.202369, 38.809803</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/10/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, GALLIA, GALLIPOLIS, 2107  CHATHAM AVENUE</description><Point><coordinates>-82.174436, 38.823833</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/31/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, GALLIA, GALLIPOLIS, 1962  GEORGES CREEK ROAD</description><Point><coordinates>-82.164977, 38.862212</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/18/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, GALLIA, GALLIPOLIS, 399  STATE STREET</description><Point><coordinates>-82.216468, 38.812218</coordinates></Point></Placemark>

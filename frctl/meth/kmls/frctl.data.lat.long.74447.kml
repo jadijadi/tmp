@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 7/22/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, OKMULGEE, MOUNDS, 1204 DOLLINS N ST</description><Point><coordinates>-95.960550, 35.623437</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 7/22/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, OKMULGEE, MOUNDS, 1204 DOLLINS N ST</description><Point><coordinates>-95.960550, 35.623437</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/1/2000</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, OKMULGEE, OKMULGEE, 10165 CHESTNUT  ST</description><Point><coordinates>-96.043524, 35.507439</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/8/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, OKMULGEE, OKMULGEE, 1211 DOLLINS N</description><Point><coordinates>-95.960550, 35.623437</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/16/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, OKMULGEE, OKMULGEE, 31445 SOUTH 210 ROAD</description><Point><coordinates>-95.997497, 35.595661</coordinates></Point></Placemark>

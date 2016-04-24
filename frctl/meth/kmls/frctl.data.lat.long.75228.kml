@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 4/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, DALLAS, DALLAS, 2251 FAROLA AVE</description><Point><coordinates>-96.673702, 32.849112</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, DALLAS, DALLAS, 2251 FAROLA AVE</description><Point><coordinates>-96.673702, 32.849112</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/19/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, DALLAS, DALLAS, 8615 RUSTOWN DR</description><Point><coordinates>-96.677730, 32.811576</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/3/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, DALLAS, DALLAS, 3719  CASA DEL SOL LANE</description><Point><coordinates>-96.658072, 32.852289</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/3/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, DALLAS, DALLAS, 10628  SYLVIA DRIVE</description><Point><coordinates>-96.682311, 32.839672</coordinates></Point></Placemark>

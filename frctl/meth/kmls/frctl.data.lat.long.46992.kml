@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 6/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WABASH, WABASH, 4987 OLD STATE ROAD 24 W</description><Point><coordinates>-85.820541, 40.797821</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WABASH, WABASH, 4987 OLD STATE ROAD 24 W</description><Point><coordinates>-85.820541, 40.797821</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/26/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WABASH, WABASH, 78 CANAL W ST 1/2</description><Point><coordinates>-85.821852, 40.796141</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/27/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WABASH, WABASH, 4665 WEST 100S 10</description><Point><coordinates>-85.883076, 40.808880</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/7/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WABASH, WABASH, 171 EAST MAIN STREET</description><Point><coordinates>-85.818144, 40.798085</coordinates></Point></Placemark>

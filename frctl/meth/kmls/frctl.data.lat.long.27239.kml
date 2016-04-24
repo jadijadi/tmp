@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 12/6/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, DAVIDSON, DENTON, 3055 FLAT SWAMP ROAD</description><Point><coordinates>-80.164556, 35.641111</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 12/6/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, DAVIDSON, DENTON, 3055 FLAT SWAMP ROAD</description><Point><coordinates>-80.164556, 35.641111</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/14/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, DAVIDSON, DENTON, 301 LOOKABILL ROAD</description><Point><coordinates>-80.156292, 35.568017</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/8/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, DAVIDSON, DENTON, 587 FARMER ROAD</description><Point><coordinates>-80.098403, 35.637338</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/10/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, DAVIDSON, DENTON, 964  LOOKABILL ROAD</description><Point><coordinates>-80.166240, 35.566103</coordinates></Point></Placemark>

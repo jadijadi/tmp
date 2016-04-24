@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 4/14/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, KENTON, MORNING VIEW, 12776  KLEIN ROAD</description><Point><coordinates>-84.460452, 38.889900</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/14/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, KENTON, MORNING VIEW, 12776  KLEIN ROAD</description><Point><coordinates>-84.460452, 38.889900</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/27/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, KENTON, MORNING VIEW, 15058  ROUSE ROAD</description><Point><coordinates>-84.455279, 38.829199</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/1/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, KENTON, MORNING VIEW, 3626  RECTOR ROAD</description><Point><coordinates>-84.477312, 38.885983</coordinates></Point></Placemark>
 

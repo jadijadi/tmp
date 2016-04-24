@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, ESCAMBIA, PENSACOLA, 6530 PALAFOX ST</description><Point><coordinates>-87.247492, 30.486711</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, ESCAMBIA, PENSACOLA, 6530 PALAFOX ST</description><Point><coordinates>-87.247492, 30.486711</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/19/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, ESCAMBIA, PENSACOLA, 245  BORDEAUX STREET</description><Point><coordinates>-87.245545, 30.492487</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/11/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, ESCAMBIA, PENSACOLA, 128  AIRPORT BOULEVARD</description><Point><coordinates>-87.243749, 30.479723</coordinates></Point></Placemark>
 

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, CHARLOTTE, PORT CHARLOTTE, 22357 MIDWAY BLVD</description><Point><coordinates>-82.079608, 26.999144</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, CHARLOTTE, PORT CHARLOTTE, 22357 MIDWAY BLVD</description><Point><coordinates>-82.079608, 26.999144</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/16/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, CHARLOTTE, PORT CHARLOTTE, 21487  OLEAN BOULEVARD</description><Point><coordinates>-82.092096, 26.987645</coordinates></Point></Placemark>
 
         </Document>

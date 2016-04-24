@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/31/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, RIVERSIDE, RIVERSIDE, 5861 MITCHELL</description><Point><coordinates>-117.490936, 33.937930</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/31/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, RIVERSIDE, RIVERSIDE, 5861 MITCHELL</description><Point><coordinates>-117.490936, 33.937930</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/27/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, RIVERSIDE, RIVERSIDE, 11235 CYPRESS</description><Point><coordinates>-117.500584, 33.937960</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/2/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, RIVERSIDE, RIVERSIDE, 11744  HAZELDELL DRIVE</description><Point><coordinates>-117.503671, 33.913560</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/2/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, RIVERSIDE, RIVERSIDE, 12172  SEVERN WAY</description><Point><coordinates>-117.500984, 33.895195</coordinates></Point></Placemark>

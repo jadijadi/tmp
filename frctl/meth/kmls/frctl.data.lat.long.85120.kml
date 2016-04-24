@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARIZONA, MARICOPA, APACHE JUNCTION, 1901 GRAND N DR</description><Point><coordinates>-111.569621, 33.432719</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARIZONA, MARICOPA, APACHE JUNCTION, 1901 GRAND N DR</description><Point><coordinates>-111.569621, 33.432719</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/7/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARIZONA, MARICOPA, MESA, 10539 MERCURY E DR</description><Point><coordinates>-111.602807, 33.420250</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARIZONA, PINAL, APACHE JUNCTION, 292 PALO VERDE N DR 5</description><Point><coordinates>-111.566795, 33.417895</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/5/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARIZONA, PINAL, APACHE JUNCTION, 4326 DESERT VIEW N DR</description><Point><coordinates>-111.574783, 33.454287</coordinates></Point></Placemark>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 6/3/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, OSAGE, HOMINY, 219 WEST BIRCH</description><Point><coordinates>-96.395296, 36.414236</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/3/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, OSAGE, HOMINY, 219 WEST BIRCH</description><Point><coordinates>-96.395296, 36.414236</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/25/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, OSAGE, HOMINY, WEST MAPLE STREET 512</description><Point><coordinates>-96.396692, 36.420618</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/7/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, OSAGE, HOMINY, 322  COUNTY TOAD 3002</description><Point><coordinates>-96.509780, 36.512788</coordinates></Point></Placemark>
 

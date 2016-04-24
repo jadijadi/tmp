@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/29/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, HAYWOOD, MAGGIE VALLEY, 181 LEWIS LN RM 119</description><Point><coordinates>-83.086216, 35.513709</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/29/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, HAYWOOD, MAGGIE VALLEY, 181 LEWIS LN RM 119</description><Point><coordinates>-83.086216, 35.513709</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, HAYWOOD, MAGGIE VALLEY, 194 RIDDLE COVE RD</description><Point><coordinates>-83.057744, 35.521417</coordinates></Point></Placemark>
 
         </Document>

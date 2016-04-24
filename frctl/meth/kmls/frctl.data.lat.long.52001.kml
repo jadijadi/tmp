@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, DUBUQUE, DUBUQUE, 2270 JACKSON</description><Point><coordinates>-90.670309, 42.515205</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, DUBUQUE, DUBUQUE, 2270 JACKSON</description><Point><coordinates>-90.670309, 42.515205</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, DUBUQUE, DUBUQUE, 590 CLARK DR</description><Point><coordinates>-90.678646, 42.510880</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, DUBUQUE, DUBUQUE, 1780 LOCUST ST</description><Point><coordinates>-90.671778, 42.506992</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, DUBUQUE, DUBUQUE, 504 17TH W ST 1</description><Point><coordinates>-90.675243, 42.506699</coordinates></Point></Placemark>

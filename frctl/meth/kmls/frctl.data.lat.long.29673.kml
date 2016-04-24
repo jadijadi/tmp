@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 9/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, ANDERSON, PIEDMONT, 428 PINE STREET</description><Point><coordinates>-82.478786, 34.767681</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 9/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, ANDERSON, PIEDMONT, 428 PINE STREET</description><Point><coordinates>-82.478786, 34.767681</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/21/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, ANDERSON, PIEDMONT, 122 ROYS DRIVE</description><Point><coordinates>-82.470407, 34.691534</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, GREENVILLE, GREENVILLE, 431 (A) WHITT RD</description><Point><coordinates>-82.453088, 34.665224</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/14/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, GREENVILLE, GREENVILLE, 117  EMILY DRIVE</description><Point><coordinates>-82.429624, 34.714038</coordinates></Point></Placemark>

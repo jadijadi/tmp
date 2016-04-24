@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, FRANKLIN, SAINT CLAIR, 1701 RIVER HAVEN DR</description><Point><coordinates>-90.983403, 38.347558</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, FRANKLIN, SAINT CLAIR, 1701 RIVER HAVEN DR</description><Point><coordinates>-90.983403, 38.347558</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, FRANKLIN, SAINT CLAIR, 2572 RIVERBEND RD</description><Point><coordinates>-90.900796, 38.328359</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/6/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, FRANKLIN, SAINT CLAIR, 1236 CEDAR TRL</description><Point><coordinates>-90.879328, 38.326334</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, FRANKLIN, SAINT CLAIR, 1750 TT HWY</description><Point><coordinates>-90.933632, 38.360931</coordinates></Point></Placemark>

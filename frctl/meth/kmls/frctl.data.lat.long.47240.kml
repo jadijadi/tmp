@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/29/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, DECATUR, GREENSBURG, 317 1/2 DAVIES ST</description><Point><coordinates>-85.487909, 39.329286</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/29/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, DECATUR, GREENSBURG, 317 1/2 DAVIES ST</description><Point><coordinates>-85.487909, 39.329286</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, DECATUR, GREENSBURG, 7712 480 SOUTH W</description><Point><coordinates>-85.624382, 39.269178</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, DECATUR, GREENSBURG, 532 WASHINGTON E ST</description><Point><coordinates>-85.476726, 39.337774</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/14/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, DECATUR, GREENSBURG, 409 IRELAND N ST</description><Point><coordinates>-85.489123, 39.340219</coordinates></Point></Placemark>

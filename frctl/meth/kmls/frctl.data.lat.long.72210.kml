@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, PULASKI, LITTLE ROCK, 25 NARDINA 6</description><Point><coordinates>-92.430971, 34.652696</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, PULASKI, LITTLE ROCK, 25 NARDINA 6</description><Point><coordinates>-92.430971, 34.652696</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/15/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, PULASKI, LITTLE ROCK, 12109 STAGECOACH RD</description><Point><coordinates>-92.435422, 34.646141</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, PULASKI, LITTLE ROCK, 12824 I-30 30</description><Point><coordinates>-92.432549, 34.645654</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/21/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, PULASKI, LITTLE ROCK, 9612 STAGECOACH RD</description><Point><coordinates>-92.424976, 34.662353</coordinates></Point></Placemark>

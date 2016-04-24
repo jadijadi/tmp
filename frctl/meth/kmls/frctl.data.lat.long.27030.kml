@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 10/14/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, SURRY, DOBSON, 268 LEE FOWLER RD</description><Point><coordinates>-80.669516, 36.383623</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 10/14/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, SURRY, DOBSON, 268 LEE FOWLER RD</description><Point><coordinates>-80.669516, 36.383623</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/23/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, SURRY, MOUNT AIRY, 923 CARROLL ST</description><Point><coordinates>-80.622802, 36.520368</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/3/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, SURRY, MOUNT AIRY, 301 EAST DEVON DRIVE</description><Point><coordinates>-80.591140, 36.482961</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/22/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, SURRY, MOUNT AIRY, 352  AIRVIEW DRIVE</description><Point><coordinates>-80.639089, 36.482157</coordinates></Point></Placemark>

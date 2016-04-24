@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 10/15/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, PONTOTOC, ALGOMA, 1557 ALGOMA ROAD</description><Point><coordinates>-89.035715, 34.182527</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 10/15/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, PONTOTOC, ALGOMA, 1557 ALGOMA ROAD</description><Point><coordinates>-89.035715, 34.182527</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/29/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, PONTOTOC, PONTOTOC, 113 MCLAUGHIN RD</description><Point><coordinates>-89.125317, 34.363827</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/1/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, PONTOTOC, PONTOTOC, 371 COLLUMS RD</description><Point><coordinates>-88.917054, 34.083671</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/15/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, PONTOTOC, PONTOTOC, 13300 HIGHWAY 346 HIGHWAY</description><Point><coordinates>-89.137440, 34.352427</coordinates></Point></Placemark>

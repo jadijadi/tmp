@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, VIGO, TERRE HAUTE, 2260 7TH AVE</description><Point><coordinates>-87.383595, 39.483930</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, VIGO, TERRE HAUTE, 2260 7TH AVE</description><Point><coordinates>-87.383595, 39.483930</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/14/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, VIGO, TERRE HAUTE, 650 OAK DR</description><Point><coordinates>-87.367854, 39.460803</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, VIGO, TERRE HAUTE, 2220 7TH AVE</description><Point><coordinates>-87.384411, 39.483926</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/25/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, VIGO, TERRE HAUTE, 1207 26TH N ST</description><Point><coordinates>-87.377646, 39.480300</coordinates></Point></Placemark>

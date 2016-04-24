@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 9/29/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, FRANKLIN, GERALD, 3737 SHOTWELL RD</description><Point><coordinates>-91.289041, 38.395458</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 9/29/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, FRANKLIN, GERALD, 3737 SHOTWELL RD</description><Point><coordinates>-91.289041, 38.395458</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/20/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, FRANKLIN, GERALD, 3737 SHOTWELL RD</description><Point><coordinates>-91.289041, 38.395458</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/20/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, FRANKLIN, GERALD, 3737a SHOTWELL RD</description><Point><coordinates>-91.289041, 38.395458</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/29/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, FRANKLIN, GERALD, 3465 TEGGLER RD</description><Point><coordinates>-91.293338, 38.446163</coordinates></Point></Placemark>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 6/4/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, HERNANDO, SPRING HILL, 1201  TRELLIS AVENUE</description><Point><coordinates>-82.612223, 28.450159</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/4/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, HERNANDO, SPRING HILL, 1201  TRELLIS AVENUE</description><Point><coordinates>-82.612223, 28.450159</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/9/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, HERNANDO, SPRING HILL, 1085  MARLOW AVENUE</description><Point><coordinates>-82.602398, 28.447627</coordinates></Point></Placemark>
 
         </Document>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/1/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, JOHNSON, PAINTSVILLE, 79 PACK HILL DR</description><Point><coordinates>-82.782789, 37.814457</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/1/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, JOHNSON, PAINTSVILLE, 79 PACK HILL DR</description><Point><coordinates>-82.782789, 37.814457</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/6/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, JOHNSON, PAINTSVILLE, 219  PINE STREET</description><Point><coordinates>-82.795874, 37.810873</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/14/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, JOHNSON, PAINTSVILLE, 601 - 677  BLEVINS DR/BLEVINS AVE</description><Point><coordinates>-82.807113, 37.824456</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/3/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, JOHNSON, PAINTSVILLE, 413  MILL ST   BOX C</description><Point><coordinates>-82.811129, 37.818308</coordinates></Point></Placemark>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 6/2/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, POLK, LAKELAND, 2345  DEER RUN</description><Point><coordinates>-81.996110, 28.192984</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/2/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, POLK, LAKELAND, 2345  DEER RUN</description><Point><coordinates>-81.996110, 28.192984</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/12/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, POLK, LAKELAND, 2350  DEER RUN</description><Point><coordinates>-81.996243, 28.191913</coordinates></Point></Placemark>
 
         </Document>

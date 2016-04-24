@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 5/27/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, LEE, SANFORD, 1386  BUCKHORN ROAD</description><Point><coordinates>-79.027271, 35.484970</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/27/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, LEE, SANFORD, 1386  BUCKHORN ROAD</description><Point><coordinates>-79.027271, 35.484970</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/10/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, LEE, SANFORD, 1382  BUCKHORN ROAD</description><Point><coordinates>-79.025372, 35.484764</coordinates></Point></Placemark>
 
         </Document>

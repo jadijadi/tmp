@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 10/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CLEVELAND, KINGS MOUNTAIN, 111-1 PEAK DR</description><Point><coordinates>-81.401722, 35.179754</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 10/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CLEVELAND, KINGS MOUNTAIN, 111-1 PEAK DR</description><Point><coordinates>-81.401722, 35.179754</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/23/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CLEVELAND, KINGS MOUNTAIN, 6227 ADELE LANE</description><Point><coordinates>-81.381993, 35.216844</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/14/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CLEVELAND, KINGS MOUNTAIN, 423  MOUNTAIN SPRING COURT 203</description><Point><coordinates>-81.365274, 35.239449</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/18/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CLEVELAND, KINGS MOUNTAIN, 146  PARKGRACE ROAD</description><Point><coordinates>-81.361375, 35.216703</coordinates></Point></Placemark>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 5/1/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, HAMILTON, CHATTANOOGA, 118 CENTRO ST</description><Point><coordinates>-85.366403, 35.023407</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/1/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, HAMILTON, CHATTANOOGA, 118 CENTRO ST</description><Point><coordinates>-85.366403, 35.023407</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/6/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, HAMILTON, CHATTANOOGA, 2325 CUMMINGS HWY</description><Point><coordinates>-85.343217, 35.024046</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, HAMILTON, CHATTANOOGA, 3323 LOOKOUT LAKE RD</description><Point><coordinates>-85.360917, 35.037783</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/21/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, HAMILTON, CHATTANOOGA, 825 1/2 BROWNS FERRY RD</description><Point><coordinates>-85.353356, 35.047119</coordinates></Point></Placemark>

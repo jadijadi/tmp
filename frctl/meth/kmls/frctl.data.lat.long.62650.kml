@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 6/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, MORGAN, JACKSONVILLE, 918 INDEPENDENCE E</description><Point><coordinates>-90.215960, 39.741489</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, MORGAN, JACKSONVILLE, 918 INDEPENDENCE E</description><Point><coordinates>-90.215960, 39.741489</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/21/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, MORGAN, JACKSONVILLE, 518 EAST S ST 1 1</description><Point><coordinates>-90.226660, 39.728240</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/7/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, MORGAN, JACKSONVILLE, 2140 MORTON E AVE</description><Point><coordinates>-90.196357, 39.723535</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/1/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, MORGAN, JACKSONVILLE, 635 NORTHEAST N ST</description><Point><coordinates>-90.226784, 39.739089</coordinates></Point></Placemark>

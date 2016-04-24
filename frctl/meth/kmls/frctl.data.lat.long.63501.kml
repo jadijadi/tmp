@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 5/25/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, ADAIR, KIRKSVILLE, 1400 MICHIGAN W ST 3</description><Point><coordinates>-92.597073, 40.187721</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/25/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, ADAIR, KIRKSVILLE, 1400 MICHIGAN W ST 3</description><Point><coordinates>-92.597073, 40.187721</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/25/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, ADAIR, KIRKSVILLE, 307 CENTNIAL N ST</description><Point><coordinates>-92.587666, 40.196467</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/18/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, ADAIR, KIRKSVILLE, 411 SCOTT E ST</description><Point><coordinates>-92.579580, 40.191481</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/7/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, ADAIR, KIRKSVILLE, 4 CHELSEA ST</description><Point><coordinates>-92.553878, 40.199691</coordinates></Point></Placemark>

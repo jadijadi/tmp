@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 4/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, JACKSON, KANSAS CITY, 2941 TOPPING S AVE</description><Point><coordinates>-94.515511, 39.071056</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, JACKSON, KANSAS CITY, 2941 TOPPING S AVE</description><Point><coordinates>-94.515511, 39.071056</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, JACKSON, KANSAS CITY, 7901 40 E HWY 110</description><Point><coordinates>-94.491079, 39.062356</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/13/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, JACKSON, KANSAS CITY, 5517 EASTERN S AVE</description><Point><coordinates>-94.499243, 39.022880</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/25/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, JACKSON, KANSAS CITY, 3611 FULLER S AVE</description><Point><coordinates>-94.508134, 39.058807</coordinates></Point></Placemark>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/1/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, HAMBLEN, MORRISTOWN, 545 FOX DR</description><Point><coordinates>-83.389004, 36.185140</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/1/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, HAMBLEN, MORRISTOWN, 545 FOX DR</description><Point><coordinates>-83.389004, 36.185140</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/22/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, HAMBLEN, MORRISTOWN, 4655 EAST ANDREW JACKSON</description><Point><coordinates>-83.378055, 36.183373</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/4/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, HAMBLEN, MORRISTOWN, 1458 NORTH BUFFALO TRAIL</description><Point><coordinates>-83.289294, 36.229589</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/5/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, HAMBLEN, MORRISTOWN, 3423  MAPLE AVENUE</description><Point><coordinates>-83.250738, 36.231500</coordinates></Point></Placemark>

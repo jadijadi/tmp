@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, PIERCE, TACOMA, 3646 S MONROE ST</description><Point><coordinates>-122.492479, 47.224758</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, PIERCE, TACOMA, 3646 S MONROE ST</description><Point><coordinates>-122.492479, 47.224758</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/29/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, PIERCE, TACOMA, 6034 S MONTGOMERY ST 98409</description><Point><coordinates>-122.478773, 47.201672</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/3/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, PIERCE, TACOMA, 6627 S OAKES ST</description><Point><coordinates>-122.471944, 47.196353</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/14/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, PIERCE, TACOMA, 5039 S TRAFTON</description><Point><coordinates>-122.466094, 47.210353</coordinates></Point></Placemark>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, HENDERSON, HENDERSON, 4112 HWY 136 W</description><Point><coordinates>-87.716154, 37.810743</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, HENDERSON, HENDERSON, 4112 HWY 136 W</description><Point><coordinates>-87.716154, 37.810743</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/13/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, HENDERSON, HENDERSON, 698 BARREN CHURCH S RD</description><Point><coordinates>-87.486146, 37.759418</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/7/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, HENDERSON, HENDERSON, 1759 GREEN S ST 122</description><Point><coordinates>-87.616389, 37.815745</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/11/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, HENDERSON, HENDERSON, 1759 GREEN ST 101</description><Point><coordinates>-87.616389, 37.815745</coordinates></Point></Placemark>

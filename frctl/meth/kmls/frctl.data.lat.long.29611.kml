@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, GREENVILLE, GREENVILLE, 109 BENT BRIDGE RD</description><Point><coordinates>-82.448144, 34.834005</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, GREENVILLE, GREENVILLE, 109 BENT BRIDGE RD</description><Point><coordinates>-82.448144, 34.834005</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, GREENVILLE, GREENVILLE, 202 SUNSET DR</description><Point><coordinates>-82.467039, 34.808733</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, GREENVILLE, GREENVILLE, 6 MATILDA CT</description><Point><coordinates>-82.465438, 34.809624</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/15/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, GREENVILLE, GREENVILLE, 212 COLONIAL AVE</description><Point><coordinates>-82.427487, 34.871695</coordinates></Point></Placemark>

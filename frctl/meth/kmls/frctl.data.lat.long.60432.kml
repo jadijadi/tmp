@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 11/25/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, WILL, JOLIET, 2219.5 JEFFERSON W ST 235</description><Point><coordinates>-88.082095, 41.524549</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 11/25/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, WILL, JOLIET, 2219.5 JEFFERSON W ST 235</description><Point><coordinates>-88.082095, 41.524549</coordinates></Point></Placemark>
 
         </Document>
         </kml>

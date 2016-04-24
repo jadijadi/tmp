@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 7/6/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WEST VIRGINIA, KANAWHA, NITRO, 423  WASHINGTON STREET</description><Point><coordinates>-81.821627, 38.383418</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 7/6/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WEST VIRGINIA, KANAWHA, NITRO, 423  WASHINGTON STREET</description><Point><coordinates>-81.821627, 38.383418</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WEST VIRGINIA, KANAWHA, SAINT ALBANS, 65 WHISPERING OAKS ST</description><Point><coordinates>-81.791573, 38.364734</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/31/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WEST VIRGINIA, KANAWHA, SAINT ALBANS, 104 THIRD N AVE</description><Point><coordinates>-81.852899, 38.409592</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WEST VIRGINIA, KANAWHA, SAINT ALBANS, 2843 MAC CORKLE AVE 109</description><Point><coordinates>-81.793158, 38.380575</coordinates></Point></Placemark>

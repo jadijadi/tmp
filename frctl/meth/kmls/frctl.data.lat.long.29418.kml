@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/5/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, CHARLESTON, NORTH CHARLESTON, 7665 OUTLOOK DRIVE</description><Point><coordinates>-80.086952, 32.893221</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/5/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, CHARLESTON, NORTH CHARLESTON, 7665 OUTLOOK DRIVE</description><Point><coordinates>-80.086952, 32.893221</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/25/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, CHARLESTON, NORTH CHARLESTON, 5428 ISLE CIRCLE</description><Point><coordinates>-80.034239, 32.865374</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/31/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, CHARLESTON, NORTH CHARLESTON, 5427 ANN STREET</description><Point><coordinates>-80.029726, 32.864683</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/18/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, CHARLESTON, NORTH CHARLESTON, 5200 DORCHESTER RD</description><Point><coordinates>-80.039626, 32.855968</coordinates></Point></Placemark>

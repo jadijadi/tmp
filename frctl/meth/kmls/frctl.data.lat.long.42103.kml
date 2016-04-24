@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 9/25/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, WARREN, BOWLING GREEN, 527 CHEROKEE DRIVE</description><Point><coordinates>-86.405131, 36.989981</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 9/25/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, WARREN, BOWLING GREEN, 527 CHEROKEE DRIVE</description><Point><coordinates>-86.405131, 36.989981</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/11/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, WARREN, BOWLING GREEN, 3743 BRISTOW NE RD</description><Point><coordinates>-86.310335, 37.008735</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/22/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, WARREN, BOWLING GREEN, 3195 H E JOHNSON RD</description><Point><coordinates>-86.319835, 36.864555</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/27/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, WARREN, BOWLING GREEN, 232b CLARK CIR</description><Point><coordinates>-86.364441, 36.996987</coordinates></Point></Placemark>

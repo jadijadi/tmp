@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/1/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, JERSEY, GODFREY, 198 HAZELNUT DRIVE</description><Point><coordinates>-90.285643, 38.940338</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/1/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, JERSEY, GODFREY, 198 HAZELNUT DRIVE</description><Point><coordinates>-90.285643, 38.940338</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/13/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, MADISON, GODFREY, 5813 DOGWOOD LN</description><Point><coordinates>-90.258767, 38.950910</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/8/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, MADISON, GODFREY, 5813 DOGWOOD LANE</description><Point><coordinates>-90.258767, 38.950910</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/27/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, MADISON, GODFREY, 8013 GODFREY ROAD</description><Point><coordinates>-90.210045, 38.985139</coordinates></Point></Placemark>

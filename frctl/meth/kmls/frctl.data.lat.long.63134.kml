@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 6/8/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, SAINT LOUIS, BERKELEY, 5901 JACKSON</description><Point><coordinates>-90.331039, 38.743339</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/8/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, SAINT LOUIS, BERKELEY, 5901 JACKSON</description><Point><coordinates>-90.331039, 38.743339</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, SAINT LOUIS, WOODSON TERRACE, 9538 TREFORE</description><Point><coordinates>-90.364254, 38.728512</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/12/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, ST. LOUIS, WOODSON TERRACE, 10124 NATURAL BRIDGE</description><Point><coordinates>-90.355087, 38.733747</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/4/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, ST. LOUIS, WOODSON TERRACE, 9469  HAROLD STREET</description><Point><coordinates>-90.363094, 38.725652</coordinates></Point></Placemark>

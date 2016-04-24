@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, BENTON, PEA RIDGE, 15386 PATTON RD</description><Point><coordinates>-94.078106, 36.459618</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, BENTON, PEA RIDGE, 15386 PATTON RD</description><Point><coordinates>-94.078106, 36.459618</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, BENTON, PEA RIDGE, 3300 JENNIFER CT</description><Point><coordinates>-94.110909, 36.470180</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, BENTON, PEA RIDGE, 4028 HAYDEN RD</description><Point><coordinates>-94.113932, 36.477964</coordinates></Point></Placemark>
 

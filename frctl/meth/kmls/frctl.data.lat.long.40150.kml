@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, BULLITT, LEBANON JUNCTION, 588 CHURCH ST</description><Point><coordinates>-85.732234, 37.842441</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, BULLITT, LEBANON JUNCTION, 588 CHURCH ST</description><Point><coordinates>-85.732234, 37.842441</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, BULLITT, LEBANON JUNCTION, 450 WEST BEECH GROVE ROAD</description><Point><coordinates>-85.762913, 37.935709</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/26/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, BULLITT, LEBANON JUNCTION, 513 HIGHWAY 434</description><Point><coordinates>-85.734941, 37.835032</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/8/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, BULLITT, LEBANON JUNCTION, 575  434 HIGHWAY</description><Point><coordinates>-85.734993, 37.835081</coordinates></Point></Placemark>

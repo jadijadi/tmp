@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/15/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LACLEDE, LYNCHBURG, 10974 95 HWY</description><Point><coordinates>-92.295011, 37.493341</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/15/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LACLEDE, LYNCHBURG, 10974 95 HWY</description><Point><coordinates>-92.295011, 37.493341</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/26/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LACLEDE, LYNCHBURG, 36678 BASS RD</description><Point><coordinates>-92.338504, 37.535702</coordinates></Point></Placemark>
 
         </Document>

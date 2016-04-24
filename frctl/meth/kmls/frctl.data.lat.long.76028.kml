@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 6/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, JOHNSON, BURLESON, 6222 TIMBER RD</description><Point><coordinates>-97.318198, 32.510719</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, JOHNSON, BURLESON, 6222 TIMBER RD</description><Point><coordinates>-97.318198, 32.510719</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, JOHNSON, BURLESON, 3201 BRENDA ST</description><Point><coordinates>-97.262449, 32.471732</coordinates></Point></Placemark>
 
         </Document>

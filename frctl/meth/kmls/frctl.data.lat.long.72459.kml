@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 4/17/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, LAWRENCE, RAVENDEN, 740 NORTH 90 HIGHWAY</description><Point><coordinates>-91.247375, 36.254718</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/17/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, LAWRENCE, RAVENDEN, 740 NORTH 90 HIGHWAY</description><Point><coordinates>-91.247375, 36.254718</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/9/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, LAWRENCE, RAVENDEN SPRINGS, 216  ALLEN</description><Point><coordinates>-91.247741, 36.237993</coordinates></Point></Placemark>
 
         </Document>

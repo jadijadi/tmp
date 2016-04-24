@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 7/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, AIKEN, MONETTA, 155 PEACH TWIGG RD</description><Point><coordinates>-81.609549, 33.850142</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 7/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, AIKEN, MONETTA, 155 PEACH TWIGG RD</description><Point><coordinates>-81.609549, 33.850142</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/19/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, AIKEN, MONETTA, 1689  OLD SHOALS ROAD</description><Point><coordinates>-81.542054, 33.746240</coordinates></Point></Placemark>
 
         </Document>

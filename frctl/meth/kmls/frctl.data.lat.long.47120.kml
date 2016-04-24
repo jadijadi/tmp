@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 12/17/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WASHINGTON, FREDERICKSBURG, 8427 WASHINGTON SCHOOL W RD</description><Point><coordinates>-86.211720, 38.478484</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 12/17/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WASHINGTON, FREDERICKSBURG, 8427 WASHINGTON SCHOOL W RD</description><Point><coordinates>-86.211720, 38.478484</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/13/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WASHINGTON, FREDERICKSBURG, 10280 KAYS CHAPEL ROAD</description><Point><coordinates>-86.225069, 38.448008</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/25/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WASHINGTON, FREDERICKSBURG, 6171 SOUTH BULLINGTON ROAD</description><Point><coordinates>-86.198670, 38.464329</coordinates></Point></Placemark>
 

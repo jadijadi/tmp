@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 11/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, RICHMOND, AUGUSTA, 3705 PEACH ORCHARD ROAD</description><Point><coordinates>-82.040374, 33.363400</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 11/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, RICHMOND, AUGUSTA, 3705 PEACH ORCHARD ROAD</description><Point><coordinates>-82.040374, 33.363400</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/21/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, RICHMOND, AUGUSTA, 4090 OLD WAYNESBORO ROAD</description><Point><coordinates>-82.008459, 33.330793</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/19/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, RICHMOND, AUGUSTA, 1933 GAY DRIVE</description><Point><coordinates>-82.010474, 33.407571</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/22/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, RICHMOND, AUGUSTA, 2534 LUMPKIN ROAD</description><Point><coordinates>-82.048547, 33.423002</coordinates></Point></Placemark>

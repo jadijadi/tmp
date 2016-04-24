@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/15/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, POLK, BARTOW, 4818  MARK WAY</description><Point><coordinates>-81.764596, 27.954840</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/15/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, POLK, BARTOW, 4818  MARK WAY</description><Point><coordinates>-81.764596, 27.954840</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/9/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, POLK, BARTOW, 1154  HANKIN ROAD</description><Point><coordinates>-81.751124, 27.894231</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/4/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, POLK, BARTOW, 7222 WEST THOMAS JEFFERSON CIRCLE</description><Point><coordinates>-81.724160, 27.914973</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/13/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, POLK, BARTOW, 2200  THOMPSON ROAD</description><Point><coordinates>-81.783321, 27.924738</coordinates></Point></Placemark>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/13/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW MEXICO, LEA, HOBBS, 306 EAST PALACE</description><Point><coordinates>-103.133686, 32.685249</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/13/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW MEXICO, LEA, HOBBS, 306 EAST PALACE</description><Point><coordinates>-103.133686, 32.685249</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/1/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW MEXICO, LEA, HOBBS, 1404 WEST SCHARBEUR</description><Point><coordinates>-103.152496, 32.708453</coordinates></Point></Placemark>
 
         </Document>

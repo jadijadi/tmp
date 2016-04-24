@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/13/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, JACKSON, MAQUOKETA, 902 PLATT E</description><Point><coordinates>-90.655608, 42.069188</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/13/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, JACKSON, MAQUOKETA, 902 PLATT E</description><Point><coordinates>-90.655608, 42.069188</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, JACKSON, MAQUOKETA, 108 1/2 MAIN S ST</description><Point><coordinates>-90.592417, 42.152901</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/7/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, JACKSON, MAQUOKETA, 311 FOURTH S ST</description><Point><coordinates>-90.669056, 42.066043</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/2/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, JACKSON, MAQUOKETA, 412 N MATTESON STREET</description><Point><coordinates>-90.660627, 42.076508</coordinates></Point></Placemark>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/7/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, ALLEGAN, ALLEGAN, 899 CYPRESS</description><Point><coordinates>-85.850294, 42.548441</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/7/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, ALLEGAN, ALLEGAN, 899 CYPRESS</description><Point><coordinates>-85.850294, 42.548441</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, ALLEGAN, ALLEGAN, 3504 BABYLON ROAD</description><Point><coordinates>-85.891106, 42.554357</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, ALLEGAN, ALLEGAN, 426 RIVER RD</description><Point><coordinates>-85.848697, 42.535666</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, ALLEGAN, ALLEGAN, 2598 30TH</description><Point><coordinates>-85.843479, 42.609749</coordinates></Point></Placemark>

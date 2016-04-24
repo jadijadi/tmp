@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/29/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, MADISON, CANASTOTA, 218 NORTH MAIN STREET</description><Point><coordinates>-75.754159, 43.082534</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/29/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, MADISON, CANASTOTA, 218 NORTH MAIN STREET</description><Point><coordinates>-75.754159, 43.082534</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/8/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, MADISON, CANASTOTA, 200  KAY CIRCLE</description><Point><coordinates>-75.761325, 43.080684</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/18/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, MADISON, LENOX, 8283 NORTH MAIN STREET</description><Point><coordinates>-75.786442, 43.114547</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/19/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, MADISON, LENOX, 3174 PINE RIDGE ROAD</description><Point><coordinates>-75.785671, 43.118814</coordinates></Point></Placemark>

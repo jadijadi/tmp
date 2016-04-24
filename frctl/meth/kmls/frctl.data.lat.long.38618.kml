@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/11/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, TATE, COLDWATER, 25  HOLLY COVE</description><Point><coordinates>-89.728103, 34.695777</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/11/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, TATE, COLDWATER, 25  HOLLY COVE</description><Point><coordinates>-89.728103, 34.695777</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/7/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, TATE, COLDWATER, 567  GREER ROAD</description><Point><coordinates>-89.831623, 34.751707</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/21/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, TATE, INDEPENDENCE, 2648 SYCAMORE</description><Point><coordinates>-89.775926, 34.714070</coordinates></Point></Placemark>
 

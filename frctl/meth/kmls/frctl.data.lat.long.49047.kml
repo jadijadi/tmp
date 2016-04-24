@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 8/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, CASS, DOWAGIAC, 24218 MAIN W ST</description><Point><coordinates>-86.034429, 42.054883</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 8/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, CASS, DOWAGIAC, 24218 MAIN W ST</description><Point><coordinates>-86.034429, 42.054883</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, CASS, DOWAGIAC, 54018 M 51 N</description><Point><coordinates>-86.107515, 42.013474</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/27/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, CASS, DOWAGIAC, 25259 70TH STREET</description><Point><coordinates>-86.055068, 42.028619</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/13/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, CASS, DOWAGIAC, 62296 ANDERSON ROAD</description><Point><coordinates>-86.127391, 41.884081</coordinates></Point></Placemark>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/11/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, SUTTER, YUBA CITY, 2898 MCKENLY RD</description><Point><coordinates>-121.670240, 39.157766</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/11/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, SUTTER, YUBA CITY, 2898 MCKENLY RD</description><Point><coordinates>-121.670240, 39.157766</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/17/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, SUTTER, YUBA CITY, 1400 LYTLE RD</description><Point><coordinates>-121.713911, 39.147671</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, SUTTER, YUBA CITY, 1718 ELMER RD</description><Point><coordinates>-121.655919, 39.151982</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/11/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, SUTTER, YUBA CITY, 1292 HARTER RD</description><Point><coordinates>-121.655416, 39.146073</coordinates></Point></Placemark>

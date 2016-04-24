@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, CUMBERLAND, CROSSVILLE, 92 JACOB'S CROSSING 211</description><Point><coordinates>-85.047272, 35.943289</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, CUMBERLAND, CROSSVILLE, 92 JACOB'S CROSSING 211</description><Point><coordinates>-85.047272, 35.943289</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, CUMBERLAND, CROSSVILLE, 200 JUSTICE ST</description><Point><coordinates>-85.035155, 35.937161</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, CUMBERLAND, CROSSVILLE, 582 GENESIS RD</description><Point><coordinates>-85.023716, 35.960509</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/6/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, CUMBERLAND, CROSSVILLE, 114 HWY 70 HWY</description><Point><coordinates>-84.927096, 35.925748</coordinates></Point></Placemark>

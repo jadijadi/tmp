@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 5/10/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, PEARL RIVER, CARRIERE, 93 OZONA ROAD</description><Point><coordinates>-89.664491, 30.580611</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/10/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, PEARL RIVER, CARRIERE, 93 OZONA ROAD</description><Point><coordinates>-89.664491, 30.580611</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/30/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, PEARL RIVER, CARRIERE, 463 WHITE CHAPPLE ROAD</description><Point><coordinates>-89.657212, 30.650039</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/1/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, PEARL RIVER, CARRIERE, 118  REESE ROAD</description><Point><coordinates>-89.612836, 30.601710</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/8/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, PEARL RIVER, CARRIERE, 42  OAKMONT DRIVE</description><Point><coordinates>-89.673425, 30.628865</coordinates></Point></Placemark>

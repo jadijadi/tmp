@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 6/27/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, HARRISON, SAUCIER, 17 D HICKMAN RD</description><Point><coordinates>-89.182068, 30.634349</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/27/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, HARRISON, SAUCIER, 17 D HICKMAN RD</description><Point><coordinates>-89.182068, 30.634349</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, HARRISON, SAUCIER, 8369 WEST MILLER EDWARD</description><Point><coordinates>-89.151213, 30.619951</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, HARRISON, SAUCIER, 28321 HIGHWAY 53 HWY</description><Point><coordinates>-89.318801, 30.596728</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/27/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, HARRISON, SAUCIER, 08557 DIAMOND RD</description><Point><coordinates>-89.161257, 30.653941</coordinates></Point></Placemark>

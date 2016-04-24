@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 4/7/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, LEXINGTON, LEXINGTON, 6747 PLATT SPRINGS ROAD</description><Point><coordinates>-81.285108, 33.868475</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/7/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, LEXINGTON, LEXINGTON, 6747 PLATT SPRINGS ROAD</description><Point><coordinates>-81.285108, 33.868475</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/17/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, LEXINGTON, LEXINGTON, 143 FOUNDERS BOULEVARD</description><Point><coordinates>-81.267023, 33.848389</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/19/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, LEXINGTON, LEXINGTON, 11 CECIL LANE</description><Point><coordinates>-81.238262, 33.934624</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/22/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, LEXINGTON, LEXINGTON, 1208 DARALYNN DRIVE</description><Point><coordinates>-81.219016, 33.867775</coordinates></Point></Placemark>

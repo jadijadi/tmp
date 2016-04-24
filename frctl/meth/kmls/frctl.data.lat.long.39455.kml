@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/21/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, STONE, LUMBERTON, 922 MAGNOLIA ROAD</description><Point><coordinates>-89.334693, 30.844237</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/21/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, STONE, LUMBERTON, 922 MAGNOLIA ROAD</description><Point><coordinates>-89.334693, 30.844237</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/8/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, STONE, LUMBERTON, 1070 MAGNOLIA ROAD</description><Point><coordinates>-89.337600, 30.855398</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/5/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, STONE, LUMBERTON, 1076  MAGNOLIA ROAD</description><Point><coordinates>-89.337730, 30.855904</coordinates></Point></Placemark>
 

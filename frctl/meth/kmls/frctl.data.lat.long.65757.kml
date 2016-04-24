@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/3/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, GREENE, STRAFFORD, 8016 FARM 231 N RD</description><Point><coordinates>-93.110988, 37.337231</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/3/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, GREENE, STRAFFORD, 8016 FARM 231 N RD</description><Point><coordinates>-93.110988, 37.337231</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/19/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, GREENE, STRAFFORD, 221 WEST PINE</description><Point><coordinates>-93.119857, 37.268944</coordinates></Point></Placemark>
 
         </Document>

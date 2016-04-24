@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 5/3/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, ELKHART, ELKHART, 2725 CASSOPOLIS ST</description><Point><coordinates>-85.974377, 41.723733</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/3/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, ELKHART, ELKHART, 2725 CASSOPOLIS ST</description><Point><coordinates>-85.974377, 41.723733</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/16/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, ELKHART, ELKHART, 51913 DOWNEY ST</description><Point><coordinates>-85.959553, 41.740076</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/17/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, ELKHART, ELKHART, 54642 CR 101</description><Point><coordinates>-86.037141, 41.701253</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/27/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, ELKHART, ELKHART, 54327 BALDWIN CT</description><Point><coordinates>-85.957891, 41.705096</coordinates></Point></Placemark>

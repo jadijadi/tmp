@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/30/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, SAINT CHARLES, SAINT CHARLES, 3804 WILLIAM DR</description><Point><coordinates>-90.581035, 38.739687</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/30/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, SAINT CHARLES, SAINT CHARLES, 3804 WILLIAM DR</description><Point><coordinates>-90.581035, 38.739687</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/26/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, SAINT CHARLES, SAINT CHARLES, 4008 TOWERS ROAD</description><Point><coordinates>-90.593961, 38.720615</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/21/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, SAINT CHARLES, SAINT CHARLES, 4008 TOWERS ROAD</description><Point><coordinates>-90.593961, 38.720615</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/29/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, SAINT CHARLES, SAINT CHARLES, 79 ROBERT</description><Point><coordinates>-90.578262, 38.733201</coordinates></Point></Placemark>

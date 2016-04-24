@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 12/3/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, JEFFERSON, CRYSTAL CITY, 1205 TRUMAN</description><Point><coordinates>-90.388223, 38.230471</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 12/3/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, JEFFERSON, CRYSTAL CITY, 1205 TRUMAN</description><Point><coordinates>-90.388223, 38.230471</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/7/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, JEFFERSON, CRYSTAL CITY, 1205 TRUMAN N BLVD</description><Point><coordinates>-90.388223, 38.230471</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/19/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, JEFFERSON, CRYSTAL CITY, 505 MISSISSIPPI AVE</description><Point><coordinates>-90.378725, 38.225349</coordinates></Point></Placemark>
 

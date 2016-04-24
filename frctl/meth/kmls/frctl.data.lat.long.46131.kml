@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 10/3/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JOHNSON, BARGERSVILLE, 806 OLD PLANK RD</description><Point><coordinates>-86.153289, 39.516884</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 10/3/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JOHNSON, BARGERSVILLE, 806 OLD PLANK RD</description><Point><coordinates>-86.153289, 39.516884</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/1/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JOHNSON, FRANKLIN, 798 YOUNG ST</description><Point><coordinates>-86.047855, 39.487991</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/15/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JOHNSON, FRANKLIN, 60 LINCOLN CT</description><Point><coordinates>-86.062930, 39.502276</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/15/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JOHNSON, FRANKLIN, 2010 CEDAR LANE 3</description><Point><coordinates>-86.068274, 39.498764</coordinates></Point></Placemark>

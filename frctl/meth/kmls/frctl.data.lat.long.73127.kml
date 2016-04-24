@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 9/16/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CANADIAN, OKLAHOMA CITY, 9717 10 NW ST 339</description><Point><coordinates>-97.686789, 35.479382</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 9/16/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CANADIAN, OKLAHOMA CITY, 9717 10 NW ST 339</description><Point><coordinates>-97.686789, 35.479382</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/19/2000</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, OKLAHOMA, OKLAHOMA CITY, 8091 23 NW ST</description><Point><coordinates>-97.655722, 35.494023</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/4/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, OKLAHOMA, OKLAHOMA CITY, 7300 13TH NW ST</description><Point><coordinates>-97.640705, 35.482649</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/12/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, OKLAHOMA, OKLAHOMA CITY, 804 ANITA N DR</description><Point><coordinates>-97.641791, 35.475984</coordinates></Point></Placemark>

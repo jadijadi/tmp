@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 11/1/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, OKLAHOMA, CHOCTAW, 13501 SOUTHEAST 29TH STREET 134</description><Point><coordinates>-97.288510, 35.435978</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 11/1/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, OKLAHOMA, CHOCTAW, 13501 SOUTHEAST 29TH STREET 134</description><Point><coordinates>-97.288510, 35.435978</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/12/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, OKLAHOMA, HARRAH, 4773 26 SE ST</description><Point><coordinates>-97.232047, 35.437903</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/28/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, OKLAHOMA, HARRAH, 4409 SYCAMORE  LN</description><Point><coordinates>-97.216399, 35.454439</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/1/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, OKLAHOMA, MIDWEST CITY, 23901 LYNN  LN</description><Point><coordinates>-97.313599, 35.425059</coordinates></Point></Placemark>

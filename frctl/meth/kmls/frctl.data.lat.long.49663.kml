@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 5/6/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, WEXFORD, MANTON, 307  WEST STREET</description><Point><coordinates>-85.402758, 44.413407</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/6/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, WEXFORD, MANTON, 307  WEST STREET</description><Point><coordinates>-85.402758, 44.413407</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/17/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, WEXFORD, MANTON, 8270 E 18 .5 ROAD</description><Point><coordinates>-85.397529, 44.405701</coordinates></Point></Placemark>
 
         </Document>

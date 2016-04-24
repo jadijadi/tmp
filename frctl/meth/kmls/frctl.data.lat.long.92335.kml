@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, SAN BERNARDINO, FONTANA, 13519 ARROW RT</description><Point><coordinates>-117.510000, 34.098631</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, SAN BERNARDINO, FONTANA, 13519 ARROW RT</description><Point><coordinates>-117.510000, 34.098631</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/15/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, SAN BERNARDINO, FONTANA, 13449 IVY</description><Point><coordinates>-117.511865, 34.102924</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/17/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, SAN BERNARDINO, FONTANA, 16411 ATHOL STREET</description><Point><coordinates>-117.446422, 34.088283</coordinates></Point></Placemark>
 

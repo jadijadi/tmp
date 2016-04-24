@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 6/13/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WISCONSIN, RUSK, LADYSMITH, 815 6TH E ST</description><Point><coordinates>-91.094182, 45.457207</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/13/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WISCONSIN, RUSK, LADYSMITH, 815 6TH E ST</description><Point><coordinates>-91.094182, 45.457207</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/14/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WISCONSIN, RUSK, LADYSMITH, 10075 & 101 TRAIL W</description><Point><coordinates>-91.104036, 45.463023</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/7/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WISCONSIN, RUSK, LADYSMITH, 201 WORDEN E AVE B</description><Point><coordinates>-91.099509, 45.463310</coordinates></Point></Placemark>
 

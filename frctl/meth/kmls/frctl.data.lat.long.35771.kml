@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, JACKSON, SECTION, 3147 CO RD 43</description><Point><coordinates>-85.988878, 34.546443</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, JACKSON, SECTION, 3147 CO RD 43</description><Point><coordinates>-85.988878, 34.546443</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, JACKSON, SECTION, 91 GURLEY CIR</description><Point><coordinates>-85.981055, 34.564517</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/3/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, JACKSON, SECTION, 6713 CO RD 43</description><Point><coordinates>-85.973204, 34.503817</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/25/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, JACKSON, SECTION, 817  COUNTRY 411 ROAD</description><Point><coordinates>-85.986533, 34.522810</coordinates></Point></Placemark>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 4/27/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, FLOYD, NEW ALBANY, 100 FISCHER DR</description><Point><coordinates>-85.829012, 38.300362</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/27/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, FLOYD, NEW ALBANY, 100 FISCHER DR</description><Point><coordinates>-85.829012, 38.300362</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, FLOYD, NEW ALBANY, 2024 MARKET E ST</description><Point><coordinates>-85.798651, 38.294207</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, FLOYD, NEW ALBANY, 149 VILLAGE E DR</description><Point><coordinates>-85.827483, 38.305355</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/7/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, FLOYD, NEW ALBANY, 2381 CRAIG COOPER RD</description><Point><coordinates>-85.892753, 38.250107</coordinates></Point></Placemark>

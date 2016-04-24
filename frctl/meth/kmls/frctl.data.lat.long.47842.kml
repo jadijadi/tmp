@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 7/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, VERMILLION, BLANFORD, 15087 GARTON RD</description><Point><coordinates>-87.505508, 39.663128</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 7/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, VERMILLION, BLANFORD, 15087 GARTON RD</description><Point><coordinates>-87.505508, 39.663128</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, VERMILLION, CLINTON, 3324 CR 1300 S</description><Point><coordinates>-87.527927, 39.694768</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, VERMILLION, CLINTON, 343 1/2 5TH S ST</description><Point><coordinates>-87.402840, 39.657579</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, VERMILLION, CLINTON, 450 3RD S ST</description><Point><coordinates>-87.399632, 39.656379</coordinates></Point></Placemark>

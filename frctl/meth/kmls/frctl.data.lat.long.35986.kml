@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 9/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, Dekalb, RAINSVILLE, 278 CROFT ST</description><Point><coordinates>-85.835118, 34.493417</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 9/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, Dekalb, RAINSVILLE, 278 CROFT ST</description><Point><coordinates>-85.835118, 34.493417</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/15/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, Dekalb, RAINSVILLE, 426 HEATON RD</description><Point><coordinates>-85.869908, 34.454516</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/12/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, Dekalb, RAINSVILLE, 1217 CO RD 570</description><Point><coordinates>-85.847135, 34.540258</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/3/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, Dekalb, RAINSVILLE, 860 JONES RD</description><Point><coordinates>-85.882119, 34.522576</coordinates></Point></Placemark>

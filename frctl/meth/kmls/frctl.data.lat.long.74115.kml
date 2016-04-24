@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 6/23/2000</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, TULSA, TULSA, 848 92 N AVE</description><Point><coordinates>-95.873391, 36.166766</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/23/2000</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, TULSA, TULSA, 848 92 N AVE</description><Point><coordinates>-95.873391, 36.166766</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/12/2000</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, TULSA, TULSA, 2900 TOLEDO N</description><Point><coordinates>-95.926943, 36.202818</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/4/2000</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, TULSA, TULSA, 6618 LATIMER E PL</description><Point><coordinates>-95.901804, 36.171128</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/18/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, TULSA, TULSA, 1336 72ND EAST N AVE</description><Point><coordinates>-95.897077, 36.174441</coordinates></Point></Placemark>

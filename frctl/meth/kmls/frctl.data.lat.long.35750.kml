@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 9/7/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MADISON, HAZEL GREEN, 109 SUBLIMITY CT</description><Point><coordinates>-86.612584, 34.943514</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 9/7/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MADISON, HAZEL GREEN, 109 SUBLIMITY CT</description><Point><coordinates>-86.612584, 34.943514</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/11/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MADISON, HAZEL GREEN, 496 READY SECTION ROAD</description><Point><coordinates>-86.631772, 34.932700</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/3/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MADISON, HAZEL GREEN, 205 BOBO SECTION ROAD</description><Point><coordinates>-86.571687, 34.955946</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/26/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MADISON, HAZEL GREEN, 257  MCKENZIE DRIVE</description><Point><coordinates>-86.560044, 34.987338</coordinates></Point></Placemark>

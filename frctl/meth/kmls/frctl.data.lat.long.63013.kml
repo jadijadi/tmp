@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 7/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, FRANKLIN, BEAUFORT, 3969 50 HWY</description><Point><coordinates>-91.189038, 38.420884</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 7/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, FRANKLIN, BEAUFORT, 3969 50 HWY</description><Point><coordinates>-91.189038, 38.420884</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/3/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, FRANKLIN, BEAUFORT, 2690 WEBER CREEK ROAD</description><Point><coordinates>-91.078550, 38.425407</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/29/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, FRANKLIN, BEAUFORT, 4167 HIGHWAY 50</description><Point><coordinates>-91.189551, 38.420975</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/3/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, FRANKLIN, BEAUFORT, 2767 JEFFRIESBURG ROAD</description><Point><coordinates>-91.065004, 38.430925</coordinates></Point></Placemark>

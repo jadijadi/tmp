@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 4/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, HARALSON, TALLAPOOSA, 41 RIVERSIDE RD</description><Point><coordinates>-85.334035, 33.740597</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, HARALSON, TALLAPOOSA, 41 RIVERSIDE RD</description><Point><coordinates>-85.334035, 33.740597</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/3/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, HARALSON, TALLAPOOSA, 161 DEWEY ST</description><Point><coordinates>-85.282015, 33.744842</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/4/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, HARALSON, TALLAPOOSA, 175 POUNDS ROAD</description><Point><coordinates>-85.294562, 33.740641</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/7/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, HARALSON, TALLAPOOSA, 1284 WEST US HWY 78</description><Point><coordinates>-85.280987, 33.742473</coordinates></Point></Placemark>

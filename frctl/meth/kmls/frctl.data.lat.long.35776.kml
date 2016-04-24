@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, JACKSON, WOODVILLE, 11340 COUNTY 30 RD</description><Point><coordinates>-86.262295, 34.651094</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, JACKSON, WOODVILLE, 11340 COUNTY 30 RD</description><Point><coordinates>-86.262295, 34.651094</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/5/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, JACKSON, WOODVILLE, 31046 SR 35 HWY</description><Point><coordinates>-86.283961, 34.616396</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, JACKSON, WOODVILLE, 100 COBB ST</description><Point><coordinates>-86.269326, 34.622372</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/11/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, JACKSON, WOODVILLE, 440 CO RD 500</description><Point><coordinates>-86.303940, 34.629153</coordinates></Point></Placemark>

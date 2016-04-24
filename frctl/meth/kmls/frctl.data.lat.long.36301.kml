@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/13/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, HOUSTON, DOTHAN, 1118 SAUNDERS E RD 1120</description><Point><coordinates>-85.385945, 31.161842</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/13/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, HOUSTON, DOTHAN, 1118 SAUNDERS E RD 1120</description><Point><coordinates>-85.385945, 31.161842</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, HOUSTON, DOTHAN, 75 ROY MARTIN RD</description><Point><coordinates>-85.383378, 31.111767</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, HOUSTON, DOTHAN, 4375 COUNTY LOT 9 RD 203</description><Point><coordinates>-85.435434, 31.140383</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, HOUSTON, DOTHAN, 1118 SAUNDERS E RD</description><Point><coordinates>-85.385945, 31.161842</coordinates></Point></Placemark>

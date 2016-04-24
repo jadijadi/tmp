@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/21/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, BROWN, NASHVILLE, 1217 SR 135 S</description><Point><coordinates>-86.192781, 39.175683</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/21/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, BROWN, NASHVILLE, 1217 SR 135 S</description><Point><coordinates>-86.192781, 39.175683</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/22/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, BROWN, NASHVILLE, 1787 LUCAS HOLLOW RD</description><Point><coordinates>-86.125466, 39.222155</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/15/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, BROWN, NASHVILLE, 5228 GRAVEL CREEK RD</description><Point><coordinates>-86.226744, 39.114899</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/10/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, BROWN, NASHVILLE, 4023  YELLOWWOOD ROAD</description><Point><coordinates>-86.314611, 39.172368</coordinates></Point></Placemark>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 11/25/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, SAINT LOUIS, BRECKENRIDGE HILLS, 3311 AIRWAY</description><Point><coordinates>-90.368608, 38.716792</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 11/25/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, SAINT LOUIS, BRECKENRIDGE HILLS, 3311 AIRWAY</description><Point><coordinates>-90.368608, 38.716792</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, SAINT LOUIS, OVERLAND, 2204 BURNS</description><Point><coordinates>-90.365900, 38.694827</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/17/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, SAINT LOUIS, OVERLAND, 9208 MEADOW BROOK</description><Point><coordinates>-90.361022, 38.694097</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, SAINT LOUIS, OVERLAND, 2230 HOOD</description><Point><coordinates>-90.368671, 38.696048</coordinates></Point></Placemark>

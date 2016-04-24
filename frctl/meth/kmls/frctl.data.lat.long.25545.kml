@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 8/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WEST VIRGINIA, CABELL, ONA, 2632 YATES CROSSING RD</description><Point><coordinates>-82.189481, 38.442159</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 8/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WEST VIRGINIA, CABELL, ONA, 2632 YATES CROSSING RD</description><Point><coordinates>-82.189481, 38.442159</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/12/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WEST VIRGINIA, CABELL, ONA, 114 BETHESDA DRIVE</description><Point><coordinates>-82.195531, 38.430015</coordinates></Point></Placemark>
 
         </Document>

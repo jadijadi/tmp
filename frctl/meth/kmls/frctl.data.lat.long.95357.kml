@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 10/3/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, STANISLAUS, MODESTO, 8100 YOSEMITE BLVD</description><Point><coordinates>-120.845242, 37.633962</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 10/3/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, STANISLAUS, MODESTO, 8100 YOSEMITE BLVD</description><Point><coordinates>-120.845242, 37.633962</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/7/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, STANISLAUS, MODESTO, 3500 PLAIN VIEW ROAD</description><Point><coordinates>-120.931365, 37.703536</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/31/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, STANISLAUS, RIVERBANK, 3939 MINNIEAR AVE</description><Point><coordinates>-120.923129, 37.716940</coordinates></Point></Placemark>
 

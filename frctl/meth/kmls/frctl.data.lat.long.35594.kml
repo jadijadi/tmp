@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 4/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, FAYETTE, GLEN ALLEN, 160 COUNTY ROAD 73</description><Point><coordinates>-87.702137, 33.885180</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, FAYETTE, GLEN ALLEN, 160 COUNTY ROAD 73</description><Point><coordinates>-87.702137, 33.885180</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/8/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, FAYETTE, WINFIELD, 187 MAUD TAYLOR ROAD</description><Point><coordinates>-87.879162, 33.887177</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/17/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MARION, WINFIELD, 9710 BANKHEAD HWY</description><Point><coordinates>-87.734172, 33.934005</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/5/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MARION, WINFIELD, 270 CO ROAD 47</description><Point><coordinates>-87.810571, 33.947549</coordinates></Point></Placemark>

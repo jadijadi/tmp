@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 4/30/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, LAGRANGE, SOUTH MILFORD, 6530 SOUTH CR 900 EAST</description><Point><coordinates>-85.255592, 41.546957</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/30/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, LAGRANGE, SOUTH MILFORD, 6530 SOUTH CR 900 EAST</description><Point><coordinates>-85.255592, 41.546957</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/30/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, LAGRANGE, SOUTH MILFORD, 7430 SOUTH SR3</description><Point><coordinates>-85.271610, 41.533709</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/16/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, LAGRANGE, WOLCOTTVILLE, 1230 690 S E</description><Point><coordinates>-85.400829, 41.542786</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/29/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, LAGRANGE, WOLCOTTVILLE, 131 NORTH MAIN STREET</description><Point><coordinates>-85.366733, 41.527423</coordinates></Point></Placemark>

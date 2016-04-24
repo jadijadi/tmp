@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 5/14/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MOBILE, IRVINGTON, 7846 ROBERSON ST</description><Point><coordinates>-88.218623, 30.527920</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/14/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MOBILE, IRVINGTON, 7846 ROBERSON ST</description><Point><coordinates>-88.218623, 30.527920</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/5/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MOBILE, IRVINGTON, 9898 SOUTH TAYLOR AVENUE</description><Point><coordinates>-88.193341, 30.485340</coordinates></Point></Placemark>
 
         </Document>

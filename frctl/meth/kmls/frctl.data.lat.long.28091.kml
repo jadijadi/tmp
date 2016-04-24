@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 4/9/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, ANSON, LILESVILLE, 102  GRIFFIN STREET</description><Point><coordinates>-79.984503, 34.967653</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/9/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, ANSON, LILESVILLE, 102  GRIFFIN STREET</description><Point><coordinates>-79.984503, 34.967653</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/9/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, ANSON, LILESVILLE, 17  MARTINVILLE DRIVE</description><Point><coordinates>-79.984503, 34.967653</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/20/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, ANSON, LILESVILLE, 415 EAST WALL STREET</description><Point><coordinates>-79.977784, 34.967052</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/24/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, ANSON, LILESVILLE, 2700  VINTAGE ROAD</description><Point><coordinates>-79.984503, 34.967653</coordinates></Point></Placemark>

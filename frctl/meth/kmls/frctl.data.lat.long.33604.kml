@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/16/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, HILLSBOROUGH, TAMPA, 1748 MULBERRY STREET</description><Point><coordinates>-82.439135, 28.018638</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/16/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, HILLSBOROUGH, TAMPA, 1748 MULBERRY STREET</description><Point><coordinates>-82.439135, 28.018638</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/29/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, HILLSBOROUGH, TAMPA, 1498 EAST IDLEWILD AVE AVENUE</description><Point><coordinates>-82.442968, 28.001536</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/15/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, HILLSBOROUGH, TAMPA, 819  EAST BROAD STREET</description><Point><coordinates>-82.451786, 28.015917</coordinates></Point></Placemark>
 

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 9/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JOHNSON, GREENWOOD, 843 SMITH VALLEY W RD</description><Point><coordinates>-86.125466, 39.605883</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 9/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JOHNSON, GREENWOOD, 843 SMITH VALLEY W RD</description><Point><coordinates>-86.125466, 39.605883</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/28/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JOHNSON, GREENWOOD, 398 SCHOOLY DR</description><Point><coordinates>-86.148865, 39.608693</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/25/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JOHNSON, INDIANAPOLIS, 306 NORTH PLEASANT STREET</description><Point><coordinates>-86.161506, 39.620469</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/8/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WHITE, BROOKSTON, 12482 626 W W</description><Point><coordinates>-86.203217, 39.626145</coordinates></Point></Placemark>

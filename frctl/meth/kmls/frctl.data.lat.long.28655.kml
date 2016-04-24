@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 10/12/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, BURKE, DREXEL, 404  PARK AVENUE</description><Point><coordinates>-81.607704, 35.754216</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 10/12/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, BURKE, DREXEL, 404  PARK AVENUE</description><Point><coordinates>-81.607704, 35.754216</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/11/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, BURKE, DREXEL, 103  APARTMENT STREET E</description><Point><coordinates>-81.607463, 35.756691</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, BURKE, MORGANTON, 5102 WILLIE RAY DR</description><Point><coordinates>-81.801729, 35.690386</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/21/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, BURKE, MORGANTON, 5641 JOHN REEP ST</description><Point><coordinates>-81.842988, 35.652413</coordinates></Point></Placemark>

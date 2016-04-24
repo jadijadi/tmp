@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 6/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, KALAMAZOO, KALAMAZOO, 1609 CHURCH N ST</description><Point><coordinates>-85.586537, 42.307276</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, KALAMAZOO, KALAMAZOO, 1609 CHURCH N ST</description><Point><coordinates>-85.586537, 42.307276</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/7/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, KALAMAZOO, KALAMAZOO, 1451 NORTH HILLS DR</description><Point><coordinates>-85.606105, 42.316174</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/4/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, KALAMAZOO, KALAMAZOO, 1536 HIGHLAND HILLS DR</description><Point><coordinates>-85.608457, 42.315676</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/29/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, KALAMAZOO, KALAMAZOO, 1453 HIGHLAND HILLS DR</description><Point><coordinates>-85.606009, 42.315652</coordinates></Point></Placemark>

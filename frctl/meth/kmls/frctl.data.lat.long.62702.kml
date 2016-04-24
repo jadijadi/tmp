@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/25/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, SANGAMON, GRANDVIEW, 2112 CINCINNATI E ST</description><Point><coordinates>-89.624505, 39.814327</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/25/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, SANGAMON, GRANDVIEW, 2112 CINCINNATI E ST</description><Point><coordinates>-89.624505, 39.814327</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, SANGAMON, SPRINGFIELD, 1315 1/2 RESERVOIR E ST</description><Point><coordinates>-89.637465, 39.815392</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, SANGAMON, SPRINGFIELD, 1426 RESERVOIR E ST</description><Point><coordinates>-89.635765, 39.815303</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/2/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, SANGAMON, SPRINGFIELD, 928 N DIRKSEN</description><Point><coordinates>-89.605320, 39.811873</coordinates></Point></Placemark>

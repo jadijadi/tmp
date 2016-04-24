@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 5/4/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW MEXICO, ROOSEVELT, PORTALES, 137 MESSILLA PARK</description><Point><coordinates>-103.267764, 34.248193</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/4/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW MEXICO, ROOSEVELT, PORTALES, 137 MESSILLA PARK</description><Point><coordinates>-103.267764, 34.248193</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/4/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW MEXICO, ROOSEVELT, PORTALES, 42988A US 70 HIGHWAY</description><Point><coordinates>-103.296363, 34.217998</coordinates></Point></Placemark>
 
         </Document>

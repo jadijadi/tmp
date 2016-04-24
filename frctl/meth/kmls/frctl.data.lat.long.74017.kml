@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 6/18/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, ROGERS, CLAREMORE, 19907 22ND E ST</description><Point><coordinates>-95.619889, 36.330226</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/18/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, ROGERS, CLAREMORE, 19907 22ND E ST</description><Point><coordinates>-95.619889, 36.330226</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/19/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, ROGERS, CLAREMORE, 20520 EAST PINE STREET</description><Point><coordinates>-95.525209, 36.427949</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/27/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, ROGERS, CLAREMORE, 20520 EAST PINE STREET 3</description><Point><coordinates>-95.525209, 36.427949</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/16/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, ROGERS, CLAREMORE, 1012 OSAGE N AVE</description><Point><coordinates>-95.597777, 36.316927</coordinates></Point></Placemark>

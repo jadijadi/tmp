@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 5/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, FAYETTE, ELDRIDGE, 6540 CO RD 24</description><Point><coordinates>-87.659674, 33.880510</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, FAYETTE, ELDRIDGE, 6540 CO RD 24</description><Point><coordinates>-87.659674, 33.880510</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/23/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MARION, ELDRIDGE, 407 FARRIS RD</description><Point><coordinates>-87.645016, 33.938614</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/17/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MARION, ELDRIDGE, 407 FARRIS ROAD</description><Point><coordinates>-87.645016, 33.938614</coordinates></Point></Placemark>
 

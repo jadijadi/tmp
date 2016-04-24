@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 7/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, OCONEE, WESTMINSTER, 125 COBB HOLLOW LN</description><Point><coordinates>-83.158451, 34.612496</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 7/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, OCONEE, WESTMINSTER, 125 COBB HOLLOW LN</description><Point><coordinates>-83.158451, 34.612496</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/6/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, OCONEE, WESTMINSTER, 167  ROAME ROAD</description><Point><coordinates>-83.078319, 34.640990</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/23/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, OCONEE, WESTMINSTER, 413  JACK POLFREY ROAD</description><Point><coordinates>-83.096542, 34.664820</coordinates></Point></Placemark>
 

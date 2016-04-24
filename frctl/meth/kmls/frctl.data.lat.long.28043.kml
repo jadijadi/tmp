@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/21/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, RUTHERFORD, FOREST CITY, 207 SPRUCE E ST D</description><Point><coordinates>-81.866556, 35.329216</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/21/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, RUTHERFORD, FOREST CITY, 207 SPRUCE E ST D</description><Point><coordinates>-81.866556, 35.329216</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/1/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, RUTHERFORD, FOREST CITY, 429 MCCALL DR</description><Point><coordinates>-81.846868, 35.339109</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/11/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, RUTHERFORD, FOREST CITY, 178 T. C. TRL</description><Point><coordinates>-81.880129, 35.328184</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/7/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, RUTHERFORD, FOREST CITY, 305 OAK ST</description><Point><coordinates>-81.874502, 35.332426</coordinates></Point></Placemark>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 7/15/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BARRY, SELIGMAN, 1130 OLD MAIL ROUTE RD</description><Point><coordinates>-93.939644, 36.522571</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 7/15/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BARRY, SELIGMAN, 1130 OLD MAIL ROUTE RD</description><Point><coordinates>-93.939644, 36.522571</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/21/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BARRY, SELIGMAN, 159 FRISCO RD 159</description><Point><coordinates>-93.940052, 36.520252</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/21/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BARRY, SELIGMAN, 1700 ROUTE 1</description><Point><coordinates>-93.937895, 36.534143</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/14/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BARRY, SELIGMAN, RT 1 1470</description><Point><coordinates>-93.937895, 36.534143</coordinates></Point></Placemark>

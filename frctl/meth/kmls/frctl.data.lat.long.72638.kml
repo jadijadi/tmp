@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 6/28/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, CARROLL, ALPENA, 733  COUNTY ROAD 811</description><Point><coordinates>-93.319973, 36.311011</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/28/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, CARROLL, ALPENA, 733  COUNTY ROAD 811</description><Point><coordinates>-93.319973, 36.311011</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, CARROLL, GREEN FOREST, 13507 HWY 62 E 3</description><Point><coordinates>-93.436019, 36.335347</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, CARROLL, GREEN FOREST, 2693 U.S. HWY 62 E HWY</description><Point><coordinates>-93.515070, 36.352392</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/13/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, CARROLL, GREEN FOREST, 1450  !03 SOUTH</description><Point><coordinates>-93.429513, 36.342569</coordinates></Point></Placemark>

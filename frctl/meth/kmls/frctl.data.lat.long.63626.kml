@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/25/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, ST. Francois, BLACKWELL, 22871 STATE HWY 21 N</description><Point><coordinates>-90.679042, 38.079961</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/25/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, ST. Francois, BLACKWELL, 22871 STATE HWY 21 N</description><Point><coordinates>-90.679042, 38.079961</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/17/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, WASHINGTON, BLACKWELL, 10175 GALILEE LN</description><Point><coordinates>-90.717325, 38.075407</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/24/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, WASHINGTON, BLACKWELL, 10239 KINGSTON ROAD</description><Point><coordinates>-90.788545, 38.086256</coordinates></Point></Placemark>
 

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 11/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, LEXINGTON, SWANSEA, 104 CLAYS WAY</description><Point><coordinates>-80.924515, 33.790494</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 11/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, LEXINGTON, SWANSEA, 104 CLAYS WAY</description><Point><coordinates>-80.924515, 33.790494</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, LEXINGTON, SWANSEA, 116 CLAYS WAY</description><Point><coordinates>-80.924515, 33.790494</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/26/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, LEXINGTON, SWANSEA, 1062 CALVARY CHURCH ROAD</description><Point><coordinates>-81.027739, 33.741711</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/7/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, LEXINGTON, SWANSEA, 256 CULLER ROAD</description><Point><coordinates>-80.988578, 33.768336</coordinates></Point></Placemark>

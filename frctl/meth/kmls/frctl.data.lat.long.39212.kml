@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 8/15/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, HINDS, BYRAM, 6895 SOUTH I-55 FREEWAY</description><Point><coordinates>-90.231931, 32.239296</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 8/15/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, HINDS, BYRAM, 6895 SOUTH I-55 FREEWAY</description><Point><coordinates>-90.231931, 32.239296</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, HINDS, JACKSON, 229 SYKES ROAD</description><Point><coordinates>-90.230052, 32.249055</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/13/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, HINDS, JACKSON, 3162 WOODSIDE DR</description><Point><coordinates>-90.245627, 32.258328</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/7/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, HINDS, JACKSON, 1156 MARBLE ST</description><Point><coordinates>-90.263228, 32.263288</coordinates></Point></Placemark>

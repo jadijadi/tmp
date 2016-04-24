@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 8/1/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, AUDRAIN, MEXICO, 1003 SOUTH CLARK</description><Point><coordinates>-91.885663, 39.164007</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 8/1/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, AUDRAIN, MEXICO, 1003 SOUTH CLARK</description><Point><coordinates>-91.885663, 39.164007</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/29/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, AUDRAIN, MEXICO, 2270 JUBEL DRIVE</description><Point><coordinates>-91.912199, 39.152603</coordinates></Point></Placemark>
 
         </Document>

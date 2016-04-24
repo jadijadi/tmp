@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 4/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, SANTA ROSA, MILTON, 8228 NEW CASTLE CT</description><Point><coordinates>-86.978627, 30.628696</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, SANTA ROSA, MILTON, 8228 NEW CASTLE CT</description><Point><coordinates>-86.978627, 30.628696</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/14/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, SANTA ROSA, MILTON, 5637 MULAT RD</description><Point><coordinates>-87.088310, 30.583361</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/24/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, SANTA ROSA, MILTON, 7280 HAY LO RD</description><Point><coordinates>-87.019346, 30.631378</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/26/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, SANTA ROSA, MILTON, 4379 TRAILER PARK COURT</description><Point><coordinates>-87.077340, 30.593960</coordinates></Point></Placemark>

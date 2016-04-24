@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/31/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, GEARY, MILFORD, 304 LARAMIE</description><Point><coordinates>-96.907566, 39.170754</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/31/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, GEARY, MILFORD, 304 LARAMIE</description><Point><coordinates>-96.907566, 39.170754</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/7/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, GEARY, MILFORD, 12412 HICKOCK</description><Point><coordinates>-96.895535, 39.138391</coordinates></Point></Placemark>
 
         </Document>

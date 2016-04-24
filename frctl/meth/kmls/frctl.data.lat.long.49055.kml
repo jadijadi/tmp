@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/24/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, ALLEGAN, ALLEGAN, 44 WESLER DRIVE</description><Point><coordinates>-85.865965, 42.428969</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/24/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, ALLEGAN, ALLEGAN, 44 WESLER DRIVE</description><Point><coordinates>-85.865965, 42.428969</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/29/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, ALLEGAN, GOBLES, 131  WESLER DRIVE</description><Point><coordinates>-85.866031, 42.428996</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/22/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, ALLEGAN, GOBLES, 3053  BASELINE ROAD</description><Point><coordinates>-85.849195, 42.421003</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/10/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, VAN BUREN, BLOOMINGDALE, 38039  20TH AVENUE</description><Point><coordinates>-85.917856, 42.346726</coordinates></Point></Placemark>

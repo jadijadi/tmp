@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 11/3/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, JACKSON, GAUTIER, 921 DE LA POINT DR LOT # 7</description><Point><coordinates>-88.624925, 30.388004</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 11/3/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, JACKSON, GAUTIER, 921 DE LA POINT DR LOT # 7</description><Point><coordinates>-88.624925, 30.388004</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/18/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, JACKSON, GAUTIER, 7825 PETUNIA STREET</description><Point><coordinates>-88.646193, 30.454376</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/10/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, JACKSON, GAUTIER, 1637  LIMA DRIVE</description><Point><coordinates>-88.637044, 30.454006</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/23/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, JACKSON, GAUTIER, 1604  DAILEY ROAD</description><Point><coordinates>-88.635495, 30.451200</coordinates></Point></Placemark>

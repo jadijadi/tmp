@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/18/2000</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CREEK, MOUNDS, 13145 EDWARDS  RD</description><Point><coordinates>-96.060689, 35.871522</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/18/2000</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CREEK, MOUNDS, 13145 EDWARDS  RD</description><Point><coordinates>-96.060689, 35.871522</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/1/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CREEK, MOUNDS, 8430 183RD  ST</description><Point><coordinates>-96.090948, 35.898134</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/26/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CREEK, MOUNDS, 358 220 N RD</description><Point><coordinates>-96.060689, 35.871522</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/15/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CREEK, MOUNDS, 18391 SOUTH 89TH WEST AVENUE</description><Point><coordinates>-96.088211, 35.896768</coordinates></Point></Placemark>

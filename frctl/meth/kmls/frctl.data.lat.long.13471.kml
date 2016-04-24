@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 11/16/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, ONEIDA, ANNSVILLE, 3283 POND HILL ROAD,  APT. 4</description><Point><coordinates>-75.670019, 43.326734</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 11/16/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, ONEIDA, ANNSVILLE, 3283 POND HILL ROAD,  APT. 4</description><Point><coordinates>-75.670019, 43.326734</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/12/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, ONEIDA, ANNSVILLE, 9626  GLENMORE ROAD</description><Point><coordinates>-75.619724, 43.327385</coordinates></Point></Placemark>
 
         </Document>

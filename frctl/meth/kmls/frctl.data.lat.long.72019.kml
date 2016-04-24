@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, SALINE, BENTON, 16732 I-30 233</description><Point><coordinates>-92.591097, 34.574028</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, SALINE, BENTON, 16732 I-30 233</description><Point><coordinates>-92.591097, 34.574028</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/23/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, SALINE, BENTON, 106 FAIRPLAY RD 4</description><Point><coordinates>-92.735471, 34.513837</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/23/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, SALINE, BENTON, 7824 FAIRPLAY RD</description><Point><coordinates>-92.722853, 34.493765</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/1/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, SALINE, BENTON, 11215 GOODWIN</description><Point><coordinates>-92.629039, 34.669267</coordinates></Point></Placemark>

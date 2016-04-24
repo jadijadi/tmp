@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/20/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, CARROLL, GREENWOOD, RT. 1 148A</description><Point><coordinates>-86.114458, 35.815074</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/20/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, CARROLL, GREENWOOD, RT. 1 148A</description><Point><coordinates>-86.114458, 35.815074</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/3/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, ANDERSON, POWELLS CROSSROAD, 601  EDGEMOOR ROAD</description><Point><coordinates>-86.580447, 35.517491</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/23/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, CALLOWAY, BUCHANAN, 98  SETH LANE</description><Point><coordinates>-86.580447, 35.517491</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/14/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, CHESTER, HENDERSONVILLE, 125  MEMORY LN.</description><Point><coordinates>-86.580447, 35.517491</coordinates></Point></Placemark>

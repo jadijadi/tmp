@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 4/26/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, CLAY, CELINA, 216 HAYES TRAILER PARK</description><Point><coordinates>-85.505247, 36.550061</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/26/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, CLAY, CELINA, 216 HAYES TRAILER PARK</description><Point><coordinates>-85.505247, 36.550061</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/6/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, CLAY, CELINA, 1680  TOMPKINSVILLE ROAD</description><Point><coordinates>-85.505247, 36.550061</coordinates></Point></Placemark>
 
         </Document>

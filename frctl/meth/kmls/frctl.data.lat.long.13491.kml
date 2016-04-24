@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 9/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, HERKIMER, WEST WINFIELD, 977 COUNTY ROUTE 21</description><Point><coordinates>-75.180414, 42.853882</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 9/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, HERKIMER, WEST WINFIELD, 977 COUNTY ROUTE 21</description><Point><coordinates>-75.180414, 42.853882</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/24/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, HERKIMER, WEST WINFIELD, 102 MARRIOTT ROAD</description><Point><coordinates>-75.156784, 42.902159</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/16/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, HERKIMER, WEST WINFIELD, 1163 STATE ROUTE 20</description><Point><coordinates>-75.139546, 42.888977</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/27/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, HERKIMER, WEST WINFIELD, 175 TAYLOR AVENUE</description><Point><coordinates>-75.198792, 42.883981</coordinates></Point></Placemark>

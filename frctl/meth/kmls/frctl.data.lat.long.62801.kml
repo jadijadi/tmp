@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 6/27/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, CLINTON, CENTRALIA, 275 BROOKSIDE AVENUE</description><Point><coordinates>-89.147860, 38.526746</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/27/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, CLINTON, CENTRALIA, 275 BROOKSIDE AVENUE</description><Point><coordinates>-89.147860, 38.526746</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/7/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, MARION, CENTRALIA, 2722 LAKE RD</description><Point><coordinates>-89.022899, 38.514722</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/6/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, MARION, CENTRALIA, 423 BEECH N ST</description><Point><coordinates>-89.141699, 38.533062</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, MARION, CENTRALIA, 1007 COLLEGE N AVE</description><Point><coordinates>-89.140094, 38.539260</coordinates></Point></Placemark>

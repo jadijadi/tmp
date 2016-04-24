@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEVADA, CLARK, LAS VEGAS, 5204 ALPINE PL</description><Point><coordinates>-115.213121, 36.160295</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEVADA, CLARK, LAS VEGAS, 5204 ALPINE PL</description><Point><coordinates>-115.213121, 36.160295</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/15/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEVADA, CLARK, LAS VEGAS, 5025 WASHINGTON W AVE</description><Point><coordinates>-115.209851, 36.180705</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/10/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEVADA, CLARK, LAS VEGAS, 800 CONNIE COURT</description><Point><coordinates>-115.241713, 36.162640</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/10/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEVADA, CLARK, LAS VEGAS, 4313 MAYFLOWER W</description><Point><coordinates>-115.198987, 36.167985</coordinates></Point></Placemark>

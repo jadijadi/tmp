@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 6/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WARRICK, BOONVILLE, 333 TENNYSON RD</description><Point><coordinates>-87.236826, 38.054246</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WARRICK, BOONVILLE, 333 TENNYSON RD</description><Point><coordinates>-87.236826, 38.054246</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WARRICK, BOONVILLE, 7144 SR61</description><Point><coordinates>-87.274172, 38.049213</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/24/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WARRICK, BOONVILLE, 388 GENEVA WAY</description><Point><coordinates>-87.312947, 38.027950</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/25/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WARRICK, BOONVILLE, 1644 WINCHESTER</description><Point><coordinates>-87.244731, 38.056694</coordinates></Point></Placemark>

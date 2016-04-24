@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 9/4/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, SCIOTO, MCDERMOTT, 2614 TATMAN COVE RD</description><Point><coordinates>-83.083600, 38.842900</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 9/4/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, SCIOTO, MCDERMOTT, 2614 TATMAN COVE RD</description><Point><coordinates>-83.083600, 38.842900</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/9/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, SCIOTO, MCDERMOTT, 1420 MCDERMOTT POND CREEK RD B</description><Point><coordinates>-83.064826, 38.835154</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, SCIOTO, MCDERMOTT, 44 CARPENTER RD</description><Point><coordinates>-83.104100, 38.848400</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/2/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, SCIOTO, MCDERMOTT, 1991 MCDERMOTT RUSHTOWN</description><Point><coordinates>-83.060463, 38.839160</coordinates></Point></Placemark>

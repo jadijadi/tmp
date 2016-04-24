@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 4/16/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CHEROKEE, HULBERT, 107 NORTH ELM</description><Point><coordinates>-95.142544, 35.934680</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/16/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CHEROKEE, HULBERT, 107 NORTH ELM</description><Point><coordinates>-95.142544, 35.934680</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/25/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CHEROKEE, HULBERT, 5037 770TH W RD</description><Point><coordinates>-95.078452, 35.900730</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/28/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CHEROKEE, HULBERT, 10336 NORTH 427 ROAD</description><Point><coordinates>-95.120533, 36.026981</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/11/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CHEROKEE, HULBERT, 7723 WEST J B TEAGUE DRIVE</description><Point><coordinates>-95.164386, 35.951212</coordinates></Point></Placemark>

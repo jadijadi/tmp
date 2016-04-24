@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, GARLAND, HOT SPRINGS, 7108 PARK AVE</description><Point><coordinates>-92.928179, 34.604159</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, GARLAND, HOT SPRINGS, 7108 PARK AVE</description><Point><coordinates>-92.928179, 34.604159</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, GARLAND, HOT SPRINGS, 137 MCCOY LN</description><Point><coordinates>-92.926652, 34.553717</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/8/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, GARLAND, HOT SPRINGS, 120 LAMOTT ST</description><Point><coordinates>-93.023448, 34.475995</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/15/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, GARLAND, HOT SPRINGS, 153 CHELLE ST</description><Point><coordinates>-93.043905, 34.477553</coordinates></Point></Placemark>

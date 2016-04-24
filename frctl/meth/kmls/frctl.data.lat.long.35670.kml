@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/27/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MORGAN, SOMERVILLE, 7727 WEST POINT RD</description><Point><coordinates>-86.651518, 34.446712</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/27/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MORGAN, SOMERVILLE, 7727 WEST POINT RD</description><Point><coordinates>-86.651518, 34.446712</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/13/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MORGAN, SOMERVILLE, 1167 CHARIST RD</description><Point><coordinates>-86.744751, 34.540396</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/6/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MORGAN, SOMERVILLE, 8 ROSEMONT DR</description><Point><coordinates>-86.797912, 34.467685</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/10/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MORGAN, SOMERVILLE, 5083 HWY 36 E</description><Point><coordinates>-86.724283, 34.452473</coordinates></Point></Placemark>

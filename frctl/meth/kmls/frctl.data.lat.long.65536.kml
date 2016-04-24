@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/3/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LACLEDE, LEBANON, 27512 PARKGROVE LN G</description><Point><coordinates>-92.638048, 37.740291</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/3/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LACLEDE, LEBANON, 27512 PARKGROVE LN G</description><Point><coordinates>-92.638048, 37.740291</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LACLEDE, LEBANON, 22170 HACKBERRY RD 41</description><Point><coordinates>-92.633202, 37.741113</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LACLEDE, LEBANON, 25989 OAKDALE DR</description><Point><coordinates>-92.687088, 37.717889</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/21/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LACLEDE, LEBANON, 20496 COLE RD</description><Point><coordinates>-92.659332, 37.589105</coordinates></Point></Placemark>

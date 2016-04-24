@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 12/15/2000</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, OKLAHOMA, BETHANY, 123 STANLEY</description><Point><coordinates>-97.605107, 35.541574</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 12/15/2000</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, OKLAHOMA, BETHANY, 123 STANLEY</description><Point><coordinates>-97.605107, 35.541574</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/2/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, OKLAHOMA, BETHANY, 5010 RIVER N DR</description><Point><coordinates>-97.663231, 35.522989</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/2/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, OKLAHOMA, OKLAHOMA CITY, 6804 LANCER  LN</description><Point><coordinates>-97.632623, 35.545942</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/17/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, OKLAHOMA, OKLAHOMA CITY, 6040 BRITTON W RD D</description><Point><coordinates>-97.623880, 35.565603</coordinates></Point></Placemark>

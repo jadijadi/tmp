@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 12/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, UNION, ANNA, 240 BIG CREEK</description><Point><coordinates>-89.195491, 37.419755</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 12/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, UNION, ANNA, 240 BIG CREEK</description><Point><coordinates>-89.195491, 37.419755</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/14/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, UNION, ANNA, 1400  LIME KILN ROAD</description><Point><coordinates>-89.234491, 37.478447</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/9/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, UNION, ANNA, 1935  BALCOM</description><Point><coordinates>-89.201931, 37.413388</coordinates></Point></Placemark>
 

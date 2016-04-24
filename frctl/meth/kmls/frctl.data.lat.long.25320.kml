@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 4/28/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WEST VIRGINIA, KANAWHA, CHARLESTON, 5 PINE VALLEY DRIVE</description><Point><coordinates>-81.655599, 38.479030</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/28/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WEST VIRGINIA, KANAWHA, CHARLESTON, 5 PINE VALLEY DRIVE</description><Point><coordinates>-81.655599, 38.479030</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/17/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WEST VIRGINIA, KANAWHA, CHARLESTON, 17611  DERRICK CREEK ROAD</description><Point><coordinates>-81.676399, 38.506094</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/23/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WEST VIRGINIA, KANAWHA, SISSONVILLE, 1788 TOLLEY RD</description><Point><coordinates>-81.627770, 38.506298</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/23/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WEST VIRGINIA, KANAWHA, SISSONVILLE, 1790b TOLLEY RD</description><Point><coordinates>-81.627828, 38.506290</coordinates></Point></Placemark>

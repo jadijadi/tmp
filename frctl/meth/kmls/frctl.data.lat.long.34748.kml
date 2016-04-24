@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 10/27/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, LAKE, LEESBURG, 21726 27 HIGHWAY</description><Point><coordinates>-81.851145, 28.663524</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 10/27/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, LAKE, LEESBURG, 21726 27 HIGHWAY</description><Point><coordinates>-81.851145, 28.663524</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/19/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, LAKE, LEESBURG, 615 NORTH 14TH STREET</description><Point><coordinates>-81.887501, 28.818038</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/1/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, LAKE, LEESBURG, 718  MARIETTA STREET</description><Point><coordinates>-81.882097, 28.804816</coordinates></Point></Placemark>
 

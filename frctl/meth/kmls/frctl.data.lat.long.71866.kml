@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 4/20/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, LITTLE RIVER, WINTHROP, 365  HIGHWAY 380</description><Point><coordinates>-94.452522, 33.917178</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/20/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, LITTLE RIVER, WINTHROP, 365  HIGHWAY 380</description><Point><coordinates>-94.452522, 33.917178</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/20/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, LITTLE RIVER, WINTHROP, 365  HIGHWAY 380</description><Point><coordinates>-94.452522, 33.917178</coordinates></Point></Placemark>
 
         </Document>

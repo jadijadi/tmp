@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/18/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, SAINT CHARLES, FORISTELL, 2724 MEYER RD</description><Point><coordinates>-90.924577, 38.825328</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/18/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, SAINT CHARLES, FORISTELL, 2724 MEYER RD</description><Point><coordinates>-90.924577, 38.825328</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/5/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, SAINT CHARLES, WENTZVILLE, 3836 POINT PRAIRIE</description><Point><coordinates>-90.885202, 38.738522</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/6/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, SAINT CHARLES, WENTZVILLE, 1066 POINTE PRAIRIE RD</description><Point><coordinates>-90.906176, 38.801193</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/16/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, SAINT CHARLES, WENTZVILLE, 103 PROVIDENCE POINT COURT</description><Point><coordinates>-90.867127, 38.777026</coordinates></Point></Placemark>

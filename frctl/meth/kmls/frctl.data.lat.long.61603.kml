@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/24/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, PEORIA, PEORIA, 412 MORGAN</description><Point><coordinates>-89.581421, 40.699580</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/24/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, PEORIA, PEORIA, 412 MORGAN</description><Point><coordinates>-89.581421, 40.699580</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/4/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, PEORIA, PEORIA, 606 EVANS N</description><Point><coordinates>-89.581996, 40.702196</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/23/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, PEORIA, PEORIA, 1516 PERRY NE</description><Point><coordinates>-89.575617, 40.706798</coordinates></Point></Placemark>
 

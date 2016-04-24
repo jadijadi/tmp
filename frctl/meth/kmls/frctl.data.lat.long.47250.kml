@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 4/15/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JEFFERSON, MADISON, 3567 WOODSIDE DR LT 13</description><Point><coordinates>-85.455864, 38.749332</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/15/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JEFFERSON, MADISON, 3567 WOODSIDE DR LT 13</description><Point><coordinates>-85.455864, 38.749332</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/13/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JEFFERSON, MADISON, 1901 ORCHARD ST 1</description><Point><coordinates>-85.401301, 38.762401</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/7/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JEFFERSON, MADISON, 130 TAFT DRIVE F</description><Point><coordinates>-85.385019, 38.781217</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JEFFERSON, MADISON, 9507 VERNON RIDGE E RD</description><Point><coordinates>-85.213969, 38.773109</coordinates></Point></Placemark>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/26/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, ADAMS, WESTMINSTER, 4461 111TH W AVE</description><Point><coordinates>-105.043252, 39.897574</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/26/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, ADAMS, WESTMINSTER, 4461 111TH W AVE</description><Point><coordinates>-105.043252, 39.897574</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/28/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, ADAMS, WESTMINSTER, 8061 TENNYSON STREET</description><Point><coordinates>-105.047736, 39.842995</coordinates></Point></Placemark>
 
         </Document>

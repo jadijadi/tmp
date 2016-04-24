@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 8/29/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, MADERA, MADERA, 815 EAST CLINTON AVENUE</description><Point><coordinates>-120.046651, 36.964960</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 8/29/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, MADERA, MADERA, 815 EAST CLINTON AVENUE</description><Point><coordinates>-120.046651, 36.964960</coordinates></Point></Placemark>
 
         </Document>
         </kml>

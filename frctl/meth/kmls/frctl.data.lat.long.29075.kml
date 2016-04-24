@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/23/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, LEXINGTON, LITTLE MOUNTAIN, 123 MILLERSS BRANCH ROAD</description><Point><coordinates>-81.412203, 34.157750</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/23/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, LEXINGTON, LITTLE MOUNTAIN, 123 MILLERSS BRANCH ROAD</description><Point><coordinates>-81.412203, 34.157750</coordinates></Point></Placemark>
 
         </Document>
         </kml>

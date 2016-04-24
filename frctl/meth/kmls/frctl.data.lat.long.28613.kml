@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 7/6/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CATAWBA, CONOVER, 222 5TH NE ST</description><Point><coordinates>-81.211295, 35.711947</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 7/6/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CATAWBA, CONOVER, 222 5TH NE ST</description><Point><coordinates>-81.211295, 35.711947</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/19/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CATAWBA, CONOVER, 3305 SOUTHEAST 16TH AVENUE</description><Point><coordinates>-81.263853, 35.700901</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/28/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, CATAWBA, CONOVER, 300 NORTHWEST 3RD AVENUE  B</description><Point><coordinates>-81.220145, 35.711167</coordinates></Point></Placemark>
 

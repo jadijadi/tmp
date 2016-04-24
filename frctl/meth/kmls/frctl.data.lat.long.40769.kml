@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 9/4/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, PULASKI, WILLIAMSBURG, 55  CRISP COURT</description><Point><coordinates>-84.150247, 36.746676</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 9/4/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, PULASKI, WILLIAMSBURG, 55  CRISP COURT</description><Point><coordinates>-84.150247, 36.746676</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/31/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, WHITLEY, WILLIAMSBURG, 71 DAVENPORT LANE</description><Point><coordinates>-84.202972, 36.819392</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/17/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, WHITLEY, WILLIAMSBURG, 448  LONG BOTTOM ROAD</description><Point><coordinates>-84.281293, 36.784477</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/20/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, WHITLEY, WILLIAMSBURG, 249  NANNIE HUBBARD</description><Point><coordinates>-84.224406, 36.803737</coordinates></Point></Placemark>

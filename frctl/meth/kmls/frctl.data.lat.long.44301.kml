@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 7/3/2000</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, SUMMIT, AKRON, 1306 CURTIS ST</description><Point><coordinates>-81.524159, 41.051313</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 7/3/2000</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, SUMMIT, AKRON, 1306 CURTIS ST</description><Point><coordinates>-81.524159, 41.051313</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/24/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, SUMMIT, AKRON, 1751 MAIN S ST 2</description><Point><coordinates>-81.526527, 41.039259</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/17/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, SUMMIT, AKRON, 28 MAPLEDALE E AVE</description><Point><coordinates>-81.526264, 41.045545</coordinates></Point></Placemark>
 

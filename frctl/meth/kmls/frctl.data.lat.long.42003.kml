@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 4/1/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, MCCRACKEN, PADUCAH, 1825 POWERS RD</description><Point><coordinates>-88.498172, 36.964573</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/1/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, MCCRACKEN, PADUCAH, 1825 POWERS RD</description><Point><coordinates>-88.498172, 36.964573</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/31/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, MCCRACKEN, PADUCAH, 1240 STARR HILL RD</description><Point><coordinates>-88.640900, 37.028475</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, MCCRACKEN, PADUCAH, 410 LANE W RD</description><Point><coordinates>-88.619631, 37.038320</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/7/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, MCCRACKEN, PADUCAH, 1460 POWERS RD</description><Point><coordinates>-88.504683, 36.969426</coordinates></Point></Placemark>

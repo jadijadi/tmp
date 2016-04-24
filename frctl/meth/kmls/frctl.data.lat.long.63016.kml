@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/14/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, JEFFERSON, CEDAR HILL, 8850 HIGHWAY NN</description><Point><coordinates>-90.663568, 38.342316</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/14/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, JEFFERSON, CEDAR HILL, 8850 HIGHWAY NN</description><Point><coordinates>-90.663568, 38.342316</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, JEFFERSON, CEDAR HILL, 8615 TERRI HILL</description><Point><coordinates>-90.653495, 38.343621</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, JEFFERSON, CEDAR HILL, 6541 JENNY CT</description><Point><coordinates>-90.612080, 38.345743</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/25/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, JEFFERSON, CEDAR HILL, 8408 INDUSTRIAL</description><Point><coordinates>-90.652763, 38.355137</coordinates></Point></Placemark>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 7/7/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, DAVIDSON, THOMASVILLE, 216 LAKEVIEW E DR</description><Point><coordinates>-80.051663, 35.903707</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 7/7/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, DAVIDSON, THOMASVILLE, 216 LAKEVIEW E DR</description><Point><coordinates>-80.051663, 35.903707</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/31/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, DAVIDSON, THOMASVILLE, 1348 LIGHT ROAD</description><Point><coordinates>-80.109575, 35.806791</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/6/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, DAVIDSON, THOMASVILLE, 539 CARTER ROAD</description><Point><coordinates>-80.131860, 35.816711</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/8/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, DAVIDSON, THOMASVILLE, 1109 HARVEST DRIVE</description><Point><coordinates>-80.086324, 35.835372</coordinates></Point></Placemark>

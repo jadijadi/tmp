@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 10/29/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, INDEPENDENCE, BRADFORD, 1348 OVERLOOK DR</description><Point><coordinates>-91.454334, 35.535950</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 10/29/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, INDEPENDENCE, BRADFORD, 1348 OVERLOOK DR</description><Point><coordinates>-91.454334, 35.535950</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/12/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, JACKSON, BRADFORD, 1290 JACKSON 197 S RD</description><Point><coordinates>-91.566034, 35.478789</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/6/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, JACKSON, BRADFORD, 5831 JACKSON 6 ROAD</description><Point><coordinates>-91.508234, 35.480614</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/6/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, JACKSON, BRADFORD, 5833 JACKSON 6 ROAD</description><Point><coordinates>-91.508234, 35.480614</coordinates></Point></Placemark>

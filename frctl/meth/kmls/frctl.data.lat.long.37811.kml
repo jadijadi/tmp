@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 5/6/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, HAWKINS, MOORESBURG, 642 OLD HWY 11-W</description><Point><coordinates>-83.224983, 36.345282</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/6/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, HAWKINS, MOORESBURG, 642 OLD HWY 11-W</description><Point><coordinates>-83.224983, 36.345282</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, HAWKINS, MOORESBURG, 324 MIDWAY CHURCH RD</description><Point><coordinates>-83.232117, 36.390919</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, HAWKINS, MOORESBURG, 156 MORCLAND DR</description><Point><coordinates>-83.262479, 36.350127</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, HAWKINS, MOORESBURG, 131 H. WRIGHT W RD</description><Point><coordinates>-83.238484, 36.313964</coordinates></Point></Placemark>

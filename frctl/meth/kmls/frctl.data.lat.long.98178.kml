@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/27/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, KING, SEATTLE, 6222 S 118TH PL</description><Point><coordinates>-122.255493, 47.497282</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/27/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, KING, SEATTLE, 6222 S 118TH PL</description><Point><coordinates>-122.255493, 47.497282</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, KING, TUKWILA, 12253 47TH S AVE</description><Point><coordinates>-122.275225, 47.492822</coordinates></Point></Placemark>
 
         </Document>

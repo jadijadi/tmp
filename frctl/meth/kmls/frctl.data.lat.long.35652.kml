@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 5/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, LAUDERDALE, ROGERSVILLE, 355 C.R. 558 RD</description><Point><coordinates>-87.290006, 34.869302</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, LAUDERDALE, ROGERSVILLE, 355 C.R. 558 RD</description><Point><coordinates>-87.290006, 34.869302</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/1/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, LAUDERDALE, ROGERSVILLE, 1049 CO RD 540</description><Point><coordinates>-87.340505, 34.895804</coordinates></Point></Placemark>
 
         </Document>

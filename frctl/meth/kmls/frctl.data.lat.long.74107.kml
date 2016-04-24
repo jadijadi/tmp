@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/28/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CREEK, OAKHURST, 6300  W 61 STREET</description><Point><coordinates>-96.063577, 36.075484</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/28/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CREEK, OAKHURST, 6300  W 61 STREET</description><Point><coordinates>-96.063577, 36.075484</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/3/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, TULSA, OAKHURST, 13940 ZENITH</description><Point><coordinates>-96.017167, 36.102133</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/5/2000</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, TULSA, SAND SPRINGS, 6019 SOUTH 62ND WEST AVENUE</description><Point><coordinates>-96.062060, 36.076779</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/15/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, TULSA, SAND SPRINGS, 13003 WEST 56TH STREET</description><Point><coordinates>-96.069814, 36.082759</coordinates></Point></Placemark>

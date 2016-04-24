@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW MEXICO, BERNALILLO, ALBUQUERQUE, 13004 MOUNTAIN VIEW NE</description><Point><coordinates>-106.502536, 35.074762</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW MEXICO, BERNALILLO, ALBUQUERQUE, 13004 MOUNTAIN VIEW NE</description><Point><coordinates>-106.502536, 35.074762</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/31/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW MEXICO, BERNALILLO, ALBUQUERQUE, 10331 HOTEL CIRCLE NE AVE</description><Point><coordinates>-106.530315, 35.086372</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW MEXICO, BERNALILLO, ALBUQUERQUE, 601 PAISANO NE 115</description><Point><coordinates>-106.514390, 35.078140</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/11/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW MEXICO, BERNALILLO, ALBUQUERQUE, 12816 CLOUDVIEW NE</description><Point><coordinates>-106.504618, 35.073040</coordinates></Point></Placemark>

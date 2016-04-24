@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, EL PASO, COLORADO SPRINGS, 6210 CORPORATE DR 137</description><Point><coordinates>-104.817129, 38.919371</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, EL PASO, COLORADO SPRINGS, 6210 CORPORATE DR 137</description><Point><coordinates>-104.817129, 38.919371</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, EL PASO, COLORADO SPRINGS, 240 RIMVIEW DR H</description><Point><coordinates>-104.833641, 38.917137</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, EL PASO, COLORADO SPRINGS, 2269 SILENT RAIN DR</description><Point><coordinates>-104.869396, 38.934994</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, EL PASO, COLORADO SPRINGS, 6210 CORPORATE DR 149</description><Point><coordinates>-104.817129, 38.919371</coordinates></Point></Placemark>

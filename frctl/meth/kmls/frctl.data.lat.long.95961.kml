@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 5/27/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, YUBA, ARBOGA, 13814 CHARLIES LN</description><Point><coordinates>-121.555796, 39.051282</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/27/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, YUBA, ARBOGA, 13814 CHARLIES LN</description><Point><coordinates>-121.555796, 39.051282</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/25/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, YUBA, MARYSVILLE, 976 KAY ST</description><Point><coordinates>-121.579443, 39.120044</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/21/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, YUBA, MARYSVILLE, 5395 FEATHER RIVER BLVD</description><Point><coordinates>-121.580453, 39.109807</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/22/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, YUBA, MARYSVILLE, 5528 ALICIA AVE</description><Point><coordinates>-121.572248, 39.113712</coordinates></Point></Placemark>

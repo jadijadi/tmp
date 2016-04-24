@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 10/6/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MINNESOTA, PIPESTONE, PIPESTONE, 508 NORTHEAST 2ND AVENUE</description><Point><coordinates>-96.316420, 44.005142</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 10/6/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MINNESOTA, PIPESTONE, PIPESTONE, 508 NORTHEAST 2ND AVENUE</description><Point><coordinates>-96.316420, 44.005142</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/7/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MINNESOTA, PIPESTONE, PIPESTONE, 905 SOUTHWEST 6TH STREET</description><Point><coordinates>-96.330313, 43.995250</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/13/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MINNESOTA, PIPESTONE, PIPESTONE, 519 SOUTHEAST 7TH AVENUE</description><Point><coordinates>-96.311548, 43.994010</coordinates></Point></Placemark>
 

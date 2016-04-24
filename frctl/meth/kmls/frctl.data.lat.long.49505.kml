@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 8/9/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, KENT, GRAND RAPIDS, 980 KENDELWOOD STREET</description><Point><coordinates>-85.644217, 43.018714</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 8/9/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, KENT, GRAND RAPIDS, 980 KENDELWOOD STREET</description><Point><coordinates>-85.644217, 43.018714</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/4/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, KENT, GRAND RAPIDS, 1354 NORTHEAST HOLLYWOOD STREET</description><Point><coordinates>-85.635323, 43.006912</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/1/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, KENT, GRAND RAPIDS, 1502 NE WAKELY STREET</description><Point><coordinates>-85.632587, 42.994668</coordinates></Point></Placemark>
 

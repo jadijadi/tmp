@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/14/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, BRUNSWICK, LELAND, 3331 SANDY HILLS DR</description><Point><coordinates>-78.109000, 34.339612</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/14/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, BRUNSWICK, LELAND, 3331 SANDY HILLS DR</description><Point><coordinates>-78.109000, 34.339612</coordinates></Point></Placemark>
 
         </Document>
         </kml>

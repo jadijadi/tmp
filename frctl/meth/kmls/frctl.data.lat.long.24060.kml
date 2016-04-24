@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/1/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, MONTGOMERY, BLACKSBURG, 317 CLAY ST</description><Point><coordinates>-80.409654, 37.228666</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/1/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, MONTGOMERY, BLACKSBURG, 317 CLAY ST</description><Point><coordinates>-80.409654, 37.228666</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/13/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, MONTGOMERY, BLACKSBURG, 3110  MEADOWBROOK DRIVE B</description><Point><coordinates>-80.464082, 37.246352</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/24/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, MONTGOMERY, BLACKSBURG, 401  GIVENS LN  28</description><Point><coordinates>-80.419700, 37.251900</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/28/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, MONTGOMERY, BLACKSBURG, 3809  PRICES FORK RD</description><Point><coordinates>-80.477210, 37.212747</coordinates></Point></Placemark>

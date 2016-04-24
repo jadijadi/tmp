@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/29/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, DUNKLIN, CAMPBELL, 705 CARR ST</description><Point><coordinates>-90.075095, 36.493393</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/29/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, DUNKLIN, CAMPBELL, 705 CARR ST</description><Point><coordinates>-90.075095, 36.493393</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/30/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, DUNKLIN, CAMPBELL, 117  MAGNOLIA  C</description><Point><coordinates>-90.075832, 36.492367</coordinates></Point></Placemark>
 
         </Document>

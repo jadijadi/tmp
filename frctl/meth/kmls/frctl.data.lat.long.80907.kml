@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/11/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, EL PASO, COLORADO SPRINGS, 4610 RUSINA RD 119</description><Point><coordinates>-104.830298, 38.899120</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/11/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, EL PASO, COLORADO SPRINGS, 4610 RUSINA RD 119</description><Point><coordinates>-104.830298, 38.899120</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/7/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, EL PASO, COLORADO SPRINGS, 3010 CHESTNUT N ST 255</description><Point><coordinates>-104.837123, 38.877536</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, EL PASO, COLORADO SPRINGS, 3613 LEEDS LN</description><Point><coordinates>-104.796659, 38.884116</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, EL PASO, COLORADO SPRINGS, 3228 CHESTNUT N ST 228</description><Point><coordinates>-104.837298, 38.880668</coordinates></Point></Placemark>

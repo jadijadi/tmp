@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/14/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, WICHITA, WICHITA FALLS, 1211 CENTRAL FRWY</description><Point><coordinates>-98.517396, 33.937391</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/14/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, WICHITA, WICHITA FALLS, 1211 CENTRAL FRWY</description><Point><coordinates>-98.517396, 33.937391</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, WICHITA, WICHITA FALLS, 2723 ROANOKE ST</description><Point><coordinates>-98.522328, 33.938638</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, WICHITA, WICHITA FALLS, 3118 IOWA PARK RD</description><Point><coordinates>-98.530208, 33.929652</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/15/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, WICHITA, WICHITA FALLS, 600 EAST CENTRAL FREEWAY</description><Point><coordinates>-98.511703, 33.919348</coordinates></Point></Placemark>

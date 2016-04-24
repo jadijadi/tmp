@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/6/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, CRAIGHEAD, JONESBORO, 403 GEE S ST</description><Point><coordinates>-90.725924, 35.838751</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/6/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, CRAIGHEAD, JONESBORO, 403 GEE S ST</description><Point><coordinates>-90.725924, 35.838751</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/14/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, CRAIGHEAD, JONESBORO, 1404 BROOKHAVEN ST</description><Point><coordinates>-90.723367, 35.828130</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/14/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, CRAIGHEAD, JONESBORO, 904 TONY #7</description><Point><coordinates>-90.674480, 35.833737</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/21/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, CRAIGHEAD, JONESBORO, 219 1/2 WALNUT ST</description><Point><coordinates>-90.717426, 35.841318</coordinates></Point></Placemark>

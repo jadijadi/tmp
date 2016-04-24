@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 5/19/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, TATE, SENATOBIA, 577 LINWOOD E RD</description><Point><coordinates>-90.091725, 34.605202</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/19/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, TATE, SENATOBIA, 577 LINWOOD E RD</description><Point><coordinates>-90.091725, 34.605202</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/1/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, TATE, SENATOBIA, 622  HIGHWAY 305</description><Point><coordinates>-89.810061, 34.628868</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/17/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, TATE, SENATOBIA, 1763  MERRYHILL RANCH ROAD</description><Point><coordinates>-90.006217, 34.641666</coordinates></Point></Placemark>
 

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 8/18/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CRAIG, WELCH, 156 FIRST W AVE</description><Point><coordinates>-95.094719, 36.877857</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 8/18/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CRAIG, WELCH, 156 FIRST W AVE</description><Point><coordinates>-95.094719, 36.877857</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CRAIG, WELCH, 440 WASHINGTON S ST</description><Point><coordinates>-95.098833, 36.873276</coordinates></Point></Placemark>
 
         </Document>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW MEXICO, BERNALILLO, ALBUQUERQUE, 602 14TH SW</description><Point><coordinates>-106.663890, 35.082962</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW MEXICO, BERNALILLO, ALBUQUERQUE, 602 14TH SW</description><Point><coordinates>-106.663890, 35.082962</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/23/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW MEXICO, BERNALILLO, ALBUQUERQUE, 1318 6TH NW ST</description><Point><coordinates>-106.651299, 35.097849</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/14/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW MEXICO, BERNALILLO, ALBUQUERQUE, 417 12TH NW ST</description><Point><coordinates>-106.660060, 35.090794</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/25/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW MEXICO, BERNALILLO, ALBUQUERQUE, 515 NORTHWEST KINELY</description><Point><coordinates>-106.651088, 35.098530</coordinates></Point></Placemark>

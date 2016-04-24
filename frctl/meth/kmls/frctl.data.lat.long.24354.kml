@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 5/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, SMYTH, MARION, 245 SPRING HOLLOW RD</description><Point><coordinates>-81.557446, 36.757068</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, SMYTH, MARION, 245 SPRING HOLLOW RD</description><Point><coordinates>-81.557446, 36.757068</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, SMYTH, MARION, 1732 HWY 16 A</description><Point><coordinates>-81.480368, 36.823077</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/11/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, SMYTH, MARION, 431 PORTER VALLEY RD</description><Point><coordinates>-81.636193, 36.828638</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, SMYTH, MARION, 696 MIDDLE FORK RD</description><Point><coordinates>-81.643556, 36.827483</coordinates></Point></Placemark>

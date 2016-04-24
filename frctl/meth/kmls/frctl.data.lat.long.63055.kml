@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/15/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, FRANKLIN, LABADIE, 223 WEST BEND HEIGHTS DR</description><Point><coordinates>-90.795671, 38.500514</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/15/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, FRANKLIN, LABADIE, 223 WEST BEND HEIGHTS DR</description><Point><coordinates>-90.795671, 38.500514</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/23/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, FRANKLIN, LABADIE, 265 DECKER RD</description><Point><coordinates>-90.829852, 38.521182</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/14/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, FRANKLIN, LABADIE, 2535 T HWY</description><Point><coordinates>-90.840238, 38.531453</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/7/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, FRANKLIN, LABADIE, 106 PACIFIC</description><Point><coordinates>-90.848731, 38.529967</coordinates></Point></Placemark>

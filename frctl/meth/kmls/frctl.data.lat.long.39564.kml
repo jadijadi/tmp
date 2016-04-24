@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, JACKSON, OCEAN SPRINGS, 233 HOLCOMB BLVD</description><Point><coordinates>-88.810510, 30.400029</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, JACKSON, OCEAN SPRINGS, 233 HOLCOMB BLVD</description><Point><coordinates>-88.810510, 30.400029</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/23/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, JACKSON, OCEAN SPRINGS, 2108 16TH S ST</description><Point><coordinates>-88.747933, 30.371986</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/3/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, JACKSON, OCEAN SPRINGS, 3616 BIENVILLE BLVD</description><Point><coordinates>-88.771856, 30.410843</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/5/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, JACKSON, OCEAN SPRINGS, 1505 NOBLE ROAD</description><Point><coordinates>-88.749367, 30.362871</coordinates></Point></Placemark>

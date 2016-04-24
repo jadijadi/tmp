@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 10/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, CHATTOOGA, SUMMERVILLE, 11489 HIGHWAY 27</description><Point><coordinates>-85.285919, 34.589006</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 10/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, CHATTOOGA, SUMMERVILLE, 11489 HIGHWAY 27</description><Point><coordinates>-85.285919, 34.589006</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/3/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, CHATTOOGA, TRION, 17 LONG HOLLOW RD</description><Point><coordinates>-85.319656, 34.575298</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/13/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, CHATTOOGA, TRION, 14230 27 HWY 110</description><Point><coordinates>-85.285919, 34.589006</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/17/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, CHATTOOGA, TRION, 1357 RIDGE WAY RD</description><Point><coordinates>-85.309754, 34.575722</coordinates></Point></Placemark>

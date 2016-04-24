@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 10/15/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, GASTON, DALLAS, 903 EAST MAIN STREET</description><Point><coordinates>-81.163843, 35.313172</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 10/15/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, GASTON, DALLAS, 903 EAST MAIN STREET</description><Point><coordinates>-81.163843, 35.313172</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/30/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, GASTON, DALLAS, 303 EAST INGLE STREET</description><Point><coordinates>-81.172836, 35.317901</coordinates></Point></Placemark>
 
         </Document>

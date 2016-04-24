@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, WASHINGTON, GLADE SPRING, 31531 FORSYTHIA DR</description><Point><coordinates>-81.820840, 36.753455</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, WASHINGTON, GLADE SPRING, 31531 FORSYTHIA DR</description><Point><coordinates>-81.820840, 36.753455</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, WASHINGTON, GLADE SPRING, 18627 BLOOMFIELD DR</description><Point><coordinates>-81.729446, 36.684458</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/1/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, WASHINGTON, GLADE SPRING, 13307 GLADY LN</description><Point><coordinates>-81.825126, 36.758855</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, WASHINGTON, GLADE SPRING, 605 36197 WIDENERS VALLEY RD</description><Point><coordinates>-81.736260, 36.695929</coordinates></Point></Placemark>

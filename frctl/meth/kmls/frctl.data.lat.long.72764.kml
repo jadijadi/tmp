@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 6/16/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, BENTON, SPRINGDALE, 515 EAST HIGHWAY 264</description><Point><coordinates>-94.124812, 36.224630</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/16/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, BENTON, SPRINGDALE, 515 EAST HIGHWAY 264</description><Point><coordinates>-94.124812, 36.224630</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/18/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, WASHINGTON, FAYETTEVILLE, 2331 DEAN W ST 20</description><Point><coordinates>-94.130254, 36.142567</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, WASHINGTON, SPRINGDALE, 106 BAILEY E</description><Point><coordinates>-94.128604, 36.198817</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/23/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, WASHINGTON, SPRINGDALE, 2008 KIM D</description><Point><coordinates>-94.110033, 36.175595</coordinates></Point></Placemark>

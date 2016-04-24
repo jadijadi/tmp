@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 6/22/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, PEORIA, PEORIA, 601 ROMEO B. GARRET 2107</description><Point><coordinates>-89.601946, 40.694370</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/22/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, PEORIA, PEORIA, 601 ROMEO B. GARRET 2107</description><Point><coordinates>-89.601946, 40.694370</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/12/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, PEORIA, PEORIA, 1914 S STANLEY</description><Point><coordinates>-89.631254, 40.666382</coordinates></Point></Placemark>
 
         </Document>

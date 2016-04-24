@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/5/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, CLINTON, FRANKFORT, 256 EAST N ST</description><Point><coordinates>-86.505282, 40.282500</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/5/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, CLINTON, FRANKFORT, 256 EAST N ST</description><Point><coordinates>-86.505282, 40.282500</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/11/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, CLINTON, FRANKFORT, 1710 CR 880 W S</description><Point><coordinates>-86.671037, 40.262871</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/5/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, CLINTON, FRANKFORT, 1463 EAST CLINTON STREET</description><Point><coordinates>-86.495348, 40.280472</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/10/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, CLINTON, FRANKFORT, 1051 WEST JEFFERSON STREET</description><Point><coordinates>-86.523124, 40.284137</coordinates></Point></Placemark>

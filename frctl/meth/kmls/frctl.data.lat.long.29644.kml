@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/5/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, GREENVILLE, FOUNTAIN INN, 177 SHADY OAK RD</description><Point><coordinates>-82.272697, 34.622509</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/5/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, GREENVILLE, FOUNTAIN INN, 177 SHADY OAK RD</description><Point><coordinates>-82.272697, 34.622509</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/6/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, GREENVILLE, FOUNTAIN INN, 413 HWY. 418</description><Point><coordinates>-82.251520, 34.664768</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/16/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, GREENVILLE, FOUNTAIN INN, 104 PEDEN LANE</description><Point><coordinates>-82.241644, 34.621141</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/16/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, GREENVILLE, FOUNTAIN INN, 1070  NASH MILL ROAD</description><Point><coordinates>-82.242537, 34.630814</coordinates></Point></Placemark>

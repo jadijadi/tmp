@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 5/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, HARRISON, CORYDON, 3100 LOCUST POINT RD</description><Point><coordinates>-86.067796, 38.177983</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, HARRISON, CORYDON, 3100 LOCUST POINT RD</description><Point><coordinates>-86.067796, 38.177983</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/26/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, HARRISON, CORYDON, 2965 DIXIE RD</description><Point><coordinates>-86.212238, 38.160094</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/11/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, HARRISON, CORYDON, 5280 UNION CHAPEL RD</description><Point><coordinates>-86.127558, 38.125394</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/11/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, HARRISON, CORYDON, 90 OLD SR 135 2</description><Point><coordinates>-86.130002, 38.202533</coordinates></Point></Placemark>

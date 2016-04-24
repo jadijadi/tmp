@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/17/2000</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CREEK, SAND SPRINGS, 11506 56 W ST</description><Point><coordinates>-96.123387, 36.082920</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/17/2000</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CREEK, SAND SPRINGS, 11506 56 W ST</description><Point><coordinates>-96.123387, 36.082920</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/19/2000</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CREEK, SAND SPRINGS, 1004 FORREST E DR</description><Point><coordinates>-96.311357, 36.081235</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/12/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CREEK, SAND SPRINGS, 6408  MERRIMACK DRIVE</description><Point><coordinates>-96.296806, 36.071577</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/31/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CREEK, SAND SPRINGS, 27625  ROUND MOUNTAIN DRIVE</description><Point><coordinates>-96.301799, 36.085826</coordinates></Point></Placemark>

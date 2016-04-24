@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 9/10/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, FLOYD, ROME, 12 NORTH GARDEN COURT</description><Point><coordinates>-85.226803, 34.288607</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 9/10/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, FLOYD, ROME, 12 NORTH GARDEN COURT</description><Point><coordinates>-85.226803, 34.288607</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/20/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, FLOYD, ROME, 300 SYCAMORE STREET</description><Point><coordinates>-85.208544, 34.262838</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/5/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, FLOYD, ROME, 5 LEE STREET B</description><Point><coordinates>-85.283192, 34.268949</coordinates></Point></Placemark>
 

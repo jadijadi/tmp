@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/16/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, CATTARAUGUS, HUMPHREY, 4520  FIVE MILE ROAD</description><Point><coordinates>-78.467374, 42.191776</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/16/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, CATTARAUGUS, HUMPHREY, 4520  FIVE MILE ROAD</description><Point><coordinates>-78.467374, 42.191776</coordinates></Point></Placemark>
 
         </Document>
         </kml>

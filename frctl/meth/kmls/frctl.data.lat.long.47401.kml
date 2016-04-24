@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MONROE, BLOOMINGTON, 611 MILLER DR A</description><Point><coordinates>-86.525857, 39.147017</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MONROE, BLOOMINGTON, 611 MILLER DR A</description><Point><coordinates>-86.525857, 39.147017</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/3/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MONROE, BLOOMINGTON, 5415  FAIRFAX ROAD</description><Point><coordinates>-86.518115, 39.102014</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/5/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MONROE, BLOOMINGTON, 3237  ACADIA COURT</description><Point><coordinates>-86.519611, 39.134316</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/27/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MONROE, BLOOMINGTON, 1645 EAST RAYLETOWN ROAD</description><Point><coordinates>-86.512742, 39.093172</coordinates></Point></Placemark>

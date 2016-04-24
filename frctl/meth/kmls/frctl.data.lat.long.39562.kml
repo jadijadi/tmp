@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/7/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, JACKSON, ESCATAWPA, 3501 LUNDY ROAD</description><Point><coordinates>-88.552156, 30.485177</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/7/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, JACKSON, ESCATAWPA, 3501 LUNDY ROAD</description><Point><coordinates>-88.552156, 30.485177</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/19/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, JACKSON, ESCATAWPA, 3315 ROBERTS ROAD</description><Point><coordinates>-88.556623, 30.461418</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/3/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, JACKSON, MOSS POINT, 4004 LAMPKIN ROAD</description><Point><coordinates>-88.543524, 30.553194</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, JACKSON, MOSS POINT, 11814 CHATSWORTH ROAD</description><Point><coordinates>-88.414024, 30.505390</coordinates></Point></Placemark>

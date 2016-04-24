@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 12/11/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, ALLEGANY, ALMA, 4823  BYRNE ROAD</description><Point><coordinates>-78.005644, 42.084480</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 12/11/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, ALLEGANY, ALMA, 4823  BYRNE ROAD</description><Point><coordinates>-78.005644, 42.084480</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/26/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, ALLEGANY, WELLSVILLE, 23 SOUTH MAIN STREET,  APT. 6</description><Point><coordinates>-77.943437, 42.119552</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/26/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, ALLEGANY, WELLSVILLE, 23 SOUTH MAIN STREET,  APT.6</description><Point><coordinates>-77.943437, 42.119552</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/26/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, ALLEGANY, WELLSVILLE, 25 MADISON STREET,  APT. 7</description><Point><coordinates>-77.947426, 42.122428</coordinates></Point></Placemark>

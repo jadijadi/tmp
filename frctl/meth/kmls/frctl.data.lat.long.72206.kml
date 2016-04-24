@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 9/29/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, PULASKI, LITTLE ROCK, 3121 BANKHEAD 321</description><Point><coordinates>-92.222718, 34.715381</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 9/29/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, PULASKI, LITTLE ROCK, 3121 BANKHEAD 321</description><Point><coordinates>-92.222718, 34.715381</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, PULASKI, LITTLE ROCK, 1717 LOUISANA S ST 25</description><Point><coordinates>-92.274412, 34.731805</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/9/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, PULASKI, LITTLE ROCK, 4508 GODIVA LN</description><Point><coordinates>-92.330871, 34.618394</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/23/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, PULASKI, LITTLE ROCK, LITTLE ROCK,  AR PULASKI 72207</description><Point><coordinates>-92.235642, 34.708986</coordinates></Point></Placemark>

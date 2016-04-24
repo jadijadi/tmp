@@ -10,7 +10,14 @@
                         </Icon>
                       </IconStyle>
                     </Style>
-                  <Placemark><name>Meth Lab explotion at </name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON DC, No reported seizures., , </description><Point><coordinates>-77.036871, 38.907192</coordinates></Point></Placemark>
+                  <Placemark><name>Meth Lab explotion at 5/4/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, LEFLORE, SHADY POINT, 800 WASHINGTON</description><Point><coordinates>-77.036871, 38.907192</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, PIERCE, UNINCORPORATED CITY, 11717 241ST E AVE</description><Point><coordinates>-77.036871, 38.907192</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/14/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, PIERCE, UNINCORPORATED CITY, 186TH AVE</description><Point><coordinates>-77.036871, 38.907192</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/16/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, PIERCE, UNINCORPORATED CITY, 1702 194TH AVE</description><Point><coordinates>-77.036871, 38.907192</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, SKAGIT, SUDDEN VALLEY (SUBDI, 7 LOST FORK LN</description><Point><coordinates>-77.036871, 38.907192</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, THURSTON, TACOMA, 1117 6TH N ST</description><Point><coordinates>-77.036871, 38.907192</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, THURSTON, TACOMA, 404 30TH S ST</description><Point><coordinates>-77.036871, 38.907192</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at </name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON DC, No reported seizures., , </description><Point><coordinates>-77.036871, 38.907192</coordinates></Point></Placemark>
 
         </Document>
         </kml>

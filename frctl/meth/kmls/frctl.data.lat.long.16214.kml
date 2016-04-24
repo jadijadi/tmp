@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 12/4/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: PENNSYLVANIA, CLARION, CLARION, 469 SOUTH 5TH STREET  BOX LOT#23</description><Point><coordinates>-79.390962, 41.205255</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 12/4/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: PENNSYLVANIA, CLARION, CLARION, 469 SOUTH 5TH STREET  BOX LOT#23</description><Point><coordinates>-79.390962, 41.205255</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/11/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: PENNSYLVANIA, CLARION, CLARION, 75 S 5TH AVENUE</description><Point><coordinates>-79.387247, 41.212364</coordinates></Point></Placemark>
 
         </Document>

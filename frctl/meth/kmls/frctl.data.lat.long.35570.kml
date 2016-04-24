@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 7/20/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MARION, HAMILTON, 261 OLD IVIE TRAIL</description><Point><coordinates>-87.981825, 34.119835</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 7/20/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MARION, HAMILTON, 261 OLD IVIE TRAIL</description><Point><coordinates>-87.981825, 34.119835</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/23/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MARION, HAMILTON, 251 MAPLE LANE ROAD</description><Point><coordinates>-87.946427, 34.227435</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/10/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MARION, HAMILTON, 280 ELGIN COCHRAN ROAD</description><Point><coordinates>-87.905279, 34.229726</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/7/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MARION, HAMILTON, 1580 CO HWY 29</description><Point><coordinates>-87.992024, 34.174779</coordinates></Point></Placemark>

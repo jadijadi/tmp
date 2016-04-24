@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/25/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WISCONSIN, COLUMBIA, WISCONSIN DELLS, 918 CAPITOL ST</description><Point><coordinates>-89.767575, 43.629670</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/25/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WISCONSIN, COLUMBIA, WISCONSIN DELLS, 918 CAPITOL ST</description><Point><coordinates>-89.767575, 43.629670</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/15/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WISCONSIN, COLUMBIA, WISCONSIN DELLS, 729 RACE ST 5</description><Point><coordinates>-89.763471, 43.626767</coordinates></Point></Placemark>
 
         </Document>

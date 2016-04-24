@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/27/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: LUISIANA, LIVINGSTON, LIVINGSTON, 12030 FLORIDA BLVD</description><Point><coordinates>-90.772542, 30.503081</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/27/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: LUISIANA, LIVINGSTON, LIVINGSTON, 12030 FLORIDA BLVD</description><Point><coordinates>-90.772542, 30.503081</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/30/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: LUISIANA, LIVINGSTON, LIVINGSTON, 17045 RANDELL DR</description><Point><coordinates>-90.803009, 30.488475</coordinates></Point></Placemark>
 
         </Document>

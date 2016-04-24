@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/11/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, MADISON, GRANITE CITY, 2301 23RD W ST</description><Point><coordinates>-90.155351, 38.711135</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/11/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, MADISON, GRANITE CITY, 2301 23RD W ST</description><Point><coordinates>-90.155351, 38.711135</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/23/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, MADISON, GRANITE CITY, 2154 BENTON</description><Point><coordinates>-90.147982, 38.705946</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, MADISON, GRANITE CITY, 17 WILSON PARK DR</description><Point><coordinates>-90.132555, 38.721957</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/25/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, MADISON, GRANITE CITY, 1415 RHODES</description><Point><coordinates>-90.140862, 38.689547</coordinates></Point></Placemark>

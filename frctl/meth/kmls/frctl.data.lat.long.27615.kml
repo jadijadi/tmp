@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 6/26/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, WAKE, RALEIGH, 6512  SUBURBAN DRIVE 1D</description><Point><coordinates>-78.626226, 35.871435</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/26/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, WAKE, RALEIGH, 6512  SUBURBAN DRIVE 1D</description><Point><coordinates>-78.626226, 35.871435</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/12/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, WAKE, RALEIGH, 1416  DELTONA DRIVE</description><Point><coordinates>-78.663975, 35.896234</coordinates></Point></Placemark>
 
         </Document>

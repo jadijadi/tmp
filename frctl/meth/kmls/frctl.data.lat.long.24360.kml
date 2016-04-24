@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 10/1/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, PULASKI, DRAPER, 194 WOODSIDE DR</description><Point><coordinates>-80.852092, 36.974329</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 10/1/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, PULASKI, DRAPER, 194 WOODSIDE DR</description><Point><coordinates>-80.852092, 36.974329</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, WYTHE, MAX MEADOWS, 139 GINGERBREAD LN</description><Point><coordinates>-80.958237, 36.903390</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, WYTHE, MAX MEADOWS, 186 DENNISTON RD</description><Point><coordinates>-80.944168, 36.977559</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, WYTHE, MAX MEADOWS, 131 PARK ST</description><Point><coordinates>-80.950815, 36.969718</coordinates></Point></Placemark>

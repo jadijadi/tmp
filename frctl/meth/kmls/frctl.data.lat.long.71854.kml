@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 6/27/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, MILLER, GENOA, 221 MILLER COUNTY 62</description><Point><coordinates>-93.891048, 33.425256</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/27/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, MILLER, GENOA, 221 MILLER COUNTY 62</description><Point><coordinates>-93.891048, 33.425256</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/11/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, MILLER, TEXARKANA, 409 DUNDEE RD</description><Point><coordinates>-93.984417, 33.367009</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, MILLER, TEXARKANA, 1608 ASH</description><Point><coordinates>-94.040455, 33.438417</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/3/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, MILLER, TEXARKANA, 4103 JULIE CIR</description><Point><coordinates>-94.040404, 33.463647</coordinates></Point></Placemark>

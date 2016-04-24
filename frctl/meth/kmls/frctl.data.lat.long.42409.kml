@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 8/12/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, WEBSTER, DIXON, 59  DUBLIN STREET 7</description><Point><coordinates>-87.690289, 37.517822</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 8/12/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, WEBSTER, DIXON, 59  DUBLIN STREET 7</description><Point><coordinates>-87.690289, 37.517822</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/11/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, WEBSTER, DIXON, 1301  BOWIE TRAIL TRAIL D</description><Point><coordinates>-87.690289, 37.517822</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/6/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, WEBSTER, DIXON, 2338  CARTER ROAD 7</description><Point><coordinates>-87.690289, 37.517822</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/13/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, WEBSTER, DIXON, 1430 WEST 3RD STREET</description><Point><coordinates>-87.690289, 37.517822</coordinates></Point></Placemark>

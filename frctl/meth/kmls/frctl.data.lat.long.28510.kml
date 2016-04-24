@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 7/23/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, PAMLICO, ARAPAHOE, 176  GRIFFIN LANE</description><Point><coordinates>-76.826554, 35.015376</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 7/23/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, PAMLICO, ARAPAHOE, 176  GRIFFIN LANE</description><Point><coordinates>-76.826554, 35.015376</coordinates></Point></Placemark>
 
         </Document>
         </kml>

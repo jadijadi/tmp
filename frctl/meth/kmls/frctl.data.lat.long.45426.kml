@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 4/15/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, MONTGOMERY, TROTWOOD, 2112 UNION RD</description><Point><coordinates>-84.310491, 39.777348</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/15/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, MONTGOMERY, TROTWOOD, 2112 UNION RD</description><Point><coordinates>-84.310491, 39.777348</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/11/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, MONTGOMERY, TROTWOOD, 50  WHISPERING DRIVE</description><Point><coordinates>-84.308301, 39.793030</coordinates></Point></Placemark>
 
         </Document>

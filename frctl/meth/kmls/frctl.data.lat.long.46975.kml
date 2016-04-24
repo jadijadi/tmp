@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 6/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, FULTON, LEITERS FORD, 4622 BOWEN N</description><Point><coordinates>-86.384305, 41.122485</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, FULTON, LEITERS FORD, 4622 BOWEN N</description><Point><coordinates>-86.384305, 41.122485</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/5/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, FULTON, ROCHESTER, 9224 TROY DR</description><Point><coordinates>-86.418874, 41.141027</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, FULTON, ROCHESTER, 1337 OLD US 31</description><Point><coordinates>-86.199537, 41.035858</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/5/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, FULTON, ROCHESTER, 402 PONTIAC ST</description><Point><coordinates>-86.218743, 41.070552</coordinates></Point></Placemark>

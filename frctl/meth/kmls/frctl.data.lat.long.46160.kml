@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 5/7/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, BROWN, MORGANTOWN, 8669 RICHARTS RD</description><Point><coordinates>-86.205697, 39.322669</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/7/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, BROWN, MORGANTOWN, 8669 RICHARTS RD</description><Point><coordinates>-86.205697, 39.322669</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/5/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, BROWN, MORGANTOWN, 2301 DEPPERMAN RD</description><Point><coordinates>-86.210564, 39.292357</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/17/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, BROWN, MORGANTOWN, 431  GATESVILLE ROAD</description><Point><coordinates>-86.238828, 39.263910</coordinates></Point></Placemark>
 

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, FRANKLIN, BRANCH, 232 ROSS E RD</description><Point><coordinates>-93.929485, 35.343778</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, FRANKLIN, BRANCH, 232 ROSS E RD</description><Point><coordinates>-93.929485, 35.343778</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/30/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, FRANKLIN, BRANCH, 1125  HOPKLINS</description><Point><coordinates>-93.971417, 35.290209</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, FRANKLIN, CHARLESTON, 4811 CASE RD</description><Point><coordinates>-94.020367, 35.393827</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/12/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, FRANKLIN, CHARLESTON, 10220 HIGHWAY 41</description><Point><coordinates>-93.934598, 35.340156</coordinates></Point></Placemark>

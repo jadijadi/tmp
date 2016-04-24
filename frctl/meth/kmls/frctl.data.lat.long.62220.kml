@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 6/8/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, ST. CLAIR, BELLEVILLE, 1  RUSTY WIL</description><Point><coordinates>-89.964650, 38.502844</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/8/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, ST. CLAIR, BELLEVILLE, 1  RUSTY WIL</description><Point><coordinates>-89.964650, 38.502844</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/7/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, ST. CLAIR, BELLEVILLE, 112 WEST B</description><Point><coordinates>-89.986350, 38.515331</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/3/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, ST. CLAIR, BELLEVILLE, 607 EAST MCKINLEY</description><Point><coordinates>-89.976280, 38.507179</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/2/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, St.Clair, BELLEVILLE, 610 C W ST</description><Point><coordinates>-89.992819, 38.516756</coordinates></Point></Placemark>

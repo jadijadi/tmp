@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 11/13/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, CRITTENDEN, WEST MEMPHIS, 122 WEST COOPER</description><Point><coordinates>-90.186754, 35.151649</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 11/13/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, CRITTENDEN, WEST MEMPHIS, 122 WEST COOPER</description><Point><coordinates>-90.186754, 35.151649</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/27/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, CRITTENDEN, WEST MEMPHIS, 618 BALFOUR ROAD</description><Point><coordinates>-90.199239, 35.163697</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/17/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, CRITTENDEN, WEST MEMPHIS, 301 NORTH REDDING</description><Point><coordinates>-90.190768, 35.149217</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/16/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, CRITTENDEN, WEST MEMPHIS, 519 SOUTH ROSELAWN DRIVE</description><Point><coordinates>-90.195256, 35.157713</coordinates></Point></Placemark>

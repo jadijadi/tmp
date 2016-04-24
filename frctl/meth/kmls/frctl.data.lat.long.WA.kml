@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 7/6/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, GRAYS HARBOR, OCEAN SHORES, 2436 OCEAN BEACH RD</description><Point><coordinates>-124.156285, 46.973699</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 7/6/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, GRAYS HARBOR, OCEAN SHORES, 2436 OCEAN BEACH RD</description><Point><coordinates>-124.156285, 46.973699</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, KING, RENTON, 44050 4TH NE ST</description><Point><coordinates>-122.160309, 47.488496</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, KITSAP, PORT ORCHARD, 425 S 321ST PL D6</description><Point><coordinates>-122.636249, 47.540373</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/20/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, PIERCE, BONNEY LAKE, 481 S UNION ROAD</description><Point><coordinates>-122.186506, 47.177046</coordinates></Point></Placemark>

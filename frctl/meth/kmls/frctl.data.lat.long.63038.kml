@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 7/14/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, SAINT LOUIS, WILDWOOD, 509 WOOLSEY</description><Point><coordinates>-90.623924, 38.547577</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 7/14/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, SAINT LOUIS, WILDWOOD, 509 WOOLSEY</description><Point><coordinates>-90.623924, 38.547577</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/23/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, ST. LOUIS, WILDWOOD, 18641  HARDT ROAD</description><Point><coordinates>-90.695751, 38.582666</coordinates></Point></Placemark>
 
         </Document>

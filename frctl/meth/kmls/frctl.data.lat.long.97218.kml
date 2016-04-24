@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 4/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, MULTNOMAH, PORTLAND, 4541 SUMNER NE ST</description><Point><coordinates>-122.616384, 45.560220</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, MULTNOMAH, PORTLAND, 4541 SUMNER NE ST</description><Point><coordinates>-122.616384, 45.560220</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/21/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, MULTNOMAH, PORTLAND, 4444 NORTHEAST 80TH AVENUE</description><Point><coordinates>-122.580325, 45.555128</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/22/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, MULTNOMAH, PORTLAND, 6848  NE GOING</description><Point><coordinates>-122.591994, 45.556714</coordinates></Point></Placemark>
 

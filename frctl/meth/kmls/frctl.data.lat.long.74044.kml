@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/28/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CREEK, MANNFORD, 125 GARDENIA  CIR  1040</description><Point><coordinates>-96.356256, 36.122247</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/28/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CREEK, MANNFORD, 125 GARDENIA  CIR  1040</description><Point><coordinates>-96.356256, 36.122247</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/8/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CREEK, MANNFORD, 369TH W AVE</description><Point><coordinates>-96.405028, 36.066686</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/7/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CREEK, MANNFORD, 39484 HIGHWAY 33 W</description><Point><coordinates>-96.433719, 36.003030</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/2/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CREEK, MANNFORD, 36927 53 W</description><Point><coordinates>-96.406380, 36.087087</coordinates></Point></Placemark>

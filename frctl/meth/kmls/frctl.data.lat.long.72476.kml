@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 8/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, LAWRENCE, WALNUT RIDGE, 6 LAWRENCE 701 RD</description><Point><coordinates>-90.944203, 35.926584</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 8/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, LAWRENCE, WALNUT RIDGE, 6 LAWRENCE 701 RD</description><Point><coordinates>-90.944203, 35.926584</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/1/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, LAWRENCE, WALNUT RIDGE, 300  RIDGECREST</description><Point><coordinates>-90.948745, 36.076606</coordinates></Point></Placemark>
 
         </Document>

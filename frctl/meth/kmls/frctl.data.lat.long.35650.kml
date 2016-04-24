@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 6/3/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, LAWRENCE, MOULTON, 95 CR 510</description><Point><coordinates>-87.351019, 34.566360</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/3/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, LAWRENCE, MOULTON, 95 CR 510</description><Point><coordinates>-87.351019, 34.566360</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, LAWRENCE, MOULTON, 2658 CR 181</description><Point><coordinates>-87.252290, 34.445798</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/18/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, LAWRENCE, MOULTON, 417 SOUTH ST</description><Point><coordinates>-87.293437, 34.478744</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/13/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, LAWRENCE, MOULTON, 925 SOUTHEAST FRANKLIN SMITH ROAD</description><Point><coordinates>-87.266252, 34.484721</coordinates></Point></Placemark>

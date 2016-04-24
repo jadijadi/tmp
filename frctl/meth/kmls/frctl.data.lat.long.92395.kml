@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, SAN BERNARDINO, VICTORVILLE, 16717 C ST</description><Point><coordinates>-117.297106, 34.537731</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, SAN BERNARDINO, VICTORVILLE, 16717 C ST</description><Point><coordinates>-117.297106, 34.537731</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, SAN BERNARDINO, VICTORVILLE, 17053 B ST</description><Point><coordinates>-117.291982, 34.532135</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/21/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, SAN BERNARDINO, VICTORVILLE, 16688 HUGHES</description><Point><coordinates>-117.299863, 34.511151</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/1/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, SAN BERNARDINO, VICTORVILLE, 16262 YUCCA AVE</description><Point><coordinates>-117.309250, 34.533231</coordinates></Point></Placemark>

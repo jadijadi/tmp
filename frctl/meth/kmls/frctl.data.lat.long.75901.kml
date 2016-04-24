@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, ANGELINA, LUFKIN, 207 CHAMBERS ST</description><Point><coordinates>-94.716306, 31.344211</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, ANGELINA, LUFKIN, 207 CHAMBERS ST</description><Point><coordinates>-94.716306, 31.344211</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/17/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, ANGELINA, LUFKIN, 2011 FIRST S ST 107</description><Point><coordinates>-94.725686, 31.309258</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, ANGELINA, LUFKIN, 5 RT 1840</description><Point><coordinates>-94.638789, 31.107080</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/15/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, ANGELINA, LUFKIN, 511 MYRTIE DR</description><Point><coordinates>-94.688974, 31.352188</coordinates></Point></Placemark>

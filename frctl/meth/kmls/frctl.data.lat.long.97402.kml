@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 6/1/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, LANE, EUGENE, 4780 CODY</description><Point><coordinates>-123.180704, 44.089101</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/1/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, LANE, EUGENE, 4780 CODY</description><Point><coordinates>-123.180704, 44.089101</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, LANE, EUGENE, 394 1/2 BLAIR</description><Point><coordinates>-123.112844, 44.059242</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, LANE, EUGENE, 1300 QUAKER ST</description><Point><coordinates>-123.144016, 44.045618</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, LANE, EUGENE, 2063 AMIRANTE</description><Point><coordinates>-123.189976, 44.086800</coordinates></Point></Placemark>

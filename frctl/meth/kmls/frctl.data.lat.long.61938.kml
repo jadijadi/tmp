@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, COLES, MATTOON, 2101 CHAMPAIGN 200</description><Point><coordinates>-88.380214, 39.486250</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, COLES, MATTOON, 2101 CHAMPAIGN 200</description><Point><coordinates>-88.380214, 39.486250</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/7/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, COLES, MATTOON, 1817 NINTH S A-5</description><Point><coordinates>-88.364318, 39.463856</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/15/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, COLES, MATTOON, 2021 LAFAYETTE 3</description><Point><coordinates>-88.356604, 39.466367</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/5/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, COLES, MATTOON, 8608 COUNTY 200 EAST N RD</description><Point><coordinates>-88.434241, 39.499312</coordinates></Point></Placemark>

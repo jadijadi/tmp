@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/14/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, GRANT, MOSES LAKE, 12037 HERITAGE LN</description><Point><coordinates>-119.235294, 47.084843</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/14/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, GRANT, MOSES LAKE, 12037 HERITAGE LN</description><Point><coordinates>-119.235294, 47.084843</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/11/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, GRANT, MOSES LAKE, 4647 STAR DR</description><Point><coordinates>-119.302734, 47.151088</coordinates></Point></Placemark>
 
         </Document>

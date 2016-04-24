@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/10/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JEFFERSON, HANOVER, 500 RAINBOW LN 3B</description><Point><coordinates>-85.474461, 38.718354</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/10/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JEFFERSON, HANOVER, 500 RAINBOW LN 3B</description><Point><coordinates>-85.474461, 38.718354</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/21/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JEFFERSON, HANOVER, 40  AMBER WAVES BOULEVARD</description><Point><coordinates>-85.453662, 38.737704</coordinates></Point></Placemark>
 
         </Document>

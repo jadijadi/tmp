@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 7/27/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALASKA, ANCHORAGE, ANCHORAGE, 4206  HAYES STREET UPPER UNIT</description><Point><coordinates>-149.900278, 61.218056</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 7/27/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALASKA, ANCHORAGE, ANCHORAGE, 4206  HAYES STREET UPPER UNIT</description><Point><coordinates>-149.900278, 61.218056</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALASKA, KENAI PENINSULA, NINILCHIK, MP 155 STERLING HWY</description><Point><coordinates>-151.258333, 60.554444</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALASKA, MATANUSKA-SUSITNA, WILLOW, NHN MILE 43 WILLOW FISHHOOK RD</description><Point><coordinates>-149.991063, 61.769734</coordinates></Point></Placemark>
 

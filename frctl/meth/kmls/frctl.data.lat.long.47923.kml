@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WHITE, BROOKSTON, 850 300 E S</description><Point><coordinates>-86.812146, 40.615497</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WHITE, BROOKSTON, 850 300 E S</description><Point><coordinates>-86.812146, 40.615497</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/25/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WHITE, BROOKSTON, 2858 COUNTY ROAD 850 SOUTH E</description><Point><coordinates>-86.867234, 40.602814</coordinates></Point></Placemark>
 
         </Document>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 4/27/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, LOWNDES, CALEDONIA, 2238 BORDER SPRING ROAD</description><Point><coordinates>-88.305213, 33.670198</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/27/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, LOWNDES, CALEDONIA, 2238 BORDER SPRING ROAD</description><Point><coordinates>-88.305213, 33.670198</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/27/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, LOWNDES, CALEDONIA, 68 STANLEY ROAD</description><Point><coordinates>-88.320497, 33.681134</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/28/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, LOWNDES, CALEDONIA, 28 NORTH CHURCH STREET</description><Point><coordinates>-88.327745, 33.687291</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/12/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, LOWNDES, CALEDONIA, 2039  BODER SPRINGS ROAD</description><Point><coordinates>-88.301320, 33.667821</coordinates></Point></Placemark>

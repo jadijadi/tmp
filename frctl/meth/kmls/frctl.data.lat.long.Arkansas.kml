@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 10/11/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, BENTON, HIWASSE, 72 HWY 72</description><Point><coordinates>-94.338168, 36.431836</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 10/11/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, BENTON, HIWASSE, 72 HWY 72</description><Point><coordinates>-94.338168, 36.431836</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, BOONE, MOUNTAIN HOME, 1260 LANCE WAY 8</description><Point><coordinates>-91.831833, 35.201050</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/6/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, FULTON, HARDY, 179 WILLOW LN</description><Point><coordinates>-91.831833, 35.201050</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/5/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, IZARD, DOLPH, 39 NORTH 51</description><Point><coordinates>-92.112738, 36.230926</coordinates></Point></Placemark>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 7/24/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, COAHOMA, CLARKSDALE, 11570 OLD AFRICIA RD</description><Point><coordinates>-90.570932, 34.200109</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 7/24/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, COAHOMA, CLARKSDALE, 11570 OLD AFRICIA RD</description><Point><coordinates>-90.570932, 34.200109</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, DESOTO, SOUTHAVEN, 841 TOWN & COUNTRY DR</description><Point><coordinates>-90.002296, 34.991859</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/3/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, FORREST, HATTIESBURG, 2404 O'FERRELL STREET B</description><Point><coordinates>-89.290339, 31.327119</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/25/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, HARRISON, D'IBERVILLE, 12006 SOUTH HIDDEN RIVER ROAD</description><Point><coordinates>-88.890864, 30.426309</coordinates></Point></Placemark>

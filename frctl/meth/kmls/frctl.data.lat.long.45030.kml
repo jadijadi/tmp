@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 8/14/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, HAMILTON, HARRISON, 133 FLINTSTONE DR</description><Point><coordinates>-84.814652, 39.249925</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 8/14/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, HAMILTON, HARRISON, 133 FLINTSTONE DR</description><Point><coordinates>-84.814652, 39.249925</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/1/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, HAMILTON, HARRISON, 9140 LAWRENCEBURG RD</description><Point><coordinates>-84.812512, 39.237777</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/20/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, HAMILTON, HARRISON, 7066 LAWRENCEBURG RD</description><Point><coordinates>-84.797017, 39.218384</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/7/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, HAMILTON, HARRISON, 8789 LAWRENCEBURG RD</description><Point><coordinates>-84.813929, 39.237661</coordinates></Point></Placemark>

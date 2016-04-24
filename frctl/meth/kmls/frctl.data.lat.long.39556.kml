@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 8/7/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, HANCOCK, KILN, 6082 APACHE DRIVE</description><Point><coordinates>-89.443351, 30.394697</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 8/7/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, HANCOCK, KILN, 6082 APACHE DRIVE</description><Point><coordinates>-89.443351, 30.394697</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/21/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, HANCOCK, KILN, 24500  STANDARD CEMETERY ROAD</description><Point><coordinates>-89.364766, 30.529075</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/23/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, HANCOCK, KILN, 17216  GARDINIA STREET</description><Point><coordinates>-89.403804, 30.421046</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/18/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, HANCOCK, KILN, 22060  RD. 357</description><Point><coordinates>-89.395097, 30.497822</coordinates></Point></Placemark>

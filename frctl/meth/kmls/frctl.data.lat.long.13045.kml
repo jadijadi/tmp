@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 7/13/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, CORTLAND, CORTLAND, 76 LINCOLN AVENUE,  APT. 3</description><Point><coordinates>-76.187870, 42.602183</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 7/13/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, CORTLAND, CORTLAND, 76 LINCOLN AVENUE,  APT. 3</description><Point><coordinates>-76.187870, 42.602183</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/20/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, CORTLAND, CORTLAND, 76  LINCOLN AVENUE</description><Point><coordinates>-76.187870, 42.602183</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/11/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, CORTLAND, CORTLAND, 12  PARK STREET</description><Point><coordinates>-76.186986, 42.592233</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/22/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, CORTLAND, CORTLAND, 34  UNION STREET</description><Point><coordinates>-76.182917, 42.593116</coordinates></Point></Placemark>

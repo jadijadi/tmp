@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 4/19/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, JEFFERSON, ADDINGTON, 427 EVERETT</description><Point><coordinates>-97.966980, 34.244535</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/19/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, JEFFERSON, ADDINGTON, 427 EVERETT</description><Point><coordinates>-97.966980, 34.244535</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/6/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, JEFFERSON, WAURIKA, 415 1/2 NONA E</description><Point><coordinates>-97.997536, 34.167037</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/7/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, JEFFERSON, WAURIKA, 401 1/2 MORGAN  ST</description><Point><coordinates>-97.997536, 34.167037</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/23/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, JEFFERSON, WAURIKA, 20447 E COUNTY ROAD 159</description><Point><coordinates>-97.997536, 34.167037</coordinates></Point></Placemark>

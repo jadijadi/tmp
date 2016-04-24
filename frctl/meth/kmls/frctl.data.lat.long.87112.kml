@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW MEXICO, BERNALILLO, ALBUQUERQUE, 2309 ALGODONES NE</description><Point><coordinates>-106.512285, 35.108094</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW MEXICO, BERNALILLO, ALBUQUERQUE, 2309 ALGODONES NE</description><Point><coordinates>-106.512285, 35.108094</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW MEXICO, BERNALILLO, ALBUQUERQUE, 2421 ZENA LONA NE</description><Point><coordinates>-106.511309, 35.110137</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW MEXICO, BERNALILLO, ALBUQUERQUE, 1613 CEDAR RIDGE NE</description><Point><coordinates>-106.512717, 35.098996</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW MEXICO, BERNALILLO, ALBUQUERQUE, 12337 EASTRIDGE NE</description><Point><coordinates>-106.506595, 35.096514</coordinates></Point></Placemark>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 10/7/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, CORTLAND, WATERTOWN, 22904  SWAN ROAD</description><Point><coordinates>-75.911158, 43.918698</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 10/7/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, CORTLAND, WATERTOWN, 22904  SWAN ROAD</description><Point><coordinates>-75.911158, 43.918698</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/16/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, ESSEX, WATERTOWN, 843  SUPERIOR STREET</description><Point><coordinates>-75.919558, 43.987331</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/2/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, HERKIMER, WATERTOWN, 20710  SHEPARD ROAD</description><Point><coordinates>-75.873560, 43.966485</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/25/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, HERKIMER, WATERTOWN, 502  ACADEMY STREET</description><Point><coordinates>-75.903572, 43.970310</coordinates></Point></Placemark>

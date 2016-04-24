@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, WARREN, WARRENTON, 28 FAIRLANE ACRES</description><Point><coordinates>-91.152438, 38.832470</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, WARREN, WARRENTON, 28 FAIRLANE ACRES</description><Point><coordinates>-91.152438, 38.832470</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, WARREN, WARRENTON, 381 PENDELTON LOST CREEK</description><Point><coordinates>-91.221210, 38.785280</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, WARREN, WARRENTON, 28087 PENDLETON LOST CREEK</description><Point><coordinates>-91.210403, 38.801579</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, WARREN, WARRENTON, 4 LOTUS CT</description><Point><coordinates>-91.127655, 38.859327</coordinates></Point></Placemark>

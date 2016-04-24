@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 5/3/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, BEXAR, SAN ANTONIO, 11439 BLACK FOX ST</description><Point><coordinates>-98.703536, 29.402767</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/3/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, BEXAR, SAN ANTONIO, 11439 BLACK FOX ST</description><Point><coordinates>-98.703536, 29.402767</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/12/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, BEXAR, SAN ANTONIO, 11439 BLACK FOX</description><Point><coordinates>-98.703536, 29.402767</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/14/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, BEXAR, SAN ANTONIO, 1142 SOUTH ELLISON STREET</description><Point><coordinates>-98.678121, 29.424454</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/3/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, BEXAR, SAN ANTONIO, 614 MOURNING DOVE</description><Point><coordinates>-98.717031, 29.422201</coordinates></Point></Placemark>

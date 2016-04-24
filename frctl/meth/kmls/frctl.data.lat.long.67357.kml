@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, LABETTE, PARSONS, 722 15TH N ST</description><Point><coordinates>-95.257566, 37.346961</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, LABETTE, PARSONS, 722 15TH N ST</description><Point><coordinates>-95.257566, 37.346961</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/17/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, LABETTE, PARSONS, 529 32ND S</description><Point><coordinates>-95.285523, 37.336247</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/29/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, LABETTE, PARSONS, 1810 OAK</description><Point><coordinates>-95.263590, 37.352581</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/3/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, LABETTE, PARSONS, 315 SOUTH 23RD</description><Point><coordinates>-95.270694, 37.338543</coordinates></Point></Placemark>

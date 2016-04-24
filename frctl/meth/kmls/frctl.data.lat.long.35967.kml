@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/21/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, Dekalb, FORT PAYNE, 2452 CO RD 79</description><Point><coordinates>-85.790733, 34.321387</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/21/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, Dekalb, FORT PAYNE, 2452 CO RD 79</description><Point><coordinates>-85.790733, 34.321387</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/17/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, Dekalb, FORT PAYNE, 276 COUNTY ROAD 81</description><Point><coordinates>-85.774833, 34.373176</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/29/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, Dekalb, FORT PAYNE, 1968 GODFREY NE AVE</description><Point><coordinates>-85.702201, 34.458985</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/5/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, Dekalb, FORT PAYNE, 706 CAVE SW ST</description><Point><coordinates>-85.724979, 34.429488</coordinates></Point></Placemark>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 9/25/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, MILLER, COLQUITT, 68 CLYVE COOK ROAD</description><Point><coordinates>-84.658173, 31.182182</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 9/25/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, MILLER, COLQUITT, 68 CLYVE COOK ROAD</description><Point><coordinates>-84.658173, 31.182182</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/28/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, MILLER, COLQUITT, 78 BRYAN ROAD</description><Point><coordinates>-84.685270, 31.095852</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/18/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, MILLER, COLQUITT, 244  MAYAW ROAD</description><Point><coordinates>-84.733253, 31.171293</coordinates></Point></Placemark>
 

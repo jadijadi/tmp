@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/11/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, MOULTRIE, SULLIVAN, 411 JACKSON W</description><Point><coordinates>-88.603516, 39.600824</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/11/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, MOULTRIE, SULLIVAN, 411 JACKSON W</description><Point><coordinates>-88.603516, 39.600824</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/7/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, MOULTRIE, SULLIVAN, 379 COUNTRY ROAD 1380 NORTH E</description><Point><coordinates>-88.464242, 39.575068</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/14/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, MOULTRIE, SULLIVAN, 109 FULLER S ST</description><Point><coordinates>-88.617654, 39.598062</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/12/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, MOULTRIE, SULLIVAN, 915 MCCLELLAN</description><Point><coordinates>-88.613112, 39.606821</coordinates></Point></Placemark>

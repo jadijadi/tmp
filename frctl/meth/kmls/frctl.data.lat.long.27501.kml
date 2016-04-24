@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 4/17/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, HARNETT, ANGIER, 182  YOUNG ROAD</description><Point><coordinates>-78.669254, 35.472019</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/17/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, HARNETT, ANGIER, 182  YOUNG ROAD</description><Point><coordinates>-78.669254, 35.472019</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/19/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, HARNETT, ANGIER, 632  CHINABERRY LANE</description><Point><coordinates>-78.765615, 35.496546</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/7/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, HARNETT, ANGIER, 1716  YOUNG ROAD</description><Point><coordinates>-78.666838, 35.493478</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/4/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, HARNETT, ANGIER, 39  OAKWOOD DRIVE</description><Point><coordinates>-78.742924, 35.503991</coordinates></Point></Placemark>

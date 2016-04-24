@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 11/8/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, BULLITT, BROOKS, 414 NEW ED QUICK RD</description><Point><coordinates>-85.741042, 38.055861</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 11/8/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, BULLITT, BROOKS, 414 NEW ED QUICK RD</description><Point><coordinates>-85.741042, 38.055861</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/19/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, BULLITT, BROOKS, 545 NEW ED QUICK ROAD</description><Point><coordinates>-85.740929, 38.056012</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/18/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, BULLITT, CLERMONT, 452 PERKINS LANE</description><Point><coordinates>-85.650286, 37.928140</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/14/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, BULLITT, CLERMONT, 1091 HAPPY HOLLOW ROAD</description><Point><coordinates>-85.657672, 37.936657</coordinates></Point></Placemark>

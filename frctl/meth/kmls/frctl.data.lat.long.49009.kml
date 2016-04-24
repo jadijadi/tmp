@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/26/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, KALAMAZOO, COOPER TOWNSHIP, 254 D AVE E LOT 60</description><Point><coordinates>-85.586898, 42.376494</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/26/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, KALAMAZOO, COOPER TOWNSHIP, 254 D AVE E LOT 60</description><Point><coordinates>-85.586898, 42.376494</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/5/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, KALAMAZOO, KALAMAZOO, 618 MAPLE HILL DR 110</description><Point><coordinates>-85.659216, 42.294397</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, KALAMAZOO, KALAMAZOO, 1966 11TH S ST 4</description><Point><coordinates>-85.658064, 42.270945</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, KALAMAZOO, KALAMAZOO, 5672 MICHIGAN E AVE</description><Point><coordinates>-85.664685, 42.361539</coordinates></Point></Placemark>

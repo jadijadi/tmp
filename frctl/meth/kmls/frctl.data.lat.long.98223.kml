@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, SNOHOMISH, ARLINGTON, 4300 STANWORD BRYANT RD</description><Point><coordinates>-122.171336, 48.238658</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, SNOHOMISH, ARLINGTON, 4300 STANWORD BRYANT RD</description><Point><coordinates>-122.171336, 48.238658</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, SNOHOMISH, ARLINGTON, 2405 188TH NE ST</description><Point><coordinates>-122.197612, 48.167319</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/15/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, SNOHOMISH, ARLINGTON, 24025 99TH NE DR</description><Point><coordinates>-122.092592, 48.214372</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/17/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, SNOHOMISH, ARLINGTON, 19300 106TH NE AVE</description><Point><coordinates>-122.081917, 48.175515</coordinates></Point></Placemark>

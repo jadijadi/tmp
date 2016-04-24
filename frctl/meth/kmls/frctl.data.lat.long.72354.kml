@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 6/27/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, MISSISSIPPI, WEST RIDGE, 5324  HWY140</description><Point><coordinates>-90.269608, 35.676415</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/27/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, MISSISSIPPI, WEST RIDGE, 5324  HWY140</description><Point><coordinates>-90.269608, 35.676415</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/23/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, POINSETT, LEPANTO, 113  WOODLAND</description><Point><coordinates>-90.334101, 35.613100</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/4/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, POINSETT, LEPANTO, 440  POWELL STREET</description><Point><coordinates>-90.335568, 35.603565</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/15/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, POINSETT, LEPANTO, 530  KENWOOD</description><Point><coordinates>-90.333381, 35.608244</coordinates></Point></Placemark>

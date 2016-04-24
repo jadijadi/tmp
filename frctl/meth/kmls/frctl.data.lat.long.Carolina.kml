@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 4/12/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, AVERY, NEWLAND, 1805  SUGAR MOUNTAIN #1 ROAD</description><Point><coordinates>-81.901339, 36.100856</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/12/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, AVERY, NEWLAND, 1805  SUGAR MOUNTAIN #1 ROAD</description><Point><coordinates>-81.901339, 36.100856</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/29/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, JACKSON, MURPHY, 2545 SHOAL CREEK</description><Point><coordinates>-79.019300, 35.759573</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/24/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, JOHNSTON, [Unspecified], 640  GREENLEAF ROAD</description><Point><coordinates>-79.019300, 35.759573</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/28/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, JOHNSTON, [Unspecified], 378  PIERCE ROAD</description><Point><coordinates>-79.019300, 35.759573</coordinates></Point></Placemark>

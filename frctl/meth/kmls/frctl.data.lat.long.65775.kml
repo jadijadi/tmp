@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, HOWELL, WEST PLAINS, 11011 COUNTY ROAD 9510</description><Point><coordinates>-91.732529, 36.644416</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, HOWELL, WEST PLAINS, 11011 COUNTY ROAD 9510</description><Point><coordinates>-91.732529, 36.644416</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/1/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, HOWELL, WEST PLAINS, 670 HOWELL COUNTY 1280 RD</description><Point><coordinates>-91.844109, 36.770841</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, HOWELL, WEST PLAINS, 10404 CR 6570</description><Point><coordinates>-91.852371, 36.728115</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/14/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, HOWELL, WEST PLAINS, 201 RAILROAD N AVE</description><Point><coordinates>-91.699667, 36.651974</coordinates></Point></Placemark>

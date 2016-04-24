@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 9/22/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, BROWN, FAYETTEVILLE, 410 RUSSELL ST</description><Point><coordinates>-83.930984, 39.185796</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 9/22/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, BROWN, FAYETTEVILLE, 410 RUSSELL ST</description><Point><coordinates>-83.930984, 39.185796</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/27/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, HIGHLAND, HILLSBORO, 10600 LOIS LN</description><Point><coordinates>-83.501800, 39.202508</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/29/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, HIGHLAND, HILLSBORO, 7131 FIELD LN</description><Point><coordinates>-83.624661, 39.138685</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/27/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, HIGHLAND, HILLSBORO, 6759 HEATHER MOOR TRAIL</description><Point><coordinates>-83.473079, 39.198831</coordinates></Point></Placemark>

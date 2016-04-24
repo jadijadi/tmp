@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/11/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, ADAMS, CUMBERLAND, 1092 ADAMS STREET</description><Point><coordinates>-94.917331, 41.158470</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/11/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, ADAMS, CUMBERLAND, 1092 ADAMS STREET</description><Point><coordinates>-94.917331, 41.158470</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, CASS, CUMBERLAND, 1057 BIRCH AVE</description><Point><coordinates>-94.891484, 41.029469</coordinates></Point></Placemark>
 
         </Document>

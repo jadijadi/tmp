@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 8/19/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BARRY, MIDDLEVILLE, MCCANN\IRVING ROAD</description><Point><coordinates>-85.461960, 42.713089</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 8/19/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BARRY, MIDDLEVILLE, MCCANN\IRVING ROAD</description><Point><coordinates>-85.461960, 42.713089</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/16/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, BARRY, MIDDLEVILLE, 201  LINCOLN STREET</description><Point><coordinates>-85.460060, 42.717362</coordinates></Point></Placemark>
 
         </Document>

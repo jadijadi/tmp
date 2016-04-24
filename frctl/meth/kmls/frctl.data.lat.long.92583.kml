@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 8/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, RIVERSIDE, SAN JACINTO, 437 MEAD</description><Point><coordinates>-116.953797, 33.786664</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 8/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, RIVERSIDE, SAN JACINTO, 437 MEAD</description><Point><coordinates>-116.953797, 33.786664</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/15/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, RIVERSIDE, SAN JACINTO, 344 N STATE ST SP 196</description><Point><coordinates>-116.973609, 33.792990</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/22/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, RIVERSIDE, SAN JACINTO, 610 WASHINGTON E AVE</description><Point><coordinates>-116.950659, 33.764932</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/20/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, RIVERSIDE, SAN JACINTO, 182 DE ANZA</description><Point><coordinates>-116.966979, 33.785064</coordinates></Point></Placemark>

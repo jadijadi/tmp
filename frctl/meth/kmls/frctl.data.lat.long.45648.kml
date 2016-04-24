@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 4/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, PIKE, LUCASVILLE, 2080 OWL CREEK RD</description><Point><coordinates>-82.950019, 38.960192</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, PIKE, LUCASVILLE, 2080 OWL CREEK RD</description><Point><coordinates>-82.950019, 38.960192</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/2/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, PIKE, LUCASVILLE, 5972 CAMP CREEK ROAD</description><Point><coordinates>-83.121068, 38.975588</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/20/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, SCIOTO, LUCASVILLE, 1421 LUSASVILL-MINFORD RD</description><Point><coordinates>-82.940700, 38.868600</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/4/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, SCIOTO, LUCASVILLE, 2879 MILLER'S RUN RD</description><Point><coordinates>-82.958236, 38.919777</coordinates></Point></Placemark>

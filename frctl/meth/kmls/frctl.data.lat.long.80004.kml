@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, JEFFERSON, ARVADA, 11308 59TH W PL</description><Point><coordinates>-105.124856, 39.804945</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, JEFFERSON, ARVADA, 11308 59TH W PL</description><Point><coordinates>-105.124856, 39.804945</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, JEFFERSON, ARVADA, 6591 ZANG N CT</description><Point><coordinates>-105.146350, 39.816559</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/19/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, JEFFERSON, ARVADA, 9660 WEST 63RD AVENUE</description><Point><coordinates>-105.106046, 39.810741</coordinates></Point></Placemark>
 

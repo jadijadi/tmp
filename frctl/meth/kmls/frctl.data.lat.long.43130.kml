@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 4/10/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, FAIRFIELD, LANCASTER, 537 1/2 MAIN E ST</description><Point><coordinates>-82.592280, 39.713846</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/10/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, FAIRFIELD, LANCASTER, 537 1/2 MAIN E ST</description><Point><coordinates>-82.592280, 39.713846</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/22/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, FAIRFIELD, LANCASTER, 637 1/2 6TH E ST</description><Point><coordinates>-82.589387, 39.719765</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/5/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, FAIRFIELD, LANCASTER, 200 TENANT S ST</description><Point><coordinates>-82.595413, 39.717199</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/1/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, FAIRFIELD, LANCASTER, 123 WEST WALNUT STREET</description><Point><coordinates>-82.603144, 39.711401</coordinates></Point></Placemark>

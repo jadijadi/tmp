@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/15/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, KALAMAZOO, KALAMAZOO, 1606 PALMER ST</description><Point><coordinates>-85.560231, 42.269760</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/15/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, KALAMAZOO, KALAMAZOO, 1606 PALMER ST</description><Point><coordinates>-85.560231, 42.269760</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/21/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, KALAMAZOO, KALAMAZOO, 1915 MARCH ST</description><Point><coordinates>-85.562896, 42.272992</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/27/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, KALAMAZOO, KALAMAZOO, 619 EGLESTON ST</description><Point><coordinates>-85.573110, 42.276490</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/15/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, KALAMAZOO, KALAMAZOO, 2515 CORK E ST 21</description><Point><coordinates>-85.548078, 42.259568</coordinates></Point></Placemark>

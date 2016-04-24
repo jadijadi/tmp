@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 5/13/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: PENNSYLVANIA, PHILADELPHIA, PHILADELPHIA, 1331 HOLLYWOOD S ST</description><Point><coordinates>-75.192607, 39.936638</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/13/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: PENNSYLVANIA, PHILADELPHIA, PHILADELPHIA, 1331 HOLLYWOOD S ST</description><Point><coordinates>-75.192607, 39.936638</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: PENNSYLVANIA, PHILADELPHIA, PHILADELPHIA, 1503 BAILEY S ST</description><Point><coordinates>-75.188278, 39.934171</coordinates></Point></Placemark>
 
         </Document>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, SEDGWICK, WICHITA, 2635 HYDRAULIC S</description><Point><coordinates>-97.317988, 37.645165</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, SEDGWICK, WICHITA, 2635 HYDRAULIC S</description><Point><coordinates>-97.317988, 37.645165</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, SEDGWICK, WICHITA, 4459 BROADWAY S 22</description><Point><coordinates>-97.334754, 37.613386</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/14/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, SEDGWICK, WICHITA, 2651 SOUTH CHEYENNE</description><Point><coordinates>-97.303667, 37.644389</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/12/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, SEDGWICK, WICHITA, 2525 S LAURA</description><Point><coordinates>-97.324049, 37.646849</coordinates></Point></Placemark>

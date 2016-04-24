@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/23/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CHRISTIAN, ROGERSVILLE, 3253 BRADEN RD</description><Point><coordinates>-93.012179, 37.065547</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/23/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CHRISTIAN, ROGERSVILLE, 3253 BRADEN RD</description><Point><coordinates>-93.012179, 37.065547</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/6/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CHRISTIAN, ROGERSVILLE, 123 CHESTNUT DR</description><Point><coordinates>-93.101593, 37.067452</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/25/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, GREENE, ROGERSVILLE, 2080 HIGHWAY 125 S</description><Point><coordinates>-93.117231, 37.172161</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/24/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, GREENE, ROGERSVILLE, WEST 60 HWY AND FR. ROAD 213</description><Point><coordinates>-93.055734, 37.116995</coordinates></Point></Placemark>

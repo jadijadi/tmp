@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 10/21/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, SEQUOYAH, SALLISAW, SOUTH 4769 ROAD</description><Point><coordinates>-94.787446, 35.460371</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 10/21/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, SEQUOYAH, SALLISAW, SOUTH 4769 ROAD</description><Point><coordinates>-94.787446, 35.460371</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/24/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, SEQUOYAH, SALLISAW, 474832 EAST 1075 ROAD</description><Point><coordinates>-94.787446, 35.460371</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/11/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, SEQUOYAH, SALLISAW, 109  WATER TOWER</description><Point><coordinates>-94.694171, 35.436373</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/22/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, SEQUOYAH, SALLISAW, 1100  EAST ROAD</description><Point><coordinates>-94.888616, 35.420127</coordinates></Point></Placemark>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 5/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, CUMBERLAND, GREENUP, 1073 ILLINOIS ROUTE 130 N</description><Point><coordinates>-88.135300, 39.328162</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, CUMBERLAND, GREENUP, 1073 ILLINOIS ROUTE 130 N</description><Point><coordinates>-88.135300, 39.328162</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/29/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, CUMBERLAND, GREENUP, 1540 IL. STATE HWY 121</description><Point><coordinates>-88.186851, 39.256776</coordinates></Point></Placemark>
 
         </Document>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 5/24/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, ADAMS, WEST UNION, 210 RICE DR 19</description><Point><coordinates>-83.565183, 38.777030</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/24/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, ADAMS, WEST UNION, 210 RICE DR 19</description><Point><coordinates>-83.565183, 38.777030</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/27/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, ADAMS, WEST UNION, 466 CHAPARRAL RD</description><Point><coordinates>-83.608151, 38.838268</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/8/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, ADAMS, WEST UNION, 222 RICE DR 3</description><Point><coordinates>-83.565035, 38.775793</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/26/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, ADAMS, WEST UNION, 147 OVER DR</description><Point><coordinates>-83.530476, 38.817507</coordinates></Point></Placemark>

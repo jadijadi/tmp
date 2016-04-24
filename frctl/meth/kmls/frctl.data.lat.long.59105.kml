@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 9/7/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MONTANA, YELLOWSTONE, BILLINGS, 2320 BENCH BLVD</description><Point><coordinates>-108.466503, 45.840653</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 9/7/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MONTANA, YELLOWSTONE, BILLINGS, 2320 BENCH BLVD</description><Point><coordinates>-108.466503, 45.840653</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MONTANA, YELLOWSTONE, BILLINGS, 340 ANGEL LANE</description><Point><coordinates>-108.476930, 45.838576</coordinates></Point></Placemark>
 
         </Document>

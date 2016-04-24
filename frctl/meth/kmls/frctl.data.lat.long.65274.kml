@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, HOWARD, NEW FRANKLIN, 109 PEARL ST</description><Point><coordinates>-92.734077, 39.016038</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, HOWARD, NEW FRANKLIN, 109 PEARL ST</description><Point><coordinates>-92.734077, 39.016038</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, HOWARD, NEW FRANKLIN, 211 MISSOURI S ST</description><Point><coordinates>-92.737406, 39.014577</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, HOWARD, NEW FRANKLIN, 302 BROADWAY E</description><Point><coordinates>-92.734004, 39.017146</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, HOWARD, NEW FRANKLIN, 211 MISSOURI S ST</description><Point><coordinates>-92.737406, 39.014577</coordinates></Point></Placemark>

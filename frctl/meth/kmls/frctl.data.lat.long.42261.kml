@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, BUTLER, MORGANTOWN, 3780 N RD</description><Point><coordinates>-86.683600, 37.225602</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, BUTLER, MORGANTOWN, 3780 N RD</description><Point><coordinates>-86.683600, 37.225602</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, BUTLER, MORGANTOWN, 3780 REGION N</description><Point><coordinates>-86.683600, 37.225602</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/7/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, BUTLER, MORGANTOWN, 995 GRANCER W RD</description><Point><coordinates>-86.559235, 37.337558</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/1/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, BUTLER, MORGANTOWN, 80 MORGAN E RD</description><Point><coordinates>-86.651344, 37.341354</coordinates></Point></Placemark>

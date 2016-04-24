@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 10/19/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, GADSDEN, HAVANA, 590 RICH BAY</description><Point><coordinates>-84.405394, 30.594344</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 10/19/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, GADSDEN, HAVANA, 590 RICH BAY</description><Point><coordinates>-84.405394, 30.594344</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/7/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, GADSDEN, HAVANA, 315 TALL PINE DRIVE</description><Point><coordinates>-84.357888, 30.625412</coordinates></Point></Placemark>
 
         </Document>

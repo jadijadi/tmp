@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/7/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, KNOX, CORBIN, 480 MARBLE RD</description><Point><coordinates>-84.096876, 36.948699</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/7/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, KNOX, CORBIN, 480 MARBLE RD</description><Point><coordinates>-84.096876, 36.948699</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/13/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, KNOX, CORBIN, 553 WATCH AVE</description><Point><coordinates>-84.045933, 36.956807</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/3/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, KNOX, CORBIN, 553 WATCH ROAD</description><Point><coordinates>-84.045933, 36.956807</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/7/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, KNOX, CORBIN, 493  STANDARD AVENUE</description><Point><coordinates>-84.079286, 36.951028</coordinates></Point></Placemark>

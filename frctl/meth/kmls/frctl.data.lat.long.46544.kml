@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 12/23/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, St. Joseph, MISHAWAKA, 515 MERIDIAN STREET</description><Point><coordinates>-86.200940, 41.656256</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 12/23/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, St. Joseph, MISHAWAKA, 515 MERIDIAN STREET</description><Point><coordinates>-86.200940, 41.656256</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/17/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, St. Joseph, MISHAWAKA, 220 WEST TENTH STREET</description><Point><coordinates>-86.182893, 41.653707</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/24/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, ST. JOSEPH, MISHAWAKA, 802 EAST 9TH STREET</description><Point><coordinates>-86.168945, 41.654550</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/19/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, St. Joseph, MISHAWAKA, 11233 ARCHER STREET</description><Point><coordinates>-86.084318, 41.629557</coordinates></Point></Placemark>

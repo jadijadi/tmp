@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 5/13/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, SCOTLAND, MEMPHIS, 124 NORTH KNOTT STREET</description><Point><coordinates>-92.165325, 40.459499</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/13/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, SCOTLAND, MEMPHIS, 124 NORTH KNOTT STREET</description><Point><coordinates>-92.165325, 40.459499</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/14/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, SCOTLAND, MEMPHIS, 426 CECIL</description><Point><coordinates>-92.173355, 40.463369</coordinates></Point></Placemark>
 
         </Document>

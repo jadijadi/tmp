@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 7/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, STONE, GALENA, 71A SMITH AVE</description><Point><coordinates>-93.428881, 36.810940</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 7/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, STONE, GALENA, 71A SMITH AVE</description><Point><coordinates>-93.428881, 36.810940</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/7/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, STONE, GALENA, 60 GLADE N ST</description><Point><coordinates>-93.499014, 36.789113</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/28/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, STONE, GALENA, 90 SCENIC N</description><Point><coordinates>-93.499163, 36.788805</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/23/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, STONE, GALENA, 113 WEST 4TH N</description><Point><coordinates>-93.466812, 36.805432</coordinates></Point></Placemark>

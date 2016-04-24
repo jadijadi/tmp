@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 5/13/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, PIERCE, PUYALLUP, 14522 128TH ST</description><Point><coordinates>-122.235570, 47.139419</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/13/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, PIERCE, PUYALLUP, 14522 128TH ST</description><Point><coordinates>-122.235570, 47.139419</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, PIERCE, PUYALLUP, 12710 112TH E AVE 22</description><Point><coordinates>-122.279279, 47.142170</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/17/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, PIERCE, PUYALLUP, 12416 143RD E AVE</description><Point><coordinates>-122.238383, 47.142112</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/29/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, PIERCE, PUYALLUP, 271 JOHN BANANOLA E WAY</description><Point><coordinates>-122.291315, 47.111291</coordinates></Point></Placemark>

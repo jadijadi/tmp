@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/31/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, SUMMIT, AKRON, 880 1/2 IONA AVE</description><Point><coordinates>-81.559375, 41.047960</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/31/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, SUMMIT, AKRON, 880 1/2 IONA AVE</description><Point><coordinates>-81.559375, 41.047960</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/5/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, SUMMIT, AKRON, 2561 EDWIN AVE</description><Point><coordinates>-81.542566, 41.028827</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, SUMMIT, AKRON, 944 OREGON AVE</description><Point><coordinates>-81.561124, 41.040453</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/14/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, SUMMIT, AKRON, 1316 WATERLOO W RD</description><Point><coordinates>-81.573462, 41.032280</coordinates></Point></Placemark>

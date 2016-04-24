@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, SAINT JOSEPH, THREE RIVERS, 21266 MICHIGAN AVE</description><Point><coordinates>-85.543013, 42.042354</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, SAINT JOSEPH, THREE RIVERS, 21266 MICHIGAN AVE</description><Point><coordinates>-85.543013, 42.042354</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, SAINT JOSEPH, THREE RIVERS, 16917 SUNSET LN</description><Point><coordinates>-85.625938, 41.970391</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/28/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, SAINT JOSEPH, THREE RIVERS, 51378 PARKVILLE RD</description><Point><coordinates>-85.548328, 42.048770</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/4/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, SAINT JOSEPH, THREE RIVERS, 617 14TH ST LOT 34</description><Point><coordinates>-85.617351, 41.936675</coordinates></Point></Placemark>

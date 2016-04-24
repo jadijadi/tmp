@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 7/3/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, ASHTABULA, ROME, 4851 ST. RT. 45 S</description><Point><coordinates>-80.865366, 41.604777</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 7/3/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, ASHTABULA, ROME, 4851 ST. RT. 45 S</description><Point><coordinates>-80.865366, 41.604777</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/28/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, ASHTABULA, ROME, 5400 MECHANICSVILE ROAD</description><Point><coordinates>-80.912056, 41.601806</coordinates></Point></Placemark>
 
         </Document>

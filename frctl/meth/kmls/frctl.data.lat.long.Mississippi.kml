@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 12/7/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, ALCORN, JACKSON, 4870 OLD BYRUM ROAD</description><Point><coordinates>-89.398528, 32.354668</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 12/7/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, ALCORN, JACKSON, 4870 OLD BYRUM ROAD</description><Point><coordinates>-89.398528, 32.354668</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, DESOTO, EUDORA, 1147 HWY 301</description><Point><coordinates>-89.398528, 32.354668</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/19/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, GEORGE, LAUDERDALE, 3105 MT. PLEASANT ROAD</description><Point><coordinates>-89.398528, 32.354668</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, HARRISON, DIBERVILLE, 3240 ROAD 113 LOT13 E</description><Point><coordinates>-89.398528, 32.354668</coordinates></Point></Placemark>

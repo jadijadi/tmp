@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, HAYWOOD, CANTON, 737 CHAMPION DR 215</description><Point><coordinates>-82.852583, 35.553904</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, HAYWOOD, CANTON, 737 CHAMPION DR 215</description><Point><coordinates>-82.852583, 35.553904</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/15/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, HAYWOOD, CANTON, 30 CONARD DR</description><Point><coordinates>-82.823222, 35.515119</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/19/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, HAYWOOD, CANTON, 92 ARROWWOOD RD</description><Point><coordinates>-82.827539, 35.449798</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/14/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, HAYWOOD, CANTON, 9420 CRUSO RD</description><Point><coordinates>-82.841393, 35.453030</coordinates></Point></Placemark>

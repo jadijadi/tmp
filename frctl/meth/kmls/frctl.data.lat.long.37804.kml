@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 4/28/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, BLOUNT, MARYVILLE, 807  OAK STREET</description><Point><coordinates>-83.955066, 35.759717</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/28/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, BLOUNT, MARYVILLE, 807  OAK STREET</description><Point><coordinates>-83.955066, 35.759717</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/27/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, BLOUNT, MARYVILLE, 2224  WILDWOOD ROAD</description><Point><coordinates>-83.946532, 35.783137</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/14/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, BLOUNT, MARYVILLE, 1202  HARPER AVENUE</description><Point><coordinates>-83.964327, 35.764297</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, BLOUNT, ROCKFORD, 3513 TARBETT CT</description><Point><coordinates>-83.960598, 35.819502</coordinates></Point></Placemark>

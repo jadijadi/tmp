@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/7/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW MEXICO, BERNALILLO, ALBUQUERQUE, 5741 OSUNA NE 1506</description><Point><coordinates>-106.583583, 35.145122</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/7/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW MEXICO, BERNALILLO, ALBUQUERQUE, 5741 OSUNA NE 1506</description><Point><coordinates>-106.583583, 35.145122</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW MEXICO, BERNALILLO, ALBUQUERQUE, 5020 ELLISON NE</description><Point><coordinates>-106.589148, 35.159121</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/22/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW MEXICO, BERNALILLO, ALBUQUERQUE, 8212 OTERO NE</description><Point><coordinates>-106.554376, 35.162952</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/10/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW MEXICO, BERNALILLO, ALBUQUERQUE, 3859 NORTHEAST MONTGOME</description><Point><coordinates>-106.602050, 35.130962</coordinates></Point></Placemark>

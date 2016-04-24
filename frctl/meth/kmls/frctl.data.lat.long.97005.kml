@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/8/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, WASHINGTON, BEAVERTON, 12690 SOUTHWEST DAPHNE COURT</description><Point><coordinates>-122.807017, 45.514949</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/8/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, WASHINGTON, BEAVERTON, 12690 SOUTHWEST DAPHNE COURT</description><Point><coordinates>-122.807017, 45.514949</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, WASHINGTON, HILLSBORO, 13115 SW EVERGREEN ST</description><Point><coordinates>-122.811410, 45.515897</coordinates></Point></Placemark>
 
         </Document>

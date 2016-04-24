@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 4/8/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, LAMAR, BEAVERTON, 12901  HIGHWAY 278</description><Point><coordinates>-88.019151, 33.932146</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/8/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, LAMAR, BEAVERTON, 12901  HIGHWAY 278</description><Point><coordinates>-88.019151, 33.932146</coordinates></Point></Placemark>
 
         </Document>
         </kml>

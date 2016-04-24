@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 4/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, LAKE, CLEARLAKE, 13660 EAST LAKE DR</description><Point><coordinates>-122.649869, 38.973313</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, LAKE, CLEARLAKE, 13660 EAST LAKE DR</description><Point><coordinates>-122.649869, 38.973313</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, LAKE, CLEARLAKE, 15888 19TH ST</description><Point><coordinates>-122.615690, 38.936947</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/18/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, LAKE, CLEARLAKE, 16537 35TH AVE</description><Point><coordinates>-122.603709, 38.947240</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/20/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, LAKE, CLEARLAKE, 13820  MANAKEE DRIVE</description><Point><coordinates>-122.653426, 38.968058</coordinates></Point></Placemark>

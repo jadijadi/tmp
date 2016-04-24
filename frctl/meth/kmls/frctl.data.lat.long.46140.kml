@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/16/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, HANCOCK, GREENFIELD, 123 EICKENBERRY STREET</description><Point><coordinates>-85.765617, 39.797717</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/16/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, HANCOCK, GREENFIELD, 123 EICKENBERRY STREET</description><Point><coordinates>-85.765617, 39.797717</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/21/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, HANCOCK, GREENFIELD, 1395 SOUTH COUNTY 150 WEST ROAD</description><Point><coordinates>-85.769423, 39.785043</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/16/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, HANCOCK, GREENFIELD, 121  PIERSON STREET BOX 2</description><Point><coordinates>-85.770686, 39.781233</coordinates></Point></Placemark>
 

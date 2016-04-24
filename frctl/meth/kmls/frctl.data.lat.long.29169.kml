@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/7/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, LEXINGTON, WEST COLUMBIA, 2952 OSWALT DRIVE</description><Point><coordinates>-81.117563, 33.986777</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/7/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, LEXINGTON, WEST COLUMBIA, 2952 OSWALT DRIVE</description><Point><coordinates>-81.117563, 33.986777</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/5/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, LEXINGTON, WEST COLUMBIA, 5006  BECHAM ROAD</description><Point><coordinates>-81.077948, 33.976444</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/11/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH CAROLINA, LEXINGTON, WEST COLUMBIA, 209  BEVERLY DRIVE</description><Point><coordinates>-81.102269, 33.979528</coordinates></Point></Placemark>
 

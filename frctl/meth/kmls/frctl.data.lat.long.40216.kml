@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, JEFFERSON, LOUISVILLE, 6303 POWDER HORN DR</description><Point><coordinates>-85.837963, 38.160979</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, JEFFERSON, LOUISVILLE, 6303 POWDER HORN DR</description><Point><coordinates>-85.837963, 38.160979</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/26/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, JEFFERSON, LOUISVILLE, 2215 PEASLEE ROAD</description><Point><coordinates>-85.817651, 38.204359</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/22/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, JEFFERSON, LOUISVILLE, 6303 POWDERHORN DR</description><Point><coordinates>-85.837963, 38.160979</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/22/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, JEFFERSON, LOUISVILLE, 5201 DIXIE HIGHWAY</description><Point><coordinates>-85.830310, 38.164663</coordinates></Point></Placemark>

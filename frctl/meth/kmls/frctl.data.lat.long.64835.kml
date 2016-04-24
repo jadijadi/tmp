@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, JASPER, CARTERVILLE, 502 ELM S RD</description><Point><coordinates>-94.435080, 37.145422</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, JASPER, CARTERVILLE, 502 ELM S RD</description><Point><coordinates>-94.435080, 37.145422</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, JASPER, CARTERVILLE, 115 BULGER ST</description><Point><coordinates>-94.444483, 37.156371</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/5/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, JASPER, CARTERVILLE, 5965 COUNTY 200 RD</description><Point><coordinates>-94.420223, 37.141095</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, JASPER, CARTERVILLE, 106 GUM RD</description><Point><coordinates>-94.443729, 37.155922</coordinates></Point></Placemark>

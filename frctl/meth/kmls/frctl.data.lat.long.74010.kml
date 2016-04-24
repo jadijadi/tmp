@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 12/5/2000</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CREEK, BRISTOW, 33684 193 WEST S AVE</description><Point><coordinates>-96.210365, 35.674300</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 12/5/2000</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CREEK, BRISTOW, 33684 193 WEST S AVE</description><Point><coordinates>-96.210365, 35.674300</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/28/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CREEK, BRISTOW, 45470 151ST SOUTH W</description><Point><coordinates>-96.501330, 35.944815</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/31/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CREEK, BRISTOW, 402 3RD W</description><Point><coordinates>-96.397016, 35.829546</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/29/2002</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CREEK, BRISTOW, 45470 151ST W ST</description><Point><coordinates>-96.501330, 35.944815</coordinates></Point></Placemark>

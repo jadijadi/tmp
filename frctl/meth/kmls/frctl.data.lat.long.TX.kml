@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 9/24/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, BOWIE, TEXARKANA, 808 MAINE</description><Point><coordinates>-94.047688, 33.425125</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 9/24/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, BOWIE, TEXARKANA, 808 MAINE</description><Point><coordinates>-94.047688, 33.425125</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/10/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, COMAL, NEW BRAUNFELS, 427 DILLINGER</description><Point><coordinates>-98.124453, 29.703002</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/20/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, EL PASO, EL PASO, 2380  BLUE JAY DRIVE</description><Point><coordinates>-106.485022, 31.761878</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/17/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, HOUSTON, LATEXO, 2 RT 229</description><Point><coordinates>-95.474115, 31.395179</coordinates></Point></Placemark>

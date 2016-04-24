@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/28/2000</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CREEK, SAPULPA, 1015  JACKSON N E</description><Point><coordinates>-96.100014, 36.002561</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/28/2000</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CREEK, SAPULPA, 1015  JACKSON N E</description><Point><coordinates>-96.100014, 36.002561</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/30/2000</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CREEK, SAPULPA, 510 1ST N ST</description><Point><coordinates>-96.101819, 36.004676</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/4/2000</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CREEK, SAPULPA, 111 POPLAR N  D</description><Point><coordinates>-96.115240, 36.000277</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/3/2000</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CREEK, SAPULPA, 225 LINDEN N ST</description><Point><coordinates>-96.101863, 36.002370</coordinates></Point></Placemark>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, MULTNOMAH, PORTLAND, 9727 NE MARTIN LUTHER KING BLVD</description><Point><coordinates>-122.673399, 45.598320</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, MULTNOMAH, PORTLAND, 9727 NE MARTIN LUTHER KING BLVD</description><Point><coordinates>-122.673399, 45.598320</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, MULTNOMAH, PORTLAND, 6519 NORTH MONTANA</description><Point><coordinates>-122.680145, 45.570300</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, MULTNOMAH, PORTLAND, 1503 N HAYDEN ISLAND DR 15</description><Point><coordinates>-122.685586, 45.615630</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/7/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, MULTNOMAH, PORTLAND, 5413 NORTH MINNESOTA AVENUE</description><Point><coordinates>-122.679347, 45.562108</coordinates></Point></Placemark>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 4/24/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, RUSSELL, JAMESTOWN, JACK MILLER ROAD 12</description><Point><coordinates>-85.084499, 37.038859</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/24/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, RUSSELL, JAMESTOWN, JACK MILLER ROAD 12</description><Point><coordinates>-85.084499, 37.038859</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/27/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, RUSSELL, RUSSELL SPRINGS, 827  JOHN STREET</description><Point><coordinates>-84.947885, 36.965645</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/23/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, RUSSELL, RUSSELL SPRINGS, 1870  OLD COLUMBIA RD STREET 731</description><Point><coordinates>-85.118118, 37.056052</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/29/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, RUSSELL, RUSSELL SPRINGS, 237  LAKEWAY DRIVE</description><Point><coordinates>-85.084905, 37.050461</coordinates></Point></Placemark>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 7/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, MCDONALD, GOODMAN, 107 OZARK N TRL</description><Point><coordinates>-94.401044, 36.740494</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 7/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, MCDONALD, GOODMAN, 107 OZARK N TRL</description><Point><coordinates>-94.401044, 36.740494</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, MCDONALD, GOODMAN, 722 STOVER HOLLOW</description><Point><coordinates>-94.446313, 36.728082</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/17/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, MCDONALD, GOODMAN, 21599 KINGVILLE LN</description><Point><coordinates>-94.405598, 36.763964</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/26/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, MCDONALD, GOODMAN, 2438 B HIGHWAY</description><Point><coordinates>-94.408149, 36.737606</coordinates></Point></Placemark>

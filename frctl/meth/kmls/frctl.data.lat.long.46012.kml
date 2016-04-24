@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 7/4/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MADISON, ANDERSON, 1040  ALBRAMBA</description><Point><coordinates>-85.654880, 40.105220</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 7/4/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MADISON, ANDERSON, 1040  ALBRAMBA</description><Point><coordinates>-85.654880, 40.105220</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/9/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MADISON, ANDERSON, 1312 EAST 7TH STREET</description><Point><coordinates>-85.662951, 40.109346</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/2/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MADISON, ANDERSON, 884 EAST HARTMAN ROAD</description><Point><coordinates>-85.667796, 40.149930</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/12/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MADISON, ANDERSON, 220 EAST 4TH STREET</description><Point><coordinates>-85.673368, 40.111916</coordinates></Point></Placemark>

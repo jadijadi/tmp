@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/24/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, CLINTON, MARTINSVILLE, 5883 FARMERS ROAD</description><Point><coordinates>-83.759581, 39.335606</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/24/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, CLINTON, MARTINSVILLE, 5883 FARMERS ROAD</description><Point><coordinates>-83.759581, 39.335606</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/1/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, CLINTON, MARTINSVILLE, 5219  JONESBORO ROAD</description><Point><coordinates>-83.831814, 39.299241</coordinates></Point></Placemark>
 
         </Document>

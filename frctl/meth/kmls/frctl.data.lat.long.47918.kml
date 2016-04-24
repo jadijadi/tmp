@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 4/1/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, WARREN, , 1553 WEST 150TH</description><Point><coordinates>-87.289479, 40.338012</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/1/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, WARREN, , 1553 WEST 150TH</description><Point><coordinates>-87.289479, 40.338012</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/18/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, FOUNTAIN, ATTICA, 407 NORTH 5TH STREET</description><Point><coordinates>-87.245134, 40.296149</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/13/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, WARREN, WILLIAMSPORT, 7722  COUNTY ROAD 100 NORTH ROAD</description><Point><coordinates>-87.282880, 40.254448</coordinates></Point></Placemark>
 

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 9/21/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, LEE, BALDWYN, 1212 WEST CLEARVIEW DRIVE</description><Point><coordinates>-88.664326, 34.523490</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 9/21/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, LEE, BALDWYN, 1212 WEST CLEARVIEW DRIVE</description><Point><coordinates>-88.664326, 34.523490</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/12/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, PRENTISS, BALDWYN, 107 HIGHWAY 30 WEST W</description><Point><coordinates>-88.648247, 34.574574</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/19/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, PRENTISS, BALDWYN, GREEN STREET 228</description><Point><coordinates>-88.633839, 34.520130</coordinates></Point></Placemark>
 

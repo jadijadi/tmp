@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, UMATILLA, HERMISTON, 2050 NORTHEAST 18TH STREET</description><Point><coordinates>-119.254648, 45.858592</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, UMATILLA, HERMISTON, 2050 NORTHEAST 18TH STREET</description><Point><coordinates>-119.254648, 45.858592</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, UMATILLA, HERMISTON, 648 E GLADYS AVE</description><Point><coordinates>-119.280838, 45.841252</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, UMATILLA, HERMISTON, 280 NORTHWEST 12TH STREET</description><Point><coordinates>-119.312768, 45.842150</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OREGON, UMATILLA, HERMISTON, 78689 DOHERTY ROAD</description><Point><coordinates>-119.332140, 45.820877</coordinates></Point></Placemark>

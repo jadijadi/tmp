@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/29/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, BARTOW, CARTERSVILLE, 192 WOODLAND WAY</description><Point><coordinates>-84.895686, 34.264541</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/29/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, BARTOW, CARTERSVILLE, 192 WOODLAND WAY</description><Point><coordinates>-84.895686, 34.264541</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/29/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, BARTOW, CARTERSVILLE, 41 AKINS ST</description><Point><coordinates>-84.861749, 34.234810</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, BARTOW, CARTERSVILLE, 1210 TENNESSEE N ST LOT 4A</description><Point><coordinates>-84.798981, 34.197609</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, BARTOW, CARTERSVILLE, 21 AKIN LN</description><Point><coordinates>-84.875215, 34.247818</coordinates></Point></Placemark>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 6/14/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, POSEY, EVANSVILLE, 11800 DENZER ROAD</description><Point><coordinates>-87.701579, 38.028511</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/14/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, POSEY, EVANSVILLE, 11800 DENZER ROAD</description><Point><coordinates>-87.701579, 38.028511</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/27/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, VANDERBURGH, EVANSVILLE, 1433 BARKER S AVE APT</description><Point><coordinates>-87.610556, 37.960563</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/2/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, VANDERBURGH, EVANSVILLE, 313 HESS AVENUE</description><Point><coordinates>-87.601329, 37.981191</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/1/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, VANDERBURGH, EVANSVILLE, 815 MILLER DRIVE</description><Point><coordinates>-87.647343, 37.968017</coordinates></Point></Placemark>

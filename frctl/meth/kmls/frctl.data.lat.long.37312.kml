@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 4/13/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, BRADLEY, CLEVELAND, 1012 WHITE OAK W RD</description><Point><coordinates>-84.942782, 35.208183</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/13/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, BRADLEY, CLEVELAND, 1012 WHITE OAK W RD</description><Point><coordinates>-84.942782, 35.208183</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, BRADLEY, CLEVELAND, 1045 WHISPERWOOD TRL</description><Point><coordinates>-84.809613, 35.208240</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/3/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, BRADLEY, CLEVELAND, 8637 NORTHWEST FRONTAGE ROAD</description><Point><coordinates>-84.826057, 35.275988</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/30/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, BRADLEY, CLEVELAND, 151 NORTHEAST SKYLAR DRIVE</description><Point><coordinates>-84.811951, 35.199548</coordinates></Point></Placemark>

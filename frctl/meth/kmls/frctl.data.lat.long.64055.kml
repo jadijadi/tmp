@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 4/20/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, JACKSON, INDEPENDENCE, 15405 37 E ST</description><Point><coordinates>-94.398379, 39.052762</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/20/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, JACKSON, INDEPENDENCE, 15405 37 E ST</description><Point><coordinates>-94.398379, 39.052762</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/28/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, JACKSON, INDEPENDENCE, 1209 HOCKER S AVE</description><Point><coordinates>-94.408917, 39.078663</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/28/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, JACKSON, INDEPENDENCE, 4011 CEDAR CREST S DR 127</description><Point><coordinates>-94.371000, 39.045736</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/10/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, JACKSON, INDEPENDENCE, 12817 EAST 47TH STREET 65</description><Point><coordinates>-94.426089, 39.035756</coordinates></Point></Placemark>

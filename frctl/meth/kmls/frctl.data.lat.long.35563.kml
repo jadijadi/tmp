@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/19/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MARION, GUIN, 358 HYW 44</description><Point><coordinates>-87.907032, 33.969799</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/19/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MARION, GUIN, 358 HYW 44</description><Point><coordinates>-87.907032, 33.969799</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/18/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MARION, GUIN, 261 BURLESON ROAD</description><Point><coordinates>-87.925471, 33.967974</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/6/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MARION, GUIN, 1215 SCUFFLEGRIT ROAD</description><Point><coordinates>-87.879182, 34.014791</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/30/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, MARION, GUIN, 385 BURLESON ROAD 25</description><Point><coordinates>-87.925490, 33.969141</coordinates></Point></Placemark>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CRAWFORD, CUBA, 1005 GRAND E</description><Point><coordinates>-91.394061, 38.066505</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CRAWFORD, CUBA, 1005 GRAND E</description><Point><coordinates>-91.394061, 38.066505</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CRAWFORD, CUBA, 713 PRAIRIE S 3</description><Point><coordinates>-91.402955, 38.057261</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CRAWFORD, CUBA, 5810 RIVERSIDE</description><Point><coordinates>-91.451546, 38.011599</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/3/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CRAWFORD, CUBA, 75 INDIAN HILLS DR</description><Point><coordinates>-91.442864, 38.088549</coordinates></Point></Placemark>

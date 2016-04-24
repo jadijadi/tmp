@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 10/15/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MADISON, ANDERSON, 51  LEISURE LANE</description><Point><coordinates>-85.703941, 40.077625</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 10/15/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MADISON, ANDERSON, 51  LEISURE LANE</description><Point><coordinates>-85.703941, 40.077625</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/20/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MADISON, ANDERSON, 1911 EAST 45TH STREET</description><Point><coordinates>-85.656458, 40.069312</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/19/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MADISON, ANDERSON, 4203  BROWN STREET</description><Point><coordinates>-85.684673, 40.072658</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/8/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MADISON, ANDERSON, 4403  RIDGEVIEW ROAD</description><Point><coordinates>-85.707883, 40.040825</coordinates></Point></Placemark>

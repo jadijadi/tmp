@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/22/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, HARNETT, COATS, 287 BENNETT ROAD</description><Point><coordinates>-78.677255, 35.392793</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/22/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, HARNETT, COATS, 287 BENNETT ROAD</description><Point><coordinates>-78.677255, 35.392793</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/26/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, HARNETT, COATS, 2693 BAILEY ROAD</description><Point><coordinates>-78.617010, 35.425476</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/9/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, HARNETT, COATS, 1605 OLD STAGE ROAD</description><Point><coordinates>-78.701566, 35.434984</coordinates></Point></Placemark>
 

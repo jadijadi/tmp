@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 5/25/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: PENNSYLVANIA, ERIE, ERIE, 1530 FAIRMONT PKWY</description><Point><coordinates>-80.040745, 42.128106</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/25/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: PENNSYLVANIA, ERIE, ERIE, 1530 FAIRMONT PKWY</description><Point><coordinates>-80.040745, 42.128106</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/21/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: PENNSYLVANIA, ERIE, ERIE, 3081 STATION RD 1</description><Point><coordinates>-80.007843, 42.134649</coordinates></Point></Placemark>
 
         </Document>

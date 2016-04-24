@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 9/12/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, JASPER, CARL JUNCTION, 26107 FAISON LANE</description><Point><coordinates>-94.530288, 37.140320</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 9/12/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, JASPER, CARL JUNCTION, 26107 FAISON LANE</description><Point><coordinates>-94.530288, 37.140320</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/15/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, JASPER, CARTERVILLE, 6734 CR 200</description><Point><coordinates>-94.419715, 37.151441</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, JASPER, DUENWEG, 310 VOGEL G</description><Point><coordinates>-94.459017, 37.086664</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/17/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, JASPER, DUENWEG, 1502  IRWIN</description><Point><coordinates>-94.414181, 37.070511</coordinates></Point></Placemark>

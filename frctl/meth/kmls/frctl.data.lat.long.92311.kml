@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 6/7/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, SAN BERNARDINO, BARSTOW, 24966 CAMINO DEL SOL ST</description><Point><coordinates>-117.116577, 34.881231</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/7/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, SAN BERNARDINO, BARSTOW, 24966 CAMINO DEL SOL ST</description><Point><coordinates>-117.116577, 34.881231</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, SAN BERNARDINO, BARSTOW, 2577 COMMUNITY BLVD</description><Point><coordinates>-117.099544, 34.906910</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, SAN BERNARDINO, BARSTOW, 29779 N 1ST</description><Point><coordinates>-117.013804, 34.915996</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/1/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, SAN BERNARDINO, BARSTOW, 434 S SECOND ST 1</description><Point><coordinates>-117.026628, 34.894396</coordinates></Point></Placemark>

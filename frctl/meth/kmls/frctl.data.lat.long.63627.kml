@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/13/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, STE. Genevieve, BLOOMSDALE, 8438 TERRY LEE DR</description><Point><coordinates>-90.293304, 38.054052</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/13/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, STE. Genevieve, BLOOMSDALE, 8438 TERRY LEE DR</description><Point><coordinates>-90.293304, 38.054052</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, STE. Genevieve, BLOOMSDALE, 5891 FORK S DR</description><Point><coordinates>-90.217896, 38.009498</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, STE. Genevieve, BLOOMSDALE, 7201 BIELLER RD</description><Point><coordinates>-90.217896, 38.009498</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, STE. Genevieve, BLOOMSDALE, 3390 U.S. 61 HWY</description><Point><coordinates>-90.242965, 38.032933</coordinates></Point></Placemark>

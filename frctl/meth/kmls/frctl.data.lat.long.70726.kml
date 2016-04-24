@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/21/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: LUISIANA, LIVINGSTON, DENHAM SPRINGS, 30905 BURGESS RD</description><Point><coordinates>-90.900680, 30.513696</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/21/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: LUISIANA, LIVINGSTON, DENHAM SPRINGS, 30905 BURGESS RD</description><Point><coordinates>-90.900680, 30.513696</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: LUISIANA, LIVINGSTON, DENHAM SPRINGS, 30262 ABEL ST</description><Point><coordinates>-90.920188, 30.491076</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/3/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: LUISIANA, LIVINGSTON, DENHAM SPRINGS, 12405 BRANDON AVE</description><Point><coordinates>-90.904092, 30.424599</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/7/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: LUISIANA, LIVINGSTON, DENHAM SPRINGS, 21395 BONNIE</description><Point><coordinates>-90.865081, 30.381549</coordinates></Point></Placemark>

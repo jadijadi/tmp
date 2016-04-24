@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, JOHNSON, MOUNTAIN CITY, 299 TRIVETT RD</description><Point><coordinates>-81.788501, 36.452844</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, JOHNSON, MOUNTAIN CITY, 299 TRIVETT RD</description><Point><coordinates>-81.788501, 36.452844</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, JOHNSON, MOUNTAIN CITY, 121 ILLINOIS ST 4</description><Point><coordinates>-81.805090, 36.471495</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, JOHNSON, MOUNTAIN CITY, 1698 DEER RUN RD</description><Point><coordinates>-81.791589, 36.566407</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/1/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, JOHNSON, MOUNTAIN CITY, 1588 FALL BRANCH RD</description><Point><coordinates>-81.750702, 36.439332</coordinates></Point></Placemark>

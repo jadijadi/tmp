@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, JASPER, CARTHAGE, 9351 COUNTY 172 LN</description><Point><coordinates>-94.367951, 37.188025</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, JASPER, CARTHAGE, 9351 COUNTY 172 LN</description><Point><coordinates>-94.367951, 37.188025</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/17/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, JASPER, CARTHAGE, 405 5TH E ST</description><Point><coordinates>-94.307349, 37.175657</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/23/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, JASPER, CARTHAGE, 11325 KAFIR RD</description><Point><coordinates>-94.260465, 37.212966</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/23/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, JASPER, CARTHAGE, 9935 COUNTY 185 LN</description><Point><coordinates>-94.391260, 37.196859</coordinates></Point></Placemark>

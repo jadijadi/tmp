@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/13/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, COWLEY, ARKANSAS CITY, 1124 1ST N</description><Point><coordinates>-97.039740, 37.075360</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/13/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, COWLEY, ARKANSAS CITY, 1124 1ST N</description><Point><coordinates>-97.039740, 37.075360</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, COWLEY, ARKANSAS CITY, 23761 61ST RD</description><Point><coordinates>-97.041574, 37.146917</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/17/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, COWLEY, ARKANSAS CITY, 512 OAK W ST</description><Point><coordinates>-97.045574, 37.081431</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KANSAS, COWLEY, ARKANSAS CITY, 1014 FIRST N ST</description><Point><coordinates>-97.039741, 37.073607</coordinates></Point></Placemark>

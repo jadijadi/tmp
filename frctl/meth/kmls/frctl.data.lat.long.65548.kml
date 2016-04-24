@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 4/14/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, HOWELL, MOUNTAIN VIEW, 8560 HOWELL COUNTY 2660 RD</description><Point><coordinates>-91.703755, 36.995332</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/14/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, HOWELL, MOUNTAIN VIEW, 8560 HOWELL COUNTY 2660 RD</description><Point><coordinates>-91.703755, 36.995332</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, HOWELL, MOUNTAIN VIEW, 502 MARR</description><Point><coordinates>-91.696492, 36.991202</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/28/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, HOWELL, MOUNTAIN VIEW, 302 THIRD W ST</description><Point><coordinates>-91.705082, 36.996827</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/14/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, HOWELL, MOUNTAIN VIEW, 204  WASHINGTON STREET</description><Point><coordinates>-91.699308, 36.993137</coordinates></Point></Placemark>

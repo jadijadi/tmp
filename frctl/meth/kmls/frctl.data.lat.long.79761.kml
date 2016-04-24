@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 9/27/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, ECTOR, ODESSA, 2124 BEVERLY ST</description><Point><coordinates>-102.347952, 31.863053</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 9/27/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, ECTOR, ODESSA, 2124 BEVERLY ST</description><Point><coordinates>-102.347952, 31.863053</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/29/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, ECTOR, ODESSA, 2925 HIGHWAY 80 E 137</description><Point><coordinates>-102.322845, 31.868789</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, ECTOR, ODESSA, 912 25TH E ST</description><Point><coordinates>-102.370210, 31.869234</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/22/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, ECTOR, ODESSA, 2110 EAST 9TH</description><Point><coordinates>-102.349016, 31.861007</coordinates></Point></Placemark>

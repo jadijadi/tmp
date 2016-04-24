@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, GARLAND, HOT SPRINGS, 209 MUSIC MOUNTAIN RD</description><Point><coordinates>-93.117609, 34.497353</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, GARLAND, HOT SPRINGS, 209 MUSIC MOUNTAIN RD</description><Point><coordinates>-93.117609, 34.497353</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/17/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, GARLAND, HOT SPRINGS, 268 SHARON TERR A</description><Point><coordinates>-93.010758, 34.441118</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/14/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, GARLAND, HOT SPRINGS, 120 WATT ST</description><Point><coordinates>-93.059985, 34.496453</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/8/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, GARLAND, HOT SPRINGS, 3510 ALBERT PIKE RD 10</description><Point><coordinates>-93.138428, 34.507966</coordinates></Point></Placemark>

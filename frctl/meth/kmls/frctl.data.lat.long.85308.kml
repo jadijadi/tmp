@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 8/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARIZONA, MARICOPA, GLENDALE, 18446 75 N AVE</description><Point><coordinates>-112.220857, 33.652323</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 8/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARIZONA, MARICOPA, GLENDALE, 18446 75 N AVE</description><Point><coordinates>-112.220857, 33.652323</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/15/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARIZONA, MARICOPA, GLENDALE, 5717 BLUEFIELD W AVE</description><Point><coordinates>-112.183442, 33.651479</coordinates></Point></Placemark>
 
         </Document>

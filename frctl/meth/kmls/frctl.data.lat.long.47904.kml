@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 6/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, TIPPECANOE, LAFAYETTE, 1701 PIERCE ST</description><Point><coordinates>-86.878784, 40.430151</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/30/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, TIPPECANOE, LAFAYETTE, 1701 PIERCE ST</description><Point><coordinates>-86.878784, 40.430151</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, TIPPECANOE, LAFAYETTE, 2120 HAWTHORNE LN</description><Point><coordinates>-86.871599, 40.428433</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/8/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, TIPPECANOE, LAFAYETTE, 616 SOUTH 29TH STREET</description><Point><coordinates>-86.864229, 40.411067</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/18/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, TIPPECANOE, LAFAYETTE, 3006  ELK STREET</description><Point><coordinates>-86.862759, 40.438702</coordinates></Point></Placemark>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, MADISON, FREDERICKTOWN, 1447 OO HWY</description><Point><coordinates>-90.289438, 37.577163</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, MADISON, FREDERICKTOWN, 1447 OO HWY</description><Point><coordinates>-90.289438, 37.577163</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/27/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, MADISON, FREDERICKTOWN, 2109 MADISON COUNTY 244</description><Point><coordinates>-90.304007, 37.555609</coordinates></Point></Placemark>
 
         </Document>

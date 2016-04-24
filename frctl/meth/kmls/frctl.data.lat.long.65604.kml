@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 6/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, GREENE, ASH GROVE, 3559 LAWRENCE COUNTY ROAD 12</description><Point><coordinates>-93.585200, 37.315326</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, GREENE, ASH GROVE, 3559 LAWRENCE COUNTY ROAD 12</description><Point><coordinates>-93.585200, 37.315326</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/12/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, GREENE, ASH GROVE, 608 WOODBINE W</description><Point><coordinates>-93.592402, 37.317859</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/10/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, LAWRENCE, HALLTOWN, 22320  HWY 266</description><Point><coordinates>-93.653451, 37.193871</coordinates></Point></Placemark>
 

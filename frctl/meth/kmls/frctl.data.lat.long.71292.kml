@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 5/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: LUISIANA, OUACHITA, WEST MONROE, 709 CAPLES RD</description><Point><coordinates>-92.240373, 32.436161</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: LUISIANA, OUACHITA, WEST MONROE, 709 CAPLES RD</description><Point><coordinates>-92.240373, 32.436161</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/27/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: LUISIANA, OUACHITA, WEST MONROE, 522 KING ST</description><Point><coordinates>-92.170559, 32.466089</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: LUISIANA, OUACHITA, WEST MONROE, 709 CAPLES RD</description><Point><coordinates>-92.240373, 32.436161</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/11/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: LUISIANA, OUACHITA, WEST MONROE, 2317 HIGHWAY 557</description><Point><coordinates>-92.198735, 32.370662</coordinates></Point></Placemark>

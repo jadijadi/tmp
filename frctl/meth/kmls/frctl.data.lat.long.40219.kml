@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/3/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, JEFFERSON, LOUISVILLE, 8219 MINORS LN 280</description><Point><coordinates>-85.708691, 38.127094</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/3/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, JEFFERSON, LOUISVILLE, 8219 MINORS LN 280</description><Point><coordinates>-85.708691, 38.127094</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/6/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, JEFFERSON, LOUISVILLE, 6209 FERN VALLEY WAY</description><Point><coordinates>-85.665262, 38.156572</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/6/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, JEFFERSON, LOUISVILLE, 6209 FERN VALLEY WAY</description><Point><coordinates>-85.665262, 38.156572</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/25/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, JEFFERSON, LOUISVILLE, 3511 BONAVENTURE BOULEVARD</description><Point><coordinates>-85.698004, 38.122661</coordinates></Point></Placemark>

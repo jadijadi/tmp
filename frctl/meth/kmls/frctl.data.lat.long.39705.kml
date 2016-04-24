@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 11/17/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, LOWNDES, COLUMBUS, 7578 HWY 45 ALT</description><Point><coordinates>-88.419079, 33.615549</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 11/17/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, LOWNDES, COLUMBUS, 7578 HWY 45 ALT</description><Point><coordinates>-88.419079, 33.615549</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/8/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, LOWNDES, COLUMBUS, 1322 MIKE PARRA RD LOT 55</description><Point><coordinates>-88.449334, 33.608139</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/20/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, LOWNDES, COLUMBUS, 385 JESS LYONS RD 29</description><Point><coordinates>-88.421622, 33.584753</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/12/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, LOWNDES, COLUMBUS, 270 MAGNOLIA DRIVE</description><Point><coordinates>-88.439749, 33.503906</coordinates></Point></Placemark>

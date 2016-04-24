@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 6/9/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JAY, PORTLAND, 1704 CR 300 W S</description><Point><coordinates>-85.038267, 40.414097</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/9/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JAY, PORTLAND, 1704 CR 300 W S</description><Point><coordinates>-85.038267, 40.414097</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/5/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JAY, PORTLAND, 1027 CREAGOR AVENUE</description><Point><coordinates>-84.982835, 40.442912</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/5/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JAY, PORTLAND, 446 EAST SEVENTH STREET</description><Point><coordinates>-84.970983, 40.425291</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/23/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, JAY, PORTLAND, 621 EAST MAIN STREET A</description><Point><coordinates>-84.970129, 40.433467</coordinates></Point></Placemark>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/5/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, CITRUS, BEVERLY HILLS, 8009 EAST PARTRIDGE LANE</description><Point><coordinates>-90.318165, 38.675245</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/5/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, CITRUS, BEVERLY HILLS, 8009 EAST PARTRIDGE LANE</description><Point><coordinates>-90.318165, 38.675245</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/13/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BUTLER, POPLAR BLUFF, 2536  COUNTY ROAD 521</description><Point><coordinates>-90.495903, 36.888364</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CAPE GIRARDEAU, PERRYVILLE, 730 MAIN N ST</description><Point><coordinates>-89.518148, 37.305884</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/29/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CAPE GIRARDEAU, PERRYVILLE, 15 SHELBY S</description><Point><coordinates>-89.518148, 37.305884</coordinates></Point></Placemark>

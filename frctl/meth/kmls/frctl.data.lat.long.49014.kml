@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 10/1/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, CALHOUN, BATTLE CREEK, 596 WESTBROOK</description><Point><coordinates>-85.128313, 42.324716</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 10/1/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, CALHOUN, BATTLE CREEK, 596 WESTBROOK</description><Point><coordinates>-85.128313, 42.324716</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/18/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, CALHOUN, BATTLE CREEK, 51 MOTT STREET</description><Point><coordinates>-85.169892, 42.310059</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/5/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, CALHOUN, BATTLE CREEK, 51 MOTT</description><Point><coordinates>-85.169892, 42.310059</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/5/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, CALHOUN, BATTLE CREEK, 5533 EAST PARADISE ROAD</description><Point><coordinates>-85.187435, 42.228332</coordinates></Point></Placemark>

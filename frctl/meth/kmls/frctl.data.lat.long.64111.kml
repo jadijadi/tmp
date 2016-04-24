@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 11/15/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, JACKSON, KANSAS CITY, 1707 WEST 44TH STREET</description><Point><coordinates>-94.606060, 39.048137</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 11/15/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, JACKSON, KANSAS CITY, 1707 WEST 44TH STREET</description><Point><coordinates>-94.606060, 39.048137</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/26/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, JACKSON, KANSAS CITY, 3649 SOUTH CENTRAL AVENUE</description><Point><coordinates>-94.589001, 39.060467</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/7/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, JACKSON, KANSAS CITY, 4331 SOUTH BELL STREET</description><Point><coordinates>-94.606258, 39.048737</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/8/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, JACKSON, KANSAS CITY, 3560  BROADWAY AVENUE</description><Point><coordinates>-94.590769, 39.062502</coordinates></Point></Placemark>

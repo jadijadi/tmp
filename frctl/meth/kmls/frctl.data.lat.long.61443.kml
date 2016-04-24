@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 10/31/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, HENRY, KEWANEE, 824 WILSON ST</description><Point><coordinates>-89.935501, 41.235205</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 10/31/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, HENRY, KEWANEE, 824 WILSON ST</description><Point><coordinates>-89.935501, 41.235205</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/7/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, HENRY, KEWANEE, 504 GROVE N ST</description><Point><coordinates>-89.932934, 41.248344</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/2/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, HENRY, KEWANEE, 801 ELM N ST</description><Point><coordinates>-89.922317, 41.251971</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/18/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, HENRY, KEWANEE, 912 TREMONT N ST</description><Point><coordinates>-89.925649, 41.253298</coordinates></Point></Placemark>

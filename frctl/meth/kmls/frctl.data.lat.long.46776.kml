@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 10/18/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, LAGRANGE, ORLAND, 7855 NORTH 1050 E</description><Point><coordinates>-85.225437, 41.755787</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 10/18/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, LAGRANGE, ORLAND, 7855 NORTH 1050 E</description><Point><coordinates>-85.225437, 41.755787</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, STEUBEN, ORLAND, 6690 COUNTY ROAD 490 NORTH W</description><Point><coordinates>-85.171638, 41.730606</coordinates></Point></Placemark>
 
         </Document>

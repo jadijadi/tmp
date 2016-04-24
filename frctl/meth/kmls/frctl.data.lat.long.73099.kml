@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 6/5/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CANADIAN, OKLAHOMA CITY, 10500 23RD NW</description><Point><coordinates>-97.704477, 35.493231</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/5/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CANADIAN, OKLAHOMA CITY, 10500 23RD NW</description><Point><coordinates>-97.704477, 35.493231</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/18/2000</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CANADIAN, YUKON, 12026 16TH SW</description><Point><coordinates>-97.737732, 35.448658</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/6/2000</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CANADIAN, YUKON, 1008 ELM  ST</description><Point><coordinates>-97.759299, 35.506578</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/29/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CANADIAN, YUKON, 105 CEDAR</description><Point><coordinates>-97.744570, 35.509203</coordinates></Point></Placemark>

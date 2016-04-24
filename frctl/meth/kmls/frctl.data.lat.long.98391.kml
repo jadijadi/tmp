@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, PIERCE, BONNEY LAKE, 19914 117TH E ST</description><Point><coordinates>-122.164095, 47.149637</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, PIERCE, BONNEY LAKE, 19914 117TH E ST</description><Point><coordinates>-122.164095, 47.149637</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/17/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, PIERCE, BONNEY LAKE, 20709 91ST E ST</description><Point><coordinates>-122.152614, 47.174632</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/25/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, PIERCE, BONNEY LAKE, 7010 181ST E ST</description><Point><coordinates>-122.188342, 47.193339</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/2/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, PIERCE, BONNEY LAKE, 9920 192ND E AVE</description><Point><coordinates>-122.179282, 47.165736</coordinates></Point></Placemark>

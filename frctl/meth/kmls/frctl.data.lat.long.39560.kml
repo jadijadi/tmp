@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 6/8/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, HARRISON, LONG BEACH, 20201 DAUGHTERY ROAD</description><Point><coordinates>-89.180473, 30.376290</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/8/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, HARRISON, LONG BEACH, 20201 DAUGHTERY ROAD</description><Point><coordinates>-89.180473, 30.376290</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/2/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, HARRISON, LONG BEACH, 21188 TUCKER ROAD</description><Point><coordinates>-89.193105, 30.391848</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/6/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, HARRISON, LONG BEACH, 1108 LEIGH STREET</description><Point><coordinates>-89.173751, 30.376160</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/19/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, HARRISON, LONG BEACH, 240  ALEXANDER AVENUE</description><Point><coordinates>-89.161385, 30.352039</coordinates></Point></Placemark>

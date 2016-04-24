@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 8/6/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, FAIRFIELD, REYNOLDSBURG, 2786 JOHN STEVENS WAY</description><Point><coordinates>-82.807594, 39.928908</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 8/6/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, FAIRFIELD, REYNOLDSBURG, 2786 JOHN STEVENS WAY</description><Point><coordinates>-82.807594, 39.928908</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/13/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, FRANKLIN, REYNOLDSBURG, 693 STOW PLACE</description><Point><coordinates>-82.822147, 39.967764</coordinates></Point></Placemark>
 
         </Document>

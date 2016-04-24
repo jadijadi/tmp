@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 10/5/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BUTLER, POPLAR BLUFF, 1873 NN HWY</description><Point><coordinates>-90.355403, 36.807838</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 10/5/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BUTLER, POPLAR BLUFF, 1873 NN HWY</description><Point><coordinates>-90.355403, 36.807838</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/16/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BUTLER, POPLAR BLUFF, 284 MERIDIAN LN</description><Point><coordinates>-90.582382, 36.763096</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/7/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BUTLER, POPLAR BLUFF, 1755 COUNTY ROAD 616</description><Point><coordinates>-90.328867, 36.692485</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/9/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, BUTLER, POPLAR BLUFF, 346 COUNTY ROAD 564</description><Point><coordinates>-90.329145, 36.786840</coordinates></Point></Placemark>

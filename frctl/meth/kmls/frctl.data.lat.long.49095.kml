@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 5/9/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, CASS, VANDALIA, 61482 DONALD ROAD</description><Point><coordinates>-85.898535, 41.904689</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/9/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, CASS, VANDALIA, 61482 DONALD ROAD</description><Point><coordinates>-85.898535, 41.904689</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/14/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, CASS, VANDALIA, 18016 WOOD STREET</description><Point><coordinates>-85.915551, 41.916082</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/5/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, CASS, VANDALIA, 16819  WILLIAMSVILLE STREET</description><Point><coordinates>-85.866765, 41.869581</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/3/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, CASS, VANDALIA, 16340  DUTCH SETTLEMENT STREET</description><Point><coordinates>-85.883323, 41.983750</coordinates></Point></Placemark>

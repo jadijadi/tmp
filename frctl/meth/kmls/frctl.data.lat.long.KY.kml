@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 5/4/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, BULLITT, BROOKS, 135  CENTER DRIVE</description><Point><coordinates>-85.710249, 38.062395</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/4/2009</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, BULLITT, BROOKS, 135  CENTER DRIVE</description><Point><coordinates>-85.710249, 38.062395</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/15/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, BULLITT, HILLVIEW, 315 BARRIEKS #36 ROAD</description><Point><coordinates>-85.685515, 38.069789</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/10/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, HARDIN, VINE GROVE, 482 SANDLIN SW</description><Point><coordinates>-85.981352, 37.810067</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/1/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, HOPKINS, MORTONS GAP, 85 BUTTERMILK RD</description><Point><coordinates>-87.475276, 37.236711</coordinates></Point></Placemark>

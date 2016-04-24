@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 6/12/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, LEE, DUFFIELD, 160  ARROWHEAD ROAD</description><Point><coordinates>-82.829414, 36.761409</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/12/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, LEE, DUFFIELD, 160  ARROWHEAD ROAD</description><Point><coordinates>-82.829414, 36.761409</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/1/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, LEE, DUFFIELD, 1847  KLONDIKE ROAD</description><Point><coordinates>-82.914295, 36.743950</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/3/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, SCOTT, DUFFIELD, 1182  NATURAL TUNNEL PARKWAY</description><Point><coordinates>-82.777878, 36.718792</coordinates></Point></Placemark>
 

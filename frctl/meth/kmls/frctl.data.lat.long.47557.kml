@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, KNOX, MONROE CITY, 8421 SR 61</description><Point><coordinates>-87.299209, 38.554408</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, KNOX, MONROE CITY, 8421 SR 61</description><Point><coordinates>-87.299209, 38.554408</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, KNOX, MONROE CITY, 12297 BEECH HILLS E RD</description><Point><coordinates>-87.319579, 38.532804</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/27/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, KNOX, VINCENNES, 8764 SOUTH DUTCH HINKLE ROAD</description><Point><coordinates>-87.313170, 38.549971</coordinates></Point></Placemark>
 

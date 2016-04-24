@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 9/1/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, STANISLAUS, MODESTO, 1516 BOLLINGER CT</description><Point><coordinates>-121.007201, 37.608405</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 9/1/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, STANISLAUS, MODESTO, 1516 BOLLINGER CT</description><Point><coordinates>-121.007201, 37.608405</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/18/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, STANISLAUS, MODESTO, 205 GLACIER AVE</description><Point><coordinates>-120.995173, 37.610598</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/18/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, STANISLAUS, MODESTO, 110 WISENOR</description><Point><coordinates>-120.987968, 37.624526</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/13/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: CALIFORNIA, STANISLAUS, MODESTO, 620 PARADISE ROAD</description><Point><coordinates>-121.014619, 37.625025</coordinates></Point></Placemark>

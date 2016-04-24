@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, FRANKLIN, PASCO, 4721 IVY RD</description><Point><coordinates>-119.151942, 46.296942</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, FRANKLIN, PASCO, 4721 IVY RD</description><Point><coordinates>-119.151942, 46.296942</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, FRANKLIN, PASCO, 8205 SUNSET LN</description><Point><coordinates>-119.198118, 46.242721</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, FRANKLIN, PASCO, 507 N 4TH AVE 606</description><Point><coordinates>-119.093966, 46.234807</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WASHINGTON, FRANKLIN, PASCO, 3605 QUAIL ST</description><Point><coordinates>-119.137144, 46.294963</coordinates></Point></Placemark>

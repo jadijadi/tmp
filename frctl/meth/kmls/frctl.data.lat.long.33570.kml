@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/24/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, HILLSBOROUGH, RUSKIN, 817 2ND S AVE D</description><Point><coordinates>-82.446385, 27.719741</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/24/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, HILLSBOROUGH, RUSKIN, 817 2ND S AVE D</description><Point><coordinates>-82.446385, 27.719741</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/3/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, HILLSBOROUGH, RUSKIN, 1911 SOUTH 4TH STREET</description><Point><coordinates>-82.439600, 27.695861</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/25/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, HILLSBOROUGH, RUSKIN, 601 SOUTHWEST 6TH AVENUE</description><Point><coordinates>-82.442343, 27.714482</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/11/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, HILLSBOROUGH, RUSKIN, 416  FRANCES CIRCLE</description><Point><coordinates>-82.439201, 27.674419</coordinates></Point></Placemark>

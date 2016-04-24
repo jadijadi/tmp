@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 7/24/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, JONES, ELLISVILLE, 104 PAULDING ROAD</description><Point><coordinates>-89.190592, 31.609941</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 7/24/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, JONES, ELLISVILLE, 104 PAULDING ROAD</description><Point><coordinates>-89.190592, 31.609941</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/18/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, JONES, ELLISVILLE, 896 GRAVES ROAD</description><Point><coordinates>-89.253126, 31.651398</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/21/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, JONES, ELLISVILLE, 1010 SOUTH OLD HIGHWAY</description><Point><coordinates>-89.195614, 31.604054</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/16/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, JONES, ELLISVILLE, 194 PECAN GROVE ROAD</description><Point><coordinates>-89.141575, 31.563728</coordinates></Point></Placemark>

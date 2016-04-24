@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 12/27/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, LEE, MONTROSE, 3072 KOEHLER LN</description><Point><coordinates>-91.380483, 40.513558</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 12/27/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, LEE, MONTROSE, 3072 KOEHLER LN</description><Point><coordinates>-91.380483, 40.513558</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/16/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, LEE, MONTROSE, #9 BLUFFPARK RD</description><Point><coordinates>-91.405487, 40.528391</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/27/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, LEE, MONTROSE, 2530 235TH ST</description><Point><coordinates>-91.444361, 40.610927</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/16/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: IOWA, LEE, MONTROSE, 2217 300TH STREET</description><Point><coordinates>-91.486548, 40.524163</coordinates></Point></Placemark>

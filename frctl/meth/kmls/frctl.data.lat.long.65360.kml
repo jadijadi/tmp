@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 5/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, HENRY, WINDSOR, 1260 651 NE RD</description><Point><coordinates>-93.629202, 38.539275</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, HENRY, WINDSOR, 1260 651 NE RD</description><Point><coordinates>-93.629202, 38.539275</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, HENRY, WINDSOR, 1208 651 NE RD</description><Point><coordinates>-93.628963, 38.531409</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/8/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, HENRY, WINDSOR, 200 SOUTH COMMERCIAL</description><Point><coordinates>-93.525519, 38.533611</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/23/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, PETTIS, WINDSOR, 36200 RICHARDSON ROAD</description><Point><coordinates>-93.386873, 38.550711</coordinates></Point></Placemark>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/1/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, DAVIESS, WASHINGTON, 201 13TH SE ST</description><Point><coordinates>-87.161340, 38.655325</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/1/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, DAVIESS, WASHINGTON, 201 13TH SE ST</description><Point><coordinates>-87.161340, 38.655325</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, DAVIESS, WASHINGTON, 114 SYCAMORE ST</description><Point><coordinates>-87.177262, 38.653588</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/19/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, DAVIESS, WASHINGTON, 105 SUNDALE TRAILER COURT</description><Point><coordinates>-87.155663, 38.652527</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/16/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, DAVIESS, WASHINGTON, 301 MERIDIAN N ST</description><Point><coordinates>-87.175502, 38.659562</coordinates></Point></Placemark>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 4/23/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, CRAWFORD, VAN BUREN, 2921 MADELINE ST 1</description><Point><coordinates>-94.326809, 35.460594</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/23/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, CRAWFORD, VAN BUREN, 2921 MADELINE ST 1</description><Point><coordinates>-94.326809, 35.460594</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/6/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, CRAWFORD, VAN BUREN, 4215 CAMPGROUND RD</description><Point><coordinates>-94.430318, 35.507989</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, CRAWFORD, VAN BUREN, 727 UNIONTOWN E RD</description><Point><coordinates>-94.359761, 35.480804</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, CRAWFORD, VAN BUREN, 1716 FAYETTEVILLE RD 219</description><Point><coordinates>-94.355429, 35.460960</coordinates></Point></Placemark>

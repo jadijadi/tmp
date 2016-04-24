@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 7/20/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, SAINT CHARLES, O FALLON, 1702 COLLIER STREET</description><Point><coordinates>-90.708495, 38.787595</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 7/20/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, SAINT CHARLES, O FALLON, 1702 COLLIER STREET</description><Point><coordinates>-90.708495, 38.787595</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/20/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, SAINT CHARLES, OFALLON, 71 RUNNY MEADE</description><Point><coordinates>-90.716436, 38.798935</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/11/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, SAINT CHARLES, OFALLON, 906 ST. MATTHEWS DRIVE</description><Point><coordinates>-90.690390, 38.820032</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/9/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, SAINT CHARLES, O'FALLON, 864 A MOLLOY</description><Point><coordinates>-90.693121, 38.798655</coordinates></Point></Placemark>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MONROE, BLOOMINGTON, 3740 WOODYARD W 8</description><Point><coordinates>-86.571395, 39.186806</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/16/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MONROE, BLOOMINGTON, 3740 WOODYARD W 8</description><Point><coordinates>-86.571395, 39.186806</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/31/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MONROE, BLOOMINGTON, 1218 MADISON N ST</description><Point><coordinates>-86.537385, 39.178254</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/9/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MONROE, BLOOMINGTON, 211 KIMBLE S DR B-15</description><Point><coordinates>-86.567282, 39.165416</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/20/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MONROE, BLOOMINGTON, 1030 NORTH OARD ROAD</description><Point><coordinates>-86.617467, 39.171993</coordinates></Point></Placemark>

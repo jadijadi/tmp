@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 8/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, LAUDERDALE, BAILEY, 2083 BUNTIN GUNN RD</description><Point><coordinates>-88.700589, 32.449182</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 8/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, LAUDERDALE, BAILEY, 2083 BUNTIN GUNN RD</description><Point><coordinates>-88.700589, 32.449182</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/14/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, LAUDERDALE, MERIDIAN, 1084  FREDRICKSON ROAD</description><Point><coordinates>-88.626905, 32.514341</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/14/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, LAUDERDALE, MERIDIAN, 9341  PINE SPRINGS ROAD</description><Point><coordinates>-88.779454, 32.506035</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/14/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, LAUDERDALE, MERIDIAN, 9341  PINE SPRINGS ROAD</description><Point><coordinates>-88.779454, 32.506035</coordinates></Point></Placemark>

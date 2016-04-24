@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 8/23/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, BALDWIN, MILLEDGEVILLE, 141  HIGHVIEW ROAD</description><Point><coordinates>-83.184087, 33.049088</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 8/23/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: GEORGIA, BALDWIN, MILLEDGEVILLE, 141  HIGHVIEW ROAD</description><Point><coordinates>-83.184087, 33.049088</coordinates></Point></Placemark>
 
         </Document>
         </kml>

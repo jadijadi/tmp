@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 7/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW MEXICO, BERNALILLO, ALBUQUERQUE, 3113 BAHAMA NE</description><Point><coordinates>-106.509364, 35.117637</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 7/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW MEXICO, BERNALILLO, ALBUQUERQUE, 3113 BAHAMA NE</description><Point><coordinates>-106.509364, 35.117637</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/29/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW MEXICO, BERNALILLO, ALBUQUERQUE, 13013 MONTGOMERY NE WAY</description><Point><coordinates>-106.492349, 35.131039</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/29/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW MEXICO, BERNALILLO, ALBUQUERQUE, 5240 WYOMING NE E-20</description><Point><coordinates>-106.550929, 35.139705</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/29/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW MEXICO, BERNALILLO, ALBUQUERQUE, 5504 CARMELITA NE</description><Point><coordinates>-106.525388, 35.143291</coordinates></Point></Placemark>

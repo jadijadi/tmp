@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 11/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH DAKOTA, BURLEIGH, BISMARCK, 4005 19TH N ST 201</description><Point><coordinates>-100.762147, 46.850825</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 11/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH DAKOTA, BURLEIGH, BISMARCK, 4005 19TH N ST 201</description><Point><coordinates>-100.762147, 46.850825</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH DAKOTA, BURLEIGH, BISMARCK, 4005 19TH N ST 101</description><Point><coordinates>-100.762147, 46.850825</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/22/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH DAKOTA, BURLEIGH, BISMARCK, 2500 CENTENNIAL RD</description><Point><coordinates>-100.736261, 46.833115</coordinates></Point></Placemark>
 

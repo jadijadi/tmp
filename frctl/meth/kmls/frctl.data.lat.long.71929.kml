@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, HOT SPRING, BISMARCK, 117 OZARK LOOP RD</description><Point><coordinates>-93.231970, 34.285244</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, HOT SPRING, BISMARCK, 117 OZARK LOOP RD</description><Point><coordinates>-93.231970, 34.285244</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, HOT SPRING, BISMARCK, 291 PLUM DR 8</description><Point><coordinates>-93.122815, 34.255235</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/3/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, HOT SPRING, BISMARCK, 4581 HWY 7 HWY</description><Point><coordinates>-93.163553, 34.287361</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, HOT SPRING, BISMARCK, 291 NAVAHO TRL</description><Point><coordinates>-93.172764, 34.340115</coordinates></Point></Placemark>

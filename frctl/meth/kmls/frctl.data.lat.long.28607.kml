@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, WATAUGA, BOONE, 5722 HOWARDS CREEK RD</description><Point><coordinates>-81.715206, 36.277156</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, WATAUGA, BOONE, 5722 HOWARDS CREEK RD</description><Point><coordinates>-81.715206, 36.277156</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/28/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, WATAUGA, BOONE, 434 HIGHWAY 105</description><Point><coordinates>-81.669613, 36.205625</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/10/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, WATAUGA, BOONE, 142 CHARLOTTE ANN LN D-26</description><Point><coordinates>-81.674967, 36.208051</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/17/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, WATAUGA, BOONE, 147 SWAMP BOX RD</description><Point><coordinates>-81.620069, 36.230945</coordinates></Point></Placemark>

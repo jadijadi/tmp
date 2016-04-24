@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 9/26/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, BROWN, NINEVEH, 7808 BROCKS LANE</description><Point><coordinates>-86.147567, 39.304068</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 9/26/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, BROWN, NINEVEH, 7808 BROCKS LANE</description><Point><coordinates>-86.147567, 39.304068</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/5/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, BROWN, NINEVEH, 7654  FORD RIDGE ROAD</description><Point><coordinates>-86.149292, 39.309955</coordinates></Point></Placemark>
 
         </Document>

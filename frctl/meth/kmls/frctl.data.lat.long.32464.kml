@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/3/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, HOLMES, WESTVILLE, 2526 MAIN W ST</description><Point><coordinates>-85.852869, 30.773159</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/3/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, HOLMES, WESTVILLE, 2526 MAIN W ST</description><Point><coordinates>-85.852869, 30.773159</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, HOLMES, WESTVILLE, 2608 TW MILLER LN</description><Point><coordinates>-85.885125, 30.760424</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/14/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, HOLMES, WESTVILLE, 1690 MIMS RD</description><Point><coordinates>-85.917194, 30.960821</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/1/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, HOLMES, WESTVILLE, 1546 MIXON RD</description><Point><coordinates>-85.945168, 30.873519</coordinates></Point></Placemark>

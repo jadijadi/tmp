@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/11/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, WHITE, BEEBE, 326 GILLHAM RD 326 326</description><Point><coordinates>-91.989121, 35.076759</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/11/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, WHITE, BEEBE, 326 GILLHAM RD 326 326</description><Point><coordinates>-91.989121, 35.076759</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/19/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, WHITE, BEEBE, 471 SWINGING BRIDGE ROAD</description><Point><coordinates>-91.924608, 35.099437</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/16/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, WHITE, BEEBE, 1110 GREEN MEADOW DRIVE</description><Point><coordinates>-91.886244, 35.058613</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/7/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ARKANSAS, WHITE, BEEBE, 313  GEORGIA</description><Point><coordinates>-91.876834, 35.070692</coordinates></Point></Placemark>

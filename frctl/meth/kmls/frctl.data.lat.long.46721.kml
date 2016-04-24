@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, DEKALB, BUTLER, 605 MAIN E ST 7</description><Point><coordinates>-84.863404, 41.430404</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, DEKALB, BUTLER, 605 MAIN E ST 7</description><Point><coordinates>-84.863404, 41.430404</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/2/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, DEKALB, BUTLER, 5098 CR 75A</description><Point><coordinates>-84.830588, 41.350411</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/15/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, DEKALB, BUTLER, 409 NORTH BROADWAY</description><Point><coordinates>-84.871427, 41.433107</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/11/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, DEKALB, BUTLER, 116 EAST WILLOW STREET</description><Point><coordinates>-84.870029, 41.426032</coordinates></Point></Placemark>

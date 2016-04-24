@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 4/1/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH DAKOTA, WILLIAMS, WILLISTON, 507 RECLAMATION DRIVE W 10</description><Point><coordinates>-103.613841, 48.149237</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/1/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH DAKOTA, WILLIAMS, WILLISTON, 507 RECLAMATION DRIVE W 10</description><Point><coordinates>-103.613841, 48.149237</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/14/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH DAKOTA, WILLIAMS, WILLISTON, 1101 MAIN AVE</description><Point><coordinates>-103.748683, 48.430899</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/1/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH DAKOTA, WILLIAMS, WILLISTON, 1303 1/2 1ST E AVE</description><Point><coordinates>-103.619728, 48.143665</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/9/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH DAKOTA, WILLIAMS, WILLISTON, 1402 20TH W ST 23</description><Point><coordinates>-103.654078, 48.158003</coordinates></Point></Placemark>

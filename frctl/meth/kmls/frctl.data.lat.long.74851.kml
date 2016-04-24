@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 9/17/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, POTTAWATOMIE, MCLOUD, 1300 SANDY CREEK</description><Point><coordinates>-97.135687, 35.316389</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 9/17/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, POTTAWATOMIE, MCLOUD, 1300 SANDY CREEK</description><Point><coordinates>-97.135687, 35.316389</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/26/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, POTTAWATOMIE, SHAWNEE, 315 WEST 2ND</description><Point><coordinates>-97.045042, 35.388722</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/31/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, POTTAWATOMIE, SHAWNEE, 29880 PARKWOOD  RD</description><Point><coordinates>-97.126624, 35.392180</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/31/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, POTTAWATOMIE, SHAWNEE, 13080 COUNTY LINE  RD</description><Point><coordinates>-97.142077, 35.337080</coordinates></Point></Placemark>

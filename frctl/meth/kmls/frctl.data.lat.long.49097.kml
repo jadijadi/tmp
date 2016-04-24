@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 10/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, KALAMAZOO, BRADY TOWNSHIP, 11870 SPRINKLE RD</description><Point><coordinates>-85.523938, 42.145754</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 10/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, KALAMAZOO, BRADY TOWNSHIP, 11870 SPRINKLE RD</description><Point><coordinates>-85.523938, 42.145754</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, KALAMAZOO, VICKSBURG, 333 FRAKES ST A102</description><Point><coordinates>-85.538326, 42.123443</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/1/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, KALAMAZOO, VICKSBURG, 13397 X E AVE</description><Point><coordinates>-85.362128, 42.115037</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/11/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, KALAMAZOO, VICKSBURG, 12139 39TH S ST</description><Point><coordinates>-85.382783, 42.141973</coordinates></Point></Placemark>

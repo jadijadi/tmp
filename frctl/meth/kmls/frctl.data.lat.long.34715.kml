@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 10/6/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, LAKE, CLERMONT, 18720 TRIPLE E RD</description><Point><coordinates>-81.715888, 28.619182</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 10/6/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, LAKE, CLERMONT, 18720 TRIPLE E RD</description><Point><coordinates>-81.715888, 28.619182</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/16/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, LAKE, CLERMONT, 21501  COUNTY ROAD 455</description><Point><coordinates>-81.747190, 28.665013</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/28/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, LAKE, FERNDALE, 18739 THIER AVENUE</description><Point><coordinates>-81.703409, 28.621942</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/11/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, LAKE, FERNDALE, 18926 THIRA AVENUE</description><Point><coordinates>-81.703409, 28.621942</coordinates></Point></Placemark>

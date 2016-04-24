@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 11/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, ARAPAHOE, AURORA, 650 RACINE S ST</description><Point><coordinates>-104.842559, 39.704466</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 11/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, ARAPAHOE, AURORA, 650 RACINE S ST</description><Point><coordinates>-104.842559, 39.704466</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, ARAPAHOE, AURORA, 1011 ABILENE ST 215 & 217</description><Point><coordinates>-104.827331, 39.698334</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/21/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, ARAPAHOE, AURORA, 1330 PARIS S CT</description><Point><coordinates>-104.848485, 39.692319</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/22/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, ARAPAHOE, AURORA, 750 SOUTH MACON WAY</description><Point><coordinates>-104.855807, 39.702684</coordinates></Point></Placemark>

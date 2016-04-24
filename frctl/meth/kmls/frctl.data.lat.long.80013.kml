@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, ARAPAHOE, AURORA, 4158 RICHFIELD S ST</description><Point><coordinates>-104.787350, 39.641793</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, ARAPAHOE, AURORA, 4158 RICHFIELD S ST</description><Point><coordinates>-104.787350, 39.641793</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/9/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, ARAPAHOE, AURORA, 15955 ILIFF E PL</description><Point><coordinates>-104.802161, 39.674639</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/11/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, ARAPAHOE, AURORA, 17813 LOYOLA E</description><Point><coordinates>-104.780581, 39.645459</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/2/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, ARAPAHOE, AURORA, 19682 HARVARD E DR</description><Point><coordinates>-104.759756, 39.669965</coordinates></Point></Placemark>

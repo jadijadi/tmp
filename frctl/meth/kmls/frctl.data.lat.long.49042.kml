@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 4/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, SAINT JOSEPH, CONSTANTINE, 1200 WASHINGTON S ST 14</description><Point><coordinates>-85.664947, 41.830272</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, SAINT JOSEPH, CONSTANTINE, 1200 WASHINGTON S ST 14</description><Point><coordinates>-85.664947, 41.830272</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/4/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, ST. JOSEPH, CONSTANTINE, 10473 NORTH RIVER ROAD</description><Point><coordinates>-85.750509, 41.813432</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/2/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, ST. JOSEPH, CONSTANTINE, 14310 STEARS ROAD</description><Point><coordinates>-85.675705, 41.823844</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/5/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, ST. JOSEPH, CONSTANTINE, 1200 SOUTH WASHINGTON # 50 STREET</description><Point><coordinates>-85.668603, 41.841160</coordinates></Point></Placemark>

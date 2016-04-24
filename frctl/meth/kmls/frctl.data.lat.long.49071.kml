@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/25/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, VAN BUREN, MATTAWAN, 25350 60TH AVENUE</description><Point><coordinates>-85.797947, 42.200642</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/25/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, VAN BUREN, MATTAWAN, 25350 60TH AVENUE</description><Point><coordinates>-85.797947, 42.200642</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/8/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, VAN BUREN, MATTAWAN, 24500 WEST MCGILLEN AVENUE G3</description><Point><coordinates>-85.791150, 42.215734</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/19/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, VAN BUREN, MATTAWAN, 24054 M-43 HIGHWAY 27</description><Point><coordinates>-85.784750, 42.295435</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/19/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, VAN BUREN, MATTAWAN, 56289 MURRAY STREET LOT 23</description><Point><coordinates>-85.790026, 42.214023</coordinates></Point></Placemark>

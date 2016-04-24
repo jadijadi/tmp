@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/27/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH DAKOTA, MINNEHAHA, SIOUX FALLS, 2620 10TH E ST 132</description><Point><coordinates>-96.692762, 43.547045</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/27/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH DAKOTA, MINNEHAHA, SIOUX FALLS, 2620 10TH E ST 132</description><Point><coordinates>-96.692762, 43.547045</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/15/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH DAKOTA, MINNEHAHA, SIOUX FALLS, 704 CHARLOTTE S AVE 1</description><Point><coordinates>-96.673170, 43.541981</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/15/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH DAKOTA, MINNEHAHA, SIOUX FALLS, 3078 EAST BRAGSTAD</description><Point><coordinates>-96.687305, 43.526959</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/8/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: SOUTH DAKOTA, MINNEHAHA, SIOUX FALLS, 907 NORTH WAYLAND AVENUE</description><Point><coordinates>-96.707460, 43.556994</coordinates></Point></Placemark>

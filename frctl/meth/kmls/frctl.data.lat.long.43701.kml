@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 6/26/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, MUSKINGUM, ROSEVILLE, 7860 PAYNE ROAD</description><Point><coordinates>-82.039902, 39.817195</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 6/26/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, MUSKINGUM, ROSEVILLE, 7860 PAYNE ROAD</description><Point><coordinates>-82.039902, 39.817195</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/7/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, MUSKINGUM, ZANESVILLE, 255 LUCK AVENUE</description><Point><coordinates>-82.018609, 39.935742</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/14/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, MUSKINGUM, ZANESVILLE, 732 MARKET STREET</description><Point><coordinates>-82.002894, 39.941383</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/8/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, MUSKINGUM, ZANESVILLE, 129  BRIGHTON BLVD BOULEVARD</description><Point><coordinates>-82.023254, 39.938279</coordinates></Point></Placemark>

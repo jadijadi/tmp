@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/30/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, UNION, NEW ALBANY, 602 HIGHWAY 30</description><Point><coordinates>-89.042305, 34.493629</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/30/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, UNION, NEW ALBANY, 602 HIGHWAY 30</description><Point><coordinates>-89.042305, 34.493629</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/10/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, UNION, NEW ALBANY, 1100 EAST BANKHEAD STREET 18</description><Point><coordinates>-88.994771, 34.474297</coordinates></Point></Placemark>
 
         </Document>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 9/20/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, FRANKLIN, BINGHAMTON, 2  CHAPEL PLACE</description><Point><coordinates>-75.921875, 42.096157</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 9/20/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, FRANKLIN, BINGHAMTON, 2  CHAPEL PLACE</description><Point><coordinates>-75.921875, 42.096157</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/26/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, HERKIMER, BINGHAMTON, 15  MYGATT STREET</description><Point><coordinates>-75.922385, 42.106586</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/21/2014</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, JEFFERSON, BINGHAMTON, 23  BAXTER STREET</description><Point><coordinates>-75.937138, 42.113385</coordinates></Point></Placemark>
 

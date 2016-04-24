@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 7/14/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, WRIGHT, GROVESPRING, 1061 M HWY</description><Point><coordinates>-92.609614, 37.399769</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 7/14/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, WRIGHT, GROVESPRING, 1061 M HWY</description><Point><coordinates>-92.609614, 37.399769</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/10/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, WRIGHT, GROVESPRING, 10673  HIGHWAY 5</description><Point><coordinates>-92.594594, 37.450433</coordinates></Point></Placemark>
 
         </Document>

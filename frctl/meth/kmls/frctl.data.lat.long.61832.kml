@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/13/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, VERMILION, DANVILLE, 632 WINKLER RD</description><Point><coordinates>-87.608546, 40.093734</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/13/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, VERMILION, DANVILLE, 632 WINKLER RD</description><Point><coordinates>-87.608546, 40.093734</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, VERMILION, DANVILLE, 120 KENTUCKY ST</description><Point><coordinates>-87.599752, 40.128910</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/2/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, VERMILION, DANVILLE, 18 CORRINE ST</description><Point><coordinates>-87.619995, 40.124173</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/8/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ILLINOIS, VERMILION, DANVILLE, 1700 WILLIAMS W ST</description><Point><coordinates>-87.654296, 40.135579</coordinates></Point></Placemark>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 5/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, FRANKLIN, VILLA RIDGE, 1301 AT HWY A</description><Point><coordinates>-90.906726, 38.444710</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, FRANKLIN, VILLA RIDGE, 1301 AT HWY A</description><Point><coordinates>-90.906726, 38.444710</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/27/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, FRANKLIN, VILLA RIDGE, 11 DIAMOND PATCH LN</description><Point><coordinates>-90.866022, 38.472258</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/11/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, FRANKLIN, VILLA RIDGE, 991 CLIFTON LN</description><Point><coordinates>-90.898749, 38.437034</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/9/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, FRANKLIN, VILLA RIDGE, 955 CLIFTON LN</description><Point><coordinates>-90.898770, 38.437016</coordinates></Point></Placemark>

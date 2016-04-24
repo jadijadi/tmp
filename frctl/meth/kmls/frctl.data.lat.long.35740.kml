@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/2/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, JACKSON, BRIDGEPORT, 49064 A1 HWY 277 HWY</description><Point><coordinates>-85.758630, 34.919650</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/2/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, JACKSON, BRIDGEPORT, 49064 A1 HWY 277 HWY</description><Point><coordinates>-85.758630, 34.919650</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/12/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, JACKSON, BRIDGEPORT, 720 HAMLIN AVE</description><Point><coordinates>-85.712005, 34.939548</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/21/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, JACKSON, BRIDGEPORT, 40 CO RD 280</description><Point><coordinates>-85.735787, 34.934428</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/6/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, JACKSON, BRIDGEPORT, 265 DOGWOOD LANE</description><Point><coordinates>-85.747782, 34.921049</coordinates></Point></Placemark>

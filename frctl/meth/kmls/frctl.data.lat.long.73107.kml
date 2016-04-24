@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 7/12/2000</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, OKLAHOMA, OKLAHOMA CITY, 1115 YOUNGS N BLVD</description><Point><coordinates>-97.552614, 35.479239</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 7/12/2000</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, OKLAHOMA, OKLAHOMA CITY, 1115 YOUNGS N BLVD</description><Point><coordinates>-97.552614, 35.479239</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/10/2000</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, OKLAHOMA, OKLAHOMA CITY, 4212 16TH NW ST</description><Point><coordinates>-97.595121, 35.485759</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/14/2000</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, OKLAHOMA, OKLAHOMA CITY, 3917 LIBERTY  DR</description><Point><coordinates>-97.588625, 35.481756</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/17/2000</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, OKLAHOMA, OKLAHOMA CITY, 3949 23RD NW ST</description><Point><coordinates>-97.590114, 35.493558</coordinates></Point></Placemark>

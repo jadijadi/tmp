@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/17/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, BREVARD, COCOA, 2545 STRATFORD DR</description><Point><coordinates>-80.775381, 28.365251</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/17/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, BREVARD, COCOA, 2545 STRATFORD DR</description><Point><coordinates>-80.775381, 28.365251</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 6/6/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, BREVARD, COCOA, 4674 FANTASIA LN</description><Point><coordinates>-80.803074, 28.366644</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/29/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, BREVARD, COCOA, 625 FRIDAY RD</description><Point><coordinates>-80.804909, 28.366005</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/6/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: FLORIDA, BREVARD, COCOA, 5545 LAKE POINSETT RD</description><Point><coordinates>-80.812022, 28.351512</coordinates></Point></Placemark>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/11/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, KNOX, VINCENNES, 2909 OLD US 41</description><Point><coordinates>-87.534843, 38.634482</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/11/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, KNOX, VINCENNES, 2909 OLD US 41</description><Point><coordinates>-87.534843, 38.634482</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/15/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, KNOX, VINCENNES, 3773 HART ST</description><Point><coordinates>-87.495567, 38.650190</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/12/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, KNOX, VINCENNES, 259 16TH W ST</description><Point><coordinates>-87.544388, 38.653868</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/20/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, KNOX, VINCENNES, 1993 BALLARD DR</description><Point><coordinates>-87.533543, 38.646999</coordinates></Point></Placemark>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 8/9/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, FAYETTE, CONNERSVILLE, 3048 225 W N</description><Point><coordinates>-85.179484, 39.687315</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 8/9/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, FAYETTE, CONNERSVILLE, 3048 225 W N</description><Point><coordinates>-85.179484, 39.687315</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/13/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, FAYETTE, CONNERSVILLE, 2357 EAST CR 475 S</description><Point><coordinates>-85.094566, 39.571687</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/7/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, FAYETTE, CONNERSVILLE, 711 BEECH STREET</description><Point><coordinates>-85.148664, 39.645136</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/7/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, FAYETTE, CONNERSVILLE, 311 EAST 32ND STREET</description><Point><coordinates>-85.132962, 39.673595</coordinates></Point></Placemark>

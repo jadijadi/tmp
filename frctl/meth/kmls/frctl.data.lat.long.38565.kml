@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/17/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, FENTRESS, GRIMSLEY, 1560 LONG POINT ROAD</description><Point><coordinates>-85.014897, 36.273641</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/17/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, FENTRESS, GRIMSLEY, 1560 LONG POINT ROAD</description><Point><coordinates>-85.014897, 36.273641</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/18/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TENNESSEE, FENTRESS, GRIMSLEY, 5500  YORK HWY.</description><Point><coordinates>-84.994987, 36.255023</coordinates></Point></Placemark>
 
         </Document>

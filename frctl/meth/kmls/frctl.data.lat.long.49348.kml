@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 10/4/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, ALLEGAN, WAYLAND, 416 131ST STREET</description><Point><coordinates>-85.585566, 42.644976</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 10/4/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, ALLEGAN, WAYLAND, 416 131ST STREET</description><Point><coordinates>-85.585566, 42.644976</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/7/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, ALLEGAN, WAYLAND, 3539  7TH STREET</description><Point><coordinates>-85.613944, 42.678041</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/2/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, ALLEGAN, WAYLAND, 3607  GARDEN STREET</description><Point><coordinates>-85.647197, 42.682415</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/10/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, ALLEGAN, WAYLAND, 13TH ST NEAR 129TH AVE</description><Point><coordinates>-85.672443, 42.667389</coordinates></Point></Placemark>

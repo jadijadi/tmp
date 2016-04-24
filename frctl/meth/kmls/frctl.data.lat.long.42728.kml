@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 7/25/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, ADAIR, COLUMBIA, 2672 CHESTNUT GROVE RD</description><Point><coordinates>-85.474071, 36.996116</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 7/25/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, ADAIR, COLUMBIA, 2672 CHESTNUT GROVE RD</description><Point><coordinates>-85.474071, 36.996116</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/14/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: KENTUCKY, ADAIR, COLUMBIA, 735  RUTLEDGE ROAD</description><Point><coordinates>-85.306350, 37.102841</coordinates></Point></Placemark>
 
         </Document>

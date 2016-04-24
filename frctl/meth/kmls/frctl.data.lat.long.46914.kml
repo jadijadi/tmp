@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/3/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MIAMI, BUNKER HILL, 2794 1150 SOUTH W</description><Point><coordinates>-86.123572, 40.599391</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/3/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MIAMI, BUNKER HILL, 2794 1150 SOUTH W</description><Point><coordinates>-86.123572, 40.599391</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/26/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MIAMI, BUNKER HILL, 125 BROADWAY E</description><Point><coordinates>-86.102036, 40.659987</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/23/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MIAMI, BUNKER HILL, 171 EAST 3RD STREET LOT 24</description><Point><coordinates>-86.100294, 40.666145</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/17/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, MIAMI, MIAMI, 1955 EAST 1050 STREET</description><Point><coordinates>-86.108247, 40.613706</coordinates></Point></Placemark>

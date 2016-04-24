@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/18/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CLEVELAND, OKLAHOMA CITY, 10305 CASA LINDA  DR</description><Point><coordinates>-97.526811, 35.366151</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/18/2003</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, CLEVELAND, OKLAHOMA CITY, 10305 CASA LINDA  DR</description><Point><coordinates>-97.526811, 35.366151</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 1/17/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, OKLAHOMA, OKLAHOMA CITY, 6305 SANTA FE S  4</description><Point><coordinates>-97.512510, 35.403009</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/19/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, OKLAHOMA, OKLAHOMA CITY, 1027 66 SW ST</description><Point><coordinates>-97.533350, 35.399757</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 9/4/2001</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: Oklahoma, OKLAHOMA, OKLAHOMA CITY, 6301 SANTA FE S  3</description><Point><coordinates>-97.512958, 35.402997</coordinates></Point></Placemark>

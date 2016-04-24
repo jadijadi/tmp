@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 5/14/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, JEFFERSON, MOUNT OLIVE, 1542  MOUNT OLIVE BROOKSIDE ROAD</description><Point><coordinates>-86.873884, 33.681731</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/14/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, JEFFERSON, MOUNT OLIVE, 1542  MOUNT OLIVE BROOKSIDE ROAD</description><Point><coordinates>-86.873884, 33.681731</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/17/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: ALABAMA, JEFFERSON, MOUNT OLIVE, 2640  MOUNT OLIVE ROAD</description><Point><coordinates>-86.851661, 33.669032</coordinates></Point></Placemark>
 
         </Document>

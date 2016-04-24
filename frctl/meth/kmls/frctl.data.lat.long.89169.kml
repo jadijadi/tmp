@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 11/15/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEVADA, CLARK, LAS VEGAS, 205 HARMON E AVE 124</description><Point><coordinates>-115.162808, 36.107620</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 11/15/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEVADA, CLARK, LAS VEGAS, 205 HARMON E AVE 124</description><Point><coordinates>-115.162808, 36.107620</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 12/1/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEVADA, CLARK, LAS VEGAS, 1500 KAREN E AVE 187</description><Point><coordinates>-115.133800, 36.140836</coordinates></Point></Placemark>
 
         </Document>

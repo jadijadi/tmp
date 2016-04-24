@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 2/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CRAWFORD, BOURBON, 344 OLD SPRINGFIELD</description><Point><coordinates>-91.255674, 38.149936</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 2/4/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CRAWFORD, BOURBON, 344 OLD SPRINGFIELD</description><Point><coordinates>-91.255674, 38.149936</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/10/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CRAWFORD, BOURBON, 1805 BERNETT</description><Point><coordinates>-91.315544, 38.146466</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/24/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CRAWFORD, BOURBON, 110 LANDERS RD</description><Point><coordinates>-91.184829, 38.185426</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 5/4/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSOURI, CRAWFORD, BOURBON, 344 OLD SPRINGFIELD RD</description><Point><coordinates>-91.255674, 38.149936</coordinates></Point></Placemark>

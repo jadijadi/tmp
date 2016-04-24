@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 9/21/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WEST VIRGINIA, KANAWHA, CHARLESTON, 681 WAYSIDE DR</description><Point><coordinates>-81.661986, 38.358008</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 9/21/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WEST VIRGINIA, KANAWHA, CHARLESTON, 681 WAYSIDE DR</description><Point><coordinates>-81.661986, 38.358008</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/2/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WEST VIRGINIA, KANAWHA, CHARLESTON, 2009  WEBERWOOD DRIVE</description><Point><coordinates>-81.668575, 38.351481</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 4/24/2013</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WEST VIRGINIA, KANAWHA, S CHARLESTON, 443 SOUTHWEST 2ND AVE CIRCLE</description><Point><coordinates>-81.690454, 38.365883</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 7/7/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: WEST VIRGINIA, KANAWHA, SOUTH CHARLESTON, 120 SHEPARD AVE D</description><Point><coordinates>-81.690345, 38.362043</coordinates></Point></Placemark>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 3/12/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, VAN BUREN, HARTFORD, 60854 61ST AVE</description><Point><coordinates>-86.141011, 42.194189</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/12/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, VAN BUREN, HARTFORD, 60854 61ST AVE</description><Point><coordinates>-86.141011, 42.194189</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/25/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, VAN BUREN, HARTFORD, 118  MICHIGAN</description><Point><coordinates>-86.169754, 42.208190</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/19/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, VAN BUREN, HARTFORD, 55214  COUNTRY ROAD 687</description><Point><coordinates>-86.166688, 42.206705</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 10/25/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, VAN BUREN, HARTFORD, 109  FRANKLIN STREET</description><Point><coordinates>-86.169905, 42.205333</coordinates></Point></Placemark>

@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 5/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, VAN BUREN, ARLINGTON TOWNSHI, 29850 50TH ST</description><Point><coordinates>-86.032860, 42.309093</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 5/18/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, VAN BUREN, ARLINGTON TOWNSHI, 29850 50TH ST</description><Point><coordinates>-86.032860, 42.309093</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, VAN BUREN, BANGOR, 38872 52 ND ST</description><Point><coordinates>-86.052057, 42.276761</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 11/8/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, VAN BUREN, BANGOR, 38872 52ND STREET</description><Point><coordinates>-86.052057, 42.276761</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/3/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, VAN BUREN, BANGOR, 52911  38TH AVENUE</description><Point><coordinates>-86.060926, 42.279970</coordinates></Point></Placemark>

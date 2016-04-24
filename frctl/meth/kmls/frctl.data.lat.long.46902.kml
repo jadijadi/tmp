@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 1/31/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, HOWARD, KOKOMO, 3315 50 S. W</description><Point><coordinates>-86.190451, 40.468173</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/31/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, HOWARD, KOKOMO, 3315 50 S. W</description><Point><coordinates>-86.190451, 40.468173</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/5/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, HOWARD, KOKOMO, 5302 ARROWHEAD BLVD</description><Point><coordinates>-86.124446, 40.428754</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/7/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, HOWARD, KOKOMO, 1045 LEEDS S ST</description><Point><coordinates>-86.142975, 40.474876</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 3/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: INDIANA, HOWARD, KOKOMO, 3110 250 E S</description><Point><coordinates>-86.079566, 40.432197</coordinates></Point></Placemark>

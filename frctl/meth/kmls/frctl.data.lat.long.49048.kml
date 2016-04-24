@@ -1,4 +1,16 @@
-<Placemark><name>Meth Lab explotion at 4/7/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, KALAMAZOO, COMSTOCK, 534 LEENHOUTS ST</description><Point><coordinates>-85.523115, 42.293401</coordinates></Point></Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 4/7/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, KALAMAZOO, COMSTOCK, 534 LEENHOUTS ST</description><Point><coordinates>-85.523115, 42.293401</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/3/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, KALAMAZOO, COMSTOCK, 505  COLLETTE AVENUE</description><Point><coordinates>-85.520530, 42.292998</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 8/4/2015</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, KALAMAZOO, COMSTOCK, S 31ST ST / E N AVE ROAD</description><Point><coordinates>-85.462776, 42.252283</coordinates></Point></Placemark>
 <Placemark><name>Meth Lab explotion at 2/5/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MICHIGAN, KALAMAZOO, KALAMAZOO, 1928 COLGROVE AVE 204</description><Point><coordinates>-85.554694, 42.310025</coordinates></Point></Placemark>
