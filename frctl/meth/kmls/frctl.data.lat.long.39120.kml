@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 12/15/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, ADAMS, NATCHEZ, 26 ORANGE AVE</description><Point><coordinates>-91.397307, 31.557070</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/15/2007</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, ADAMS, NATCHEZ, 3601 EAST EASTBROOK ROAD</description><Point><coordinates>-91.374942, 31.540819</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/28/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, ADAMS, NATCHEZ, 603 OAK STREET</description><Point><coordinates>-91.395957, 31.566485</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 5/28/2008</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, ADAMS, NATCHEZ, 92 MORGANTOWN ROAD</description><Point><coordinates>-91.347656, 31.575333</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/29/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, ADAMS, NATCHEZ, 6  KNOTTS ROAD</description><Point><coordinates>-91.315500, 31.453101</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 8/23/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: MISSISSIPPI, ADAMS, NATCHEZ, 21  SOUTHVIEW DRIVE</description><Point><coordinates>-91.372960, 31.612888</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

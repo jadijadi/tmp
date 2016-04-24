@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 1/24/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, ADAMS, AURORA, 12466 PARKLANE E DR</description><Point><coordinates>-104.843238, 39.757992</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 2/15/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, ADAMS, AURORA, 1623 VAN BUREN N WAY</description><Point><coordinates>-104.787017, 39.742548</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/2/2006</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: COLORADO, ARAPAHOE, AURORA, 1024 SCRANTON N</description><Point><coordinates>-104.840340, 39.732309</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        

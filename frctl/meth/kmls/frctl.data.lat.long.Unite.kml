@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <kml xmlns="http://www.opengis.net/kml/2.2">
+                <Document>
+                  <name>Document.kml</name>
+                  <open>1</open>
+                      <Style id="highlightPlacemark">
+                      <IconStyle>
+                        <Icon>
+                          <href>http://jadi.ax.lt/reddot.png</href>
+                        </Icon>
+                      </IconStyle>
+                    </Style>
+                  <Placemark><name>Meth Lab explotion at 3/14/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, ALBANY, LATHAM, 1080  ROUTE 9</description><Point><coordinates>-73.939317, 41.798722</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/4/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, CHEMUNG, ELMIRA, ELMIRA</description><Point><coordinates>-76.798990, 42.036282</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 9/16/2005</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NEW YORK, CLINTON, CHAZY, 9608 ROUTE 9</description><Point><coordinates>-73.939317, 41.798722</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 1/22/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: NORTH CAROLINA, YANCEY, BURNSVILLE, 439 US 19 W HWY</description><Point><coordinates>-82.648942, 35.549439</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/26/2000</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, BROWN, MOUNT ORAB, 17244 US 68 GREEN TOWNSHIP</description><Point><coordinates>-84.587083, 37.994978</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 3/9/2011</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, HIGHLAND, HILLSBORO, 12917 US RT 50</description><Point><coordinates>-98.325612, 37.984413</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 6/4/2012</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: OHIO, HIGHLAND, HILLSBORO, 5094  US RT 50</description><Point><coordinates>-98.325612, 37.984413</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/19/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: TEXAS, ANGELINA, LUFKIN, 4350 NORTH US 59 N HIGHWAY</description><Point><coordinates>-95.251196, 38.319865</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 10/19/2004</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, Bristol (city), BRISTOL, 15589 LEE HWY 221</description><Point><coordinates>-82.202988, 36.598721</coordinates></Point></Placemark>
+<Placemark><name>Meth Lab explotion at 4/19/2010</name><styleUrl>#highlightPlacemark</styleUrl><description>Reported location: VIRGINIA, MONTGOMERY, ELLISTON, 9388  US 460</description><Point><coordinates>-80.593393, 37.320883</coordinates></Point></Placemark>
+
+        </Document>
+        </kml>
+        
